@@ -1,4 +1,4 @@
-name: 'Update my stars'
+name: 'Update list of liked repositories'
 on:
   schedule:
     -
@@ -7,7 +7,7 @@ on:
   
 jobs:
   build:
-    name: 'stargazed update'
+    name: 'Stargazed'
     runs-on: ubuntu-latest
     steps:
       -
@@ -25,4 +25,4 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "maxgfr" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "update" --sort'
+        run: 'stargazed --username  "maxgfr" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "update readme.md" --sort'
