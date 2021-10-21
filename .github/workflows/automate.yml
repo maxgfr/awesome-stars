@@ -1,4 +1,4 @@
-name: 'Update list of liked repositories'
+name: 'Update the list of my liked repositories'
 on:
   schedule:
     -
@@ -7,7 +7,7 @@ on:
   
 jobs:
   build:
-    name: 'Stargazed'
+    name: 'stargazed'
     runs-on: ubuntu-latest
     steps:
       -
