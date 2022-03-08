@@ -4,6 +4,7 @@ on:
     -
       cron: '30 18 * * *'
   workflow_dispatch:
+  hello world I Am Boy github
   
 jobs:
   build:
