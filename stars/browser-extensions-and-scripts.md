@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
-| [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 60.3k |
+| [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.3k |
 | [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 33.2k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |

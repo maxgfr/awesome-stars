@@ -14,8 +14,8 @@
 | [opencode](https://github.com/anomalyco/opencode) | Open source coding agent for software development tasks. | anomalyco | 226k |
 | [firecrawl](https://github.com/firecrawl/firecrawl) | Web crawling and scraping API that supplies AI agents and applications with structured web data. | firecrawl | 201k |
 | [claw-code](https://github.com/ultraworkers/claw-code) | Rust coding agent project built with Gajae-Code and LazyCodex, per its repository description. | ultraworkers | 195k |
-| [skills](https://github.com/anthropics/skills) | Public repository of Agent Skills for AI agents. | anthropics | 193k |
-| [ponytail](https://github.com/DietrichGebert/ponytail) | Agent skills that make AI coding agents write less code, favoring simple solutions over new code. | DietrichGebert | 189k |
+| [skills](https://github.com/anthropics/skills) | Public repository of Agent Skills for AI agents. | anthropics | 194k |
+| [ponytail](https://github.com/DietrichGebert/ponytail) | Agent skills that make AI coding agents write less code, favoring simple solutions over new code. | DietrichGebert | 190k |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Platform for building and running autonomous AI agents that complete tasks with little human input. | Significant-Gravitas | 188k |
 | [prompts.chat](https://github.com/f/prompts.chat) | Platform for sharing, discovering and collecting AI prompts, self-hostable for organizations. | f | 177k |
 | [agency-agents](https://github.com/msitarzewski/agency-agents) | Collection of specialized AI agent personas for roles such as frontend, marketing and QA. | msitarzewski | 168k |
@@ -26,7 +26,7 @@
 | [cc-switch](https://github.com/farion1231/cc-switch) | Cross-platform desktop assistant for managing Claude Code, Codex, OpenCode, and other AI coding tools. | farion1231 | 154k |
 | [langchain](https://github.com/langchain-ai/langchain) | Platform and framework for building LLM agents and applications, with tools for development and deployment. | langchain-ai | 149k |
 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill supplying design guidance for building professional UI and UX across multiple platforms. | nextlevelbuilder | 148k |
-| [graphify](https://github.com/Graphify-Labs/graphify) | Turns codebases, docs, schemas, and PDFs into a queryable knowledge graph using local AST parsing. | Graphify-Labs | 146k |
+| [graphify](https://github.com/Graphify-Labs/graphify) | Turns codebases, docs, schemas, and PDFs into a queryable knowledge graph using local AST parsing. | Graphify-Labs | 147k |
 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Collection of leaked system prompts and models of AI coding tools and assistants such as Cursor and Devin. | x1xhlol | 145k |
 | [gstack](https://github.com/garrytan/gstack) | Claude Code configuration with 23 tools for roles like CEO, designer, engineering manager and QA. | garrytan | 141k |
 | [codex](https://github.com/openai/codex) | Lightweight coding agent from OpenAI that runs in the terminal. | openai | 135k |
@@ -48,7 +48,7 @@
 | [OpenHands](https://github.com/OpenHands/OpenHands) | Platform for AI-driven software development with agents usable from a CLI or web interface. | OpenHands | 93.3k |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Turns code into interactive knowledge graphs that can be explored, searched, and queried with AI agents. | Egonex-AI | 92.3k |
 | [servers](https://github.com/modelcontextprotocol/servers) | Reference server implementations of the Model Context Protocol. | modelcontextprotocol | 91.9k |
-| [worldmonitor](https://github.com/koala73/worldmonitor) | Real-time dashboard aggregating news, geopolitical events, and infrastructure data with AI analysis. | koala73 | 90.5k |
+| [worldmonitor](https://github.com/koala73/worldmonitor) | Situational awareness dashboard that aggregates news and tracks geopolitics and infrastructure. | koala73 | 90.5k |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | Cross-platform AI chat client supporting many large language models on web and desktop. | ChatGPTNextWeb | 88.9k |
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source Python web crawler for extracting data from web pages for LLM and AI agent use. | unclecode | 87.3k |
 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that filters command output to cut LLM token use by 60-90% on common dev commands. | rtk-ai | 86.3k |
@@ -62,12 +62,12 @@
 | [OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development framework for AI coding assistants. | Fission-AI | 74.7k |
 | [cline](https://github.com/cline/cline) | Autonomous coding agent available as an SDK, IDE extension, or command-line assistant. | cline | 71.6k |
 | [ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | Claude Code framework for job search that evaluates postings and tailors CVs and cover letters. | ai-job-search-dev | 71.4k |
-| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Leaked system prompts of ChatGPT, Claude, Gemini and other AI chatbots and coding tools. | asgeirtj | 71.2k |
+| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Leaked system prompts of ChatGPT, Claude, Gemini and other AI chatbots and coding tools. | asgeirtj | 71.3k |
 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Agent orchestration toolkit for Claude and other AI models, with keyword-triggered workflows. | code-yeongyu | 70.9k |
 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕 | Runs Claude Code, Codex and other agent tools on free model tokens from terminal, IDE, or browser. | Alishahryar1 | 68.9k |
 | [openinterpreter](https://github.com/openinterpreter/openinterpreter) | Coding agent designed for open models such as Kimi, GLM, DeepSeek, and Qwen. | openinterpreter | 68.9k |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer that gives AI agents and apps persistent context across sessions. | mem0ai | 68.9k |
-| [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text. | blader | 68.2k |
+| [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text. | blader | 68.3k |
 | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Local-first application for building AI agents and chatting with documents using any LLM. | Mintplex-Labs | 68.2k |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | Agent skill that researches a topic across Reddit, X, YouTube, Hacker News, and the web, then summarizes it. | mvanhorn | 67.4k |
 | [gpt4free](https://github.com/xtekky/gpt4free) | Python collection of wrappers for accessing various large language models through chatbot and API interfaces. | xtekky | 67k |
@@ -80,33 +80,33 @@
 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Agent skills for marketing tasks, including CRO, copywriting, SEO, analytics, and growth engineering, for Claude Code. | coreyhaines31 | 59.9k |
 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Tooling that makes existing software agent-native by generating command-line interfaces for AI agents. | HKUDS | 58.6k |
 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Service that exposes Antigravity, Codex, Claude Code, and other backends through compatible APIs. | router-for-me | 58.4k |
-| [t3code](https://github.com/pingdotgg/t3code) | Interface for controlling Claude Code, Codex, and other coding agents from any computer or phone. | pingdotgg | 57.7k |
+| [t3code](https://github.com/pingdotgg/t3code) | Interface for controlling Claude Code, Codex, and other coding agents from any computer or phone. | pingdotgg | 57.9k |
 | [private-gpt](https://github.com/zylon-ai/private-gpt) | API layer for building private AI applications on local models, supporting RAG, tools, and MCP. | zylon-ai | 57.6k |
 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Library of validated agent skills for science, covering bioinformatics, chemoinformatics, and more. | K-Dense-AI | 56.9k |
 | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Claude Code skills covering the academic research pipeline from research and writing to review and finalization. | Imbad0202 | 56.6k |
 | [goose](https://github.com/aaif-goose/goose) | Open source, extensible AI agent that installs, executes, edits, and tests code using any LLM. | aaif-goose | 56.5k |
-| [multica](https://github.com/multica-ai/multica) | Platform for running humans and AI agents as one team, open source and self-hostable. | multica-ai | 55.8k |
+| [multica](https://github.com/multica-ai/multica) | Platform for running humans and AI agents as one team, open source and self-hostable. | multica-ai | 55.9k |
 | [Flowise](https://github.com/FlowiseAI/Flowise) 🗄️ | Visual tool for building AI agents and chatbot workflows without writing code. | FlowiseAI | 55.6k |
 | [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | Agile AI-driven development method using context engineering and spec-driven workflows. | bmad-code-org | 55.3k |
-| [hallmark](https://github.com/Nutlope/hallmark) | Design skill for Claude Code, Cursor, and Codex that avoids generic AI-style visual output. | Nutlope | 53.7k |
+| [hallmark](https://github.com/Nutlope/hallmark) | Design skill for Claude Code, Cursor, and Codex that avoids generic AI-style visual output. | Nutlope | 53.8k |
 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) 🆕 | AI workspace for working with models, agents and productivity tools in one place. | CherryHQ | 53.5k |
-| [huginn](https://github.com/huginn/huginn) | Ruby system for creating agents that monitor websites and feeds and act on your behalf. | huginn | 50.5k |
 | [herdr](https://github.com/herdrdev/herdr) | Runtime for hosting and orchestrating coding agents from the command line. | herdrdev | 50.5k |
+| [huginn](https://github.com/huginn/huginn) | Ruby system for creating agents that monitor websites and feeds and act on your behalf. | huginn | 50.5k |
 | [agent-browser](https://github.com/vercel-labs/agent-browser) | Command-line browser automation tool designed for use by AI agents. | vercel-labs | 50.2k |
 | [aider](https://github.com/Aider-AI/aider) | Terminal-based AI pair programming tool that edits code in local git repositories with LLMs. | Aider-AI | 50.1k |
 | [nanobot](https://github.com/HKUDS/nanobot) | Lightweight open-source personal AI agent framework with chatbot and Discord bot support. | HKUDS | 50k |
-| [open-code-review](https://github.com/alibaba/open-code-review) | Code review tool pairing deterministic pipelines with an LLM agent for precise line-level comments. | alibaba | 49.9k |
+| [open-code-review](https://github.com/alibaba/open-code-review) | Code review tool pairing deterministic pipelines with an LLM agent for precise line-level comments. | alibaba | 50k |
 | [LibreChat](https://github.com/LibreChat-AI/LibreChat) | Self-hosted ChatGPT-style interface supporting many AI providers, agents, and artifacts. | LibreChat-AI | 47k |
 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic-managed directory of high-quality Claude Code plugins. | anthropics | 47k |
 | [jan](https://github.com/janhq/jan) | Open-source, offline desktop app for running local LLMs as an alternative to ChatGPT. | janhq | 45.7k |
-| [langgraph](https://github.com/langchain-ai/langgraph) | Framework for building stateful, resilient LLM agents in Python. | langchain-ai | 44.8k |
+| [langgraph](https://github.com/langchain-ai/langgraph) | Framework for building stateful, resilient LLM agents in Python. | langchain-ai | 44.9k |
 | [agno](https://github.com/agno-agi/agno) | Platform for building, running, and managing self-managing AI agents in Python. | agno-agi | 43.2k |
 | [agents](https://github.com/wshobson/agents) | Plugins, agents, skills and commands for Claude Code, Codex CLI, Cursor and other AI coding tools. | wshobson | 42.4k |
 | [chatbox](https://github.com/chatboxai/chatbox) | Desktop and web client for chatting with AI models such as ChatGPT, Claude, and Copilot. | chatboxai | 42.3k |
 | [OpenViking](https://github.com/volcengine/OpenViking) | Context database for AI agents that unifies agent memory, knowledge retrieval and skills. | volcengine | 42.1k |
 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first multi-agent orchestration layer for Claude Code. | Yeachan-Heo | 40.8k |
 | [mindshub](https://github.com/mindsdb/mindshub) | Unified workspace for running open-source AI models and agents to complete tasks. | mindsdb | 39.9k |
-| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Model Context Protocol server that gives LLM clients browser automation through Playwright. | microsoft | 39.5k |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Model Context Protocol server that gives LLM clients browser automation through Playwright. | microsoft | 39.6k |
 | [skills](https://github.com/vercel-labs/skills) | Command-line tool for installing and managing open agent skills, run via npx. | vercel-labs | 39.1k |
 | [oh-my-pi](https://github.com/can1357/oh-my-pi) | Command-line coding agent with an integrated IDE, built on Bun. | can1357 | 38.8k |
 | [khoj](https://github.com/khoj-ai/khoj) | Self-hostable AI second brain that answers from web and local docs and runs custom agents. | khoj-ai | 38.1k |
@@ -117,7 +117,7 @@
 | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open-source plugins for Claude Cowork aimed at knowledge workers. | anthropics | 35.5k |
 | [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Plugin for Claude Code to get code reviews from Codex or delegate tasks to it. | openai | 35.1k |
 | [github-mcp-server](https://github.com/github/github-mcp-server) | Official GitHub MCP server that lets AI tools work with repositories, issues, and pull requests. | github | 34.4k |
-| [context-mode](https://github.com/mksglu/context-mode) | Local plugin that keeps tool output out of coding agent context windows via a SQLite FTS5 sandbox. | mksglu | 33.9k |
+| [context-mode](https://github.com/mksglu/context-mode) | Local plugin that keeps tool output out of coding agent context windows via a SQLite FTS5 sandbox. | mksglu | 34k |
 | [agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel's official collection of skills for AI coding agents. | vercel-labs | 33.9k |
 | [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | Adds hooks, agent teams, and HUDs to the Codex CLI for coordinating multiple coding agents. | Yeachan-Heo | 33.8k |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | AI developer tool that writes complete applications with GPT models, acting as a coding assistant. | Pythagora-io | 33.6k |
@@ -168,7 +168,7 @@
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Code-first tutorials for building GenAI agents, from prototypes to enterprise deployment. | NirDiamant | 21.9k |
 | [guidance](https://github.com/guidance-ai/guidance) | Language for controlling large language model output through templates and constrained generation. | guidance-ai | 21.8k |
 | [jcode](https://github.com/1jehuang/jcode) | Rust coding agent harness built for heavy multi-agent development workflows. | 1jehuang | 21.7k |
-| [OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕 | Open-source alternative to Grok Bot, with a virtual machine that bots can use for computer tasks. | milind-soni | 21.5k |
+| [OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕 | Open-source alternative to Grok Bot, with a virtual machine that bots can use for computer tasks. | milind-soni | 21.6k |
 | [OpenShell](https://github.com/NVIDIA/OpenShell) | Safe, private runtime for running autonomous AI agents. | NVIDIA | 21.5k |
 | [chatbot](https://github.com/vercel/chatbot) | Customizable Next.js chatbot template for building AI chat applications, using Redis and shadcn/ui. | vercel | 21k |
 | [claude-video](https://github.com/bradautomates/claude-video) | Lets Claude watch videos by downloading them, extracting frames, and transcribing audio. | bradautomates | 20.6k |
@@ -246,11 +246,11 @@
 | [magic-mcp](https://github.com/21st-dev/magic-mcp) | MCP server for searching and generating React and Tailwind UI components from within code editors. | 21st-dev | 6.5k |
 | [agentsview](https://github.com/kenn-io/agentsview) | Local search and analytics for coding agent sessions and token use, such as Claude Code and Codex. | kenn-io | 6.4k |
 | [open-deep-research](https://github.com/nickscamara/open-deep-research) | Open source AI agent that reasons over large amounts of web data extracted with Firecrawl for deep research. | nickscamara | 6.3k |
+| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 🆕 | Guidance on current web development best practices, provided for use by coding agents. | GoogleChrome | 6.2k |
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server connecting AI assistants to Atlassian tools such as Confluence and Jira. | sooperset | 6.1k |
-| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 🆕 | Guidance on current web development best practices, provided for use by coding agents. | GoogleChrome | 5.9k |
 | [zotero-mcp](https://github.com/54yyyu/zotero-mcp) | MCP server linking Zotero libraries to Claude and other AI assistants for papers and citations. | 54yyyu | 5.9k |
 | [eve](https://github.com/vercel/eve) | Framework for building AI agents, with markdown support and sandboxed execution. | vercel | 5.9k |
-| [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) 🆕 | Black-box cost control for coding agents that uses past experience to reduce token spend. | microsoft | 5.8k |
+| [TokenEconomizer](https://github.com/microsoft/TokenEconomizer) 🆕 | Black-box cost control for coding agents that uses past experience to reduce token spend. | microsoft | 5.9k |
 | [llama-fs](https://github.com/iyaja/llama-fs) | Self-organizing file system that uses Llama 3 to automatically organize files in folders. | iyaja | 5.8k |
 | [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) | Streamable MCP app for creating Excalidraw diagrams from AI assistants. | excalidraw | 5.7k |
 | [mistral-vibe](https://github.com/mistralai/mistral-vibe) | Minimal command-line coding agent from Mistral AI. | mistralai | 5.4k |
@@ -283,8 +283,8 @@
 | [finance-skills](https://github.com/himself65/finance-skills) | Collection of skills for AI agents to perform financial analysis and trading tasks. | himself65 | 3.5k |
 | [fli](https://github.com/punitarani/fli) | Python library, CLI, and MCP server for searching Google Flights. | punitarani | 3.5k |
 | [codex-lb](https://github.com/Soju06/codex-lb) | Load balancer and proxy for multiple Codex/ChatGPT accounts, with usage tracking and a dashboard. | Soju06 | 3.4k |
-| [ai](https://github.com/TanStack/ai) | Provider-agnostic TypeScript SDK for streaming chat, tool calling, and agents across major AI providers. | TanStack | 3.4k |
 | [founder-skill](https://github.com/Jakeschincariol/founder-skill) 🆕 | Free Claude skills that test a business idea with simulated advisors, a CFO and buyer agents. | Jakeschincariol | 3.4k |
+| [ai](https://github.com/TanStack/ai) | Provider-agnostic TypeScript SDK for streaming chat, tool calling, and agents across major AI providers. | TanStack | 3.4k |
 | [fastmcp](https://github.com/punkpeye/fastmcp) | TypeScript framework for creating Model Context Protocol servers with server-sent events support. | punkpeye | 3.3k |
 | [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | Orchestrator for autonomous AI agent loops using the Ralph Wiggum technique. | mikeyobrien | 3.2k |
 | [gajae-code](https://github.com/Yeachan-Heo/gajae-code) | Minimum viable product release of a TypeScript code tool. | Yeachan-Heo | 3.1k |
@@ -295,6 +295,7 @@
 | [ccs](https://github.com/kaitranntt/ccs) | CLI for switching between Claude, Gemini, Copilot and OpenRouter accounts via an OAuth proxy. | kaitranntt | 2.9k |
 | [brightdata-mcp](https://github.com/brightdata/brightdata-mcp) | MCP server giving AI agents public web access, including data extraction past anti-bot detection. | brightdata | 2.7k |
 | [shippie](https://github.com/mattzcarey/shippie) | Extendable AI agent that performs automated code review and quality assurance on GitHub pull requests. | mattzcarey | 2.5k |
+| [mcp-gsc](https://github.com/AminForou/mcp-gsc) 🆕 | MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights. | AminForou | 2.2k |
 | [OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted, OpenAI-compatible LLM router for single workspaces, with streaming and BYOK support. | Continuum-AI-Corp | 2.1k |
 | [doop](https://github.com/kgoedecke/doop) 🆕 | Multiplayer design canvas where humans and AI agents design together, with built-in MCP support. | kgoedecke | 2k |
 | [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | Multi-agent AI coding platform running on Vercel Sandbox and AI Gateway. | vercel-labs | 1.8k |
@@ -321,7 +322,7 @@
 | [skilld](https://github.com/skilld-dev/skilld) | Open-source CLI for managing agent skills in Claude Code, Codex, and Cursor, with privacy in mind. | skilld-dev | 331 |
 | [mermaid-skill](https://github.com/WH-2099/mermaid-skill) | Claude Code skill for generating Mermaid diagrams of all supported diagram types. | WH-2099 | 300 |
 | [uteke](https://github.com/codecoradev/uteke) | Offline long-term memory for AI agents over MCP, built as a single Rust binary. | codecoradev | 286 |
-| [interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) 🆕 | MCP server exposing Interactive Brokers trading and account data to AI assistants. | code-rabi | 228 |
+| [interactive-brokers-mcp](https://github.com/code-rabi/interactive-brokers-mcp) 🆕 | MCP server exposing Interactive Brokers trading and account data to AI assistants. | code-rabi | 227 |
 | [install-mcp](https://github.com/supermemoryai/install-mcp) | CLI that installs MCP servers into any MCP client, including authentication setup. | supermemoryai | 197 |
 | [agent-tui](https://github.com/pproenca/agent-tui) | Library for automating terminal applications from code, with a JSON-RPC interface for AI agents. | pproenca | 121 |
 | [skills](https://github.com/etalab-ia/skills) |  | etalab-ia | 29 |

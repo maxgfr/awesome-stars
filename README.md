@@ -2,20 +2,21 @@
 
 > My GitHub stars, sorted and rebuilt every day by [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars? It takes one GitHub Action.
 
-![Total](https://img.shields.io/badge/Total-4830-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
+![Total](https://img.shields.io/badge/Total-4831-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
 
-**[🔎 Search all 4,830 stars](https://maxgfr.github.io/awesome-stars/)**
+**[🔎 Search all 4,831 stars](https://maxgfr.github.io/awesome-stars/)**
 
 ## ✨ Digest
 
-Agents dominate this month's stars. **Agent protocols and frontends** lead, with A2A and AG-UI bringing agents into apps, while **coding-agent tooling** gets practical: claude-swap rotates accounts, TokenEconomizer controls costs, and free-claude-code stretches free tokens. Many projects also favor **local-first native apps**, like hex for offline dictation.
+**Agent tooling** dominates this batch, from protocols like A2A and AG-UI to mcp-gsc and Unity-MCP. **Cost and access control** also shows up in TokenEconomizer, claude-swap, and freellmapi, while many projects push AI onto local hardware, such as mflux on Apple silicon and pocket-tts on a CPU.
 
-Elsewhere, OCR keeps rising with chandra and GLM-OCR, and trading agents like Vibe-Trading show AI spreading into finance.
+Rust-built developer tools like tsrs and omnidiff point to a focus on **speed and performance**. OCR is also trending, with GLM-OCR, chandra, and RapidOCR all in the mix.
 
-<sub>Written by AI from the 81 repositories starred in the last 30 days.</sub>
+<sub>Written by AI from the 82 repositories starred in the last 30 days.</sub>
 
 ## 🆕 Recently starred
 
+- `2026-11-12` [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) — MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights.
 - `2026-11-12` [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Guidance on current web development best practices, provided for use by coding agents.
 - `2026-11-10` [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — Protocol for connecting AI agents to frontend applications, covering agent-user interaction.
 - `2026-11-10` [a2aproject/A2A](https://github.com/a2aproject/A2A) — Open protocol for communication and interoperability between opaque agentic applications.
@@ -30,17 +31,16 @@ Elsewhere, OCR keeps rising with chandra and GLM-OCR, and trading agents like Vi
 - `2026-11-07` [anomalyco/hex](https://github.com/anomalyco/hex) — Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device.
 - `2026-11-06` [unjs/uqr](https://github.com/unjs/uqr) — Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output.
 - `2026-11-06` [matomo-org/plugin-McpServer](https://github.com/matomo-org/plugin-McpServer)
-- `2026-11-06` [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — LLM platform that turns documents into queryable RAG, reasoning agents, and self-maintaining wikis.
 
 ## 📊 Stats
 
-**4830** repositories · **76** languages · **51** archived · starred since 2017-02-02
+**4831** repositories · **76** languages · **51** archived · starred since 2017-02-02
 
 ```mermaid
 pie showData title Top languages
-    "TypeScript" : 1607
-    "JavaScript" : 768
-    "Python" : 610
+    "TypeScript" : 1608
+    "JavaScript" : 767
+    "Python" : 611
     "Go" : 373
     "Rust" : 320
     "C++" : 155
@@ -55,7 +55,7 @@ pie showData title Top languages
 xychart-beta
     title "Stars per year"
     x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-    bar [60, 132, 102, 490, 983, 841, 652, 442, 430, 698]
+    bar [60, 132, 102, 490, 983, 841, 652, 442, 430, 699]
 ```
 
 ## Contents
@@ -75,7 +75,7 @@ xychart-beta
 - [Frontend UI Libraries (553)](stars/frontend-ui-libraries.md)
 - [Image and Graphics Processing (82)](stars/image-and-graphics-processing.md)
 - [JavaScript and TypeScript Tooling (528)](stars/javascript-and-typescript-tooling.md)
-- [LLM Agents and AI Assistants (327)](stars/llm-agents-and-ai-assistants.md)
+- [LLM Agents and AI Assistants (328)](stars/llm-agents-and-ai-assistants.md)
 - [Mac Utilities (67)](stars/mac-utilities.md)
 - [Networking and Wireless (104)](stars/networking-and-wireless.md)
 - [Programming Languages and Compilers (49)](stars/programming-languages-and-compilers.md)
@@ -124,10 +124,10 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 123k |
+| [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 124k |
 | [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with type hints and asyncio support. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.5k |
-| [laravel](https://github.com/laravel/laravel) | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | laravel | 85.4k |
+| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79k |
 
 **[→ All 219 repositories](stars/backend-frameworks-and-servers.md)**
@@ -137,7 +137,7 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
-| [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 60.3k |
+| [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.3k |
 | [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 33.2k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
@@ -148,7 +148,7 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | kubernetes | 129k |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Container orchestration system for automating deployment, scaling, and management of containers. | kubernetes | 129k |
 | [moby](https://github.com/moby/moby) | Open framework for assembling container-based systems, underlying the Docker container platform. | moby | 72.3k |
 | [rclone](https://github.com/rclone/rclone) | Command-line tool for syncing and managing files across many cloud storage providers, like rsync. | rclone | 61k |
 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Guide to bootstrapping a Kubernetes cluster manually, step by step without scripts. | kelseyhightower | 50.7k |
@@ -160,11 +160,11 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | bitcoin | 90.7k |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Staging tree of Bitcoin Core, the reference implementation of the Bitcoin peer-to-peer network. | bitcoin | 90.7k |
 | [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 56.8k |
-| [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol | ethereum | 51.5k |
+| [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol, including the geth node client. | ethereum | 51.5k |
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
-| [ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust | ccxt | 44.9k |
+| [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 44.9k |
 
 **[→ All 157 repositories](stars/cryptography-and-blockchain.md)**
 
@@ -175,7 +175,7 @@ xychart-beta
 | [supabase](https://github.com/supabase/supabase) | Open source platform built on Postgres, offering databases, authentication, storage, and AI tooling for apps. | supabase | 115k |
 | [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.7k |
 | [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.5k |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | apache | 75.5k |
+| [superset](https://github.com/apache/superset) | Data visualization and exploration platform for business intelligence and analytics dashboards. | apache | 75.5k |
 | [nocodb](https://github.com/nocodb/nocodb) | Self-hostable alternative to Airtable that turns databases into spreadsheets with automatic REST APIs. | nocodb | 65.5k |
 
 **[→ All 251 repositories](stars/databases-and-data-tools.md)**
@@ -187,8 +187,8 @@ xychart-beta
 | [flutter](https://github.com/flutter/flutter) | Open-source UI framework for building natively compiled mobile, web, and desktop apps from Dart. | flutter | 181k |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows utilities that boost productivity and customisation, including FancyZones and Color Picker. | microsoft | 141k |
 | [rustdesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop application for self-hosting, as an alternative to TeamViewer. | rustdesk | 129k |
-| [react-native](https://github.com/react/react-native) | A framework for building native applications using React | react | 127k |
-| [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 124k |
+| [react-native](https://github.com/react/react-native) | Framework for building native mobile applications for iOS and Android using React. | react | 127k |
+| [electron](https://github.com/electron/electron) | Framework for building cross-platform desktop applications using JavaScript, HTML, and CSS. | electron | 124k |
 
 **[→ All 238 repositories](stars/desktop-and-mobile-apps.md)**
 
@@ -198,7 +198,7 @@ xychart-beta
 |---|---|---|---:|
 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities and 400+ integrations. | n8n-io | 210k |
 | [vscode](https://github.com/microsoft/vscode) | Code editor built with Electron and TypeScript, developed by Microsoft. | microsoft | 195k |
-| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 191k |
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Community framework for managing zsh configuration, with bundled plugins and themes. | ohmyzsh | 191k |
 | [gitignore](https://github.com/github/gitignore) | Collection of .gitignore templates for excluding common files and directories from Git repositories. | github | 176k |
 | [spec-kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development and other processes with AI coding assistants. | github | 149k |
 
@@ -208,7 +208,7 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 93.5k |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 93.6k |
 | [netdata](https://github.com/netdata/netdata) | Observability platform for full stack monitoring, alerting, and visualization, with AI-powered features. | netdata | 81.4k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 77.9k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.7k |
@@ -233,7 +233,7 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [react](https://github.com/react/react) | JavaScript library for building web and native user interfaces. | react | 253k |
-| [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | twbs | 175k |
+| [bootstrap](https://github.com/twbs/bootstrap) | Popular HTML, CSS and JavaScript framework for building responsive, mobile-first websites. | twbs | 175k |
 | [next.js](https://github.com/vercel/next.js) | React framework for building server-rendered and statically generated web applications. | vercel | 143k |
 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for creating hand-drawn style diagrams and sketches, with real-time collaboration. | excalidraw | 136k |
 | [ui](https://github.com/shadcn-ui/ui) | Copyable, accessible UI components you customize and extend to build your own component library. | shadcn-ui | 128k |
@@ -256,7 +256,7 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 109k |
+| [axios](https://github.com/axios/axios) | Promise-based HTTP client for the browser and Node.js. | axios | 109k |
 | [deno](https://github.com/denoland/deno) | Modern runtime for JavaScript and TypeScript built on V8 and Rust. | denoland | 109k |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript runtime with built-in bundler, test runner, and package manager. | oven-sh | 96.7k |
 | [vite](https://github.com/vitejs/vite) | Frontend build tool with a fast dev server and hot module replacement. | vitejs | 83.9k |
@@ -274,7 +274,7 @@ xychart-beta
 | [ECC](https://github.com/affaan-m/ECC) | Agent harness of skills, memory and security tools for Claude Code, Codex, Cursor and others. | affaan-m | 302k |
 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness for DeepSeek, built on Cordis, where everything is a plugin. | deepseek-ai | 280k |
 
-**[→ All 327 repositories](stars/llm-agents-and-ai-assistants.md)**
+**[→ All 328 repositories](stars/llm-agents-and-ai-assistants.md)**
 
 ## Mac Utilities
 
@@ -319,7 +319,7 @@ xychart-beta
 | [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 454k |
 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 199k |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 110k |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 99.7k |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 99.8k |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.6k |
 
 **[→ All 242 repositories](stars/security-and-penetration-testing.md)**

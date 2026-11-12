@@ -17,7 +17,7 @@
 | [emscripten](https://github.com/emscripten-core/emscripten) | LLVM-based compiler toolchain that compiles C and C++ code to WebAssembly. | emscripten-core | 27.8k |
 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.5k |
 | [typescript-go](https://github.com/microsoft/typescript-go) 🗄️ | Staging repository for the native Go port of the TypeScript compiler. | microsoft | 26.1k |
-| [solidity](https://github.com/argotorg/solidity) | Solidity, the Smart Contract Programming Language | argotorg | 25.8k |
+| [solidity](https://github.com/argotorg/solidity) | Compiler for Solidity, a programming language for writing Ethereum smart contracts. | argotorg | 25.8k |
 | [bend](https://github.com/bendlang/bend) | Fast parallel programming language with dependent types, targeting GPUs via CUDA and Metal. | bendlang | 25k |
 | [jdk](https://github.com/openjdk/jdk) | Main-line development repository of the Java Development Kit (JDK). | openjdk | 23.5k |
 | [RustPython](https://github.com/RustPython/RustPython) | Python interpreter written in Rust, with a compiler and JIT for running Python code. | RustPython | 22.5k |

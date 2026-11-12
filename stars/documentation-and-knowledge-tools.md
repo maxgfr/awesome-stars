@@ -13,16 +13,16 @@
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.4k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
-| [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.1k |
+| [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.4k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.1k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.2k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 46.9k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.2k |
-| [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 39.6k |
+| [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.6k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 38.9k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.4k |
 | [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.8k |
@@ -74,7 +74,7 @@
 | [codimd](https://github.com/hackmdio/codimd) | Open source, self-hostable real-time collaborative Markdown note editor compatible with HackMD. | hackmdio | 10.2k |
 | [WeasyPrint](https://github.com/Kozea/WeasyPrint) | Python library that converts HTML and CSS into PDF documents. | Kozea | 9.8k |
 | [starlight](https://github.com/withastro/starlight) | Astro framework for building accessible, high-performance documentation websites. | withastro | 9.6k |
-| [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | A guide to contributing to open source | freeCodeCamp | 9.3k |
+| [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | Guide explaining how to contribute to open source projects. | freeCodeCamp | 9.3k |
 | [papermark](https://github.com/papermark/papermark) | Open source DocSend alternative offering secure data rooms with built-in analytics and custom domains. | papermark | 9.3k |
 | [presenterm](https://github.com/mfontanini/presenterm) | Terminal slideshow tool that presents markdown documents. | mfontanini | 9k |
 | [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generates changelogs and release notes from commit messages and project metadata. | conventional-changelog | 8.5k |
@@ -95,7 +95,7 @@
 | [documentation](https://github.com/documentationjs/documentation) | Documentation generator for modern JavaScript that extracts API docs from source comments. | documentationjs | 5.8k |
 | [browser-compat-data](https://github.com/mdn/browser-compat-data) | Dataset of browser compatibility data for Web technologies, as displayed on MDN. | mdn | 5.8k |
 | [website](https://github.com/kubernetes/website) | Source repository for the Kubernetes project website and documentation. | kubernetes | 5.4k |
-| [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) | Markdown Cheatsheet for Github Readme.md | tchapi | 5.3k |
+| [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) | Markdown syntax reference for writing README files on GitHub. | tchapi | 5.3k |
 | [mediawiki](https://github.com/wikimedia/mediawiki) | PHP wiki software that powers Wikipedia and other collaborative editing sites. | wikimedia | 5.2k |
 | [hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) | Hugo theme for academic sites with BibTeX import, Jupyter, LaTeX and slide support. | HugoBlox | 5.1k |
 | [pdfme](https://github.com/pdfme/pdfme) | Open-source TypeScript and React library for generating PDFs with a visual template designer. | pdfme | 5k |
@@ -109,7 +109,7 @@
 | [compodoc](https://github.com/compodoc/compodoc) | Documentation tool that analyzes and documents Angular, NestJS and Stencil applications. | compodoc | 4.1k |
 | [surf](https://github.com/deta/surf) | Open-source AI notebook for organizing files and webpages and generating notes from them. | deta | 3.6k |
 | [honkit](https://github.com/honkit/honkit) | Tool for building books from Markdown, a fork of GitBook. | honkit | 3.5k |
-| [docs](https://github.com/laravel/docs) | The Laravel documentation. | laravel | 3.5k |
+| [docs](https://github.com/laravel/docs) | Official documentation for the Laravel PHP framework. | laravel | 3.5k |
 | [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | Updates a GitHub profile or project README with latest blog posts from RSS feeds, StackOverflow or YouTube. | gautamkrishnar | 3.5k |
 | [endoflife.date](https://github.com/endoflife-date/endoflife.date) | Website listing end-of-life dates for software products and versions. | endoflife-date | 3.4k |
 | [online](https://github.com/CollaboraOnline/online) | Issue tracker for Collabora Online, an online office suite; development happens on Gerrit. | CollaboraOnline | 3.4k |

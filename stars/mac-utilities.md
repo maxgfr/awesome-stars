@@ -17,7 +17,7 @@
 | [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 28.8k |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3-like tiling window manager for macOS. | nikitabobko | 23.8k |
 | [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.1k |
-| [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 Default casks (upstream binary packages) for the package manager for everywhere | Homebrew | 22.3k |
+| [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS that stores and retrieves clipboard history. | p0deje | 22.3k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | macOS audio utility that pauses music automatically, sets per-app volumes, and records system audio. | kyleneideck | 19.4k |
 | [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | Curated list of Quick Look plugins that add useful previews for developer file formats on macOS. | sindresorhus | 18.8k |
@@ -36,7 +36,7 @@
 | [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Lightweight native macOS launcher for everyday productivity tasks. | abue-ammar | 9.4k |
 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | macOS menu bar app that sets battery charge limits to prolong battery lifespan and monitors battery status. | AppHouseKitchen | 9.2k |
 | [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.1k |
-| [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.6k |
+| [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.7k |
 | [Applite](https://github.com/milanvarady/Applite) | Native macOS app store for software not on the App Store, backed by Homebrew Cask. | milanvarady | 7.1k |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | macOS menu bar utility that prevents the Mac from going to sleep. | newmarcel | 7k |
 | [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7k |

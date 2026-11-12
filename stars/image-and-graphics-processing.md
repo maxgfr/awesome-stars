@@ -17,7 +17,7 @@
 | [photoprism](https://github.com/photoprism/photoprism) | AI-powered photo management app for private, self-hosted organization and search of photo libraries. | photoprism | 40.4k |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python tool that adds an OCR text layer to scanned PDFs so they become searchable. | ocrmypdf | 35.3k |
 | [glide](https://github.com/bumptech/glide) | Android image loading and caching library focused on smooth scrolling performance. | bumptech | 35k |
-| [zxing](https://github.com/zxing/zxing) | ZXing ("Zebra Crossing") barcode scanning library for Java, Android | zxing | 34.2k |
+| [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
 | [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.8k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 27.9k |
 | [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.2k |
@@ -26,14 +26,14 @@
 | [Iosevka](https://github.com/be5invis/Iosevka) | Open source monospaced typeface for coding, generated from code with configurable options. | be5invis | 23.2k |
 | [svgo](https://github.com/svg/svgo) | Node.js library and CLI that optimizes SVG files by minifying and cleaning markup. | svg | 22.8k |
 | [blender](https://github.com/blender/blender) | Official mirror of Blender, a 3D creation suite for modeling, animation and rendering. | blender | 21.9k |
-| [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 17.8k |
+| [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 17.9k |
 | [engine](https://github.com/playcanvas/engine) | Web graphics runtime built on WebGL, WebGPU, WebXR, and glTF for 3D and gaussian splatting. | playcanvas | 17.3k |
 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI tool for upscaling images, videos and GIFs and interpolating video frames with AI models. | AaronFeng753 | 17.2k |
 | [lightcraft](https://github.com/storytold/lightcraft) | Open-source non-destructive photo editor for raw images, written from scratch in pure Rust. | storytold | 15.9k |
 | [ddddocr](https://github.com/sml2h3/ddddocr) | Python OCR library for recognizing captcha images. | sml2h3 | 14.9k |
-| [image](https://github.com/Intervention/image) | PHP Image Processing | Intervention | 14.4k |
+| [image](https://github.com/Intervention/image) | PHP library for image processing with GD and Imagick drivers. | Intervention | 14.4k |
 | [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library fork for opening, manipulating, and saving many image file formats. | python-pillow | 14k |
-| [uCrop](https://github.com/Yalantis/uCrop) | Image Cropping Library for Android | Yalantis | 12.1k |
+| [uCrop](https://github.com/Yalantis/uCrop) | Android image cropping library that provides a simple UI for cropping photos with animation. | Yalantis | 12.1k |
 | [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | Library for rendering interactive vector tile maps in web browsers using WebGL. | maplibre | 12.1k |
 | [vectorcraft](https://github.com/storytold/vectorcraft) | Open-source vector art editor written from scratch in pure Rust, with SVG support. | storytold | 11.7k |
 | [krita](https://github.com/KDE/krita) | Free open source cross-platform application for creating digital art, built on KDE and Qt. | KDE | 10.7k |
@@ -73,7 +73,7 @@
 | [chalk.ist](https://github.com/Idered/chalk.ist) | Web tool that turns source code snippets into styled images. | Idered | 1.8k |
 | [jpegoptim](https://github.com/tjko/jpegoptim) | Command-line utility for optimizing and compressing JPEG files. | tjko | 1.8k |
 | [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) | Node.js module that converts images into ASCII art. | IonicaBizau | 1.7k |
-| [barcode](https://github.com/milon/barcode) | Barcode Generator for PHP and Laravel | milon | 1.5k |
+| [barcode](https://github.com/milon/barcode) | PHP package for generating barcodes, with Laravel integration. | milon | 1.5k |
 | [withoutbg-python](https://github.com/withoutbg/withoutbg-python) | Python SDK for local and cloud background removal from images. | withoutbg | 1.3k |
 | [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 866 |
 | [looks-same](https://github.com/gemini-testing/looks-same) | Node.js library for comparing images and detecting visual differences, used with Testplane. | gemini-testing | 828 |

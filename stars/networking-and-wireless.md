@@ -22,7 +22,7 @@
 | [openwrt](https://github.com/openwrt/openwrt) | Linux distribution for routers and embedded devices, mirrored from the official OpenWrt git tree. | openwrt | 29.2k |
 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts for deploying a self-hosted IPsec VPN server supporting IPsec/L2TP, Cisco IPsec and IKEv2. | hwdsl2 | 29k |
 | [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) | Python tool for securely sending files and data between two computers using one-time codes. | magic-wormhole | 23.1k |
-| [ipfs](https://github.com/ipfs/ipfs) | Peer-to-peer hypermedia protocol | ipfs | 23.1k |
+| [ipfs](https://github.com/ipfs/ipfs) | Peer-to-peer hypermedia protocol for distributing and addressing content across networks. | ipfs | 23.1k |
 | [localtunnel](https://github.com/localtunnel/localtunnel) | Tool that exposes a local server to the public internet through a tunnel. | localtunnel | 22.5k |
 | [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Curated list of self-hosted alternatives to ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier. | anderspitman | 22k |
 | [kubo](https://github.com/ipfs/kubo) | Go implementation of IPFS: a daemon for serving content-addressed data via CLI, gateway and RPC. | ipfs | 17.2k |
@@ -58,7 +58,7 @@
 | [httpsms](https://github.com/NdoleStudio/httpsms) | Sends and receives SMS via an Android phone and an HTTP API, with end-to-end encryption. | NdoleStudio | 6.3k |
 | [torrent](https://github.com/anacrolix/torrent) | Go package implementing a full-featured BitTorrent client and related utilities. | anacrolix | 6.1k |
 | [libtorrent](https://github.com/arvidn/libtorrent) | C++ library implementing the BitTorrent protocol with an efficient, feature-complete design. | arvidn | 6.1k |
-| [node-serialport](https://github.com/serialport/node-serialport) | Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them! | serialport | 6k |
+| [node-serialport](https://github.com/serialport/node-serialport) | Node.js library for accessing and programming serial ports on Linux, macOS and Windows. | serialport | 6k |
 | [tribler](https://github.com/Tribler/tribler) | Privacy-focused BitTorrent client with peer-to-peer content discovery and search. | Tribler | 5.3k |
 | [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Web interface for setting up a wireless router on Debian-based devices using hostapd and dnsmasq. | RaspAP | 5.2k |
 | [keepalived](https://github.com/acassen/keepalived) | Routing software providing high availability and load balancing through VRRP and health checks. | acassen | 4.7k |

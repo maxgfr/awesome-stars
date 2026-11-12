@@ -4,7 +4,7 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 93.5k |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 93.6k |
 | [netdata](https://github.com/netdata/netdata) | Observability platform for full stack monitoring, alerting, and visualization, with AI-powered features. | netdata | 81.4k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 77.9k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.7k |
@@ -39,7 +39,7 @@
 | [loki](https://github.com/grafana/loki) | Log aggregation system inspired by Prometheus, designed to index logs by labels. | grafana | 29.2k |
 | [shields](https://github.com/badges/shields) | Generator of concise SVG and raster badges for displaying status and metadata. | badges | 27.4k |
 | [beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, Docker stats, and alerts. | henrygd | 27.2k |
-| [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | hashicorp | 27.2k |
+| [vagrant](https://github.com/hashicorp/vagrant) | Tool for building and managing reproducible development environments on virtual machines. | hashicorp | 27.2k |
 | [nixpkgs](https://github.com/NixOS/nixpkgs) | Collection of Nix packages and the NixOS Linux distribution configuration. | NixOS | 26.8k |
 | [jenkins](https://github.com/jenkinsci/jenkins) | Automation server for building, testing, and deploying software in CI/CD pipelines. | jenkinsci | 26.8k |
 | [sst](https://github.com/anomalyco/sst) | Tool for building full-stack applications that run on your own infrastructure. | anomalyco | 26.4k |
@@ -57,7 +57,7 @@
 | [gvisor](https://github.com/google/gvisor) | Application kernel for containers that provides an isolation layer between workloads and the host. | google | 20k |
 | [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Docker image that automatically configures an Nginx reverse proxy for containers as they start and stop. | nginx-proxy | 19.9k |
 | [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready mail server in a container, with SMTP, IMAP, LDAP, antispam, and antivirus. | docker-mailserver | 19.7k |
-| [gradle](https://github.com/gradle/gradle) | Adaptable, fast automation for all | gradle | 18.9k |
+| [gradle](https://github.com/gradle/gradle) | Build automation tool for compiling, testing and packaging projects, mainly Java and Groovy. | gradle | 18.9k |
 | [docker-elk](https://github.com/deviantony/docker-elk) | ELK stack (Elasticsearch, Logstash, Kibana) deployed with Docker and Docker Compose. | deviantony | 18.4k |
 | [zipkin](https://github.com/openzipkin/zipkin) | Distributed tracing system for collecting timing data to troubleshoot latency problems. | openzipkin | 17.5k |
 | [ceph](https://github.com/ceph/ceph) | Distributed platform providing object, block and file storage, with erasure coding and FUSE access. | ceph | 17.2k |
@@ -87,7 +87,7 @@
 | [runner-images](https://github.com/actions/runner-images) | Virtual machine images for GitHub Actions hosted runners, listing preinstalled software. | actions | 13.6k |
 | [capistrano](https://github.com/capistrano/capistrano) | Deployment automation tool built on Ruby, Rake, and SSH for running tasks on remote servers. | capistrano | 13k |
 | [gatus](https://github.com/TwiN/gatus) | Automated developer status page with alerting and incident support for monitoring services. | TwiN | 12.7k |
-| [laradock](https://github.com/laradock/laradock) | Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more. | laradock | 12.7k |
+| [laradock](https://github.com/laradock/laradock) | Docker-based PHP development environment with pre-configured services for PHP frameworks and CMSs. | laradock | 12.7k |
 | [beats](https://github.com/elastic/beats) | Lightweight data shippers that send logs, metrics, and network data to Elasticsearch or Logstash. | elastic | 12.7k |
 | [umbrel](https://github.com/getumbrel/umbrel) | Home server OS for running self-hosted apps, file storage, photo backup, and Bitcoin and Lightning nodes. | getumbrel | 12.6k |
 | [hadolint](https://github.com/hadolint/hadolint) | Linter that checks Dockerfiles for best practices and validates inline shell in RUN instructions. | hadolint | 12.5k |
@@ -222,7 +222,7 @@
 | [docker-debug](https://github.com/zeromake/docker-debug) | Tool that attaches a new container to an already running container for debugging. | zeromake | 639 |
 | [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 604 |
 | [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action that installs QEMU static binaries to enable multi-platform builds in workflows. | docker | 602 |
-| [deployment](https://github.com/coredns/deployment) | Scripts, utilities, and examples for deploying CoreDNS. | coredns | 572 |
+| [deployment](https://github.com/coredns/deployment) | Scripts, utilities, and example configurations for deploying CoreDNS. | coredns | 572 |
 | [asdf-direnv](https://github.com/asdf-community/asdf-direnv) | asdf plugin that installs and manages direnv versions for per-directory environment variables. | asdf-community | 571 |
 | [install-action](https://github.com/taiki-e/install-action) | GitHub Action that installs development tools, mainly from GitHub Releases. | taiki-e | 556 |
 | [action-release](https://github.com/getsentry/action-release) | GitHub Action for creating Sentry releases from workflows, including tagging production deployments. | getsentry | 496 |

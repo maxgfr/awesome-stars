@@ -3,8 +3,20 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-12T11:13:43Z</updated>
+  <updated>2026-11-12T12:38:55Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>AminForou/mcp-gsc</title>
+    <link href="https://github.com/AminForou/mcp-gsc"/>
+    <id>https://github.com/AminForou/mcp-gsc</id>
+    <updated>2026-11-12T12:38:55Z</updated>
+    <author><name>AminForou</name></author>
+    <summary>MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights. · Python · claude, google-search-console, mcp-server, seo</summary>
+    <category term="claude"/>
+    <category term="google-search-console"/>
+    <category term="mcp-server"/>
+    <category term="seo"/>
+  </entry>
   <entry>
     <title>GoogleChrome/modern-web-guidance</title>
     <link href="https://github.com/GoogleChrome/modern-web-guidance"/>
@@ -543,19 +555,6 @@
     <summary>Switches between Claude Code accounts with automatic rate-limit rotation and parallel sessions. · Python · account-manager, account-switcher, anthropic, claude, claude-code</summary>
     <category term="account-manager"/>
     <category term="account-switcher"/>
-    <category term="anthropic"/>
-    <category term="claude"/>
-    <category term="claude-code"/>
-  </entry>
-  <entry>
-    <title>IvanMurzak/Unity-MCP</title>
-    <link href="https://github.com/IvanMurzak/Unity-MCP"/>
-    <id>https://github.com/IvanMurzak/Unity-MCP</id>
-    <updated>2026-10-24T21:06:18Z</updated>
-    <author><name>IvanMurzak</name></author>
-    <summary>MCP tools, AI skills and CLI that let AI agents develop and test projects in the Unity Engine. · C# · ai, ai-integration, anthropic, claude, claude-code</summary>
-    <category term="ai"/>
-    <category term="ai-integration"/>
     <category term="anthropic"/>
     <category term="claude"/>
     <category term="claude-code"/>

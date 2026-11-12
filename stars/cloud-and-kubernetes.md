@@ -4,17 +4,17 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | kubernetes | 129k |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Container orchestration system for automating deployment, scaling, and management of containers. | kubernetes | 129k |
 | [moby](https://github.com/moby/moby) | Open framework for assembling container-based systems, underlying the Docker container platform. | moby | 72.3k |
 | [rclone](https://github.com/rclone/rclone) | Command-line tool for syncing and managing files across many cloud storage providers, like rsync. | rclone | 61k |
 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Guide to bootstrapping a Kubernetes cluster manually, step by step without scripts. | kelseyhightower | 50.7k |
 | [serverless](https://github.com/serverless/serverless) | Framework for building auto-scaling serverless applications on AWS Lambda and other cloud services. | serverless | 46.9k |
-| [istio](https://github.com/istio/istio) | Connect, secure, control, and observe services. | istio | 38.5k |
+| [istio](https://github.com/istio/istio) | Service mesh for connecting, securing, controlling, and observing microservices. | istio | 38.5k |
 | [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38k |
 | [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35k |
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.4k |
-| [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 32.2k |
-| [helm](https://github.com/helm/helm) | The Kubernetes Package Manager | helm | 30.4k |
+| [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.2k |
+| [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.4k |
 | [harbor](https://github.com/goharbor/harbor) | Cloud native container registry that stores, signs, and scans container images. | goharbor | 29.7k |
 | [envoy](https://github.com/envoyproxy/envoy) | High-performance C++ edge, middle, and service proxy designed for cloud-native applications. | envoyproxy | 29.2k |
 | [faas](https://github.com/openfaas/faas) | Framework for deploying serverless functions and microservices to Docker and Kubernetes. | openfaas | 26.3k |
@@ -43,7 +43,7 @@
 | [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.1k |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | Lightweight, high-performance WebAssembly runtime for cloud native, edge, and decentralized applications. | WasmEdge | 10.9k |
 | [keda](https://github.com/kedacore/keda) | Kubernetes-based event-driven autoscaling component that scales any container on event sources. | kedacore | 10.7k |
-| [kompose](https://github.com/kubernetes/kompose) | Convert Compose to Kubernetes | kubernetes | 10.6k |
+| [kompose](https://github.com/kubernetes/kompose) | Tool that converts Docker Compose files into Kubernetes resource definitions. | kubernetes | 10.6k |
 | [Reloader](https://github.com/stakater/Reloader) | Kubernetes controller that performs rolling upgrades on pods when their ConfigMaps or Secrets change. | stakater | 10.6k |
 | [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | Code examples for AWS documentation and SDK guides, covering C++, .NET, Go, and other languages. | awsdocs | 10.5k |
 | [charts](https://github.com/bitnami/charts) | Helm charts for deploying Bitnami packaged applications on Kubernetes. | bitnami | 10.4k |
@@ -63,8 +63,8 @@
 | [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native Kubernetes resources for defining and running CI/CD pipelines. | tektoncd | 9.1k |
 | [autoscaler](https://github.com/kubernetes/autoscaler) | Components that automatically scale Kubernetes clusters and pods based on load. | kubernetes | 9k |
 | [fission](https://github.com/fission/fission) | Serverless framework for running functions on Kubernetes with fast, simple deployment. | fission | 8.9k |
-| [anteon](https://github.com/getanteon/anteon) | eBPF-based Kubernetes monitoring and performance testing tool, formerly named Ddosify. | getanteon | 8.5k |
 | [flux2](https://github.com/fluxcd/flux2) | Kubernetes continuous delivery solution built on GitOps Toolkit components to sync clusters from Git. | fluxcd | 8.5k |
+| [anteon](https://github.com/getanteon/anteon) | eBPF-based Kubernetes monitoring and performance testing tool, formerly named Ddosify. | getanteon | 8.5k |
 | [metallb](https://github.com/metallb/metallb) | Load-balancer implementation for bare-metal Kubernetes clusters using BGP and ARP routing. | metallb | 8.4k |
 | [kyverno](https://github.com/kyverno/kyverno) | Policy engine for Kubernetes that enforces compliance and governance through policy as code. | kyverno | 8.3k |
 | [operator-sdk](https://github.com/operator-framework/operator-sdk) | Framework with high-level APIs and scaffolding for building Kubernetes operators. | operator-framework | 7.7k |
@@ -116,7 +116,7 @@
 | [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | Sets AWS credential environment variables for use by later steps in GitHub Actions workflows. | aws-actions | 3k |
 | [nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) | Node.js code samples showing how to use Google Cloud Platform products. | GoogleCloudPlatform | 3k |
 | [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Kubernetes operator for deploying and managing Elasticsearch and Kibana clusters. | elastic | 2.9k |
-| [aws-cf-templates](https://github.com/widdix/aws-cf-templates) | Free Templates for AWS CloudFormation | widdix | 2.8k |
+| [aws-cf-templates](https://github.com/widdix/aws-cf-templates) | Free AWS CloudFormation templates for common AWS infrastructure setups. | widdix | 2.8k |
 | [keel](https://github.com/keel-hq/keel) | Kubernetes operator that automatically updates Helm releases, DaemonSets, StatefulSets, and Deployments. | keel-hq | 2.7k |
 | [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
 | [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Android SDK for Firebase services, including the Realtime Database and other Firebase products. | firebase | 2.6k |
@@ -130,7 +130,7 @@
 | [AKS](https://github.com/Azure/AKS) | Issue tracker and resources for Azure Kubernetes Service, Microsoft's managed Kubernetes offering. | Azure | 2.1k |
 | [kubectl-neat](https://github.com/itaysk/kubectl-neat) | kubectl plugin that removes clutter from Kubernetes YAML and JSON output for readability. | itaysk | 2.1k |
 | [kail](https://github.com/boz/kail) | Kubernetes log viewer that tails logs from multiple pods and containers at once. | boz | 2.1k |
-| [cli](https://github.com/cloudfoundry/cli) | The official command line client for Cloud Foundry | cloudfoundry | 1.9k |
+| [cli](https://github.com/cloudfoundry/cli) | Official command line client for interacting with Cloud Foundry platforms. | cloudfoundry | 1.9k |
 | [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) | Installs and configures the gcloud CLI in GitHub Actions workflows. | google-github-actions | 1.9k |
 | [kubernetes](https://github.com/justmeandopensource/kubernetes) | Playground for learning and experimenting with Kubernetes setups and configurations. | justmeandopensource | 1.8k |
 | [flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3) | Read-only subsplit of a Flysystem adapter for the AWS SDK v3, providing filesystem access to S3 storage in PHP. | thephpleague | 1.7k |
@@ -156,7 +156,7 @@
 | [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 482 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 341 |
 | [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 315 |
-| [charts](https://github.com/IBM/charts) | The IBM/charts repository provides helm charts for IBM and Third Party middleware. | IBM | 311 |
+| [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 311 |
 | [jitsi-helm](https://github.com/jitsi-contrib/jitsi-helm) | Helm chart for deploying the Jitsi video conferencing platform to Kubernetes. | jitsi-contrib | 203 |
 | [k8s-operator-node](https://github.com/dot-i/k8s-operator-node) | Framework for writing Kubernetes operators in Node.js. | dot-i | 180 |
 | [kubernetes-models-ts](https://github.com/tommy351/kubernetes-models-ts) | TypeScript type definitions and model classes for Kubernetes API resources. | tommy351 | 165 |

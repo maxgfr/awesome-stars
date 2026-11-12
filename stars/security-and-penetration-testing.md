@@ -7,7 +7,7 @@
 | [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 454k |
 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 199k |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 110k |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 99.7k |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 99.8k |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.6k |
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | All-in-one Python toolkit that bundles many hacking and penetration testing tools in one menu. | Z4nzu | 81.9k |
 | [strix](https://github.com/usestrix/strix) | Open-source AI tool for penetration testing that finds and helps fix application vulnerabilities. | usestrix | 75.1k |
@@ -73,8 +73,8 @@
 | [evilginx2](https://github.com/kgretzky/evilginx2) | Man-in-the-middle framework for phishing credentials and session cookies to bypass two-factor authentication. | kgretzky | 15.9k |
 | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | Reverse engineering suite for Java bytecode and Android APKs, with decompiler, editor and debugger. | Konloch | 15.7k |
 | [Osintgram](https://github.com/Datalux/Osintgram) | OSINT shell tool for analyzing Instagram accounts by username. | Datalux | 15.6k |
-| [zitadel](https://github.com/zitadel/zitadel) | Identity platform for authentication and authorization, with 2FA, FIDO2, and FIPS 140-3 support. | zitadel | 15.6k |
 | [crowdsec](https://github.com/crowdsecurity/crowdsec) | Open-source intrusion detection and prevention system with WAF, bot detection and a shared IP blocklist. | crowdsecurity | 15.6k |
+| [zitadel](https://github.com/zitadel/zitadel) | Identity platform for authentication and authorization, with 2FA, FIDO2, and FIPS 140-3 support. | zitadel | 15.6k |
 | [ecapture](https://github.com/gojue/ecapture) | eBPF tool that captures SSL/TLS plaintext on Linux and Android without a MITM proxy. | gojue | 15.5k |
 | [amass](https://github.com/owasp-amass/amass) | Tool for in-depth attack surface mapping and asset discovery using DNS enumeration and data sources. | owasp-amass | 15.5k |
 | [XSStrike](https://github.com/s0md3v/XSStrike) | Python XSS scanner with WAF detection, payload generation, and brute-force and exploit features. | s0md3v | 15.3k |
@@ -133,8 +133,8 @@
 | [onionshare](https://github.com/onionshare/onionshare) | Tool for anonymously sharing files, hosting websites, and chatting over the Tor network. | onionshare | 7.2k |
 | [al-khaser](https://github.com/ayoubfaouzi/al-khaser) | Proof-of-concept collection of anti-VM, anti-debugging and anti-sandbox techniques seen in malware. | ayoubfaouzi | 7.2k |
 | [tfsec](https://github.com/aquasecurity/tfsec) | Static analysis security scanner for Terraform code, now part of Trivy. | aquasecurity | 7.1k |
-| [faraday](https://github.com/infobyte/faraday) | Open-source tools for offensive security, vulnerability management and autonomous pentesting. | infobyte | 6.9k |
 | [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | GitHub Action that uses Claude to review code changes for security vulnerabilities. | anthropics | 6.9k |
+| [faraday](https://github.com/infobyte/faraday) | Open-source tools for offensive security, vulnerability management and autonomous pentesting. | infobyte | 6.9k |
 | [cupp](https://github.com/Mebus/cupp) | Tool that generates custom wordlists of likely passwords from personal information about a target. | Mebus | 6.6k |
 | [MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | Android app for reading, writing, and analyzing MIFARE Classic RFID tags over NFC. | ikarus23 | 6.5k |
 | [androguard](https://github.com/androguard/androguard) 🆕 | Python toolkit for reverse engineering and penetration testing of Android applications. | androguard | 6.4k |
@@ -155,7 +155,7 @@
 | [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) | Generates test PDFs for penetration testing PDF viewers and converters for SSRF, XSS and NTLM theft. | jonaslejon | 4.5k |
 | [retire.js](https://github.com/RetireJS/retire.js) | Scanner that detects JavaScript libraries with known vulnerabilities and can generate an SBOM. | RetireJS | 4.2k |
 | [knockpy](https://github.com/guelfoweb/knockpy) | Python tool for enumerating subdomains of a target domain using DNS queries and wordlists. | guelfoweb | 4.2k |
-| [mimipenguin](https://github.com/huntergregal/mimipenguin) | A tool to dump the login password from the current linux user | huntergregal | 4.2k |
+| [mimipenguin](https://github.com/huntergregal/mimipenguin) | Tool that dumps the login password of the current Linux user from memory, for post-exploitation. | huntergregal | 4.2k |
 | [reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) | Hosted generator for reverse shell payloads, useful for CTF challenges and security testing. | 0dayCTF | 4.1k |
 | [git-secret](https://github.com/sobolevn/git-secret) | Bash tool for storing encrypted private data with GPG inside a git repository. | sobolevn | 4.1k |
 | [BrowserBox](https://github.com/BrowserBox/BrowserBox) | Secure remote browser that streams a Chrome session for cobrowsing and embedding. | BrowserBox | 3.9k |
@@ -200,7 +200,7 @@
 | [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) | Local ad blocker written only in Bash that uses dnsmasq to block ads on Linux and macOS. | tanrax | 1.9k |
 | [npq](https://github.com/lirantal/npq) | Command-line tool that audits npm packages before installing them to flag security risks. | lirantal | 1.8k |
 | [extract_otp_secrets](https://github.com/scito/extract_otp_secrets) 🆕 | Extracts OTP secrets from QR codes exported by two-factor authentication apps into CSV or JSON. | scito | 1.7k |
-| [EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) | A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC). | devnied | 1.7k |
+| [EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) | Java library for reading and extracting data from NFC EMV credit cards on Android and PCSC. | devnied | 1.7k |
 | [codeql-action](https://github.com/github/codeql-action) | GitHub Actions for running CodeQL code analysis and uploading results to code scanning. | github | 1.7k |
 | [hashcat-utils](https://github.com/hashcat/hashcat-utils) | Small utilities for advanced password cracking. | hashcat | 1.6k |
 | [no-google](https://github.com/nickspaargaren/no-google) | Tool that blocks Google and its services using blocklists. | nickspaargaren | 1.6k |
@@ -228,7 +228,7 @@
 | [francisca](https://github.com/UwUDev/francisca) | High-performance Rust indexer for services using the U2P system over Nostr, compatible with Prowlarr. | UwUDev | 503 |
 | [clamav-desktop](https://github.com/ivangabriele/clamav-desktop) | Cross-platform desktop GUI for managing and scanning with the ClamAV antivirus engine. | ivangabriele | 483 |
 | [pupflare](https://github.com/unixfox/pupflare) | Web proxy that fetches pages through Chromium with Puppeteer to bypass Cloudflare anti-bot checks. | unixfox | 458 |
-| [webappsec-permissions-policy](https://github.com/w3c/webappsec-permissions-policy) | A mechanism to selectively enable and disable browser features and APIs | w3c | 432 |
+| [webappsec-permissions-policy](https://github.com/w3c/webappsec-permissions-policy) | Specification for selectively enabling and disabling browser features and APIs in web pages. | w3c | 432 |
 | [react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) | React Native SSL pinning and cookie handling via OkHttp on Android and AFNetworking on iOS. | MaxToyberman | 410 |
 | [hudsucker](https://github.com/omjadas/hudsucker) | Rust library for intercepting HTTP and HTTPS traffic as a man-in-the-middle proxy with TLS support. | omjadas | 388 |
 | [cli](https://github.com/NodeSecure/cli) | Security CLI for deeply analyzing the dependency tree of a JavaScript package or local Node.js project. | NodeSecure | 386 |

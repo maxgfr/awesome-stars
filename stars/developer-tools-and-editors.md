@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities and 400+ integrations. | n8n-io | 210k |
 | [vscode](https://github.com/microsoft/vscode) | Code editor built with Electron and TypeScript, developed by Microsoft. | microsoft | 195k |
-| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 191k |
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Community framework for managing zsh configuration, with bundled plugins and themes. | ohmyzsh | 191k |
 | [gitignore](https://github.com/github/gitignore) | Collection of .gitignore templates for excluding common files and directories from Git repositories. | github | 176k |
 | [spec-kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development and other processes with AI coding assistants. | github | 149k |
 | [terminal](https://github.com/microsoft/terminal) | Windows Terminal application and the Windows console host, developed in one repository. | microsoft | 105k |
@@ -30,7 +30,7 @@
 | [rich](https://github.com/Textualize/rich) | Python library for rendering rich text, tables, progress bars, and markdown in the terminal. | Textualize | 57.8k |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | Cross-platform command-line shell and scripting language for Windows, Linux, and macOS. | PowerShell | 56.1k |
 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | Zsh theme with a configurable, fast prompt and instant prompt support. | romkatv | 55.4k |
-| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection. | ChromeDevTools | 55.1k |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection. | ChromeDevTools | 55.2k |
 | [dive](https://github.com/wagoodman/dive) | Command-line tool with a terminal UI for exploring the layers of a Docker image. | wagoodman | 54.7k |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | Terminal UI for managing Docker containers, images, volumes, and logs. | jesseduffield | 53.3k |
 | [prettier](https://github.com/prettier/prettier) | Opinionated code formatter supporting JavaScript, TypeScript, CSS, GraphQL, and other languages. | prettier | 52.4k |
@@ -68,8 +68,8 @@
 | [fish-shell](https://github.com/fish-shell/fish-shell) | Interactive command-line shell written in Rust, designed to be user-friendly out of the box. | fish-shell | 34.5k |
 | [vscodium](https://github.com/VSCodium/vscodium) | Binary releases of VS Code built without Microsoft branding, telemetry, or licensing restrictions. | VSCodium | 34.1k |
 | [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant for code completion and generation. | TabbyML | 33.9k |
-| [code-review-graph](https://github.com/tirth8205/code-review-graph) | Local code graph for MCP and CLI that gives AI tools only the code relevant to a review. | tirth8205 | 32.7k |
 | [delta](https://github.com/dandavison/delta) | Syntax-highlighting pager for git, diff, grep, and blame output. | dandavison | 32.7k |
+| [code-review-graph](https://github.com/tirth8205/code-review-graph) | Local code graph for MCP and CLI that gives AI tools only the code relevant to a review. | tirth8205 | 32.7k |
 | [jj](https://github.com/jj-vcs/jj) | Git-compatible version control system that aims to be both simple and powerful. | jj-vcs | 32.5k |
 | [atuin](https://github.com/atuinsh/atuin) | Shell history replacement that stores, syncs, and searches command history for bash, zsh, and fish. | atuinsh | 32.3k |
 | [cli](https://github.com/googleworkspace/cli) | Command-line interface for Google Drive, Gmail, Calendar, Sheets and other Workspace APIs. | googleworkspace | 32.3k |
@@ -105,7 +105,7 @@
 | [chezmoi](https://github.com/twpayne/chezmoi) | Tool for securely managing dotfiles across multiple machines. | twpayne | 22.2k |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | Git version control client built with Tauri, Rust and Svelte, compatible with Git repositories. | gitbutlerapp | 22k |
 | [theia](https://github.com/eclipse-theia/theia) | Cloud and desktop IDE framework implemented in TypeScript, supporting Language Server Protocol. | eclipse-theia | 21.8k |
-| [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | git-tips | 21.7k |
+| [tips](https://github.com/git-tips/tips) | Collection of commonly used Git tips and tricks. | git-tips | 21.7k |
 | [vhs](https://github.com/charmbracelet/vhs) | Tool that records scripted terminal sessions as GIFs or other video formats. | charmbracelet | 21.3k |
 | [intellij-community](https://github.com/JetBrains/intellij-community) | Source code of the IntelliJ IDEA IDE and the IntelliJ Platform. | JetBrains | 20.7k |
 | [mypy](https://github.com/python/mypy) | Static type checker for Python that checks code annotated with optional type hints. | python | 20.7k |
@@ -113,7 +113,7 @@
 | [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | Extensible fuzzy finder for Neovim to find, filter, preview and pick files and other items. | nvim-telescope | 19.9k |
 | [yaak](https://github.com/mountain-loop/yaak) | Desktop API client for organizing and running REST, GraphQL, WebSocket, SSE, and gRPC requests. | mountain-loop | 19.5k |
 | [ccusage](https://github.com/ccusage/ccusage) | Command-line tool run with npx to analyze Claude Code usage data. | ccusage | 19.4k |
-| [laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) | Debugbar for Laravel (Integrates PHP Debug Bar) | fruitcake | 19.3k |
+| [laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) | Laravel package that integrates PHP Debug Bar to show debug and profiling info in the browser. | fruitcake | 19.3k |
 | [LunarVim](https://github.com/LunarVim/LunarVim) | Community-driven IDE layer for Neovim with preconfigured LSP, formatting, and linting support. | LunarVim | 19.2k |
 | [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Turns GitHub repository URLs into interactive architecture diagrams and short explainer videos. | ahmedkhaleel2004 | 18.9k |
 | [bit](https://github.com/teambit/bit) | Workspace tool for building, sharing, and composing reusable components in distributed architectures. | teambit | 18.5k |
@@ -140,12 +140,12 @@
 | [CocoaPods](https://github.com/CocoaPods/CocoaPods) | Dependency manager for Cocoa projects that installs libraries into Xcode workspaces. | CocoaPods | 14.8k |
 | [lint-staged](https://github.com/lint-staged/lint-staged) | Runs linters and formatters against Git-staged files before committing. | lint-staged | 14.8k |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | Git extension for versioning large files by storing their contents outside the repository. | git-lfs | 14.6k |
-| [prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh | sorin-ionescu | 14.6k |
+| [prezto](https://github.com/sorin-ionescu/prezto) | Configuration framework for Zsh that provides modules for shell setup and plugin management. | sorin-ionescu | 14.6k |
 | [gron](https://github.com/tomnomnom/gron) | Command-line tool that flattens JSON into greppable lines so it can be searched with grep. | tomnomnom | 14.5k |
 | [AstroNvim](https://github.com/AstroNvim/AstroNvim) | Neovim configuration framework with plugins and settings for an IDE-like editing experience. | AstroNvim | 14.5k |
 | [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) | VS Code extension that makes TypeScript error messages easier to read. | yoavbls | 14.1k |
-| [opentui](https://github.com/anomalyco/opentui) | Library for building terminal user interfaces (TUI). | anomalyco | 13.8k |
 | [gitpod](https://github.com/gitpod-io/gitpod) | Platform for on-demand cloud development environments that speeds up creating and reviewing software. | gitpod-io | 13.8k |
+| [opentui](https://github.com/anomalyco/opentui) | Library for building terminal user interfaces (TUI). | anomalyco | 13.8k |
 | [watchman](https://github.com/meta/watchman) | Service that watches files for changes and triggers actions or records them. | meta | 13.8k |
 | [rust-clippy](https://github.com/rust-lang/rust-clippy) | Collection of lints that catch common mistakes and suggest improvements in Rust code. | rust-lang | 13.6k |
 | [ccstatusline](https://github.com/sirmalloc/ccstatusline) | Customizable statusline for the Claude Code CLI, with powerline support and themes. | sirmalloc | 13.6k |

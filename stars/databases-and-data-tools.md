@@ -7,7 +7,7 @@
 | [supabase](https://github.com/supabase/supabase) | Open source platform built on Postgres, offering databases, authentication, storage, and AI tooling for apps. | supabase | 115k |
 | [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.7k |
 | [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.5k |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | apache | 75.5k |
+| [superset](https://github.com/apache/superset) | Data visualization and exploration platform for business intelligence and analytics dashboards. | apache | 75.5k |
 | [nocodb](https://github.com/nocodb/nocodb) | Self-hostable alternative to Airtable that turns databases into spreadsheets with automatic REST APIs. | nocodb | 65.5k |
 | [pathway](https://github.com/pathwaycom/pathway) | Python framework for ETL, stream processing, real-time analytics, LLM pipelines, and RAG. | pathwaycom | 62k |
 | [meilisearch](https://github.com/meilisearch/meilisearch) | Fast search engine API offering AI-powered hybrid search for websites and applications. | meilisearch | 59.8k |
@@ -40,7 +40,7 @@
 | [analytics](https://github.com/plausible/analytics) | Self-hostable, privacy-focused web analytics platform and cookie-free alternative to Google Analytics. | plausible | 29.8k |
 | [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI applications and agents. | chroma-core | 29.7k |
 | [redash](https://github.com/getredash/redash) | Platform for connecting to many data sources to query, visualize, dashboard, and share data. | getredash | 28.9k |
-| [mongo](https://github.com/mongodb/mongo) | The MongoDB Database | mongodb | 28.7k |
+| [mongo](https://github.com/mongodb/mongo) | Source code of the MongoDB document database server. | mongodb | 28.7k |
 | [Chat2DB](https://github.com/OtterMind/Chat2DB) | Cross-platform desktop database client with AI-assisted SQL editing for connecting to many databases. | OtterMind | 28.4k |
 | [postgrest](https://github.com/PostgREST/postgrest) | Server that turns a PostgreSQL database into a RESTful API automatically. | PostgREST | 27.8k |
 | [valkey](https://github.com/valkey-io/valkey) | Distributed key-value database optimized for caching and real-time workloads. | valkey-io | 27.7k |
@@ -108,7 +108,7 @@
 | [node-postgres](https://github.com/brianc/node-postgres) | PostgreSQL client for Node.js, providing query, connection pooling and protocol support. | brianc | 13.2k |
 | [citus](https://github.com/citusdata/citus) | PostgreSQL extension that distributes data across nodes for scaling and multi-tenant applications. | citusdata | 12.9k |
 | [convex-backend](https://github.com/convex/convex-backend) | Open source reactive database backend for app developers, with TypeScript functions and live queries. | convex | 12.8k |
-| [Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) | 🚀 Supercharged Excel exports and imports in Laravel | SpartnerNL | 12.7k |
+| [Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) | Library for fast Excel and CSV exports and imports in Laravel applications. | SpartnerNL | 12.7k |
 | [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | Python SQL toolkit and object-relational mapper for working with relational databases. | sqlalchemy | 12.3k |
 | [OpenRefine](https://github.com/OpenRefine/OpenRefine) | Free, open-source tool for cleaning, transforming, and exploring messy data. | OpenRefine | 12.1k |
 | [grist-core](https://github.com/gristlabs/grist-core) | Core of Grist, a spreadsheet application that combines spreadsheets with relational database features. | gristlabs | 12.1k |
@@ -130,7 +130,7 @@
 | [immudb](https://github.com/codenotary/immudb) | Immutable, tamper-proof database with SQL, key-value, and document models and change history. | codenotary | 9.1k |
 | [pghero](https://github.com/ankane/pghero) | Performance dashboard for monitoring and tuning Postgres databases. | ankane | 9k |
 | [mage-ai](https://github.com/mage-ai/mage-ai) | Tool for building, running, and managing data pipelines that integrate and transform data. | mage-ai | 8.8k |
-| [orbitdb](https://github.com/orbitdb/orbitdb) | Peer-to-Peer Databases for the Decentralized Web | orbitdb | 8.8k |
+| [orbitdb](https://github.com/orbitdb/orbitdb) | Peer-to-peer database for decentralized applications, built on IPFS and libp2p with CRDT syncing. | orbitdb | 8.8k |
 | [postgres](https://github.com/porsager/postgres) | Full-featured PostgreSQL client for Node.js and Deno, focused on speed. | porsager | 8.8k |
 | [growthbook](https://github.com/growthbook/growthbook) | Open source platform for feature flags, A/B experiments and product analytics. | growthbook | 8.6k |
 | [react-native-mmkv](https://github.com/margelo/react-native-mmkv) | Key-value storage library for React Native, substantially faster than AsyncStorage. | margelo | 8.5k |
@@ -233,7 +233,7 @@
 | [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | CLI and Node.js tool for downloading historical and real-time tick price data from Dukascopy. | Leo4815162342 | 967 |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Official JavaScript and TypeScript client library for the Meilisearch search engine API. | meilisearch | 871 |
 | [node-influx](https://github.com/node-influx/node-influx) | Client library for using InfluxDB from Node.js and browser JavaScript applications. | node-influx | 864 |
-| [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 798 |
+| [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 799 |
 | [npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader) | JavaScript library that parses text and tables from PDF files. | adrienjoly | 704 |
 | [couchdb-nano](https://github.com/apache/couchdb-nano) | Official Apache CouchDB library for Node.js applications. | apache | 691 |
 | [duck-ui](https://github.com/caioricciuti/duck-ui) | Browser-based DuckDB workbench with a SQL editor, notebooks, charts, and an AI assistant. | caioricciuti | 657 |

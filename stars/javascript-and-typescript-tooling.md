@@ -4,7 +4,7 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 109k |
+| [axios](https://github.com/axios/axios) | Promise-based HTTP client for the browser and Node.js. | axios | 109k |
 | [deno](https://github.com/denoland/deno) | Modern runtime for JavaScript and TypeScript built on V8 and Rust. | denoland | 109k |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript runtime with built-in bundler, test runner, and package manager. | oven-sh | 96.7k |
 | [vite](https://github.com/vitejs/vite) | Frontend build tool with a fast dev server and hot module replacement. | vitejs | 83.9k |
@@ -41,7 +41,7 @@
 | [discord.js](https://github.com/discordjs/discord.js) | JavaScript library for building Discord bots and applications through the Discord API. | discordjs | 26.8k |
 | [nodemon](https://github.com/remy/nodemon) | Tool that watches Node.js project files and restarts the application automatically on changes. | remy | 26.7k |
 | [biome](https://github.com/biomejs/biome) | Toolchain for web projects with a formatter and linter, usable from the CLI and LSP. | biomejs | 26.1k |
-| [core-js](https://github.com/zloirock/core-js) | Standard Library | zloirock | 25.5k |
+| [core-js](https://github.com/zloirock/core-js) | Modular standard library polyfilling ECMAScript features in JavaScript environments. | zloirock | 25.5k |
 | [winston](https://github.com/winstonjs/winston) | General-purpose logger for JavaScript applications with support for multiple transports. | winstonjs | 24.5k |
 | [gson](https://github.com/google/gson) | Java library for converting Java objects to JSON and back. | google | 24.2k |
 | [semantic-release](https://github.com/semantic-release/semantic-release) | Automates version determination, changelog generation, and package publishing from commit messages. | semantic-release | 24.2k |
@@ -96,7 +96,7 @@
 | [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) | Webpack plugin and CLI that displays bundle contents as an interactive zoomable treemap. | webpack | 12.7k |
 | [knip](https://github.com/webpro-nl/knip) | Finds unused files, dependencies, and exports in JavaScript and TypeScript projects. | webpro-nl | 12.7k |
 | [changesets](https://github.com/changesets/changesets) | Tool for managing package versioning and changelogs, focused on monorepos. | changesets | 12.6k |
-| [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) | Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included. | googleapis | 12.3k |
+| [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) | Official Google Node.js client library for accessing Google APIs with OAuth 2.0, API key and JWT auth. | googleapis | 12.3k |
 | [chokidar](https://github.com/paulmillr/chokidar) | Minimal, efficient cross-platform library for watching files and directories for changes. | paulmillr | 12.3k |
 | [tsx](https://github.com/privatenumber/tsx) | Command-line tool and loader for running TypeScript files directly in Node.js. | privatenumber | 12.2k |
 | [InversifyJS](https://github.com/inversify/InversifyJS) | Lightweight inversion of control container for TypeScript and JavaScript, now moved to a monorepo. | inversify | 12.1k |
@@ -452,7 +452,7 @@
 | [serialize-error](https://github.com/sindresorhus/serialize-error) | Serializes and deserializes Error objects into plain objects. | sindresorhus | 608 |
 | [dotenv-cli](https://github.com/entropitor/dotenv-cli) | Command-line tool for loading environment variables from dotenv files. | entropitor | 603 |
 | [wtfnode](https://github.com/myndzi/wtfnode) | Utility that reports what is keeping a Node.js process alive so it does not exit. | myndzi | 601 |
-| [generator-express-no-stress](https://github.com/cdimascio/generator-express-no-stress) | 🚂 A Yeoman generator for Express.js based 12-factor apps and apis | cdimascio | 597 |
+| [generator-express-no-stress](https://github.com/cdimascio/generator-express-no-stress) | Yeoman generator for scaffolding Express.js apps and APIs that follow 12-factor principles. | cdimascio | 597 |
 | [follow-redirects](https://github.com/follow-redirects/follow-redirects) | Node.js module that automatically follows HTTP and HTTPS redirects. | follow-redirects | 586 |
 | [imapflow](https://github.com/postalsys/imapflow) | IMAP client library developed for the EmailEngine email API. | postalsys | 585 |
 | [lerna-lite](https://github.com/lerna-lite/lerna-lite) | Smaller, modular subset of Lerna for versioning and publishing multiple packages in monorepos. | lerna-lite | 566 |
