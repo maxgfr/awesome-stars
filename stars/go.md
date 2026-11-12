@@ -59,8 +59,8 @@
 | [seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. | seaweedfs | 36k |
 | [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.5k |
 | [k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | derailed | 35k |
-| [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | k3s-io | 34.4k |
 | [github-mcp-server](https://github.com/github/github-mcp-server) | Official GitHub MCP server that lets AI tools work with repositories, issues, and pull requests. | github | 34.4k |
+| [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | k3s-io | 34.4k |
 | [podman](https://github.com/podman-container-tools/podman) | Podman: A tool for managing OCI containers and pods. | podman-container-tools | 33.2k |
 | [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | projectdiscovery | 32.8k |
 | [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. | cockroachdb | 32.6k |

@@ -75,7 +75,7 @@
 | [litellm](https://github.com/BerriAI/litellm) | AI gateway with a Rust core and Python SDK for calling 100+ LLM APIs in OpenAI format. | BerriAI | 63.2k |
 | [pathway](https://github.com/pathwaycom/pathway) | Python framework for ETL, stream processing, real-time analytics, LLM pipelines, and RAG. | pathwaycom | 62k |
 | [autogen](https://github.com/microsoft/autogen) | Framework for building multi-agent AI applications with agentic workflows. | microsoft | 61.8k |
-| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | Agent skill that makes coding agent output ADHD-friendly by keeping answers from being buried. | ayghri | 60.9k |
+| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | Agent skill that makes coding agent output ADHD-friendly by keeping answers from being buried. | ayghri | 61k |
 | [crewAI](https://github.com/crewAIInc/crewAI) | Python framework for orchestrating role-playing autonomous AI agents that collaborate on tasks. | crewAIInc | 60.8k |
 | [mempalace](https://github.com/MemPalace/mempalace) | Open-source AI memory system for LLMs, exposed through MCP and backed by ChromaDB. | MemPalace | 60.5k |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | CorentinJ | 60.2k |
@@ -495,8 +495,8 @@
 | [codex-lb](https://github.com/Soju06/codex-lb) | Load balancer and proxy for multiple Codex/ChatGPT accounts, with usage tracking and a dashboard. | Soju06 | 3.4k |
 | [pagodo](https://github.com/opsdisk/pagodo) 🗄️ | Automates scraping and searching the Google Hacking Database using Google dorks. | opsdisk | 3.4k |
 | [coreruleset](https://github.com/coreruleset/coreruleset) | OWASP Core Rule Set, a collection of rules for web application firewalls. | coreruleset | 3.4k |
-| [pyotp](https://github.com/pyauth/pyotp) 🆕 | Python library for generating and verifying HOTP and TOTP one-time passwords for two-factor auth. | pyauth | 3.3k |
 | [founder-skill](https://github.com/Jakeschincariol/founder-skill) 🆕 | Free Claude skills that test a business idea with simulated advisors, a CFO and buyer agents. | Jakeschincariol | 3.3k |
+| [pyotp](https://github.com/pyauth/pyotp) 🆕 | Python library for generating and verifying HOTP and TOTP one-time passwords for two-factor auth. | pyauth | 3.3k |
 | [barman](https://github.com/EnterpriseDB/barman) | Backup and recovery manager for PostgreSQL servers, supporting disaster recovery. | EnterpriseDB | 3.3k |
 | [sabnzbd](https://github.com/sabnzbd/sabnzbd) | Automated binary newsreader for downloading files from Usenet newsgroups. | sabnzbd | 3.2k |
 | [robusta](https://github.com/robusta-dev/robusta) | Kubernetes tool that groups Prometheus alerts, adds AI enrichment, and automates remediation. | robusta-dev | 3.1k |

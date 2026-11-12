@@ -92,7 +92,7 @@
 | [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) | Curated list of ChatGPT resources, tools, and projects. Submissions are currently paused. | sindresorhus | 6.5k |
 | [postman-app-support](https://github.com/postmanlabs/postman-app-support) | Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. | postmanlabs | 6k |
 | [awesome-swift](https://github.com/Wolg/awesome-swift) | A curated list of awesome Swift frameworks, libraries and software. | Wolg | 5.9k |
-| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 🆕 | Guidance on current web development best practices, provided for use by coding agents. | GoogleChrome | 5.8k |
+| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 🆕 | Guidance on current web development best practices, provided for use by coding agents. | GoogleChrome | 5.9k |
 | [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | Open-source desktop office suite for documents, spreadsheets, presentations, and PDF forms. | ONLYOFFICE | 5.7k |
 | [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Everything that makes working with databases easier | mgramin | 5.4k |
 | [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) | Markdown Cheatsheet for Github Readme.md | tchapi | 5.3k |

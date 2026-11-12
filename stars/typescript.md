@@ -74,7 +74,7 @@
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection. | ChromeDevTools | 55.1k |
 | [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | vuejs | 55k |
 | [expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | expo | 53.5k |
-| [cherry-studio](https://github.com/CherryHQ/cherry-studio) 🆕 | AI workspace for working with models, agents and productivity tools in one place. | CherryHQ | 53.4k |
+| [cherry-studio](https://github.com/CherryHQ/cherry-studio) 🆕 | AI workspace for working with models, agents and productivity tools in one place. | CherryHQ | 53.5k |
 | [ionic-framework](https://github.com/ionic-team/ionic-framework) | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | ionic-team | 52.8k |
 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | upscayl | 52.3k |
 | [shannon](https://github.com/KeygraphHQ/shannon) | AI pentesting tool for web apps and APIs that analyzes source code and runs exploits to confirm flaws. | KeygraphHQ | 51.8k |
@@ -428,8 +428,8 @@
 | [signature_pad](https://github.com/szimek/signature_pad) | HTML5 canvas library for drawing smooth handwritten signatures in web pages. | szimek | 12.1k |
 | [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | MapLibre GL JS - Interactive vector tile maps in the browser | maplibre | 12.1k |
 | [milkdown](https://github.com/Milkdown/milkdown) | Plugin-driven WYSIWYG markdown editor framework built on ProseMirror. | Milkdown | 12.1k |
+| [codex-security](https://github.com/openai/codex-security) | CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities with Codex. | openai | 12.1k |
 | [InversifyJS](https://github.com/inversify/InversifyJS) | Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo | inversify | 12.1k |
-| [codex-security](https://github.com/openai/codex-security) | CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities with Codex. | openai | 12k |
 | [class-validator](https://github.com/typestack/class-validator) | Decorator-based property validation for classes. | typestack | 11.9k |
 | [gutenberg](https://github.com/WordPress/gutenberg) | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. | WordPress | 11.8k |
 | [codeburn](https://github.com/getagentseal/codeburn) | Local tool that tracks AI coding token usage and cost by model, project, and task across many agents. | getagentseal | 11.8k |
@@ -684,8 +684,8 @@
 | [node-serialport](https://github.com/serialport/node-serialport) | Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them! | serialport | 6k |
 | [typia](https://github.com/samchon/typia) | Runtime validator and serializer generator for TypeScript, built on compile-time transformation. | samchon | 6k |
 | [js-lingui](https://github.com/lingui/js-lingui) | Internationalization library for JavaScript with message extraction and a small runtime footprint. | lingui | 5.9k |
-| [workadventure](https://github.com/workadventure/workadventure) | Collaborative virtual office web app presented as a 16-bit RPG game, for remote teams to meet. | workadventure | 5.9k |
 | [solid-start](https://github.com/solidjs/solid-start) | Meta-framework for building web applications with Solid.js, including file-system routing. | solidjs | 5.9k |
+| [workadventure](https://github.com/workadventure/workadventure) | Collaborative virtual office web app presented as a 16-bit RPG game, for remote teams to meet. | workadventure | 5.9k |
 | [toolkit](https://github.com/actions/toolkit) | The GitHub ToolKit for developing GitHub Actions. | actions | 5.9k |
 | [mui-x](https://github.com/mui/mui-x) | MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more! | mui | 5.9k |
 | [sucrase](https://github.com/alangpierce/sucrase) | Fast alternative to Babel for compiling TypeScript, JSX, and ES modules for modern runtimes. | alangpierce | 5.9k |
@@ -1603,21 +1603,13 @@
 | [pixa-ui](https://github.com/Lokendrakushwah12/pixa-ui) | Component library of animated UI elements built with Tailwind CSS and Framer Motion. | Lokendrakushwah12 | 18 |
 | [template-nextjs](https://github.com/betagouv/template-nextjs) | Next.js project template following the French government's DSFR design system. | betagouv | 12 |
 | [egapro](https://github.com/SocialGouv/egapro) | Tool that calculates the gender equality index for French companies. | SocialGouv | 12 |
-| [merge-package-dependencies](https://github.com/userfrosting/merge-package-dependencies) | Merge NPM or Bower package dependencies into one package, with semvar rules respected. | userfrosting | 11 |
-| [fib-retracement](https://github.com/madeiras/fib-retracement) | A tool for calculating fib retracement levels | madeiras | 10 |
 | [node-talisman](https://github.com/pgmanutd/node-talisman) | 👌 By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys. | pgmanutd | 10 |
 | [mktemp](https://github.com/sasaplus1/mktemp) | create temporary files and directories | sasaplus1 | 10 |
-| [matomo-js](https://github.com/mj-kiwi/matomo-js) | Modern JavaScript and TypeScript client library for Matomo Analytics, including an MCP server. | mj-kiwi | 9 |
-| [okej](https://github.com/yearofmoo/okej) | Bare-metal Result object implementation for TypeScript and JavaScript error handling. | yearofmoo | 9 |
 | [revu](https://github.com/SocialGouv/revu) | Tool for automated pull request reviews. | SocialGouv | 8 |
-| [language-server](https://github.com/publicodes/language-server) | Language server and VS Code client providing editor support for Publicodes rule files. | publicodes | 7 |
 | [cdtn-admin](https://github.com/SocialGouv/cdtn-admin) | Veille &amp; administration des contenus pour le code du travail numérique | SocialGouv | 6 |
 | [packages](https://github.com/stephansama/packages) | Collection of open source npm packages for JavaScript and TypeScript, including Alfred workflows. | stephansama | 5 |
 | [dsfr-mcp](https://github.com/SocialGouv/dsfr-mcp) | MCP server exposing French government design system (DSFR) documentation and examples. | SocialGouv | 4 |
-| [no-package-malware](https://github.com/SocialGouv/no-package-malware) |  | SocialGouv | 4 |
 | [actions](https://github.com/stephansama/actions) | A collection of open source GitHub Actions published by stephansama. | stephansama | 4 |
 | [srdt](https://github.com/SocialGouv/srdt) | Virtual assistant for labor law information services, in French. | SocialGouv | 3 |
-| [cleantube](https://github.com/revolunet/cleantube) | Distraction-free French-language YouTube frontend. | revolunet | 2 |
-| [gitscan](https://github.com/revolunet/gitscan) | Automated scanner that collects metadata, docs, dependencies, and commit history from public GitHub repositories. | revolunet | 1 |
 
 **Legend:** 🗄️ archived · 🆕 starred in the last 30 days

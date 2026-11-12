@@ -288,8 +288,8 @@
 | [jspaint](https://github.com/1j01/jspaint) | 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras | 1j01 | 7.9k |
 | [svgedit](https://github.com/SVG-Edit/svgedit) | Browser-based SVG editor for creating and editing SVG images. | SVG-Edit | 7.9k |
 | [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) | Script that lazy-loads images, videos, iframes and scripts when they near the viewport. | verlok | 7.8k |
-| [dev](https://github.com/codemirror/dev) 🗄️ | Development repository for the CodeMirror editor project | codemirror | 7.8k |
 | [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | MCP server giving AI agents Firecrawl tools to search, scrape, crawl, and map web content. | firecrawl | 7.8k |
+| [dev](https://github.com/codemirror/dev) 🗄️ | Development repository for the CodeMirror editor project | codemirror | 7.8k |
 | [loadable-components](https://github.com/gregberge/loadable-components) | The recommended Code Splitting library for React ✂️✨ | gregberge | 7.8k |
 | [styled-jsx](https://github.com/vercel/styled-jsx) | Full CSS support for JSX without compromises | vercel | 7.8k |
 | [undici](https://github.com/nodejs/undici) | An HTTP/1.1 client, written from scratch for Node.js | nodejs | 7.7k |
@@ -522,8 +522,8 @@
 | [riju](https://github.com/radian-software/riju) | Fast online playground for running code in every programming language, in the browser. | radian-software | 1.7k |
 | [HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) | Converts millisecond durations into readable text, for example 361000 becomes 6 minutes, 1 second. | EvanHahn | 1.7k |
 | [pino-pretty](https://github.com/pinojs/pino-pretty) | 🌲Basic prettifier for Pino log lines | pinojs | 1.7k |
-| [webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI agent that automates browser tasks as an extension for Chrome and Firefox. | webbrain-one | 1.7k |
 | [cross-fetch](https://github.com/lquixada/cross-fetch) | Universal WHATWG Fetch API for Node, Browsers and React Native. | lquixada | 1.7k |
+| [webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI agent that automates browser tasks as an extension for Chrome and Firefox. | webbrain-one | 1.7k |
 | [hbs](https://github.com/pillarjs/hbs) | Express view engine wrapper for Handlebars | pillarjs | 1.7k |
 | [nft](https://github.com/vercel/nft) | Node.js dependency tracing utility | vercel | 1.7k |
 | [mailcheap](https://github.com/marclou/mailcheap) | Self-hostable newsletter platform that charges per email sent rather than per subscriber. | marclou | 1.7k |
@@ -619,7 +619,7 @@
 | [jayson](https://github.com/tedeh/jayson) | Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js | tedeh | 727 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | :chart: A complete and heavily tested wrapper with typings for the Binance API. | ccxt | 711 |
 | [pino-http](https://github.com/pinojs/pino-http) | High-speed HTTP request logger for Node.js built on the Pino logging library. | pinojs | 709 |
-| [semantic-release-action](https://github.com/cycjimmy/semantic-release-action) | GitHub Action for Semantic Release | cycjimmy | 707 |
+| [semantic-release-action](https://github.com/cycjimmy/semantic-release-action) | GitHub Action for Semantic Release | cycjimmy | 708 |
 | [react-native-youtube-iframe](https://github.com/LonelyCpp/react-native-youtube-iframe) | A wrapper of the Youtube-iframe API built for react native. | LonelyCpp | 704 |
 | [camelcase](https://github.com/sindresorhus/camelcase) | Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar | sindresorhus | 699 |
 | [couchdb-nano](https://github.com/apache/couchdb-nano) | Nano: The official Apache CouchDB library for Node.js | apache | 691 |

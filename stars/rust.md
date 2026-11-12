@@ -77,7 +77,7 @@
 | [turborepo](https://github.com/vercel/turborepo) | The build system for coding agents. | vercel | 31.3k |
 | [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI applications and agents. | chroma-core | 29.7k |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | A command-line benchmarking tool | sharkdp | 29.3k |
-| [craft-anything](https://github.com/storytold/craft-anything) 🆕 | Learning resource for understanding how software works and building your own. | storytold | 29.2k |
+| [craft-anything](https://github.com/storytold/craft-anything) 🆕 | Learning resource for understanding how software works and building your own. | storytold | 29.3k |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Kanban-style task manager for running and reviewing Claude Code, Codex, and other coding agents. | BloopAI | 28.7k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 27.9k |
 | [pingora](https://github.com/cloudflare/pingora) | Rust library for building fast, reliable, and evolvable network services. | cloudflare | 27.9k |
@@ -102,7 +102,7 @@
 | [vector](https://github.com/vectordotdev/vector) | A high-performance observability data pipeline. | vectordotdev | 22.9k |
 | [gitui](https://github.com/gitui-org/gitui) | Fast terminal UI for Git written in Rust, for viewing and managing repository changes. | gitui-org | 22.7k |
 | [RustPython](https://github.com/RustPython/RustPython) | Python interpreter written in Rust, with a compiler and JIT for running Python code. | RustPython | 22.5k |
-| [agent-desktop](https://github.com/vercel-labs/agent-desktop) 🆕 | Command-line tool that lets AI agents use a computer through accessibility APIs. | vercel-labs | 22.4k |
+| [agent-desktop](https://github.com/vercel-labs/agent-desktop) 🆕 | Command-line tool that lets AI agents use a computer through accessibility APIs. | vercel-labs | 22.5k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Create book from markdown files. Like Gitbook but implemented in Rust | rust-lang | 22.3k |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | Git version control client built with Tauri, Rust and Svelte, compatible with Git repositories. | gitbutlerapp | 22k |
 | [jcode](https://github.com/1jehuang/jcode) | Rust coding agent harness built for heavy multi-agent development workflows. | 1jehuang | 21.7k |
@@ -191,8 +191,8 @@
 | [pixi](https://github.com/prefix-dev/pixi) | Rust package manager for Linux, macOS, and Windows that builds on the Conda ecosystem. | prefix-dev | 8k |
 | [mistral.rs](https://github.com/EricLBuehler/mistral.rs) | Rust-based LLM inference engine focused on speed and flexibility. | EricLBuehler | 7.8k |
 | [mcfly](https://github.com/cantino/mcfly) | Fly through your shell history. Great Scott! | cantino | 7.8k |
-| [code2prompt](https://github.com/mufeedvh/code2prompt) | CLI tool that converts a codebase into one LLM prompt with a source tree and token counts. | mufeedvh | 7.8k |
 | [rustls](https://github.com/rustls/rustls) | Modern TLS library written in Rust. | rustls | 7.8k |
+| [code2prompt](https://github.com/mufeedvh/code2prompt) | CLI tool that converts a codebase into one LLM prompt with a source tree and token counts. | mufeedvh | 7.8k |
 | [lightningcss](https://github.com/parcel-bundler/lightningcss) | Fast CSS parser, transformer, bundler, and minifier written in Rust. | parcel-bundler | 7.7k |
 | [boa](https://github.com/boa-dev/boa) | Embeddable JavaScript engine written in Rust, implementing the ECMAScript specification. | boa-dev | 7.7k |
 | [himalaya](https://github.com/pimalaya/himalaya) | Command-line tool for managing email, with IMAP support and GPG encryption. | pimalaya | 7.6k |

@@ -37,7 +37,7 @@
 | [deskflow](https://github.com/deskflow/deskflow) | Software for sharing one keyboard and mouse across multiple computers over a network. | deskflow | 31k |
 | [srs](https://github.com/ossrs/srs) | SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | ossrs | 29.4k |
 | [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy | envoyproxy | 29.2k |
-| [mlx](https://github.com/ml-explore/mlx) | Array framework for machine learning on Apple silicon, with a NumPy-like API. | ml-explore | 29.1k |
+| [mlx](https://github.com/ml-explore/mlx) | Array framework for machine learning on Apple silicon, with a NumPy-like API. | ml-explore | 29.2k |
 | [xgboost](https://github.com/dmlc/xgboost) | Scalable, distributed gradient boosting library for Python, R, Java, Scala, and C. | dmlc | 29k |
 | [mongo](https://github.com/mongodb/mongo) | The MongoDB Database | mongodb | 28.7k |
 | [emscripten](https://github.com/emscripten-core/emscripten) | Emscripten: An LLVM-to-WebAssembly Compiler | emscripten-core | 27.8k |

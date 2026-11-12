@@ -2,7 +2,7 @@
 
 > My GitHub stars, sorted and rebuilt every day by [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars? It takes one GitHub Action.
 
-![Total](https://img.shields.io/badge/Total-4838-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
+![Total](https://img.shields.io/badge/Total-4830-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
 
 ## ✨ Digest
 
@@ -32,11 +32,11 @@ Elsewhere, OCR keeps rising with chandra and GLM-OCR, and trading agents like Vi
 
 ## 📊 Stats
 
-**4838** repositories · **76** languages · **51** archived · starred since 2017-02-02
+**4830** repositories · **76** languages · **51** archived · starred since 2017-02-02
 
 ```mermaid
 pie showData title Top languages
-    "TypeScript" : 1615
+    "TypeScript" : 1607
     "JavaScript" : 768
     "Python" : 610
     "Go" : 373
@@ -53,7 +53,7 @@ pie showData title Top languages
 xychart-beta
     title "Stars per year"
     x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-    bar [60, 132, 102, 490, 984, 842, 654, 442, 432, 700]
+    bar [60, 132, 102, 490, 983, 841, 652, 442, 430, 698]
 ```
 
 ## Contents
@@ -129,7 +129,7 @@ xychart-beta
 - [Svelte (4)](stars/svelte.md)
 - [Swift (73)](stars/swift.md)
 - [TeX (1)](stars/tex.md)
-- [TypeScript (1615)](stars/typescript.md)
+- [TypeScript (1607)](stars/typescript.md)
 - [Vim Script (3)](stars/vim-script.md)
 - [Vue (13)](stars/vue.md)
 - [WebAssembly (1)](stars/webassembly.md)
@@ -206,7 +206,7 @@ xychart-beta
 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 155k |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | microsoft | 141k |
 | [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 80.8k |
-| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | obsproject | 79.4k |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | obsproject | 79.5k |
 
 **[→ All 107 repositories](stars/c.md)**
 
@@ -409,7 +409,7 @@ xychart-beta
 |---|---|---|---:|
 | [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 211k |
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 143k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Agent skill producing editorial diagrams as self-contained HTML and SVG for coding agents. | cathrynlavery | 66.6k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Agent skill producing editorial diagrams as self-contained HTML and SVG for coding agents. | cathrynlavery | 66.7k |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 | ToolJet | 41.2k |
 | [manifesto](https://github.com/opentofu/manifesto) 🗄️ | Manifesto expressing concern over HashiCorp's Terraform license change and calling for an open-source license. | opentofu | 35.6k |
 
@@ -682,7 +682,7 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell script that removes preinstalled apps, disables telemetry and applies other Windows customizations. | Raphire | 62.4k |
-| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Skill router pack for reverse engineering and authorized penetration testing with AI agents. | zhaoxuya520 | 44.5k |
+| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Skill router pack for reverse engineering and authorized penetration testing with AI agents. | zhaoxuya520 | 44.6k |
 | [Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | ScoopInstaller | 24.8k |
 | [SpotX](https://github.com/SpotX-Official/SpotX) | PowerShell patcher that modifies the Windows desktop Spotify client to block advertisements. | SpotX-Official | 23.2k |
 | [Atlas](https://github.com/Atlas-OS/Atlas) | Lightweight modification of Windows intended to improve performance, privacy and usability. | Atlas-OS | 22.1k |
@@ -853,7 +853,7 @@ xychart-beta
 | [opencode](https://github.com/anomalyco/opencode) | Open source coding agent for software development tasks. | anomalyco | 226k |
 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 210k |
 
-**[→ All 1615 repositories](stars/typescript.md)**
+**[→ All 1607 repositories](stars/typescript.md)**
 
 ## Vim Script
 

@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 211k |
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 143k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Agent skill producing editorial diagrams as self-contained HTML and SVG for coding agents. | cathrynlavery | 66.6k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Agent skill producing editorial diagrams as self-contained HTML and SVG for coding agents. | cathrynlavery | 66.7k |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 | ToolJet | 41.2k |
 | [manifesto](https://github.com/opentofu/manifesto) 🗄️ | Manifesto expressing concern over HashiCorp's Terraform license change and calling for an open-source license. | opentofu | 35.6k |
 | [alpine](https://github.com/alpinejs/alpine) | A rugged, minimal framework for composing JavaScript behavior in your markup. | alpinejs | 32k |
