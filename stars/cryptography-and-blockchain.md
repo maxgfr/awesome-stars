@@ -70,7 +70,7 @@
 | [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) | Optimized bcrypt implementation in JavaScript for hashing and verifying passwords, with no dependencies. | dcodeIO | 3.8k |
 | [prysm](https://github.com/OffchainLabs/prysm) | Go implementation of the Ethereum proof-of-stake consensus client. | OffchainLabs | 3.8k |
 | [wallet-core](https://github.com/trustwallet/wallet-core) | Cross-platform C++ library for wallet functionality across many blockchains. | trustwallet | 3.6k |
-| [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) | Cryptocurrency trading bot for exchanges including Bitfinex, Bitmex, Binance and Bybit. | Haehnchen | 3.5k |
+| [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) | Cryptocurrency trading bot for exchanges including Bitfinex, Bitmex, Binance and Bybit. | Haehnchen | 3.6k |
 | [lighthouse](https://github.com/sigp/lighthouse) | Ethereum proof-of-stake consensus client written in Rust. | sigp | 3.5k |
 | [jsrsasign](https://github.com/kjur/jsrsasign) | JavaScript library for RSA, ECDSA, and DSA signing, ASN.1 parsing, and certificate handling. | kjur | 3.4k |
 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | Bitcoin wallet for iOS and Android, built with React Native. | BlueWallet | 3.4k |
@@ -95,8 +95,8 @@
 | [venus](https://github.com/filecoin-project/venus) | Implementation of a Filecoin full node written in Go. | filecoin-project | 2.1k |
 | [wallet-adapter](https://github.com/anza-xyz/wallet-adapter) | Modular TypeScript wallet adapters and UI components for Solana applications. | anza-xyz | 2k |
 | [apps](https://github.com/polkadot-js/apps) | Web user interface for interacting with Polkadot and Substrate nodes, covering all Substrate chain features. | polkadot-js | 1.8k |
-| [token-lists](https://github.com/Uniswap/token-lists) | Specification for token lists, a JSON format for describing sets of ERC-20 tokens for applications. | Uniswap | 1.7k |
 | [circl](https://github.com/cloudflare/circl) | Go cryptography library from Cloudflare with post-quantum schemes such as Dilithium and CSIDH. | cloudflare | 1.7k |
+| [token-lists](https://github.com/Uniswap/token-lists) | Specification for token lists, a JSON format for describing sets of ERC-20 tokens for applications. | Uniswap | 1.7k |
 | [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | Monorepo of WalletConnect libraries for connecting Ethereum wallets to dapps. | WalletConnect | 1.7k |
 | [node-binance-api](https://github.com/ccxt/node-binance-api) | Asynchronous Node.js library for the Binance API, designed to be easy to use. | ccxt | 1.7k |
 | [binance-api-postman](https://github.com/binance/binance-api-postman) | Postman collection for the Binance Public API covering spot, margin, and futures endpoints. | binance | 1.6k |
@@ -116,9 +116,9 @@
 | [api](https://github.com/polkadot-js/api) | Promise and RxJS APIs for Polkadot and Substrate chains over RPC, generated from runtime metadata. | polkadot-js | 1.1k |
 | [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) | Fast React Native implementation of Node's crypto module, written in C/C++ with JSI. | margelo | 1.1k |
 | [extension](https://github.com/polkadot-js/extension) | Browser extension for managing Polkadot and Substrate accounts and signing extrinsics with them. | polkadot-js | 1k |
-| [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 972 |
+| [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 971 |
+| [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 934 |
 | [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | Ethereum-compatible smart contract parachain on the Polkadot network. | moonbeam-foundation | 933 |
-| [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 933 |
 | [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 925 |
 | [token-profile](https://github.com/consenlabs/token-profile) | Dataset of profile information for blockchain coins and tokens, aimed at wallet use. | consenlabs | 923 |
 | [cello](https://github.com/hyperledger-cello/cello) | Tool for deploying and managing enterprise blockchain networks on Hyperledger infrastructure. | hyperledger-cello | 921 |
@@ -138,13 +138,13 @@
 | [contract-metadata](https://github.com/MetaMask/contract-metadata) | Mapping of Ethereum contract addresses to icons used by wallet interfaces. | MetaMask | 585 |
 | [pem](https://github.com/Dexus/pem) | Node.js library for creating private keys, certificates, and certificate signing requests. | Dexus | 575 |
 | [matic.js](https://github.com/0xPolygon/matic.js) | JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications. | 0xPolygon | 566 |
-| [noble-ed25519](https://github.com/paulmillr/noble-ed25519) | Minimal, fast JavaScript implementation of Ed25519 digital signatures. | paulmillr | 524 |
+| [noble-ed25519](https://github.com/paulmillr/noble-ed25519) | Minimal, fast JavaScript implementation of Ed25519 digital signatures. | paulmillr | 525 |
 | [clob-client](https://github.com/Polymarket/clob-client) 🗄️ | TypeScript client for the Polymarket CLOB API. | Polymarket | 515 |
 | [fabric-ca](https://github.com/hyperledger/fabric-ca) | Certificate authority for issuing and managing identities in Hyperledger Fabric networks. | hyperledger | 455 |
 | [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) | Gas usage analytics plugin for Hardhat that reports gas costs of Solidity contract calls in tests. | cgewecke | 430 |
 | [javascript-sdk](https://github.com/bnb-chain/javascript-sdk) | JavaScript SDK for communicating with the BNB Beacon Chain. | bnb-chain | 401 |
-| [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 380 |
-| [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 375 |
+| [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 379 |
+| [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 374 |
 | [prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) | Prisma middleware providing transparent field-level encryption of data at rest. | 47ng | 309 |
 | [providers](https://github.com/MetaMask/providers) | Ethereum provider that communicates over a stream, as injected into websites by MetaMask. | MetaMask | 268 |
 | [selfsigned](https://github.com/jfromaniello/selfsigned) | Node.js library for generating self-signed TLS certificates. | jfromaniello | 253 |

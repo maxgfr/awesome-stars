@@ -9,7 +9,7 @@
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.8k |
 | [cypress](https://github.com/cypress-io/cypress) | End-to-end and component testing framework for applications running in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
-| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 41.9k |
+| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.3k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.1k |
@@ -35,7 +35,7 @@
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 13.9k |
 | [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 13.8k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for web automation and testing that also handles bot detection and Cloudflare challenges. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for browser automation and end-to-end testing, including bot-detection bypass. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.3k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
@@ -74,7 +74,7 @@
 | [vscode-jest](https://github.com/jest-community/vscode-jest) | VS Code extension that provides an integrated workflow for running and debugging Jest tests. | jest-community | 2.9k |
 | [sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) | Self-hosted, free alternative to the Cypress Dashboard for recording and viewing test runs. | sorry-cypress | 2.8k |
 | [loadtest](https://github.com/alexfernandez/loadtest) | Node.js tool that runs load tests against a given URL, usable from the command line or its API. | alexfernandez | 2.6k |
-| [invisible_playwright](https://github.com/feder-cr/invisible_playwright) | Playwright-compatible Python library using stealth headless Firefox to evade bot detection. | feder-cr | 2.6k |
+| [playwright](https://github.com/oss-invisible/playwright) | Playwright API for headless Firefox scraping that uses stealth to evade anti-bot detection. | oss-invisible | 2.6k |
 | [jest-preview](https://github.com/nvh95/jest-preview) | Debugging tool that shows the rendered output of Jest tests in the browser. | nvh95 | 2.4k |
 | [tinybench](https://github.com/tinylibs/tinybench) | Small TypeScript library for benchmarking JavaScript code performance. | tinylibs | 2.4k |
 | [jest-extended](https://github.com/jest-community/jest-extended) | Additional matchers for Jest to extend its assertion library. | jest-community | 2.3k |
@@ -98,7 +98,7 @@
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [testing-playground](https://github.com/testing-library/testing-playground) | A DOM testing playground that encourages good testing practices and accessibility. | testing-library | 814 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 769 |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 735 |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 736 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 694 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 647 |

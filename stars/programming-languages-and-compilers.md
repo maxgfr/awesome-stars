@@ -43,7 +43,7 @@
 | [mquickjs](https://github.com/bellard/mquickjs) | Public repository of the Micro QuickJS JavaScript engine. | bellard | 6.2k |
 | [uniffi-rs](https://github.com/mozilla/uniffi-rs) | Generator that produces foreign-language bindings for Rust crates across multiple languages. | mozilla | 5.1k |
 | [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Specification and documentation for Dhall, a language for maintainable configuration files. | dhall-lang | 4.5k |
-| [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.6k |
+| [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.7k |
 | [isolated-vm](https://github.com/laverdet/isolated-vm) | Node.js library for running secure, isolated JavaScript environments with V8 isolates. | laverdet | 2.9k |
 | [numbat](https://github.com/sharkdp/numbat) | Statically typed language for scientific computation with first-class physical dimensions and units. | sharkdp | 2.8k |
 | [catala](https://github.com/CatalaLang/catala) | Programming language for writing law specifications in a literate style, with legislative texts. | CatalaLang | 2.4k |

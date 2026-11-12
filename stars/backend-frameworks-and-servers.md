@@ -59,7 +59,7 @@
 | [graphql-js](https://github.com/graphql/graphql-js) | Reference JavaScript implementation of the GraphQL query language and execution engine. | graphql | 20.3k |
 | [elysia](https://github.com/elysiajs/elysia) | Ergonomic TypeScript web framework for building HTTP servers, primarily on the Bun runtime. | elysiajs | 19.4k |
 | [core](https://github.com/adonisjs/core) | TypeScript-first Node.js web framework for building web apps and API servers with testing support. | adonisjs | 19.2k |
-| [iii](https://github.com/iii-hq/iii) | Engine for composing, extending and observing backend services and AI agents in real time. | iii-hq | 18.9k |
+| [iii](https://github.com/iii-hq/iii) | Engine for composing, extending, observing, and reacting to services in real time. | iii-hq | 18.9k |
 | [postal](https://github.com/postalserver/postal) | Open source mail delivery platform for sending and receiving email, with SMTP support. | postalserver | 17k |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client and server framework for asyncio in Python. | aio-libs | 16.6k |
 | [hyper](https://github.com/hyperium/hyper) | Fast and correct HTTP library for Rust, supporting both client and server implementations. | hyperium | 16.4k |
@@ -115,7 +115,6 @@
 | [morgan](https://github.com/expressjs/morgan) | HTTP request logger middleware for Node.js and Express applications. | expressjs | 8.2k |
 | [type-graphql](https://github.com/MichalLytek/type-graphql) | Builds GraphQL schemas and resolvers in TypeScript using classes and decorators. | MichalLytek | 8.1k |
 | [webiny-js](https://github.com/webiny/webiny-js) | Self-hosted headless CMS on AWS serverless infrastructure, built as a TypeScript framework. | webiny | 8.1k |
-| [lang](https://github.com/Laravel-Lang/lang) | Translation files in 128 languages for Laravel and packages like Jetstream, Fortify and Nova. | Laravel-Lang | 7.8k |
 | [realtime](https://github.com/supabase/realtime) | Elixir server for broadcasting messages, presence, and Postgres changes over WebSockets. | supabase | 7.7k |
 | [Robyn](https://github.com/sparckles/Robyn) | Asynchronous Python web framework with a Rust runtime for building HTTP backends. | sparckles | 7.4k |
 | [trio](https://github.com/python-trio/trio) | Async concurrency and I/O library for Python using structured concurrency. | python-trio | 7.4k |
@@ -167,7 +166,7 @@
 | [middleware](https://github.com/truenas/middleware) | Middleware for TrueNAS CORE, Enterprise and SCALE, managing storage services such as NFS and SMB. | truenas | 2.6k |
 | [workflow](https://github.com/vercel/workflow) | TypeScript SDK for building durable, observable apps and AI agents with workflow orchestration. | vercel | 2.5k |
 | [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Project boilerplate combining Django 5, React, Tailwind 4, Webpack, and Celery for web applications. | vintasoftware | 2.3k |
-| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.2k |
+| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.3k |
 | [typescript-starter](https://github.com/nestjs/typescript-starter) | TypeScript starter project template for the Nest framework. | nestjs | 2.2k |
 | [wildduck](https://github.com/zone-eu/wildduck) | Opinionated email server providing IMAP, POP3 and LMTP services backed by MongoDB. | zone-eu | 2.1k |
 | [cookie-parser](https://github.com/expressjs/cookie-parser) | Express middleware for parsing HTTP request cookies into req.cookies. | expressjs | 2k |

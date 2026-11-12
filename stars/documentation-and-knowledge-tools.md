@@ -14,14 +14,14 @@
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.4k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.4k |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.1k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.2k |
-| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47k |
+| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.1k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 46.9k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
-| [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.2k |
+| [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.3k |
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.6k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 38.9k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.4k |
@@ -74,8 +74,8 @@
 | [codimd](https://github.com/hackmdio/codimd) | Open source, self-hostable real-time collaborative Markdown note editor compatible with HackMD. | hackmdio | 10.2k |
 | [WeasyPrint](https://github.com/Kozea/WeasyPrint) | Python library that converts HTML and CSS into PDF documents. | Kozea | 9.8k |
 | [starlight](https://github.com/withastro/starlight) | Astro framework for building accessible, high-performance documentation websites. | withastro | 9.6k |
+| [papermark](https://github.com/papermark/papermark) | Open source DocSend alternative offering secure data rooms with built-in analytics and custom domains. | papermark | 9.4k |
 | [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | Guide explaining how to contribute to open source projects. | freeCodeCamp | 9.3k |
-| [papermark](https://github.com/papermark/papermark) | Open source DocSend alternative offering secure data rooms with built-in analytics and custom domains. | papermark | 9.3k |
 | [presenterm](https://github.com/mfontanini/presenterm) | Terminal slideshow tool that presents markdown documents. | mfontanini | 9k |
 | [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generates changelogs and release notes from commit messages and project metadata. | conventional-changelog | 8.5k |
 | [markdoc](https://github.com/markdoc/markdoc) | Markdown-based authoring framework for building documentation with a customizable toolchain. | markdoc | 8.5k |

@@ -3,8 +3,29 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-12T12:38:55Z</updated>
+  <updated>2026-11-12T22:01:13Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>VirusTotal/yara</title>
+    <link href="https://github.com/VirusTotal/yara"/>
+    <id>https://github.com/VirusTotal/yara</id>
+    <updated>2026-11-12T22:01:13Z</updated>
+    <author><name>VirusTotal</name></author>
+    <summary>Pattern matching engine for classifying malware using rules over text or binary data. · C</summary>
+  </entry>
+  <entry>
+    <title>0xERR0R/blocky</title>
+    <link href="https://github.com/0xERR0R/blocky"/>
+    <id>https://github.com/0xERR0R/blocky</id>
+    <updated>2026-11-12T21:05:20Z</updated>
+    <author><name>0xERR0R</name></author>
+    <summary>Lightweight DNS proxy that blocks ads on a local network, with DNS-over-HTTPS and other features. · Go · ad-blocker, adblock, adblocker, dns, dns-over-https</summary>
+    <category term="ad-blocker"/>
+    <category term="adblock"/>
+    <category term="adblocker"/>
+    <category term="dns"/>
+    <category term="dns-over-https"/>
+  </entry>
   <entry>
     <title>AminForou/mcp-gsc</title>
     <link href="https://github.com/AminForou/mcp-gsc"/>
@@ -536,27 +557,6 @@
     <id>https://github.com/tashfeenahmed/freellmapi</id>
     <updated>2026-10-26T07:43:44Z</updated>
     <author><name>tashfeenahmed</name></author>
-    <summary>Single /v1 endpoint that routes across 34 free LLM providers with failover and encrypted keys. · TypeScript</summary>
-  </entry>
-  <entry>
-    <title>Alishahryar1/free-claude-code</title>
-    <link href="https://github.com/Alishahryar1/free-claude-code"/>
-    <id>https://github.com/Alishahryar1/free-claude-code</id>
-    <updated>2026-10-26T07:38:12Z</updated>
-    <author><name>Alishahryar1</name></author>
-    <summary>Runs Claude Code, Codex and other agent tools on free model tokens from terminal, IDE, or browser. · Python</summary>
-  </entry>
-  <entry>
-    <title>realiti4/claude-swap</title>
-    <link href="https://github.com/realiti4/claude-swap"/>
-    <id>https://github.com/realiti4/claude-swap</id>
-    <updated>2026-10-26T07:33:46Z</updated>
-    <author><name>realiti4</name></author>
-    <summary>Switches between Claude Code accounts with automatic rate-limit rotation and parallel sessions. · Python · account-manager, account-switcher, anthropic, claude, claude-code</summary>
-    <category term="account-manager"/>
-    <category term="account-switcher"/>
-    <category term="anthropic"/>
-    <category term="claude"/>
-    <category term="claude-code"/>
+    <summary>Proxies requests to many free LLM providers through one OpenAI-compatible /v1 endpoint. · TypeScript</summary>
   </entry>
 </feed>

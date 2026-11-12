@@ -72,7 +72,7 @@
 | [calico](https://github.com/projectcalico/calico) | Cloud native networking and network security solution for containers, VMs, and hosts. | projectcalico | 7.4k |
 | [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Desktop app for container management and local Kubernetes on Linux, macOS and Windows. | rancher-sandbox | 7.4k |
 | [kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes API and runtime for defining and managing virtual machines. | kubevirt | 7.2k |
-| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7k |
+| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7.1k |
 | [external-secrets](https://github.com/external-secrets/external-secrets) | Kubernetes operator that syncs secrets from external services like AWS Secrets Manager into Kubernetes Secrets. | external-secrets | 6.9k |
 | [examples](https://github.com/kubernetes/examples) | Tutorials and example applications showing how to run workloads on Kubernetes. | kubernetes | 6.8k |
 | [actions-runner-controller](https://github.com/actions/actions-runner-controller) | Kubernetes operator that manages self-hosted GitHub Actions runners. | actions | 6.7k |

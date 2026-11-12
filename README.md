@@ -2,20 +2,22 @@
 
 > My GitHub stars, sorted and rebuilt every day by [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars? It takes one GitHub Action.
 
-![Total](https://img.shields.io/badge/Total-4831-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
+![Total](https://img.shields.io/badge/Total-4833-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--12-blue.svg)
 
-**[🔎 Search all 4,831 stars](https://maxgfr.github.io/awesome-stars/)**
+**[🔎 Search all 4,833 stars](https://maxgfr.github.io/awesome-stars/)**
 
 ## ✨ Digest
 
-**Agent tooling** dominates this batch, from protocols like A2A and AG-UI to mcp-gsc and Unity-MCP. **Cost and access control** also shows up in TokenEconomizer, claude-swap, and freellmapi, while many projects push AI onto local hardware, such as mflux on Apple silicon and pocket-tts on a CPU.
+Agents dominate this batch of stars. **Agent protocols and tooling** lead the way, with A2A, ag-ui, and Unity-MCP connecting models to apps, editors, and SEO data, while claude-swap and free-claude-code show developers managing accounts and token budgets. **Free and local AI** runs alongside, from freellmapi's aggregated endpoints to pocket-tts and mflux running on local hardware.
 
-Rust-built developer tools like tsrs and omnidiff point to a focus on **speed and performance**. OCR is also trending, with GLM-OCR, chandra, and RapidOCR all in the mix.
+**Document intelligence** appears in chandra and GLM-OCR, while **reverse engineering and privacy tools** like camoufox, androguard, and unfairplay reflect interest in understanding closed software.
 
-<sub>Written by AI from the 82 repositories starred in the last 30 days.</sub>
+<sub>Written by AI from the 84 repositories starred in the last 30 days.</sub>
 
 ## 🆕 Recently starred
 
+- `2026-11-12` [VirusTotal/yara](https://github.com/VirusTotal/yara) — Pattern matching engine for classifying malware using rules over text or binary data.
+- `2026-11-12` [0xERR0R/blocky](https://github.com/0xERR0R/blocky) — Lightweight DNS proxy that blocks ads on a local network, with DNS-over-HTTPS and other features.
 - `2026-11-12` [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) — MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights.
 - `2026-11-12` [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Guidance on current web development best practices, provided for use by coding agents.
 - `2026-11-10` [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — Protocol for connecting AI agents to frontend applications, covering agent-user interaction.
@@ -29,22 +31,20 @@ Rust-built developer tools like tsrs and omnidiff point to a focus on **speed an
 - `2026-11-08` [jhlywa/chess.js](https://github.com/jhlywa/chess.js) — TypeScript library for chess move generation, validation, and check, checkmate, and draw detection.
 - `2026-11-08` [anomalyco/rune](https://github.com/anomalyco/rune) — Native user interface framework written in Rust.
 - `2026-11-07` [anomalyco/hex](https://github.com/anomalyco/hex) — Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device.
-- `2026-11-06` [unjs/uqr](https://github.com/unjs/uqr) — Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output.
-- `2026-11-06` [matomo-org/plugin-McpServer](https://github.com/matomo-org/plugin-McpServer)
 
 ## 📊 Stats
 
-**4831** repositories · **76** languages · **51** archived · starred since 2017-02-02
+**4833** repositories · **76** languages · **51** archived · starred since 2017-02-02
 
 ```mermaid
 pie showData title Top languages
     "TypeScript" : 1608
     "JavaScript" : 767
     "Python" : 611
-    "Go" : 373
+    "Go" : 374
     "Rust" : 320
     "C++" : 155
-    "C" : 107
+    "C" : 108
     "Java" : 105
     "Shell" : 103
     "Swift" : 73
@@ -55,34 +55,34 @@ pie showData title Top languages
 xychart-beta
     title "Stars per year"
     x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-    bar [60, 132, 102, 490, 983, 841, 652, 442, 430, 699]
+    bar [60, 132, 102, 490, 983, 841, 652, 442, 430, 701]
 ```
 
 ## Contents
 
-- [AI and Machine Learning (241)](stars/ai-and-machine-learning.md)
+- [AI and Machine Learning (240)](stars/ai-and-machine-learning.md)
 - [Audio and Video Processing (119)](stars/audio-and-video-processing.md)
 - [Awesome Lists and Learning Resources (175)](stars/awesome-lists-and-learning-resources.md)
-- [Backend Frameworks and Servers (219)](stars/backend-frameworks-and-servers.md)
+- [Backend Frameworks and Servers (218)](stars/backend-frameworks-and-servers.md)
 - [Browser Extensions and Scripts (74)](stars/browser-extensions-and-scripts.md)
 - [Cloud and Kubernetes (161)](stars/cloud-and-kubernetes.md)
 - [Cryptography and Blockchain (157)](stars/cryptography-and-blockchain.md)
 - [Databases and Data Tools (251)](stars/databases-and-data-tools.md)
 - [Desktop and Mobile Apps (238)](stars/desktop-and-mobile-apps.md)
-- [Developer Tools and Editors (328)](stars/developer-tools-and-editors.md)
-- [DevOps and Infrastructure (263)](stars/devops-and-infrastructure.md)
+- [Developer Tools and Editors (327)](stars/developer-tools-and-editors.md)
+- [DevOps and Infrastructure (264)](stars/devops-and-infrastructure.md)
 - [Documentation and Knowledge Tools (145)](stars/documentation-and-knowledge-tools.md)
 - [Frontend UI Libraries (553)](stars/frontend-ui-libraries.md)
 - [Image and Graphics Processing (82)](stars/image-and-graphics-processing.md)
 - [JavaScript and TypeScript Tooling (528)](stars/javascript-and-typescript-tooling.md)
-- [LLM Agents and AI Assistants (328)](stars/llm-agents-and-ai-assistants.md)
+- [LLM Agents and AI Assistants (329)](stars/llm-agents-and-ai-assistants.md)
 - [Mac Utilities (67)](stars/mac-utilities.md)
-- [Networking and Wireless (104)](stars/networking-and-wireless.md)
+- [Networking and Wireless (105)](stars/networking-and-wireless.md)
 - [Programming Languages and Compilers (49)](stars/programming-languages-and-compilers.md)
-- [Security and Penetration Testing (242)](stars/security-and-penetration-testing.md)
+- [Security and Penetration Testing (243)](stars/security-and-penetration-testing.md)
 - [Systems Programming in Go and Rust (41)](stars/systems-programming-in-go-and-rust.md)
 - [Testing and Automation (110)](stars/testing-and-automation.md)
-- [Others (356)](stars/others.md)
+- [Others (357)](stars/others.md)
 
 ## AI and Machine Learning
 
@@ -91,10 +91,10 @@ xychart-beta
 | [tensorflow](https://github.com/tensorflow/tensorflow) | Open source machine learning framework for building and training distributed deep neural networks. | tensorflow | 202k |
 | [ollama](https://github.com/ollama/ollama) | Tool for running open large language models such as DeepSeek, Gemma, GLM, and Qwen locally. | ollama | 187k |
 | [transformers](https://github.com/huggingface/transformers) | Python framework providing model definitions for machine learning models across text, vision, audio, and multimodal tasks. | huggingface | 169k |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based graph interface and backend for running diffusion models locally. | Comfy-Org | 146k |
-| [llama.cpp](https://github.com/ggml-org/llama.cpp) | C/C++ inference of large language models using the ggml tensor library. | ggml-org | 134k |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Node-based graph interface and backend for running diffusion models locally. | Comfy-Org | 147k |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | C/C++ inference of large language models using the ggml tensor library. | ggml-org | 135k |
 
-**[→ All 241 repositories](stars/ai-and-machine-learning.md)**
+**[→ All 240 repositories](stars/ai-and-machine-learning.md)**
 
 ## Audio and Video Processing
 
@@ -114,7 +114,7 @@ xychart-beta
 |---|---|---|---:|
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 562k |
 | [awesome](https://github.com/sindresorhus/awesome) | Curated index of other awesome lists organized by topic, with guidelines for creating them. | sindresorhus | 536k |
-| [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 498k |
+| [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 499k |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Curated list of freely available programming books and learning resources in many languages. | EbookFoundation | 401k |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Guide to designing large-scale systems, with study material for system design interviews. | donnemartin | 378k |
 
@@ -130,15 +130,15 @@ xychart-beta
 | [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79k |
 
-**[→ All 219 repositories](stars/backend-frameworks-and-servers.md)**
+**[→ All 218 repositories](stars/backend-frameworks-and-servers.md)**
 
 ## Browser Extensions and Scripts
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
-| [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.3k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 33.2k |
+| [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 33.9k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 
@@ -200,9 +200,9 @@ xychart-beta
 | [vscode](https://github.com/microsoft/vscode) | Code editor built with Electron and TypeScript, developed by Microsoft. | microsoft | 195k |
 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | Community framework for managing zsh configuration, with bundled plugins and themes. | ohmyzsh | 191k |
 | [gitignore](https://github.com/github/gitignore) | Collection of .gitignore templates for excluding common files and directories from Git repositories. | github | 176k |
-| [spec-kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development and other processes with AI coding assistants. | github | 149k |
+| [spec-kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development and other processes with AI coding assistants. | github | 150k |
 
-**[→ All 328 repositories](stars/developer-tools-and-editors.md)**
+**[→ All 327 repositories](stars/developer-tools-and-editors.md)**
 
 ## DevOps and Infrastructure
 
@@ -214,7 +214,7 @@ xychart-beta
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.7k |
 | [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.5k |
 
-**[→ All 263 repositories](stars/devops-and-infrastructure.md)**
+**[→ All 264 repositories](stars/devops-and-infrastructure.md)**
 
 ## Documentation and Knowledge Tools
 
@@ -248,7 +248,7 @@ xychart-beta
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 118k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.5k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 78.9k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 79k |
 
 **[→ All 82 repositories](stars/image-and-graphics-processing.md)**
 
@@ -274,7 +274,7 @@ xychart-beta
 | [ECC](https://github.com/affaan-m/ECC) | Agent harness of skills, memory and security tools for Claude Code, Codex, Cursor and others. | affaan-m | 302k |
 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness for DeepSeek, built on Cordis, where everything is a plugin. | deepseek-ai | 280k |
 
-**[→ All 328 repositories](stars/llm-agents-and-ai-assistants.md)**
+**[→ All 329 repositories](stars/llm-agents-and-ai-assistants.md)**
 
 ## Mac Utilities
 
@@ -282,7 +282,7 @@ xychart-beta
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 118k |
 | [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 74.8k |
-| [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.3k |
+| [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.4k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.3k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.3k |
 
@@ -298,7 +298,7 @@ xychart-beta
 | [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.3k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
 
-**[→ All 104 repositories](stars/networking-and-wireless.md)**
+**[→ All 105 repositories](stars/networking-and-wireless.md)**
 
 ## Programming Languages and Compilers
 
@@ -316,13 +316,13 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 454k |
+| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 455k |
 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 199k |
-| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 110k |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 111k |
 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 99.8k |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.6k |
 
-**[→ All 242 repositories](stars/security-and-penetration-testing.md)**
+**[→ All 243 repositories](stars/security-and-penetration-testing.md)**
 
 ## Systems Programming in Go and Rust
 
@@ -332,7 +332,7 @@ xychart-beta
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.5k |
-| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.2k |
+| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
 
 **[→ All 41 repositories](stars/systems-programming-in-go-and-rust.md)**
 
@@ -352,13 +352,13 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [linux](https://github.com/torvalds/linux) | Source tree of the Linux kernel, an open-source operating system kernel. | torvalds | 255k |
+| [linux](https://github.com/torvalds/linux) | Source tree of the Linux kernel, an open-source operating system kernel. | torvalds | 256k |
 | [godot](https://github.com/godotengine/godot) | Open-source multi-platform engine for building 2D and 3D games. | godotengine | 120k |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Web application for editing, converting and processing PDF files, self-hosted via Docker. | Stirling-Tools | 96.4k |
 | [core](https://github.com/home-assistant/core) | Open source home automation platform focused on local control and privacy for IoT devices. | home-assistant | 92.3k |
 | [realworld](https://github.com/realworld-apps/realworld) | Fullstack demo application implementing the same Medium.com-style blog across many frontend and backend stacks. | realworld-apps | 84.4k |
 
-**[→ All 356 repositories](stars/others.md)**
+**[→ All 357 repositories](stars/others.md)**
 
 **Legend:** 🗄️ archived · 🆕 starred in the last 30 days
 

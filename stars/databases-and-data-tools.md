@@ -86,7 +86,7 @@
 | [libsql](https://github.com/tursodatabase/libsql) | Open-contribution fork of SQLite as an embeddable database library. | tursodatabase | 17.3k |
 | [tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database built on the Raft consensus protocol, originally for TiDB. | tikv | 16.9k |
 | [weaviate](https://github.com/weaviate/weaviate) | Open-source vector database that combines vector search with structured filtering. | weaviate | 16.9k |
-| [mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | Open source MCP server that lets AI agents work with databases such as BigQuery and ClickHouse. | googleapis | 16.8k |
+| [mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | Open source MCP server that lets AI agents work with databases such as BigQuery and ClickHouse. | googleapis | 16.9k |
 | [dagster](https://github.com/dagster-io/dagster) | Orchestration platform for developing, running, and observing data assets and pipelines. | dagster-io | 16.4k |
 | [electric-pglite](https://github.com/neondatabase/electric-pglite) | Embeddable WebAssembly build of Postgres with real-time reactive bindings. | neondatabase | 16.3k |
 | [doris](https://github.com/apache/doris) | Real-time analytics and hybrid search database for AI agents and data workloads. | apache | 16.2k |
@@ -96,7 +96,7 @@
 | [logstash](https://github.com/elastic/logstash) | Data processing pipeline that ingests, transforms, and forwards logs, events, and other data streams. | elastic | 15k |
 | [Dexie.js](https://github.com/dexie/Dexie.js) | Minimalistic wrapper around IndexedDB for storing and querying data in browser applications. | dexie | 14.7k |
 | [litestream](https://github.com/benbjohnson/litestream) | Streaming replication of SQLite databases to object storage such as S3 for backup and recovery. | benbjohnson | 14.6k |
-| [kysely](https://github.com/kysely-org/kysely) | Type-safe SQL query builder for TypeScript supporting multiple SQL databases. | kysely-org | 14.3k |
+| [kysely](https://github.com/kysely-org/kysely) | Type-safe SQL query builder for TypeScript supporting multiple SQL databases. | kysely-org | 14.4k |
 | [memcached](https://github.com/memcached/memcached) | Source tree for Memcached, a high-performance distributed memory object caching system. | memcached | 14.3k |
 | [arangodb](https://github.com/arangodb/arangodb) | Multi-model database for documents, graphs and key-value data, queried with an SQL-like language. | arangodb | 14.3k |
 | [diesel](https://github.com/diesel-rs/diesel) | Safe, extensible ORM and query builder for Rust supporting PostgreSQL, MySQL, and SQLite. | diesel-rs | 14.2k |
@@ -197,8 +197,8 @@
 | [join-monster](https://github.com/join-monster/join-monster) | Query execution layer that converts GraphQL queries into SQL, with query planning and batched data fetching. | join-monster | 2.7k |
 | [supabase-py](https://github.com/supabase/supabase-py) | Python client for Supabase, providing database queries, auth, storage, and realtime features. | supabase | 2.6k |
 | [python-tabulate](https://github.com/astanin/python-tabulate) | Python library and command-line utility for pretty-printing tabular data. | astanin | 2.6k |
-| [psycopg](https://github.com/psycopg/psycopg) | PostgreSQL database adapter for Python, supporting synchronous and asynchronous applications. | psycopg | 2.5k |
 | [postgres](https://github.com/docker-library/postgres) | Docker Official Image packaging for PostgreSQL database server, with build scripts and documentation. | docker-library | 2.5k |
+| [psycopg](https://github.com/psycopg/psycopg) | PostgreSQL database adapter for Python, supporting synchronous and asynchronous applications. | psycopg | 2.5k |
 | [node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Node.js and TypeScript wrapper for the Google Sheets API v4. | theoephraim | 2.5k |
 | [kapacitor](https://github.com/influxdata/kapacitor) | Framework for processing, monitoring, and alerting on time series data. | influxdata | 2.4k |
 | [node-db-migrate](https://github.com/db-migrate/node-db-migrate) | Framework for Node.js that applies and tracks versioned database schema migrations. | db-migrate | 2.3k |

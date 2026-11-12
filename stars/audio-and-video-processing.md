@@ -11,7 +11,7 @@
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Local voice cloning, dubbing, dictation, transcription, and audiobook creation in 646 languages. | debpalash | 109k |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source video editor intended as an alternative to CapCut. | OpenCut-app | 98.2k |
 | [obs-studio](https://github.com/obsproject/obs-studio) | Free, open source software for live streaming and screen recording on Windows, macOS, and Linux. | obsproject | 79.5k |
-| [remotion](https://github.com/remotion-dev/remotion) | Library for creating videos programmatically with React. | remotion-dev | 72.7k |
+| [remotion](https://github.com/remotion-dev/remotion) | Library for creating videos programmatically with React. | remotion-dev | 72.8k |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of the FFmpeg codebase, a library and toolset for converting and streaming audio and video. | FFmpeg | 67.1k |
 | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | Few-shot voice cloning and text-to-speech framework that trains a TTS model from about one minute of voice data. | RVC-Boss | 64.9k |
 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | C/C++ port of OpenAI's Whisper speech recognition model for fast inference. | ggml-org | 55.1k |
@@ -43,7 +43,7 @@
 | [audacity](https://github.com/audacity/audacity) | Cross-platform open-source audio editor for recording, editing, and processing sound files. | audacity | 19k |
 | [nuclear](https://github.com/nukeop/nuclear) | Desktop streaming music player that finds free music to play, with MCP server support. | nukeop | 18.9k |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | Large-scale open video generative models for text-to-video and image-to-video generation. | Wan-Video | 18.6k |
-| [filmcraft](https://github.com/storytold/filmcraft) | Open-source nonlinear video editor written from scratch in pure Rust. | storytold | 18.1k |
+| [filmcraft](https://github.com/storytold/filmcraft) | Open-source nonlinear video editor written from scratch in pure Rust. | storytold | 18.2k |
 | [asciinema](https://github.com/asciinema/asciinema) | Command-line tool for recording, streaming, and playing back terminal sessions as asciicasts. | asciinema | 18k |
 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg compiled to WebAssembly, enabling video and audio transcoding in the browser. | ffmpegwasm | 18k |
 | [hls.js](https://github.com/video-dev/hls.js) | JavaScript library for playing HLS video streams in browsers using Media Source Extensions. | video-dev | 17k |
@@ -81,12 +81,12 @@
 | [mediabunny](https://github.com/Vanilagy/mediabunny) | TypeScript library for reading, writing, and converting video and audio files in the browser. | Vanilagy | 7.5k |
 | [mediasoup](https://github.com/versatica/mediasoup) | WebRTC Selective Forwarding Unit for video conferencing, with Node.js bindings and a C++ core. | versatica | 7.4k |
 | [librespot](https://github.com/librespot-org/librespot) | Open-source Spotify client library in Rust that connects as a Spotify Connect device. | librespot-org | 7.4k |
-| [openscreen](https://github.com/getopenscreen/openscreen) | Open-source screen recorder for product demos with GPU acceleration on Windows, macOS, and Linux. | getopenscreen | 7.1k |
-| [hex](https://github.com/anomalyco/hex) 🆕 | Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device. | anomalyco | 6.4k |
+| [openscreen](https://github.com/getopenscreen/openscreen) | Open-source screen recorder for product demos with GPU acceleration on Windows, macOS, and Linux. | getopenscreen | 7.2k |
+| [hex](https://github.com/anomalyco/hex) 🆕 | Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device. | anomalyco | 6.5k |
 | [auto-editor](https://github.com/WyattBlue/auto-editor) | Command-line tool that automatically cuts silent or still sections out of video and audio files. | WyattBlue | 5.9k |
 | [restreamer](https://github.com/datarhei/restreamer) | Self-hosted streaming server that relays live streams to platforms like YouTube, Twitch, and Facebook via FFmpeg. | datarhei | 5.2k |
+| [earshot](https://github.com/Leonxlnx/earshot) 🆕 | Gives coding agents audio abilities to hear, review, and produce sound, running on CPU only. | Leonxlnx | 4.7k |
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | Lightweight video generation model for text-to-video and image-to-video tasks. | Tencent-Hunyuan | 4.6k |
-| [earshot](https://github.com/Leonxlnx/earshot) 🆕 | Gives coding agents audio abilities to hear, review, and produce sound, running on CPU only. | Leonxlnx | 4.6k |
 | [obs-websocket](https://github.com/obsproject/obs-websocket) | OBS Studio plugin that provides a WebSocket server for remote control of OBS Studio. | obsproject | 4.4k |
 | [AirConnect](https://github.com/philippe44/AirConnect) | Bridge that lets AirPlay clients stream audio to UPnP, Sonos and Chromecast devices. | philippe44 | 4.2k |
 | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | Abstraction layer over YouTube's internal API for querying and downloading videos in .NET. | Tyrrrz | 3.8k |
@@ -116,7 +116,7 @@
 | [auditok](https://github.com/amsehili/auditok) | Python tool for voice activity detection and audio segmentation. | amsehili | 862 |
 | [obs-websocket-js](https://github.com/obs-websocket-community-projects/obs-websocket-js) | JavaScript client library for the obs-websocket protocol to control OBS Studio. | obs-websocket-community-projects | 773 |
 | [mediasoup-client](https://github.com/versatica/mediasoup-client) | Client-side JavaScript library for connecting to mediasoup SFU servers over WebRTC. | versatica | 672 |
-| [youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) | Promise-based Node.js wrapper around youtube-dl and yt-dlp for downloading media. | microlinkhq | 617 |
+| [youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) | Promise-based Node.js wrapper around youtube-dl and yt-dlp for downloading media. | microlinkhq | 618 |
 | [youtube-transcript](https://github.com/Kakulukian/youtube-transcript) | Fetches transcripts of YouTube videos, written in TypeScript. | Kakulukian | 589 |
 | [obs-ios-camera-source](https://github.com/wtsnz/obs-ios-camera-source) | OBS Studio plugin that streams high-quality video from an iPhone camera over USB as a video source. | wtsnz | 423 |
 | [vlite](https://github.com/vlitejs/vlite) | Lightweight JavaScript library for customizing HTML5, YouTube, Vimeo, and Dailymotion players. | vlitejs | 350 |

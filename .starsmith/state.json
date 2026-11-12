@@ -1,9 +1,9 @@
 {
-  "contentHash": "3fc68aa88723",
+  "contentHash": "28ab673735da",
   "digest": {
     "language": "en",
-    "text": "**Agent tooling** dominates this batch, from protocols like A2A and AG-UI to mcp-gsc and Unity-MCP. **Cost and access control** also shows up in TokenEconomizer, claude-swap, and freellmapi, while many projects push AI onto local hardware, such as mflux on Apple silicon and pocket-tts on a CPU.\n\nRust-built developer tools like tsrs and omnidiff point to a focus on **speed and performance**. OCR is also trending, with GLM-OCR, chandra, and RapidOCR all in the mix.",
-    "upTo": "2026-11-12T12:38:55Z"
+    "text": "Agents dominate this batch of stars. **Agent protocols and tooling** lead the way, with A2A, ag-ui, and Unity-MCP connecting models to apps, editors, and SEO data, while claude-swap and free-claude-code show developers managing accounts and token budgets. **Free and local AI** runs alongside, from freellmapi's aggregated endpoints to pocket-tts and mflux running on local hardware.\n\n**Document intelligence** appears in chandra and GLM-OCR, while **reverse engineering and privacy tools** like camoufox, androguard, and unfairplay reflect interest in understanding closed software.",
+    "upTo": "2026-11-12T22:01:13Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-12T12:38:55Z",
+  "newest": "2026-11-12T22:01:13Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -3949,6 +3949,12 @@
       "description": "Self-hosted CLI agent that finds B2B leads for your product and emails them from your mailbox.",
       "dh": "86cbb89c4d40"
     },
+    "MDEwOlJlcG9zaXRvcnk3MDM3OTk2": {
+      "category": "Security and Penetration Testing",
+      "ch": "96f5f26c37c3",
+      "description": "Pattern matching engine for classifying malware using rules over text or binary data.",
+      "dh": "e7f735d18be6"
+    },
     "MDEwOlJlcG9zaXRvcnk3MDMyMDM4NQ==": {
       "category": "Developer Tools and Editors",
       "ch": "8b516a60adee",
@@ -4684,10 +4690,10 @@
       "dh": "314cd446f530"
     },
     "MDEwOlJlcG9zaXRvcnk3NjczNDA2OA==": {
-      "category": "Developer Tools and Editors",
-      "ch": "2e48e1e7c253",
-      "description": "Cross-platform CLI that automates dependency updates by creating pull requests on Git hosting platforms.",
-      "dh": "aba2d1a8d4a4"
+      "category": "DevOps and Infrastructure",
+      "ch": "f6432a2b35d1",
+      "description": "Cross-platform tool that automatically updates dependencies and opens pull requests for them.",
+      "dh": "91fc2be15a06"
     },
     "MDEwOlJlcG9zaXRvcnk3NjgzODAxNw==": {
       "category": "Audio and Video Processing",
@@ -6936,10 +6942,10 @@
       "dh": "7018aafd411f"
     },
     "MDEwOlJlcG9zaXRvcnkxMDM3MTEwMw==": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "29d8d564c721",
-      "description": "Translation files in 128 languages for Laravel and packages like Jetstream, Fortify and Nova.",
-      "dh": "8cfed246a238"
+      "category": "Other",
+      "ch": "637836084142",
+      "description": "Translation files for Laravel applications in many languages, written by native speakers.",
+      "dh": "e4494c2f74a4"
     },
     "MDEwOlJlcG9zaXRvcnkxMDM3ODQxNDI=": {
       "category": "Mac Utilities",
@@ -12141,9 +12147,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "1fe33f339e1a",
-      "description": "Python framework for web automation and testing that also handles bot detection and Cloudflare challenges.",
-      "dh": "bd8ef445dc6e"
+      "ch": "c3a89574369f",
+      "description": "Python framework for browser automation and end-to-end testing, including bot-detection bypass.",
+      "dh": "32297588ffcb"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -14778,6 +14784,12 @@
       "ch": "11f87a9173bf",
       "description": "Node.js library that computes the dependency tree of a JavaScript module by parsing its imports.",
       "dh": "719f11c71765"
+    },
+    "MDEwOlJlcG9zaXRvcnkyMTk5NTQ0Nzc=": {
+      "category": "Networking and Wireless",
+      "ch": "e6ec6c477091",
+      "description": "Lightweight DNS proxy that blocks ads on a local network, with DNS-over-HTTPS and other features.",
+      "dh": "59b1fd56b2d0"
     },
     "MDEwOlJlcG9zaXRvcnkyMTkwMjA2MjY=": {
       "category": "Frontend UI Libraries",
@@ -26031,9 +26043,9 @@
     },
     "R_kgDONlFhxQ": {
       "category": "Backend Frameworks and Servers",
-      "ch": "526e52cb5277",
-      "description": "Engine for composing, extending and observing backend services and AI agents in real time.",
-      "dh": "a8dbb79d99e8"
+      "ch": "3a907ca122a8",
+      "description": "Engine for composing, extending, observing, and reacting to services in real time.",
+      "dh": "04092ee44a77"
     },
     "R_kgDONmXejg": {
       "category": "LLM Agents and AI Assistants",
@@ -28386,10 +28398,10 @@
       "dh": "2442a31acc41"
     },
     "R_kgDOSIqPOQ": {
-      "category": "AI and Machine Learning",
-      "ch": "d25ae1c786bb",
-      "description": "Single /v1 endpoint that routes across 34 free LLM providers with failover and encrypted keys.",
-      "dh": "88edad34b35f"
+      "category": "LLM Agents and AI Assistants",
+      "ch": "da37ad991ba6",
+      "description": "Proxies requests to many free LLM providers through one OpenAI-compatible /v1 endpoint.",
+      "dh": "f131d5cfe75d"
     },
     "R_kgDOSLJK_w": {
       "category": "LLM Agents and AI Assistants",
@@ -28457,9 +28469,9 @@
     },
     "R_kgDOScBIVg": {
       "category": "Testing and Automation",
-      "ch": "d8ff30d09246",
-      "description": "Playwright-compatible Python library using stealth headless Firefox to evade bot detection.",
-      "dh": "2e3165bf9a51"
+      "ch": "95bdd82c02ff",
+      "description": "Playwright API for headless Firefox scraping that uses stealth to evade anti-bot detection.",
+      "dh": "81c4564173b0"
     },
     "R_kgDOScehDA": {
       "category": "Security and Penetration Testing",

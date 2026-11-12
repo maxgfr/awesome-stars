@@ -8,10 +8,10 @@
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 118k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.5k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 78.9k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 79k |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.2k |
 | [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.3k |
-| [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 52.3k |
+| [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 52.4k |
 | [supervision](https://github.com/roboflow/supervision) | Python library of reusable computer vision tools for detections, datasets, and annotations. | roboflow | 51.6k |
 | [pixijs](https://github.com/pixijs/pixijs) | Fast, flexible 2D WebGL renderer for building interactive graphics and games in web browsers. | pixijs | 48.7k |
 | [photoprism](https://github.com/photoprism/photoprism) | AI-powered photo management app for private, self-hosted organization and search of photo libraries. | photoprism | 40.4k |
@@ -20,7 +20,7 @@
 | [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
 | [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.8k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 27.9k |
-| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.2k |
+| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.3k |
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | JavaScript framework and engine for building 3D games and rendering in web browsers. | BabylonJS | 26.3k |
 | [rembg](https://github.com/danielgatis/rembg) | Python tool that removes the background from images using deep learning models. | danielgatis | 25.4k |
 | [Iosevka](https://github.com/be5invis/Iosevka) | Open source monospaced typeface for coding, generated from code with configurable options. | be5invis | 23.2k |
@@ -54,7 +54,7 @@
 | [image](https://github.com/image-rs/image) | Rust library for encoding and decoding image files in multiple formats. | image-rs | 5.9k |
 | [perfect-freehand](https://github.com/steveruizok/perfect-freehand) | Library for drawing smooth, pressure-sensitive freehand strokes on HTML canvas. | steveruizok | 5.8k |
 | [svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Online editor for creating and manipulating SVG path data. | Yqnn | 5.3k |
-| [designcraft](https://github.com/storytold/designcraft) | Open-source page and layout design editor written from scratch in pure Rust. | storytold | 5.2k |
+| [designcraft](https://github.com/storytold/designcraft) | Open-source page and layout design editor written from scratch in pure Rust. | storytold | 5.3k |
 | [watermark-removal](https://github.com/zuruoke/watermark-removal) | Machine learning image inpainting model that removes watermarks, aiming for output indistinguishable from the ground truth. | zuruoke | 5.2k |
 | [freeze](https://github.com/charmbracelet/freeze) | Command-line tool that generates images of source code and terminal output. | charmbracelet | 4.9k |
 | [imageflow](https://github.com/imazen/imageflow) | High-performance image processing library and tools for web servers, including an image server and command-line tool. | imazen | 4.5k |
