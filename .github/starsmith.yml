@@ -1,0 +1,46 @@
+# Options of starsmith (https://github.com/maxgfr/starsmith), the Action that builds this list.
+title: Awesome Stars
+description: >-
+  My GitHub stars, sorted into categories by AI and rebuilt every day by
+  [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars?
+  It takes one GitHub Action.
+
+group-by: ai-category
+badges: archived,stale,new
+recent-count: 15
+
+ai: true
+ai-features: categorize,describe,digest
+
+html-output: docs/index.html
+json-output: docs/stars.json
+feed-output: docs/feed.xml
+
+footer: |
+  ## ⭐ Make your own
+
+  This list is built by [starsmith](https://github.com/maxgfr/starsmith). To get yours, add this
+  workflow to any repository, then run it once from the Actions tab:
+
+  ```yaml
+  # .github/workflows/stars.yml
+  name: Update stars
+  on:
+    schedule:
+      - cron: "30 18 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+    models: read
+  jobs:
+    stars:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v7
+        - uses: maxgfr/starsmith@v1
+          with:
+            group-by: ai-category
+            ai: true
+  ```
+
+  Every option is in the [starsmith README](https://github.com/maxgfr/starsmith#options).
