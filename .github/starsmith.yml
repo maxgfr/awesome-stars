@@ -12,9 +12,9 @@ recent-count: 15
 ai: true
 ai-features: categorize,describe,digest
 
-html-output: docs/index.html
-json-output: docs/stars.json
-feed-output: docs/feed.xml
+# Searchable website, deployed to GitHub Pages by the workflow
+site-dir: docs
+site-url: https://maxgfr.github.io/awesome-stars/
 
 footer: |
   ## ⭐ Make your own
