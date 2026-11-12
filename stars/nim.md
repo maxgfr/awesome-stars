@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [auto-editor](https://github.com/WyattBlue/auto-editor) | Effort free video editing! | WyattBlue | 5.9k |
+| [auto-editor](https://github.com/WyattBlue/auto-editor) | Command-line tool that automatically cuts silent or still sections out of video and audio files. | WyattBlue | 5.9k |

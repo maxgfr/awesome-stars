@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [modular](https://github.com/modular/modular) | The Modular Platform (includes MAX &amp; Mojo) | modular | 30.1k |
+| [modular](https://github.com/modular/modular) | Modular AI platform including the MAX inference framework and the Mojo programming language. | modular | 30.1k |

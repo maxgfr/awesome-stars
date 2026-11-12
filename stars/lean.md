@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [lean4](https://github.com/leanprover/lean4) | Lean 4 programming language and theorem prover | leanprover | 10k |
+| [lean4](https://github.com/leanprover/lean4) | Programming language and interactive theorem prover for writing verified mathematics and software. | leanprover | 10k |

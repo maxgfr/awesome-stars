@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [vouch](https://github.com/mitchellh/vouch) | A community trust management system based on explicit vouches to participate. | mitchellh | 5.2k |
+| [vouch](https://github.com/mitchellh/vouch) | Community trust management system where participation requires explicit vouches from existing members. | mitchellh | 5.2k |

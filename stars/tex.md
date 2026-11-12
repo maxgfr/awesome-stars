@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | posquit0 | 28.9k |
+| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | LaTeX template for writing a CV or resume for job applications. | posquit0 | 28.9k |

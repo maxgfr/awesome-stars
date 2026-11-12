@@ -4,4 +4,4 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uAssets](https://github.com/uBlockOrigin/uAssets) | Filter lists for uBlock Origin &amp; uBlock Origin Lite | uBlockOrigin | 6.1k |
+| [uAssets](https://github.com/uBlockOrigin/uAssets) | Filter lists for uBlock Origin and uBlock Origin Lite content blocking. | uBlockOrigin | 6.1k |
