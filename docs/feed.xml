@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>maxgfr's latest GitHub stars</title>
-  <link href="https://github.com/maxgfr?tab=stars"/>
-  <id>https://github.com/maxgfr?tab=stars</id>
+  <link href="https://maxgfr.github.io/awesome-stars/"/>
+  <id>https://maxgfr.github.io/awesome-stars/</id>
   <updated>2026-11-12T11:13:43Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
   <entry>
