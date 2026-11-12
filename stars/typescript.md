@@ -499,8 +499,8 @@
 | [star-history](https://github.com/star-history/star-history) | The de facto GitHub star history graph. | star-history | 9.7k |
 | [atproto](https://github.com/bluesky-social/atproto) | Social networking technology created by Bluesky | bluesky-social | 9.7k |
 | [fast](https://github.com/microsoft/fast) | The adaptive interface system for modern web experiences. | microsoft | 9.7k |
-| [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page | BartoszJarocki | 9.7k |
 | [modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) | Specification and documentation for the Model Context Protocol | modelcontextprotocol | 9.7k |
+| [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page | BartoszJarocki | 9.7k |
 | [react-native-vision-camera](https://github.com/margelo/react-native-vision-camera) | 📸 A powerful, high-performance React Native Camera library. | margelo | 9.7k |
 | [probot](https://github.com/probot/probot) | 🤖 A framework for building GitHub Apps to automate and improve your workflow | probot | 9.6k |
 | [bundlephobia](https://github.com/pastelsky/bundlephobia) | 🏋️ Find out the cost of adding a new frontend dependency to your project | pastelsky | 9.6k |
@@ -1186,8 +1186,8 @@
 | [lite-youtube](https://github.com/justinribeiro/lite-youtube) | The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed. | justinribeiro | 1.4k |
 | [docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com) | The official documentation https://docs.nestjs.com 📕 | nestjs | 1.4k |
 | [uitripled](https://github.com/moumen-soliman/uitripled) | Production-ready UI blocks, components, and full pages available in shadcn/ui and Base UI, powered by Framer Motion, with a Landing Page Builder, Background Builder, and Grid Generator. | moumen-soliman | 1.4k |
-| [gsd-pi](https://github.com/open-gsd/gsd-pi) | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | open-gsd | 1.4k |
 | [sonner-native-toasts](https://github.com/gunnartorfis/sonner-native-toasts) | An opinionated toast component for React Native. A port of @emilkowalski's sonner. | gunnartorfis | 1.4k |
+| [gsd-pi](https://github.com/open-gsd/gsd-pi) | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | open-gsd | 1.4k |
 | [cypress-cucumber-preprocessor](https://github.com/badeball/cypress-cucumber-preprocessor) | Run cucumber/gherkin-syntaxed specs with Cypress | badeball | 1.4k |
 | [react-date-picker](https://github.com/wojtekmaj/react-date-picker) | A date picker for your React app. | wojtekmaj | 1.4k |
 | [xmcp](https://github.com/basementstudio/xmcp) | The TypeScript MCP framework | basementstudio | 1.4k |

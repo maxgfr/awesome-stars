@@ -116,8 +116,8 @@
 | [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | deepspeedai | 43.3k |
 | [agno](https://github.com/agno-agi/agno) | The self-managing agent platform | agno-agi | 43.2k |
 | [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 42.8k |
-| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. | ManimCommunity | 42.4k |
 | [agents](https://github.com/wshobson/agents) | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. | wshobson | 42.4k |
+| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. | ManimCommunity | 42.4k |
 | [black](https://github.com/psf/black) | The uncompromising Python code formatter | psf | 42.2k |
 | [OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | volcengine | 42.1k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 41.9k |
@@ -129,7 +129,7 @@
 | [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites | soxoj | 40.5k |
 | [heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more | p-e-w | 40.4k |
 | [ChatTTS](https://github.com/2noise/ChatTTS) | A generative speech model for daily dialogue. | 2noise | 40k |
-| [FastChat](https://github.com/lm-sys/FastChat) | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | lm-sys | 39.5k |
+| [FastChat](https://github.com/lm-sys/FastChat) | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | lm-sys | 39.6k |
 | [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | searxng | 39.5k |
 | [sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool | sqlmapproject | 38.9k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | \[EMNLP 2025 Demo\] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero | PDFMathTranslate | 38.4k |

@@ -125,7 +125,7 @@
 | [openfang](https://github.com/RightNow-AI/openfang) | Open-source Agent Operating System | RightNow-AI | 18.3k |
 | [filmcraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust | storytold | 18.1k |
 | [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder, streamer and player 📹 | asciinema | 18k |
-| [wordcraft](https://github.com/storytold/wordcraft) | WordCraft: an open-source, clean-room word processor in pure Rust | storytold | 17.8k |
+| [wordcraft](https://github.com/storytold/wordcraft) | WordCraft: an open-source, clean-room word processor in pure Rust | storytold | 17.9k |
 | [sqlx](https://github.com/transact-rs/sqlx) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. | transact-rs | 17.7k |
 | [zola](https://github.com/getzola/zola) | A fast static site generator in a single binary with everything built-in. https://www.getzola.org | getzola | 17.6k |
 | [turbovec](https://github.com/RyanCodrai/turbovec) | A vector index built on TurboQuant, written in Rust with Python bindings | RyanCodrai | 17.5k |
