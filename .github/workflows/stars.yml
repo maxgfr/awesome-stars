@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write # commit the list
-  models: read # GitHub Models, for the AI categories, descriptions and digest
 
 concurrency:
   group: stars
@@ -18,5 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      # Options live in .github/starsmith.yml
+      # Options live in .github/starsmith.yml. The AI turns on once the repository has an
+      # AI_PROVIDER variable (openai, anthropic, google, mistral, openrouter) and an AI_API_KEY
+      # secret; until then the list is built without it.
       - uses: maxgfr/starsmith@v1
+        with:
+          ai-provider: ${{ vars.AI_PROVIDER }}
+          ai-api-key: ${{ secrets.AI_API_KEY }}
