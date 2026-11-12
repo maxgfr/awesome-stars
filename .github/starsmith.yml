@@ -1,7 +1,7 @@
 # Options of starsmith (https://github.com/maxgfr/starsmith), the Action that builds this list.
 title: Awesome Stars
 description: >-
-  My GitHub stars, sorted into categories by AI and rebuilt every day by
+  My GitHub stars, sorted and rebuilt every day by
   [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars?
   It takes one GitHub Action.
 
@@ -31,16 +31,14 @@ footer: |
     workflow_dispatch:
   permissions:
     contents: write
-    models: read
   jobs:
     stars:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v7
         - uses: maxgfr/starsmith@v1
-          with:
-            group-by: ai-category
-            ai: true
   ```
 
-  Every option is in the [starsmith README](https://github.com/maxgfr/starsmith#options).
+  For AI categories, descriptions and a digest, add `group-by: ai-category`, `ai: true`,
+  `ai-provider` and an `ai-api-key` secret. Every option is in the
+  [starsmith README](https://github.com/maxgfr/starsmith#options).
