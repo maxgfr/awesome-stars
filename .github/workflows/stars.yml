@@ -1,0 +1,22 @@
+name: Update stars
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the list
+  models: read # GitHub Models, for the AI categories, descriptions and digest
+
+concurrency:
+  group: stars
+  cancel-in-progress: false
+
+jobs:
+  stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      # Options live in .github/starsmith.yml
+      - uses: maxgfr/starsmith@v1

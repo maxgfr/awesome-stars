@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>maxgfr's latest GitHub stars</title>
+  <link href="https://github.com/maxgfr?tab=stars"/>
+  <id>https://github.com/maxgfr?tab=stars</id>
+  <updated>2026-11-12T11:13:43Z</updated>
+  <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>GoogleChrome/modern-web-guidance</title>
+    <link href="https://github.com/GoogleChrome/modern-web-guidance"/>
+    <id>https://github.com/GoogleChrome/modern-web-guidance</id>
+    <updated>2026-11-12T11:13:43Z</updated>
+    <author><name>GoogleChrome</name></author>
+    <summary>Keep your coding agent up to date with the latest web best practices</summary>
+  </entry>
+  <entry>
+    <title>ag-ui-protocol/ag-ui</title>
+    <link href="https://github.com/ag-ui-protocol/ag-ui"/>
+    <id>https://github.com/ag-ui-protocol/ag-ui</id>
+    <updated>2026-11-10T19:32:53Z</updated>
+    <author><name>ag-ui-protocol</name></author>
+    <summary>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. · TypeScript · ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents</summary>
+    <category term="ag-ui-protocol"/>
+    <category term="agent-frontend"/>
+    <category term="agent-ui"/>
+    <category term="agentic-workflow"/>
+    <category term="ai-agents"/>
+  </entry>
+  <entry>
+    <title>a2aproject/A2A</title>
+    <link href="https://github.com/a2aproject/A2A"/>
+    <id>https://github.com/a2aproject/A2A</id>
+    <updated>2026-11-10T19:32:45Z</updated>
+    <author><name>a2aproject</name></author>
+    <summary>Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. · Shell · a2a, a2a-mcp, a2a-protocol, a2a-server, agents</summary>
+    <category term="a2a"/>
+    <category term="a2a-mcp"/>
+    <category term="a2a-protocol"/>
+    <category term="a2a-server"/>
+    <category term="agents"/>
+  </entry>
+  <entry>
+    <title>open-slide/open-slide</title>
+    <link href="https://github.com/open-slide/open-slide"/>
+    <id>https://github.com/open-slide/open-slide</id>
+    <updated>2026-11-10T10:22:24Z</updated>
+    <author><name>open-slide</name></author>
+    <summary>A slide framework built for agents. · TypeScript · agent, react, slides</summary>
+    <category term="agent"/>
+    <category term="react"/>
+    <category term="slides"/>
+  </entry>
+  <entry>
+    <title>milind-soni/OpenMausBot</title>
+    <link href="https://github.com/milind-soni/OpenMausBot"/>
+    <id>https://github.com/milind-soni/OpenMausBot</id>
+    <updated>2026-11-10T09:48:17Z</updated>
+    <author><name>milind-soni</name></author>
+    <summary>Open-source Grok Bot alternative with a virtual machine that bots can use · TypeScript · ai-agents, claude-code, codex, computer-use, docker</summary>
+    <category term="ai-agents"/>
+    <category term="claude-code"/>
+    <category term="codex"/>
+    <category term="computer-use"/>
+    <category term="docker"/>
+  </entry>
+  <entry>
+    <title>DrWhax/unfairplay</title>
+    <link href="https://github.com/DrWhax/unfairplay"/>
+    <id>https://github.com/DrWhax/unfairplay</id>
+    <updated>2026-11-09T22:14:05Z</updated>
+    <author><name>DrWhax</name></author>
+    <summary>Decrypt IPA's on MacOS · Go</summary>
+  </entry>
+  <entry>
+    <title>mflux-community/mflux</title>
+    <link href="https://github.com/mflux-community/mflux"/>
+    <id>https://github.com/mflux-community/mflux</id>
+    <updated>2026-11-09T14:11:12Z</updated>
+    <author><name>mflux-community</name></author>
+    <summary>Apple MLX native implementations of state-of-the-art generative image &amp; video models · Python · ai, apple-silicon, diffusers, fibo, flux</summary>
+    <category term="ai"/>
+    <category term="apple-silicon"/>
+    <category term="diffusers"/>
+    <category term="fibo"/>
+    <category term="flux"/>
+  </entry>
+  <entry>
+    <title>ciromattia/kcc</title>
+    <link href="https://github.com/ciromattia/kcc"/>
+    <id>https://github.com/ciromattia/kcc</id>
+    <updated>2026-11-09T11:08:54Z</updated>
+    <author><name>ciromattia</name></author>
+    <summary>KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers. · Python · azw3, cbz, comics, eink, epub</summary>
+    <category term="azw3"/>
+    <category term="cbz"/>
+    <category term="comics"/>
+    <category term="eink"/>
+    <category term="epub"/>
+  </entry>
+  <entry>
+    <title>liabru/matter-js</title>
+    <link href="https://github.com/liabru/matter-js"/>
+    <id>https://github.com/liabru/matter-js</id>
+    <updated>2026-11-08T20:25:04Z</updated>
+    <author><name>liabru</name></author>
+    <summary>a 2D rigid body physics engine for the web ▲● ■ · JavaScript · canvas, javascript, physics, physics-engine, rigid-bodies</summary>
+    <category term="canvas"/>
+    <category term="javascript"/>
+    <category term="physics"/>
+    <category term="physics-engine"/>
+    <category term="rigid-bodies"/>
+  </entry>
+  <entry>
+    <title>jhlywa/chess.js</title>
+    <link href="https://github.com/jhlywa/chess.js"/>
+    <id>https://github.com/jhlywa/chess.js</id>
+    <updated>2026-11-08T20:24:48Z</updated>
+    <author><name>jhlywa</name></author>
+    <summary>A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection · TypeScript · chess</summary>
+    <category term="chess"/>
+  </entry>
+  <entry>
+    <title>anomalyco/rune</title>
+    <link href="https://github.com/anomalyco/rune"/>
+    <id>https://github.com/anomalyco/rune</id>
+    <updated>2026-11-08T12:44:39Z</updated>
+    <author><name>anomalyco</name></author>
+    <summary>Rune: Native UI framework · Rust</summary>
+  </entry>
+  <entry>
+    <title>anomalyco/hex</title>
+    <link href="https://github.com/anomalyco/hex"/>
+    <id>https://github.com/anomalyco/hex</id>
+    <updated>2026-11-07T15:57:09Z</updated>
+    <author><name>anomalyco</name></author>
+    <summary>Local voice dictation for mac, windows and linux · Rust · dictation, linux, local-first, macos, rust</summary>
+    <category term="dictation"/>
+    <category term="linux"/>
+    <category term="local-first"/>
+    <category term="macos"/>
+    <category term="rust"/>
+  </entry>
+  <entry>
+    <title>unjs/uqr</title>
+    <link href="https://github.com/unjs/uqr"/>
+    <id>https://github.com/unjs/uqr</id>
+    <updated>2026-11-06T22:08:46Z</updated>
+    <author><name>unjs</name></author>
+    <summary>Generate QR Code universally, in any runtime, to ANSI, Unicode or SVG. · TypeScript</summary>
+  </entry>
+  <entry>
+    <title>matomo-org/plugin-McpServer</title>
+    <link href="https://github.com/matomo-org/plugin-McpServer"/>
+    <id>https://github.com/matomo-org/plugin-McpServer</id>
+    <updated>2026-11-06T19:41:08Z</updated>
+    <author><name>matomo-org</name></author>
+    <summary>PHP</summary>
+  </entry>
+  <entry>
+    <title>Tencent/WeKnora</title>
+    <link href="https://github.com/Tencent/WeKnora"/>
+    <id>https://github.com/Tencent/WeKnora</id>
+    <updated>2026-11-06T08:02:47Z</updated>
+    <author><name>Tencent</name></author>
+    <summary>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · Go · agent, agentic, ai, chatbot, dsh-plugin</summary>
+    <category term="agent"/>
+    <category term="agentic"/>
+    <category term="ai"/>
+    <category term="chatbot"/>
+    <category term="dsh-plugin"/>
+  </entry>
+  <entry>
+    <title>every-app/open-seo</title>
+    <link href="https://github.com/every-app/open-seo"/>
+    <id>https://github.com/every-app/open-seo</id>
+    <updated>2026-11-06T08:02:31Z</updated>
+    <author><name>every-app</name></author>
+    <summary>Open source alternative to Semrush and Ahrefs · TypeScript · backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo</summary>
+    <category term="backlink-analysis"/>
+    <category term="google-search-console-mcp"/>
+    <category term="keyword-research"/>
+    <category term="mcp"/>
+    <category term="seo"/>
+  </entry>
+  <entry>
+    <title>crxjs/chrome-extension-tools</title>
+    <link href="https://github.com/crxjs/chrome-extension-tools"/>
+    <id>https://github.com/crxjs/chrome-extension-tools</id>
+    <updated>2026-11-05T14:18:19Z</updated>
+    <author><name>crxjs</name></author>
+    <summary>Build cross-browser extensions with native HMR and zero-config setup · TypeScript · chrome-extension, javascript, manifest-v2, manifest-v3, npm-package</summary>
+    <category term="chrome-extension"/>
+    <category term="javascript"/>
+    <category term="manifest-v2"/>
+    <category term="manifest-v3"/>
+    <category term="npm-package"/>
+  </entry>
+  <entry>
+    <title>brandonmcconnell/geld</title>
+    <link href="https://github.com/brandonmcconnell/geld"/>
+    <id>https://github.com/brandonmcconnell/geld</id>
+    <updated>2026-11-05T12:46:11Z</updated>
+    <author><name>brandonmcconnell</name></author>
+    <summary>Browser extension to hide tests when reviewing PRs on Github · TypeScript</summary>
+  </entry>
+  <entry>
+    <title>evilmartians/lefthook</title>
+    <link href="https://github.com/evilmartians/lefthook"/>
+    <id>https://github.com/evilmartians/lefthook</id>
+    <updated>2026-11-04T18:44:22Z</updated>
+    <author><name>evilmartians</name></author>
+    <summary>Fast and powerful Git hooks manager for any type of projects. · Go · git, go, golang, hacktoberfest, hooks</summary>
+    <category term="git"/>
+    <category term="go"/>
+    <category term="golang"/>
+    <category term="hacktoberfest"/>
+    <category term="hooks"/>
+  </entry>
+  <entry>
+    <title>microsoft/TokenEconomizer</title>
+    <link href="https://github.com/microsoft/TokenEconomizer"/>
+    <id>https://github.com/microsoft/TokenEconomizer</id>
+    <updated>2026-11-04T16:19:29Z</updated>
+    <author><name>microsoft</name></author>
+    <summary>Experience-Driven Black-Box Cost Control for Coding Agents · Python · agentic-ai, agentic-coding, ai-coding, ai-coding-assistant, anthropic</summary>
+    <category term="agentic-ai"/>
+    <category term="agentic-coding"/>
+    <category term="ai-coding"/>
+    <category term="ai-coding-assistant"/>
+    <category term="anthropic"/>
+  </entry>
+  <entry>
+    <title>kyutai-labs/pocket-tts</title>
+    <link href="https://github.com/kyutai-labs/pocket-tts"/>
+    <id>https://github.com/kyutai-labs/pocket-tts</id>
+    <updated>2026-11-04T16:06:02Z</updated>
+    <author><name>kyutai-labs</name></author>
+    <summary>A TTS that fits in your CPU (and pocket) · Python</summary>
+  </entry>
+  <entry>
+    <title>govijr/terminal-mac</title>
+    <link href="https://github.com/govijr/terminal-mac"/>
+    <id>https://github.com/govijr/terminal-mac</id>
+    <updated>2026-11-04T16:01:25Z</updated>
+    <author><name>govijr</name></author>
+    <summary>Entire MacOS running in your terminal. · Swift · cli, gui, macos, shell, swift</summary>
+    <category term="cli"/>
+    <category term="gui"/>
+    <category term="macos"/>
+    <category term="shell"/>
+    <category term="swift"/>
+  </entry>
+  <entry>
+    <title>ivankovic/omnidiff</title>
+    <link href="https://github.com/ivankovic/omnidiff"/>
+    <id>https://github.com/ivankovic/omnidiff</id>
+    <updated>2026-11-04T11:40:31Z</updated>
+    <author><name>ivankovic</name></author>
+    <summary>Fast, robust, accurate diffing · Rust · ast-diff, ast-diff-tool, ast-differencing, code-quality, code-review</summary>
+    <category term="ast-diff"/>
+    <category term="ast-diff-tool"/>
+    <category term="ast-differencing"/>
+    <category term="code-quality"/>
+    <category term="code-review"/>
+  </entry>
+  <entry>
+    <title>kgoedecke/doop</title>
+    <link href="https://github.com/kgoedecke/doop"/>
+    <id>https://github.com/kgoedecke/doop</id>
+    <updated>2026-11-04T10:42:31Z</updated>
+    <author><name>kgoedecke</name></author>
+    <summary>The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in. · TypeScript · ai-agents, canvas, claude, claude-code, claude-design</summary>
+    <category term="ai-agents"/>
+    <category term="canvas"/>
+    <category term="claude"/>
+    <category term="claude-code"/>
+    <category term="claude-design"/>
+  </entry>
+  <entry>
+    <title>storytold/craft-anything</title>
+    <link href="https://github.com/storytold/craft-anything"/>
+    <id>https://github.com/storytold/craft-anything</id>
+    <updated>2026-11-04T09:11:17Z</updated>
+    <author><name>storytold</name></author>
+    <summary>Craft Anything: understand how any software works, and craft your own. · Rust</summary>
+  </entry>
+  <entry>
+    <title>akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo"/>
+    <id>https://github.com/akuity/kargo</id>
+    <updated>2026-11-03T13:21:52Z</updated>
+    <author><name>akuity</name></author>
+    <summary>Application lifecycle orchestration · Go · argocd, cd, delivery, gitops, hacktoberfest</summary>
+    <category term="argocd"/>
+    <category term="cd"/>
+    <category term="delivery"/>
+    <category term="gitops"/>
+    <category term="hacktoberfest"/>
+  </entry>
+  <entry>
+    <title>scito/extract_otp_secrets</title>
+    <link href="https://github.com/scito/extract_otp_secrets"/>
+    <id>https://github.com/scito/extract_otp_secrets</id>
+    <updated>2026-11-03T13:03:45Z</updated>
+    <author><name>scito</name></author>
+    <summary>Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as &quot;Google Authenticator&quot;. The exported QR codes from authentication apps can be captured by camera, read from images, or read from text files. The secrets can be exported to JSON or CSV, or printed as QR codes to console. · Python · 2fa, csv, google-authenticator, json, mfa</summary>
+    <category term="2fa"/>
+    <category term="csv"/>
+    <category term="google-authenticator"/>
+    <category term="json"/>
+    <category term="mfa"/>
+  </entry>
+  <entry>
+    <title>JosefNemec/Playnite</title>
+    <link href="https://github.com/JosefNemec/Playnite"/>
+    <id>https://github.com/JosefNemec/Playnite</id>
+    <updated>2026-11-02T17:49:50Z</updated>
+    <author><name>JosefNemec</name></author>
+    <summary>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. · C# · csharp, gaming, launcher, wpf</summary>
+    <category term="csharp"/>
+    <category term="gaming"/>
+    <category term="launcher"/>
+    <category term="wpf"/>
+  </entry>
+  <entry>
+    <title>vercel-labs/agent-desktop</title>
+    <link href="https://github.com/vercel-labs/agent-desktop"/>
+    <id>https://github.com/vercel-labs/agent-desktop</id>
+    <updated>2026-11-02T08:42:36Z</updated>
+    <author><name>vercel-labs</name></author>
+    <summary>Computer use CLI for AI agents · Rust · accessibility, accessibility-api, ai-agents, automation, cli</summary>
+    <category term="accessibility"/>
+    <category term="accessibility-api"/>
+    <category term="ai-agents"/>
+    <category term="automation"/>
+    <category term="cli"/>
+  </entry>
+  <entry>
+    <title>kubb-labs/kubb</title>
+    <link href="https://github.com/kubb-labs/kubb"/>
+    <id>https://github.com/kubb-labs/kubb</id>
+    <updated>2026-11-01T21:15:26Z</updated>
+    <author><name>kubb-labs</name></author>
+    <summary>🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a spec such as OpenAPI. · TypeScript · axios, claude, codegen, faker, kubb</summary>
+    <category term="axios"/>
+    <category term="claude"/>
+    <category term="codegen"/>
+    <category term="faker"/>
+    <category term="kubb"/>
+  </entry>
+  <entry>
+    <title>luiscarlosjayk/tiza</title>
+    <link href="https://github.com/luiscarlosjayk/tiza"/>
+    <id>https://github.com/luiscarlosjayk/tiza</id>
+    <updated>2026-11-01T21:13:00Z</updated>
+    <author><name>luiscarlosjayk</name></author>
+    <summary>Draw on top of code in your terminal to explain, debug and teach. · Rust · annotations, code-explanation, developer-tools, mcp, ratatui</summary>
+    <category term="annotations"/>
+    <category term="code-explanation"/>
+    <category term="developer-tools"/>
+    <category term="mcp"/>
+    <category term="ratatui"/>
+  </entry>
+  <entry>
+    <title>daijro/camoufox</title>
+    <link href="https://github.com/daijro/camoufox"/>
+    <id>https://github.com/daijro/camoufox</id>
+    <updated>2026-10-30T14:51:46Z</updated>
+    <author><name>daijro</name></author>
+    <summary>🦊 Anti-detect browser · C · antidetect, antidetect-browser, fingerprint, firefox, networking</summary>
+    <category term="antidetect"/>
+    <category term="antidetect-browser"/>
+    <category term="fingerprint"/>
+    <category term="firefox"/>
+    <category term="networking"/>
+  </entry>
+  <entry>
+    <title>act-rules/act-rules.github.io</title>
+    <link href="https://github.com/act-rules/act-rules.github.io"/>
+    <id>https://github.com/act-rules/act-rules.github.io</id>
+    <updated>2026-10-28T13:58:22Z</updated>
+    <author><name>act-rules</name></author>
+    <summary>Accessibility conformance testing rules for HTML · JavaScript · w3c, wcag</summary>
+    <category term="w3c"/>
+    <category term="wcag"/>
+  </entry>
+  <entry>
+    <title>vercel-labs/wterm</title>
+    <link href="https://github.com/vercel-labs/wterm"/>
+    <id>https://github.com/vercel-labs/wterm</id>
+    <updated>2026-10-28T12:43:28Z</updated>
+    <author><name>vercel-labs</name></author>
+    <summary>A terminal emulator for the web · TypeScript</summary>
+  </entry>
+  <entry>
+    <title>androguard/androguard</title>
+    <link href="https://github.com/androguard/androguard"/>
+    <id>https://github.com/androguard/androguard</id>
+    <updated>2026-10-28T12:42:58Z</updated>
+    <author><name>androguard</name></author>
+    <summary>Reverse engineering and pentesting for Android applications · Python · android, dalvik, dex, odex, pentesting</summary>
+    <category term="android"/>
+    <category term="dalvik"/>
+    <category term="dex"/>
+    <category term="odex"/>
+    <category term="pentesting"/>
+  </entry>
+  <entry>
+    <title>Nutlope/bygga</title>
+    <link href="https://github.com/Nutlope/bygga"/>
+    <id>https://github.com/Nutlope/bygga</id>
+    <updated>2026-10-28T09:54:46Z</updated>
+    <author><name>Nutlope</name></author>
+    <summary>IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI. · TypeScript</summary>
+  </entry>
+  <entry>
+    <title>datalab-to/chandra</title>
+    <link href="https://github.com/datalab-to/chandra"/>
+    <id>https://github.com/datalab-to/chandra</id>
+    <updated>2026-10-27T11:07:46Z</updated>
+    <author><name>datalab-to</name></author>
+    <summary>OCR model that handles complex tables, forms, handwriting with full layout. · Python · ai, ocr</summary>
+    <category term="ai"/>
+    <category term="ocr"/>
+  </entry>
+  <entry>
+    <title>colinhacks/reylo</title>
+    <link href="https://github.com/colinhacks/reylo"/>
+    <id>https://github.com/colinhacks/reylo</id>
+    <updated>2026-10-27T10:30:38Z</updated>
+    <author><name>colinhacks</name></author>
+    <summary>Import .sql files into TypeScript with full type inference and zero codegen. · Rust</summary>
+  </entry>
+  <entry>
+    <title>sonorahq/sonora</title>
+    <link href="https://github.com/sonorahq/sonora"/>
+    <id>https://github.com/sonorahq/sonora</id>
+    <updated>2026-10-27T10:28:20Z</updated>
+    <author><name>sonorahq</name></author>
+    <summary>A native, familiar music streaming client · Rust · applemusic, deezer, gpui, music-player, navidrome-client</summary>
+    <category term="applemusic"/>
+    <category term="deezer"/>
+    <category term="gpui"/>
+    <category term="music-player"/>
+    <category term="navidrome-client"/>
+  </entry>
+  <entry>
+    <title>jdx/mise-action</title>
+    <link href="https://github.com/jdx/mise-action"/>
+    <id>https://github.com/jdx/mise-action</id>
+    <updated>2026-10-27T10:27:57Z</updated>
+    <author><name>jdx</name></author>
+    <summary>TypeScript</summary>
+  </entry>
+  <entry>
+    <title>abue-ammar/tinycast</title>
+    <link href="https://github.com/abue-ammar/tinycast"/>
+    <id>https://github.com/abue-ammar/tinycast</id>
+    <updated>2026-10-26T14:13:01Z</updated>
+    <author><name>abue-ammar</name></author>
+    <summary>A native macOS launcher for everyday productivity. Lightweight and open source. · Swift</summary>
+  </entry>
+  <entry>
+    <title>kunkka19xx/look</title>
+    <link href="https://github.com/kunkka19xx/look"/>
+    <id>https://github.com/kunkka19xx/look</id>
+    <updated>2026-10-26T14:12:14Z</updated>
+    <author><name>kunkka19xx</name></author>
+    <summary>An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳 · Rust · cross-platform, gpui, launcher, linux, macos</summary>
+    <category term="cross-platform"/>
+    <category term="gpui"/>
+    <category term="launcher"/>
+    <category term="linux"/>
+    <category term="macos"/>
+  </entry>
+  <entry>
+    <title>zai-org/GLM-OCR</title>
+    <link href="https://github.com/zai-org/GLM-OCR"/>
+    <id>https://github.com/zai-org/GLM-OCR</id>
+    <updated>2026-10-26T10:36:48Z</updated>
+    <author><name>zai-org</name></author>
+    <summary>GLM-OCR: Accurate × Fast × Comprehensive · Python · glm, image2text, ocr</summary>
+    <category term="glm"/>
+    <category term="image2text"/>
+    <category term="ocr"/>
+  </entry>
+  <entry>
+    <title>RapidAI/RapidOCR</title>
+    <link href="https://github.com/RapidAI/RapidOCR"/>
+    <id>https://github.com/RapidAI/RapidOCR</id>
+    <updated>2026-10-26T09:30:27Z</updated>
+    <author><name>RapidAI</name></author>
+    <summary>📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch. · Python · chineseocr, crnn, dbnet, easyocr, mnn</summary>
+    <category term="chineseocr"/>
+    <category term="crnn"/>
+    <category term="dbnet"/>
+    <category term="easyocr"/>
+    <category term="mnn"/>
+  </entry>
+  <entry>
+    <title>horizon-rust/horizon</title>
+    <link href="https://github.com/horizon-rust/horizon"/>
+    <id>https://github.com/horizon-rust/horizon</id>
+    <updated>2026-10-26T09:16:55Z</updated>
+    <author><name>horizon-rust</name></author>
+    <summary>Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher. · Rust · differential-testing, game-engine, gamedev, linux, minecraft</summary>
+    <category term="differential-testing"/>
+    <category term="game-engine"/>
+    <category term="gamedev"/>
+    <category term="linux"/>
+    <category term="minecraft"/>
+  </entry>
+  <entry>
+    <title>oxc-project/tsrs</title>
+    <link href="https://github.com/oxc-project/tsrs"/>
+    <id>https://github.com/oxc-project/tsrs</id>
+    <updated>2026-10-26T08:37:44Z</updated>
+    <author><name>oxc-project</name></author>
+    <summary>Rust port of the TypeScript 7 type checker · Rust</summary>
+  </entry>
+  <entry>
+    <title>tashfeenahmed/freellmapi</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi"/>
+    <id>https://github.com/tashfeenahmed/freellmapi</id>
+    <updated>2026-10-26T07:43:44Z</updated>
+    <author><name>tashfeenahmed</name></author>
+    <summary>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. · TypeScript</summary>
+  </entry>
+  <entry>
+    <title>Alishahryar1/free-claude-code</title>
+    <link href="https://github.com/Alishahryar1/free-claude-code"/>
+    <id>https://github.com/Alishahryar1/free-claude-code</id>
+    <updated>2026-10-26T07:38:12Z</updated>
+    <author><name>Alishahryar1</name></author>
+    <summary>Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) · Python</summary>
+  </entry>
+  <entry>
+    <title>realiti4/claude-swap</title>
+    <link href="https://github.com/realiti4/claude-swap"/>
+    <id>https://github.com/realiti4/claude-swap</id>
+    <updated>2026-10-26T07:33:46Z</updated>
+    <author><name>realiti4</name></author>
+    <summary>Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions · Python · account-manager, account-switcher, anthropic, claude, claude-code</summary>
+    <category term="account-manager"/>
+    <category term="account-switcher"/>
+    <category term="anthropic"/>
+    <category term="claude"/>
+    <category term="claude-code"/>
+  </entry>
+  <entry>
+    <title>IvanMurzak/Unity-MCP</title>
+    <link href="https://github.com/IvanMurzak/Unity-MCP"/>
+    <id>https://github.com/IvanMurzak/Unity-MCP</id>
+    <updated>2026-10-24T21:06:18Z</updated>
+    <author><name>IvanMurzak</name></author>
+    <summary>AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free. · C# · ai, ai-integration, anthropic, claude, claude-code</summary>
+    <category term="ai"/>
+    <category term="ai-integration"/>
+    <category term="anthropic"/>
+    <category term="claude"/>
+    <category term="claude-code"/>
+  </entry>
+</feed>
