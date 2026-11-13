@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 124k |
-| [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with type hints and asyncio support. | fastapi | 105k |
+| [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with automatic JSON Schema validation. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.5k |
 | [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79k |
@@ -64,7 +64,7 @@
 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client and server framework for asyncio in Python. | aio-libs | 16.6k |
 | [hyper](https://github.com/hyperium/hyper) | Fast and correct HTTP library for Rust, supporting both client and server implementations. | hyperium | 16.4k |
 | [bull](https://github.com/OptimalBits/bull) | Queue package for NodeJS that handles distributed jobs and messages with priorities. | OptimalBits | 16.3k |
-| [saas-starter](https://github.com/nextjs/saas-starter) | Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui. | nextjs | 16.2k |
+| [saas-starter](https://github.com/nextjs/saas-starter) | Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui. | nextjs | 16.3k |
 | [server](https://github.com/gotify/server) | Server for sending and receiving real-time messages over WebSocket, with a web UI. | gotify | 16.2k |
 | [stalwart](https://github.com/stalwartlabs/stalwart) | Self-hosted mail and collaboration server supporting IMAP, JMAP, SMTP, POP3, CalDAV, CardDAV and WebDAV. | stalwartlabs | 15.9k |
 | [spree](https://github.com/spree/spree) | Self-hosted open-source commerce platform for DTC, B2B, and marketplaces with REST APIs. | spree | 15.8k |
@@ -104,7 +104,7 @@
 | [node-schedule](https://github.com/node-schedule/node-schedule) | Flexible job scheduler for Node.js supporting cron-style and date-based scheduling. | node-schedule | 9.2k |
 | [workerd](https://github.com/cloudflare/workerd) 🆕 | JavaScript and Wasm runtime that powers Cloudflare Workers. | cloudflare | 9.2k |
 | [adminjs](https://github.com/SoftwareBrothers/adminjs) | Admin panel framework for Node.js applications with automatically generated interfaces. | SoftwareBrothers | 9k |
-| [core](https://github.com/owncloud/core) | Core server of ownCloud, providing file sharing, sync, and WebDAV services in PHP. | owncloud | 8.8k |
+| [core](https://github.com/owncloud/core) | Core server of ownCloud, providing file sharing, sync, and WebDAV services in PHP. | owncloud | 8.9k |
 | [llrt](https://github.com/awslabs/llrt) | Experimental lightweight JavaScript runtime aimed at low-latency serverless applications. | awslabs | 8.8k |
 | [gorush](https://github.com/appleboy/gorush) | Push notification server written in Go for sending messages to Android and iOS devices. | appleboy | 8.8k |
 | [aimeos-laravel](https://github.com/aimeos/aimeos-laravel) | Laravel e-commerce package for building online shops and multi-vendor marketplaces. | aimeos | 8.7k |

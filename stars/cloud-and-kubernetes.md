@@ -51,8 +51,8 @@
 | [tilt](https://github.com/tilt-dev/tilt) | Tool for defining a development environment as code for microservice applications running on Kubernetes. | tilt-dev | 10.1k |
 | [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) | FUSE-based file system that mounts Amazon S3 buckets as a local file system. | s3fs-fuse | 10k |
 | [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | Kubernetes operator that creates, configures, and manages Prometheus monitoring clusters. | prometheus-operator | 10k |
-| [client-go](https://github.com/kubernetes/client-go) | Official Go client library for interacting with the Kubernetes API. | kubernetes | 9.9k |
 | [mcp](https://github.com/awslabs/mcp) | Open-source MCP servers for AWS services, for use with MCP clients and hosts. | awslabs | 9.9k |
+| [client-go](https://github.com/kubernetes/client-go) | Official Go client library for interacting with the Kubernetes API. | kubernetes | 9.9k |
 | [openebs](https://github.com/openebs/openebs) | Open source container native storage platform for stateful applications on Kubernetes. | openebs | 9.8k |
 | [cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | Kubernetes operator for running and managing PostgreSQL clusters with automated failover and backups. | cloudnative-pg | 9.6k |
 | [amplify-js](https://github.com/aws-amplify/amplify-js) | JavaScript library for building applications that connect to AWS cloud services. | aws-amplify | 9.6k |
@@ -118,8 +118,8 @@
 | [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Kubernetes operator for deploying and managing Elasticsearch and Kibana clusters. | elastic | 2.9k |
 | [aws-cf-templates](https://github.com/widdix/aws-cf-templates) | Free AWS CloudFormation templates for common AWS infrastructure setups. | widdix | 2.8k |
 | [keel](https://github.com/keel-hq/keel) | Kubernetes operator that automatically updates Helm releases, DaemonSets, StatefulSets, and Deployments. | keel-hq | 2.7k |
-| [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
 | [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Android SDK for Firebase services, including the Realtime Database and other Firebase products. | firebase | 2.6k |
+| [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
 | [rke2](https://github.com/rancher/rke2) |  | rancher | 2.4k |
 | [kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) | Jenkins plugin that runs build agents as dynamically provisioned pods in Kubernetes or Docker. | jenkinsci | 2.3k |
 | [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) | Development repository for the Azure SDK for JavaScript, covering Node.js and browser support. | Azure | 2.3k |
@@ -135,8 +135,8 @@
 | [kubernetes](https://github.com/justmeandopensource/kubernetes) | Playground for learning and experimenting with Kubernetes setups and configurations. | justmeandopensource | 1.8k |
 | [flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3) | Read-only subsplit of a Flysystem adapter for the AWS SDK v3, providing filesystem access to S3 storage in PHP. | thephpleague | 1.7k |
 | [mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) | Model Context Protocol server for Kubernetes management commands. | Flux159 | 1.6k |
-| [stash](https://github.com/stashed/stash) | Backup tool for Kubernetes stateful applications, using restic for cloud-native storage. | stashed | 1.4k |
 | [traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) | Helm chart for deploying the Traefik Proxy ingress controller on Kubernetes. | traefik | 1.4k |
+| [stash](https://github.com/stashed/stash) | Backup tool for Kubernetes stateful applications, using restic for cloud-native storage. | stashed | 1.4k |
 | [functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) | Framework for writing portable Node.js functions that run as functions-as-a-service on Google Cloud. | GoogleCloudPlatform | 1.4k |
 | [truecharts](https://github.com/trueforge-org/truecharts) | Community Helm chart repository providing charts for deploying applications on Kubernetes and k3s. | trueforge-org | 1.4k |
 | [fluentd-kubernetes-daemonset](https://github.com/fluent/fluentd-kubernetes-daemonset) | Ready-made DaemonSet and Docker image for running Fluentd log collection on Kubernetes nodes. | fluent | 1.3k |
@@ -149,7 +149,7 @@
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 746 |
 | [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 666 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 600 |
-| [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 592 |
+| [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 532 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |

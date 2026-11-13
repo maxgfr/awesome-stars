@@ -8,7 +8,7 @@
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.1k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 78.8k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 78.9k |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.5k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.4k |
@@ -17,7 +17,7 @@
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.1k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.2k |
-| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.1k |
+| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.2k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 46.9k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
@@ -38,7 +38,7 @@
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
 | [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.5k |
-| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.2k |
+| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.3k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.3k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
 | [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.4k |
@@ -98,7 +98,7 @@
 | [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) | Markdown syntax reference for writing README files on GitHub. | tchapi | 5.3k |
 | [mediawiki](https://github.com/wikimedia/mediawiki) | PHP wiki software that powers Wikipedia and other collaborative editing sites. | wikimedia | 5.2k |
 | [hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) | Hugo theme for academic sites with BibTeX import, Jupyter, LaTeX and slide support. | HugoBlox | 5.1k |
-| [pdfme](https://github.com/pdfme/pdfme) | Open-source TypeScript and React library for generating PDFs with a visual template designer. | pdfme | 5k |
+| [pdfme](https://github.com/pdfme/pdfme) | Open-source TypeScript and React library for generating PDFs with a visual template designer. | pdfme | 5.1k |
 | [peps](https://github.com/python/peps) | Repository of Python Enhancement Proposals describing features, processes, and design decisions. | python | 5k |
 | [open-knowledge](https://github.com/inkeep/open-knowledge) | AI-native markdown IDE and LLM wiki for building personal and company knowledge bases. | inkeep | 4.8k |
 | [readme.so](https://github.com/octokatherine/readme.so) | Online drag-and-drop editor for building README files in Markdown. | octokatherine | 4.6k |
@@ -130,14 +130,14 @@
 | [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | Docusaurus v3 plugin that generates API reference documentation from OpenAPI specifications. | PaloAltoNetworks | 1.1k |
 | [fyi](https://github.com/expo/fyi) | Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename. | expo | 1.1k |
 | [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 969 |
-| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 909 |
+| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 910 |
 | [typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) | TypeDoc plugin that generates TypeScript API documentation in Markdown format. | typedoc2md | 823 |
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 748 |
-| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 731 |
+| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 732 |
 | [docs](https://github.com/minio/docs) | Documentation for MinIO object storage, built with Sphinx. | minio | 611 |
 | [pubpub](https://github.com/knowledgefutures/pubpub) | Open-source platform for community publishing and collaborative academic writing. | knowledgefutures | 547 |
 | [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | Collection of stemmers and stopword lists for using the Lunr search library in other languages. | MihaiValentin | 460 |
-| [repo2pdf](https://github.com/BankkRoll/repo2pdf) | Converts a GitHub repository into a PDF by cloning it and processing its files. | BankkRoll | 384 |
+| [repo2pdf](https://github.com/BankkRoll/repo2pdf) | Converts a GitHub repository into a PDF by cloning it and processing its files. | BankkRoll | 383 |
 | [putaindecode.io](https://github.com/putaindecode/putaindecode.io) | Community-driven participatory blog for French-speaking developers. | putaindecode | 267 |
 | [pdf-creator-node](https://github.com/hajareshyam/pdf-creator-node) | Node.js package that generates PDF files from HTML templates. | hajareshyam | 244 |
 | [docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) | Tool that generates PDF documents from Docusaurus, Fumadocs, and similar sites using Prince XML. | signcl | 193 |

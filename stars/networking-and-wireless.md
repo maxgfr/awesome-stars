@@ -6,15 +6,15 @@
 |---|---|---|---:|
 | [frp](https://github.com/fatedier/frp) | Fast reverse proxy that exposes a local server behind a NAT or firewall to the internet. | fatedier | 111k |
 | [syncthing](https://github.com/syncthing/syncthing) | Open source continuous file synchronization tool that works peer to peer between devices. | syncthing | 90.4k |
-| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 61.9k |
-| [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.3k |
+| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62k |
+| [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
-| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.6k |
-| [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.5k |
+| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.7k |
 | [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.5k |
-| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.6k |
+| [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.5k |
+| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.7k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.6k |
-| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39k |
+| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.1k |
 | [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.4k |
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android client for the Shadowsocks encrypted proxy protocol. | shadowsocks | 36.8k |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
@@ -33,10 +33,10 @@
 | [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Bridge that connects Zigbee devices to MQTT without proprietary Zigbee hubs. | Koenkk | 15.8k |
 | [openvpn](https://github.com/OpenVPN/openvpn) | Open source VPN daemon for creating secure point-to-point or site-to-site network connections. | OpenVPN | 14.8k |
 | [samples](https://github.com/webrtc/samples) | Collection of WebRTC demos and sample code for browser-based real-time communication. | webrtc | 14.6k |
-| [rathole](https://github.com/rathole-org/rathole) | Lightweight Rust reverse proxy for exposing services behind NAT, an alternative to frp and ngrok. | rathole-org | 14.4k |
+| [rathole](https://github.com/rathole-org/rathole) | Lightweight Rust reverse proxy for exposing services behind NAT, an alternative to frp and ngrok. | rathole-org | 14.5k |
 | [peerjs](https://github.com/peers/peerjs) | Library that simplifies peer-to-peer data and media connections in browsers using WebRTC. | peers | 13.5k |
 | [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | Firmware suite of WiFi and Bluetooth offensive and defensive tools for the ESP32 microcontroller. | justcallmekoko | 13.1k |
-| [iroh](https://github.com/n0-computer/iroh) 🆕 | Library adding QUIC and NAT traversal so apps connect by public key instead of IP address. | n0-computer | 13k |
+| [iroh](https://github.com/n0-computer/iroh) | Library adding QUIC and NAT traversal so apps connect by public key instead of IP address. | n0-computer | 13k |
 | [gping](https://github.com/orf/gping) | Command-line ping tool that graphs response times over time. | orf | 12.7k |
 | [scapy](https://github.com/secdev/scapy) | Python library and interactive program for packet manipulation, sniffing, and network analysis. | secdev | 12.7k |
 | [bore](https://github.com/ekzhang/bore) | Command-line tool that creates tunnels to expose a local port on a remote server. | ekzhang | 11.6k |
@@ -86,8 +86,8 @@
 | [guacamole-client](https://github.com/apache/guacamole-client) | Web application and JavaScript client for the Apache Guacamole remote desktop gateway. | apache | 1.8k |
 | [wifite2](https://github.com/kimocoder/wifite2) | Python rewrite of the wifite wireless network auditor for automated Wi-Fi security testing. | kimocoder | 1.8k |
 | [briefing](https://github.com/holtwick/briefing) | End-to-end encrypted video group chat application built with WebRTC. | holtwick | 1.6k |
+| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.5k |
 | [geckos.io](https://github.com/geckosio/geckos.io) | Real-time client/server communication over UDP using WebRTC and Node.js. | geckosio | 1.5k |
-| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.4k |
 | [untun](https://github.com/unjs/untun) | Tool that exposes a local HTTP or HTTPS server to the internet via Cloudflare Quick Tunnels. | unjs | 1.4k |
 | [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) | Scrapes HTTP, SOCKS4 and SOCKS5 proxies from many sources, verifies them, and exports results. | monosans | 1.4k |
 | [hyperswarm](https://github.com/holepunchto/hyperswarm) | Distributed networking stack for connecting peers in JavaScript, with peer discovery and connections. | holepunchto | 1.3k |

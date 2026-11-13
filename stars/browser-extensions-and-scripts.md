@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 33.9k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25k |
@@ -16,7 +16,7 @@
 | [daily](https://github.com/dailydotdev/daily) | A personalized developer news feed and community for browser new tabs and mobile. | dailydotdev | 20.1k |
 | [screenity](https://github.com/alyssaxuu/screenity) | Free, privacy-friendly browser extension for screen recording with annotation tools. | alyssaxuu | 19k |
 | [SponsorBlock](https://github.com/ajayyy/SponsorBlock) | Browser extension that skips sponsored segments in YouTube videos. | ajayyy | 14.1k |
-| [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome and Firefox extension that restores YouTube dislike counts on videos. | Anarios | 13.8k |
+| [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome and Firefox extension that restores YouTube dislike counts on videos. | Anarios | 13.9k |
 | [plasmo](https://github.com/PlasmoHQ/plasmo) | Framework for building browser extensions with bundling and a modern development workflow. | PlasmoHQ | 13.2k |
 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | Dark GitHub style with custom syntax themes for code, editors, and notebooks. | StylishThemes | 10k |
 | [buster](https://github.com/dessant/buster) | Browser extension that solves reCAPTCHA challenges using speech recognition. | dessant | 9.4k |
@@ -27,7 +27,7 @@
 | [uAssets](https://github.com/uBlockOrigin/uAssets) | Filter lists for uBlock Origin and uBlock Origin Lite content blocking. | uBlockOrigin | 6.1k |
 | [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) | Tool that redirects Microsoft Edge news, search, widget and weather links to the default browser. | rcmaehl | 5.9k |
 | [youtube](https://github.com/code-charity/youtube) | Browser extension that adds playback, discovery, and other tweaks to YouTube. | code-charity | 4.7k |
-| [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | Ad blocking browser extension for Chrome and Firefox, developed as open-source software. | AdguardTeam | 4.5k |
+| [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | Ad blocking browser extension for Chrome and Firefox, developed as open-source software. | AdguardTeam | 4.6k |
 | [videospeed](https://github.com/igrigorik/videospeed) | Browser extension for Chrome that adds speed control to HTML5 video players. | igrigorik | 4.5k |
 | [webextensions-examples](https://github.com/mdn/webextensions-examples) | Example Firefox add-ons built with the WebExtensions API for learning extension development. | mdn | 4.5k |
 | [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 🆕 | Build tooling for browser extensions with native hot module replacement and zero-config setup. | crxjs | 4.2k |
@@ -38,7 +38,7 @@
 | [web-ext](https://github.com/mozilla/web-ext) | Command line tool for building, running, and testing WebExtensions. | mozilla | 3.2k |
 | [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 🗄️ | Polyfill library that makes Promise-based WebExtension APIs work in Chrome. | mozilla | 3.1k |
 | [adblock-rust](https://github.com/brave/adblock-rust) | Ad-blocking engine written in Rust, used by Brave to block ads and trackers. | brave | 2.9k |
-| [TwitchNoSub](https://github.com/besuper/TwitchNoSub) | Browser extension that lets users watch subscriber-only Twitch VODs without a subscription. | besuper | 2.8k |
+| [TwitchNoSub](https://github.com/besuper/TwitchNoSub) | Browser extension that lets users watch subscriber-only Twitch VODs without a subscription. | besuper | 2.9k |
 | [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) | Starter template for building Chrome extensions with TypeScript and React. | chibat | 2.8k |
 | [OldTwitter](https://github.com/dimdenGD/OldTwitter) | Browser extension that restores the Twitter layout from 2015 and 2018. | dimdenGD | 2.8k |
 | [Gitako](https://github.com/EnixCoda/Gitako) | Browser extension that adds a file tree sidebar to GitHub and Gitee repository pages. | EnixCoda | 2.6k |
@@ -74,7 +74,7 @@
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
 | [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
 | [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 135 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 115 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 116 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 | [Ostendo](https://github.com/WebOnField/Ostendo) | Tool that shows accessibility compliance rates of French websites in Google search results. | WebOnField | 18 |

@@ -8,7 +8,7 @@
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.5k |
-| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
+| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.2k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
 | [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
 | [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.3k |
@@ -33,7 +33,7 @@
 | [coreutils](https://github.com/coreutils/coreutils) | Public mirror of the GNU coreutils source code, accepting pull requests and issues. | coreutils | 5.4k |
 | [nalgebra](https://github.com/dimforge/nalgebra) | Linear algebra library for Rust providing vectors, matrices, and related numerical operations. | dimforge | 4.8k |
 | [regex](https://github.com/rust-lang/regex) | Rust regex library using finite automata, guaranteeing linear-time matching on all inputs. | rust-lang | 4.1k |
-| [parking_lot](https://github.com/Amanieu/parking_lot) | Compact, efficient synchronization primitives for Rust, plus an API for building custom ones. | Amanieu | 3.5k |
+| [parking_lot](https://github.com/Amanieu/parking_lot) | Compact, efficient synchronization primitives for Rust, plus an API for building custom ones. | Amanieu | 3.4k |
 | [libc](https://github.com/rust-lang/libc) | Raw Rust bindings to platform C library APIs. | rust-lang | 2.6k |
 | [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) | Rust SDK for building Matrix client-server applications. | matrix-org | 2.4k |
 | [lopdf](https://github.com/J-F-Liu/lopdf) | Rust library for manipulating PDF documents. | J-F-Liu | 2.3k |

@@ -5,31 +5,31 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 118k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 74.8k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 74.9k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.4k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.3k |
-| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.3k |
+| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.4k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.7k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 34.5k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 34.6k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30k |
 | [yabai](https://github.com/asmvik/yabai) | Tiling window manager for macOS that arranges windows using binary space partitioning. | asmvik | 29.8k |
 | [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 28.8k |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3-like tiling window manager for macOS. | nikitabobko | 23.8k |
 | [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.1k |
-| [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS that stores and retrieves clipboard history. | p0deje | 22.3k |
+| [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | macOS audio utility that pauses music automatically, sets per-app volumes, and records system audio. | kyleneideck | 19.4k |
 | [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | Curated list of Quick Look plugins that add useful previews for developer file formats on macOS. | sindresorhus | 18.8k |
 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | Retro video game emulation frontend for macOS supporting multiple console emulators. | OpenEmu | 17.9k |
-| [vphone-cli](https://github.com/Lakr233/vphone-cli) | Command-line tool for running a virtual iPhone on an Apple Silicon Mac. | Lakr233 | 16.6k |
+| [vphone-cli](https://github.com/Lakr233/vphone-cli) | Command-line tool for running a virtual iPhone on an Apple Silicon Mac. | Lakr233 | 16.7k |
 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows-style alt-tab window switcher for macOS that shows window previews. | lwouis | 16.5k |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS, inspired by xmonad. | ianyh | 16.3k |
 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | Default Homebrew tap containing open-source formulae built from source for macOS and Linux package management. | Homebrew | 15.7k |
 | [hidden](https://github.com/dwarvesf/hidden) | Lightweight macOS utility that hides menu bar icons. | dwarvesf | 15.4k |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Source-available macOS app cleaner for removing apps and leftover files. | alienator88 | 15.1k |
 | [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.7k |
-| [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.3k |
+| [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.4k |
 | [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Utility that improves third-party mouse behavior on macOS, such as button mapping and scroll inversion. | noah-nuebling | 11.2k |
 | [FineTune](https://github.com/ronitsingh10/FineTune) | macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. | ronitsingh10 | 10.1k |
 | [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 9.9k |
@@ -42,7 +42,7 @@
 | [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7k |
 | [eqMac](https://github.com/bitgapp/eqMac) | macOS system-wide audio equalizer and volume mixer app. | bitgapp | 6.8k |
 | [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | macOS app that re-signs apps and packages them as IPA files ready for installation on iOS devices. | DanTheMan827 | 6.3k |
-| [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Tool that exports iMessage data and runs iMessage diagnostics. | ReagentX | 5.7k |
+| [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Tool that exports iMessage data and runs iMessage diagnostics. | ReagentX | 5.8k |
 | [Lunar](https://github.com/alin23/Lunar) | macOS app that adjusts brightness and contrast of external monitors using DDC/CI. | alin23 | 5.7k |
 | [MeetingBar](https://github.com/leits/MeetingBar) | macOS menu bar app that shows upcoming calendar meetings and lets you join them with one click. | leits | 5.4k |
 | [port-killer](https://github.com/productdevbook/port-killer) | Port management tool for monitoring ports, Kubernetes port forwards, and killing processes. | productdevbook | 5.2k |

@@ -15,7 +15,7 @@
 | [llvm-project](https://github.com/llvm/llvm-project) | Collection of modular, reusable compiler and toolchain technologies. | llvm | 41.4k |
 | [modular](https://github.com/modular/modular) | Modular AI platform including the MAX inference framework and the Mojo programming language. | modular | 30.1k |
 | [emscripten](https://github.com/emscripten-core/emscripten) | LLVM-based compiler toolchain that compiles C and C++ code to WebAssembly. | emscripten-core | 27.8k |
-| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.5k |
+| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.4k |
 | [typescript-go](https://github.com/microsoft/typescript-go) 🗄️ | Staging repository for the native Go port of the TypeScript compiler. | microsoft | 26.1k |
 | [solidity](https://github.com/argotorg/solidity) | Compiler for Solidity, a programming language for writing Ethereum smart contracts. | argotorg | 25.8k |
 | [bend](https://github.com/bendlang/bend) | Fast parallel programming language with dependent types, targeting GPUs via CUDA and Metal. | bendlang | 25k |
@@ -43,7 +43,7 @@
 | [mquickjs](https://github.com/bellard/mquickjs) | Public repository of the Micro QuickJS JavaScript engine. | bellard | 6.2k |
 | [uniffi-rs](https://github.com/mozilla/uniffi-rs) | Generator that produces foreign-language bindings for Rust crates across multiple languages. | mozilla | 5.1k |
 | [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Specification and documentation for Dhall, a language for maintainable configuration files. | dhall-lang | 4.5k |
-| [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.7k |
+| [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.8k |
 | [isolated-vm](https://github.com/laverdet/isolated-vm) | Node.js library for running secure, isolated JavaScript environments with V8 isolates. | laverdet | 2.9k |
 | [numbat](https://github.com/sharkdp/numbat) | Statically typed language for scientific computation with first-class physical dimensions and units. | sharkdp | 2.8k |
 | [catala](https://github.com/CatalaLang/catala) | Programming language for writing law specifications in a literate style, with legislative texts. | CatalaLang | 2.4k |

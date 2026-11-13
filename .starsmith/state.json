@@ -1,5 +1,5 @@
 {
-  "contentHash": "28ab673735da",
+  "contentHash": "c37f216fa508",
   "digest": {
     "language": "en",
     "text": "Agents dominate this batch of stars. **Agent protocols and tooling** lead the way, with A2A, ag-ui, and Unity-MCP connecting models to apps, editors, and SEO data, while claude-swap and free-claude-code show developers managing accounts and token budgets. **Free and local AI** runs alongside, from freellmapi's aggregated endpoints to pocket-tts and mflux running on local hardware.\n\n**Document intelligence** appears in chandra and GLM-OCR, while **reverse engineering and privacy tools** like camoufox, androguard, and unfairplay reflect interest in understanding closed software.",
@@ -603,7 +603,7 @@
     },
     "MDEwOlJlcG9zaXRvcnk0MzQyNTQ4MA==": {
       "category": "Awesome Lists and Learning Resources",
-      "ch": "2e55027b9904",
+      "ch": "654017651fb1",
       "description": "Curated list of libraries, packages, and resources for quantitative finance.",
       "dh": "4b254a57a694"
     },
@@ -4005,7 +4005,7 @@
     },
     "MDEwOlJlcG9zaXRvcnk3MDczNzUwNw==": {
       "category": "Frontend UI Libraries",
-      "ch": "0656d5a06df9",
+      "ch": "6fe9f393a2fb",
       "description": "JavaScript library that detects elements entering the viewport and provides smooth scrolling with parallax effects.",
       "dh": "f095046ead6f"
     },
@@ -11247,9 +11247,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=": {
       "category": "Backend Frameworks and Servers",
-      "ch": "86c39c838047",
-      "description": "Python web framework for building high-performance APIs with type hints and asyncio support.",
-      "dh": "3eea37bc8a16"
+      "ch": "6618fe4fd8cf",
+      "description": "Python web framework for building high-performance APIs with automatic JSON Schema validation.",
+      "dh": "66c6e15253b3"
     },
     "MDEwOlJlcG9zaXRvcnkxNjAyMzM1OTg=": {
       "category": "DevOps and Infrastructure",
@@ -12147,9 +12147,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "c3a89574369f",
-      "description": "Python framework for browser automation and end-to-end testing, including bot-detection bypass.",
-      "dh": "32297588ffcb"
+      "ch": "f220de94212f",
+      "description": "Python framework for web scraping, end-to-end testing, product tours, and bypassing bot detection.",
+      "dh": "649c8b2067af"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -13978,10 +13978,10 @@
       "dh": "caa31883050b"
     },
     "MDEwOlJlcG9zaXRvcnkyMDQwODY4NjI=": {
-      "category": "AI and Machine Learning",
-      "ch": "a3978ccd5122",
-      "description": "Python framework for quickly building and sharing interactive data apps and dashboards.",
-      "dh": "84ae4238132d"
+      "category": "Databases and Data Tools",
+      "ch": "81f485141f42",
+      "description": "Python framework for building data apps and dashboards for data analysis and business intelligence.",
+      "dh": "3dc49056c9df"
     },
     "MDEwOlJlcG9zaXRvcnkyMDQxNDQxMzk=": {
       "category": "DevOps and Infrastructure",
@@ -15015,9 +15015,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMjIyNDA2ODg=": {
       "category": "Security and Penetration Testing",
-      "ch": "1ef7ea310c19",
-      "description": "Secure remote browser that streams a Chrome session for cobrowsing and embedding.",
-      "dh": "37625052486c"
+      "ch": "c9b68a80fa50",
+      "description": "Secure browser infrastructure for regulated enterprises, with support for AI agents and cobrowsing.",
+      "dh": "45039f0ecac2"
     },
     "MDEwOlJlcG9zaXRvcnkyMjIzNDQ1NQ==": {
       "category": "Frontend UI Libraries",
@@ -15565,7 +15565,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMzQ5NzIxMjQ=": {
       "category": "Awesome Lists and Learning Resources",
-      "ch": "c0f824ec0547",
+      "ch": "c6c7ef992f27",
       "description": "Curated list of Blender add-ons, extensions, AI and MCP tools, tutorials, and 3D resources.",
       "dh": "cae32d69b7ba"
     },
@@ -19721,7 +19721,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMzg5ODQxNDY=": {
       "category": "Other",
-      "ch": "40761d9a14ad",
+      "ch": "79d7b9548e1c",
       "description": "Open source learning management system built on the Frappe framework for running online courses.",
       "dh": "b560a4b314c9"
     },
@@ -20285,9 +20285,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==": {
       "category": "Other",
-      "ch": "e9852d98cffe",
-      "description": "Self-hosted team chat and collaboration platform for secure, mission-critical communication.",
-      "dh": "385a448e394c"
+      "ch": "0fea7c51c01c",
+      "description": "Open-source messaging platform for chat, voice, video, and governed AI, built for government.",
+      "dh": "c789d60d50cf"
     },
     "MDEwOlJlcG9zaXRvcnkzNTg5MTcyNTA=": {
       "category": "Databases and Data Tools",
@@ -22959,9 +22959,9 @@
     },
     "R_kgDOICw4hw": {
       "category": "Databases and Data Tools",
-      "ch": "b84a58a94358",
-      "description": "Data layer for TypeScript apps, providing a type-safe ORM with built-in access control and query services.",
-      "dh": "21a25528f545"
+      "ch": "ba76c3e72a39",
+      "description": "TypeScript data layer with a type-safe ORM, built-in access control, and automatic query services.",
+      "dh": "0fd7eda92fd2"
     },
     "R_kgDOIDya2Q": {
       "category": "Audio and Video Processing",
@@ -24999,7 +24999,7 @@
     },
     "R_kgDOLUsMbg": {
       "category": "Databases and Data Tools",
-      "ch": "5620cbf57f33",
+      "ch": "26b1caf9ebe1",
       "description": "Embeddable WebAssembly build of Postgres with real-time reactive bindings.",
       "dh": "6f85a186a9ad"
     },
@@ -25089,7 +25089,7 @@
     },
     "R_kgDOL_2xwg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "49ec46231a4d",
+      "ch": "c29709fd68a4",
       "description": "AI workspace for working with models, agents and productivity tools in one place.",
       "dh": "84804a680424"
     },
@@ -28967,6 +28967,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "version": 1
 }

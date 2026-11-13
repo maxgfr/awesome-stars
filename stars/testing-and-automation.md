@@ -16,17 +16,17 @@
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.1k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.4k |
-| [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
+| [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.2k |
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.4k |
 | [mocha](https://github.com/mochajs/mocha) | Feature-rich JavaScript test framework for running tests in Node.js and browsers. | mochajs | 22.9k |
 | [appium](https://github.com/appium/appium) | Cross-platform automation framework for all app types, built on the W3C WebDriver protocol. | appium | 22.2k |
 | [enzyme](https://github.com/enzymejs/enzyme) | JavaScript testing utilities for React components, used with assertion libraries like Chai. | enzymejs | 19.8k |
 | [react-testing-library](https://github.com/testing-library/react-testing-library) | Utilities for testing React DOM components in a way that resembles user interaction. | testing-library | 19.7k |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
-| [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.3k |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
+| [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.4k |
 | [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.3k |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.4k |
 | [docker-android](https://github.com/budtmo/docker-android) | Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents. | budtmo | 16.1k |
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
@@ -35,7 +35,7 @@
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 13.9k |
 | [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 13.8k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for browser automation and end-to-end testing, including bot-detection bypass. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for web scraping, end-to-end testing, product tours, and bypassing bot detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.3k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
@@ -94,11 +94,11 @@
 | [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) | ESLint rules enforcing best practices and catching common mistakes when testing with Testing Library. | testing-library | 1.1k |
 | [solidity-coverage](https://github.com/sc-forks/solidity-coverage) | Code coverage tool for Solidity smart contracts. | sc-forks | 1k |
 | [vscode](https://github.com/vitest-dev/vscode) | VS Code extension for running and debugging Vitest tests within the editor. | vitest-dev | 933 |
-| [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) | Type-safe mocking extensions for Jest, with support for calledWith and TypeScript. | marchaos | 909 |
+| [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) | Type-safe mocking extensions for Jest, with support for calledWith and TypeScript. | marchaos | 910 |
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [testing-playground](https://github.com/testing-library/testing-playground) | A DOM testing playground that encourages good testing practices and accessibility. | testing-library | 814 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 769 |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 736 |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 737 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 694 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 647 |

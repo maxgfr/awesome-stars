@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Staging tree of Bitcoin Core, the reference implementation of the Bitcoin peer-to-peer network. | bitcoin | 90.7k |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 56.8k |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 56.9k |
 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol, including the geth node client. | ethereum | 51.5k |
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
 | [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 44.9k |
@@ -39,7 +39,7 @@
 | [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Free, self-hosted Bitcoin payment processor for accepting payments, including over Lightning. | btcpayserver | 7.9k |
 | [jose](https://github.com/panva/jose) | JavaScript library implementing JOSE standards for JWT, JWS, JWE, JWK, and JWKS across runtimes. | panva | 7.9k |
 | [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) | Library for hashing and comparing passwords with bcrypt in Node.js. | kelektiv | 7.8k |
-| [rustls](https://github.com/rustls/rustls) | Modern TLS library written in Rust. | rustls | 7.8k |
+| [rustls](https://github.com/rustls/rustls) | Modern TLS library written in Rust. | rustls | 7.7k |
 | [smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) | Guide to security best practices for writing smart contracts. | ConsenSysDiligence | 7.6k |
 | [python-binance](https://github.com/sammchardy/python-binance) | Python implementation of the Binance exchange API for automated trading. | sammchardy | 7.2k |
 | [sjcl](https://github.com/bitwiseshiftleft/sjcl) | Deprecated JavaScript library providing cryptographic primitives from Stanford University. | bitwiseshiftleft | 7.2k |
@@ -47,7 +47,7 @@
 | [wagmi](https://github.com/wevm/wagmi) | React hooks and reactive primitives for building Ethereum applications, built on viem. | wevm | 6.8k |
 | [slither](https://github.com/crytic/slither) | Static analyzer for Solidity and Vyper smart contracts. | crytic | 6.4k |
 | [dehydrated](https://github.com/dehydrated-io/dehydrated) | ACME client written as a shell script for obtaining and renewing certificates, such as from Let's Encrypt. | dehydrated-io | 6.3k |
-| [libsignal](https://github.com/signalapp/libsignal) | Library implementing the Signal Protocol and other cryptographic primitives used by Signal. | signalapp | 6.1k |
+| [libsignal](https://github.com/signalapp/libsignal) | Library implementing the Signal Protocol and other cryptographic primitives used by Signal. | signalapp | 6.2k |
 | [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) | JavaScript library for Bitcoin development in Node.js and browsers. | bitcoinjs | 6k |
 | [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Source code for the Ethereum.org website, a resource for the Ethereum community. | ethereum | 6k |
 | [openpgpjs](https://github.com/openpgpjs/openpgpjs) | JavaScript implementation of the OpenPGP standard for encryption, signing and verification. | openpgpjs | 6k |
@@ -95,8 +95,8 @@
 | [venus](https://github.com/filecoin-project/venus) | Implementation of a Filecoin full node written in Go. | filecoin-project | 2.1k |
 | [wallet-adapter](https://github.com/anza-xyz/wallet-adapter) | Modular TypeScript wallet adapters and UI components for Solana applications. | anza-xyz | 2k |
 | [apps](https://github.com/polkadot-js/apps) | Web user interface for interacting with Polkadot and Substrate nodes, covering all Substrate chain features. | polkadot-js | 1.8k |
-| [circl](https://github.com/cloudflare/circl) | Go cryptography library from Cloudflare with post-quantum schemes such as Dilithium and CSIDH. | cloudflare | 1.7k |
 | [token-lists](https://github.com/Uniswap/token-lists) | Specification for token lists, a JSON format for describing sets of ERC-20 tokens for applications. | Uniswap | 1.7k |
+| [circl](https://github.com/cloudflare/circl) | Go cryptography library from Cloudflare with post-quantum schemes such as Dilithium and CSIDH. | cloudflare | 1.7k |
 | [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | Monorepo of WalletConnect libraries for connecting Ethereum wallets to dapps. | WalletConnect | 1.7k |
 | [node-binance-api](https://github.com/ccxt/node-binance-api) | Asynchronous Node.js library for the Binance API, designed to be easy to use. | ccxt | 1.7k |
 | [binance-api-postman](https://github.com/binance/binance-api-postman) | Postman collection for the Binance Public API covering spot, margin, and futures endpoints. | binance | 1.6k |
@@ -107,7 +107,7 @@
 | [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) | Boilerplate code for testing, deploying, and shipping Chainlink Solidity contracts with Hardhat. | smartcontractkit | 1.3k |
 | [raspibolt](https://github.com/raspibolt/raspibolt) | Guide for setting up a Bitcoin and Lightning full node on a Raspberry Pi. | raspibolt | 1.3k |
 | [starknet.js](https://github.com/starknet-io/starknet.js) | JavaScript and TypeScript library for interacting with the Starknet zero-knowledge rollup. | starknet-io | 1.3k |
-| [lnbits](https://github.com/lnbits/lnbits) | Free and open-source Lightning wallet and accounts system with LNURL support. | lnbits | 1.3k |
+| [lnbits](https://github.com/lnbits/lnbits) | Free and open-source Lightning wallet and accounts system with LNURL support. | lnbits | 1.2k |
 | [merkletreejs](https://github.com/merkletreejs/merkletreejs) | JavaScript library for constructing Merkle trees and verifying Merkle proofs. | merkletreejs | 1.2k |
 | [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) | Upgradeable variant of OpenZeppelin Contracts for use in upgradeable smart contracts. | OpenZeppelin | 1.2k |
 | [libsodium.js](https://github.com/jedisct1/libsodium.js) | libsodium compiled to WebAssembly and pure JavaScript with convenient wrappers for web use. | jedisct1 | 1.2k |
@@ -130,7 +130,7 @@
 | [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 762 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
-| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 680 |
+| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 679 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 673 |
 | [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) | Plugins for Hardhat and Foundry that deploy and manage upgradeable smart contracts on Ethereum. | OpenZeppelin | 660 |
 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | Solana smart contracts for digital assets and NFTs maintained by the Metaplex team. | metaplex-foundation | 646 |
