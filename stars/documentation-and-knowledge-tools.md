@@ -11,7 +11,7 @@
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 78.9k |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.5k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
-| [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.4k |
+| [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.5k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
@@ -41,14 +41,14 @@
 | [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.3k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.3k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
-| [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.4k |
+| [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.5k |
 | [tolaria](https://github.com/refactoringhq/tolaria) | Desktop app for managing markdown-based knowledge bases. | refactoringhq | 20.5k |
 | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust library that classifies PDFs as scanned or text-based and extracts their text. | firecrawl | 20k |
 | [proposals](https://github.com/tc39/proposals) | Tracks ECMAScript proposals through the TC39 stages from idea to standardization. | tc39 | 19.2k |
 | [etherpad](https://github.com/ether/etherpad) | Open-source real-time collaborative document editor that runs in the browser. | ether | 18.6k |
 | [vitepress](https://github.com/vuejs/vitepress) | Static site generator built on Vite and Vue, designed for Markdown-based documentation. | vuejs | 18.5k |
 | [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Generates wiki-style documentation with AI for GitHub, GitLab, and Bitbucket repositories. | AsyncFuncAI | 18.4k |
-| [openwiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent-oriented documentation for a codebase. | langchain-ai | 17.9k |
+| [openwiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent-oriented documentation for a codebase. | langchain-ai | 18k |
 | [zola](https://github.com/getzola/zola) | Fast static site generator distributed as a single binary, with built-in markdown and content management. | getzola | 17.6k |
 | [foam](https://github.com/foambubble/foam) | Personal knowledge management and note-taking system for VS Code using Markdown and graph views. | foambubble | 17.5k |
 | [docs](https://github.com/suitenumerique/docs) | Open-source web-based collaborative editor for real-time editing of structured documents, built with Django and React. | suitenumerique | 17k |
@@ -85,7 +85,7 @@
 | [hedgedoc](https://github.com/hedgedoc/hedgedoc) | Collaborative real-time markdown editor for writing and sharing documents with diagrams. | hedgedoc | 7.5k |
 | [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | Self-hosted server for collaborative online editing of documents, spreadsheets and presentations. | ONLYOFFICE | 7.1k |
 | [yn](https://github.com/purocean/yn) | Extensible Markdown editor with version control, AI copilot, mind maps, and encryption. | purocean | 6.8k |
-| [pdf-craft](https://github.com/oomol-lab/pdf-craft) | Converts PDFs of scanned books into other formats such as ebooks, using OCR models. | oomol-lab | 6.6k |
+| [pdf-craft](https://github.com/oomol-lab/pdf-craft) | Converts PDFs of scanned books into other formats such as ebooks, using OCR models. | oomol-lab | 6.7k |
 | [discord-api-docs](https://github.com/discord/discord-api-docs) | Official documentation for the Discord developer platform and its API. | discord | 6.5k |
 | [mammoth.js](https://github.com/mwilliamson/mammoth.js) | Converts Word (.docx) documents to HTML. | mwilliamson | 6.3k |
 | [schemaorg](https://github.com/schemaorg/schemaorg) | Vocabulary and supporting software for Schema.org structured data, covering JSON-LD and RDF. | schemaorg | 6.3k |
@@ -145,7 +145,7 @@
 | [graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) | Generator that produces customizable MDX documentation from GraphQL schemas. | graphql-markdown | 182 |
 | [repo-to-pdf](https://github.com/josherich/repo-to-pdf) | Tool for converting a repository into a PDF file. | josherich | 141 |
 | [docusaurus-plugin-remote-content](https://github.com/RDIL/docusaurus-plugin-remote-content) | Docusaurus plugin that downloads content from remote sources when it is needed. | RDIL | 112 |
-| [Markdansi](https://github.com/steipete/Markdansi) | TypeScript library that renders Markdown as ANSI text for terminal output, with tables and lists. | steipete | 67 |
+| [Markdansi](https://github.com/steipete/Markdansi) | TypeScript library that renders Markdown as ANSI text for terminal output, with tables and lists. | steipete | 68 |
 | [developer-documentation](https://github.com/matomo-org/developer-documentation) | Developer documentation website for the Matomo web analytics platform. | matomo-org | 58 |
 | [node-prince](https://github.com/rse/node-prince) | Node.js API for running the PrinceXML prince CLI to convert HTML and CSS to PDF. | rse | 56 |
 | [cdtn-admin](https://github.com/SocialGouv/cdtn-admin) | Tool for curating and administering content for the French digital labour code website. | SocialGouv | 6 |

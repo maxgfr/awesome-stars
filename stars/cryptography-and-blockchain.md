@@ -30,7 +30,7 @@
 | [client](https://github.com/keybase/client) | Go library, clients, and service for Keybase's end-to-end encrypted chat and file system. | keybase | 9.3k |
 | [snapshot-v1](https://github.com/snapshot-labs/snapshot-v1) | Legacy version 1 web interface for the Snapshot off-chain voting platform. | snapshot-labs | 9.1k |
 | [binance-trade-bot](https://github.com/ccxt/binance-trade-bot) | Automated bot that trades cryptocurrencies on Binance. | ccxt | 8.8k |
-| [jesse](https://github.com/jesse-ai/jesse) | Python framework for backtesting and running algorithmic cryptocurrency trading bots. | jesse-ai | 8.8k |
+| [jesse](https://github.com/jesse-ai/jesse) | Python trading bot for backtesting and running algorithmic cryptocurrency trading strategies. | jesse-ai | 8.8k |
 | [ethers.js](https://github.com/ethers-io/ethers.js) | Complete Ethereum library and wallet implementation in JavaScript and TypeScript. | ethers-io | 8.7k |
 | [electrum](https://github.com/spesmilo/electrum) | Bitcoin wallet with Lightning Network support, written in Python. | spesmilo | 8.7k |
 | [hardhat](https://github.com/NomicFoundation/hardhat) | Development environment to compile, deploy, test, and debug Ethereum smart contracts and dapps. | NomicFoundation | 8.5k |
@@ -107,7 +107,7 @@
 | [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) | Boilerplate code for testing, deploying, and shipping Chainlink Solidity contracts with Hardhat. | smartcontractkit | 1.3k |
 | [raspibolt](https://github.com/raspibolt/raspibolt) | Guide for setting up a Bitcoin and Lightning full node on a Raspberry Pi. | raspibolt | 1.3k |
 | [starknet.js](https://github.com/starknet-io/starknet.js) | JavaScript and TypeScript library for interacting with the Starknet zero-knowledge rollup. | starknet-io | 1.3k |
-| [lnbits](https://github.com/lnbits/lnbits) | Free and open-source Lightning wallet and accounts system with LNURL support. | lnbits | 1.2k |
+| [lnbits](https://github.com/lnbits/lnbits) | Free and open-source Lightning wallet and accounts system with LNURL support. | lnbits | 1.3k |
 | [merkletreejs](https://github.com/merkletreejs/merkletreejs) | JavaScript library for constructing Merkle trees and verifying Merkle proofs. | merkletreejs | 1.2k |
 | [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) | Upgradeable variant of OpenZeppelin Contracts for use in upgradeable smart contracts. | OpenZeppelin | 1.2k |
 | [libsodium.js](https://github.com/jedisct1/libsodium.js) | libsodium compiled to WebAssembly and pure JavaScript with convenient wrappers for web use. | jedisct1 | 1.2k |
@@ -118,7 +118,7 @@
 | [extension](https://github.com/polkadot-js/extension) | Browser extension for managing Polkadot and Substrate accounts and signing extrinsics with them. | polkadot-js | 1k |
 | [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 971 |
 | [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 934 |
-| [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | Ethereum-compatible smart contract parachain on the Polkadot network. | moonbeam-foundation | 933 |
+| [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | Ethereum-compatible smart contract parachain on the Polkadot network. | moonbeam-foundation | 932 |
 | [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 925 |
 | [token-profile](https://github.com/consenlabs/token-profile) | Dataset of profile information for blockchain coins and tokens, aimed at wallet use. | consenlabs | 923 |
 | [cello](https://github.com/hyperledger-cello/cello) | Tool for deploying and managing enterprise blockchain networks on Hyperledger infrastructure. | hyperledger-cello | 921 |
@@ -130,7 +130,7 @@
 | [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 762 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
-| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 679 |
+| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 678 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 673 |
 | [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) | Plugins for Hardhat and Foundry that deploy and manage upgradeable smart contracts on Ethereum. | OpenZeppelin | 660 |
 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | Solana smart contracts for digital assets and NFTs maintained by the Metaplex team. | metaplex-foundation | 646 |
@@ -144,7 +144,7 @@
 | [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) | Gas usage analytics plugin for Hardhat that reports gas costs of Solidity contract calls in tests. | cgewecke | 430 |
 | [javascript-sdk](https://github.com/bnb-chain/javascript-sdk) | JavaScript SDK for communicating with the BNB Beacon Chain. | bnb-chain | 401 |
 | [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 379 |
-| [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 374 |
+| [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 375 |
 | [prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) | Prisma middleware providing transparent field-level encryption of data at rest. | 47ng | 309 |
 | [providers](https://github.com/MetaMask/providers) | Ethereum provider that communicates over a stream, as injected into websites by MetaMask. | MetaMask | 268 |
 | [selfsigned](https://github.com/jfromaniello/selfsigned) | Node.js library for generating self-signed TLS certificates. | jfromaniello | 253 |

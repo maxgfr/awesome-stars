@@ -11,8 +11,8 @@
 | [webpack](https://github.com/webpack/webpack) | Module bundler that packs JavaScript and other assets into bundles, with code splitting and loaders. | webpack | 66k |
 | [lodash](https://github.com/lodash/lodash) | Modern JavaScript utility library offering modular methods for common programming tasks. | lodash | 61.4k |
 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | Repository of high-quality TypeScript type definitions for JavaScript libraries under @types. | DefinitelyTyped | 51.5k |
-| [dayjs](https://github.com/iamkun/dayjs) | Lightweight immutable date library with a Moment.js-like API for parsing and formatting dates. | iamkun | 48.7k |
-| [zx](https://github.com/google/zx) | Tool for writing scripts in JavaScript that run shell commands through child processes. | google | 45.8k |
+| [dayjs](https://github.com/iamkun/dayjs) | Lightweight immutable date library with a Moment.js-like API for parsing and formatting dates. | iamkun | 48.6k |
+| [zx](https://github.com/google/zx) | Tool for writing scripts in JavaScript that run shell commands through child processes. | google | 45.9k |
 | [zod](https://github.com/colinhacks/zod) | TypeScript-first schema validation library with static type inference. | colinhacks | 44.3k |
 | [babel](https://github.com/babel/babel) | JavaScript compiler that converts next-generation syntax into code that runs in current environments. | babel | 44.1k |
 | [parcel](https://github.com/parcel-bundler/parcel) | Zero-configuration build tool for bundling web applications and their assets. | parcel-bundler | 44k |
@@ -34,7 +34,7 @@
 | [create-t3-app](https://github.com/t3-oss/create-t3-app) | Interactive CLI that scaffolds a full-stack, typesafe Next.js app with a choice of optional tooling. | t3-oss | 29.2k |
 | [immer](https://github.com/immerjs/immer) | Immutable state library that lets you update current state by writing mutating code. | immerjs | 29k |
 | [postcss](https://github.com/postcss/postcss) | Tool for transforming CSS with JavaScript plugins, built on a shared AST parser. | postcss | 29k |
-| [commander.js](https://github.com/tj/commander.js) | Node.js library for building command-line interfaces. | tj | 28.4k |
+| [commander.js](https://github.com/tj/commander.js) | Node.js library for building command-line interfaces. | tj | 28.5k |
 | [async](https://github.com/caolan/async) | Utility functions for asynchronous control flow and collections in Node.js and browsers. | caolan | 28.1k |
 | [eslint](https://github.com/eslint/eslint) | Pluggable static analysis tool that finds and reports problems in JavaScript code. | eslint | 27.6k |
 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | Tool that generates API client SDKs, server stubs, and documentation from OpenAPI specifications. | OpenAPITools | 26.9k |
@@ -102,7 +102,7 @@
 | [InversifyJS](https://github.com/inversify/InversifyJS) | Lightweight inversion of control container for TypeScript and JavaScript, now moved to a monorepo. | inversify | 12.1k |
 | [class-validator](https://github.com/typestack/class-validator) | TypeScript library for validating class properties using decorators. | typestack | 11.9k |
 | [fp-ts](https://github.com/gcanti/fp-ts) | Library for functional programming in TypeScript with algebraic data types. | gcanti | 11.6k |
-| [stylelint](https://github.com/stylelint/stylelint) | Linter for CSS that catches errors and enforces style conventions. | stylelint | 11.5k |
+| [stylelint](https://github.com/stylelint/stylelint) | Linter for CSS that catches errors and enforces style conventions. | stylelint | 11.6k |
 | [turndown](https://github.com/mixmark-io/turndown) | HTML to Markdown converter written in JavaScript, supporting CommonMark and GitHub Flavored Markdown. | mixmark-io | 11.5k |
 | [yargs](https://github.com/yargs/yargs) | Command-line argument parser for Node.js that builds interactive CLIs from option definitions. | yargs | 11.5k |
 | [tsdx](https://github.com/jaredpalmer/tsdx) | Zero-config CLI for developing, bundling, and testing TypeScript packages. | jaredpalmer | 11.5k |
@@ -338,7 +338,7 @@
 | [json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) | TypeScript library that infers static types from JSON schemas. | ThomasAribart | 1.8k |
 | [node-website-scraper](https://github.com/website-scraper/node-website-scraper) | Node.js tool for downloading a website to a local directory, including its CSS, images, and JS. | website-scraper | 1.8k |
 | [tslog](https://github.com/fullstack-build/tslog) | Universal logger for TypeScript and JavaScript with structured JSON output and error handling. | fullstack-build | 1.8k |
-| [cn](https://github.com/shadcn-ui/cn) | Tailwind class merging and conflict resolution library that replaces tailwind-merge and clsx. | shadcn-ui | 1.7k |
+| [cn](https://github.com/shadcn-ui/cn) | Tailwind class merging and conflict resolution library that replaces tailwind-merge and clsx. | shadcn-ui | 1.8k |
 | [slugify](https://github.com/simov/slugify) | Converts a string into a URL-friendly slug. | simov | 1.7k |
 | [rnx-kit](https://github.com/microsoft/rnx-kit) | Collection of modern tools for building and maintaining cross-platform React Native applications. | microsoft | 1.7k |
 | [fdir](https://github.com/thecodrr/fdir) | Fast directory crawler and globbing library for Node.js that lists files quickly. | thecodrr | 1.7k |
@@ -420,7 +420,7 @@
 | [opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) | Adapter that deploys Next.js applications on Netlify. | opennextjs | 856 |
 | [nostr-tools](https://github.com/nbd-wtf/nostr-tools) | Toolkit for developing Nostr clients in TypeScript. | nbd-wtf | 854 |
 | [debounce](https://github.com/sindresorhus/debounce) | Delays function calls until a set time has elapsed since the last invocation. | sindresorhus | 850 |
-| [postcss-normalize](https://github.com/csstools/postcss-normalize) | PostCSS plugin that includes only the parts of normalize.css or sanitize.css that a browserslist needs. | csstools | 836 |
+| [postcss-normalize](https://github.com/csstools/postcss-normalize) | PostCSS plugin that includes only the parts of normalize.css or sanitize.css that a browserslist needs. | csstools | 833 |
 | [yauzl](https://github.com/thejoshwolfe/yauzl) | Unzip library for Node.js that reads zip files with random access. | thejoshwolfe | 832 |
 | [eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript) | Resolver that adds TypeScript support to eslint-plugin-import and eslint-plugin-import-x. | import-js | 828 |
 | [beachball](https://github.com/microsoft/beachball) | Semantic version bumper for multi-package repos, using git history and registry publishing. | microsoft | 816 |
@@ -442,7 +442,7 @@
 | [minimist](https://github.com/minimistjs/minimist) | Parses command-line argument options. | minimistjs | 664 |
 | [only-allow](https://github.com/pnpm/only-allow) 🗄️ | Tool that enforces use of a specific package manager for a project. | pnpm | 659 |
 | [find-up](https://github.com/sindresorhus/find-up) | Finds a file or directory by walking up through parent directories. | sindresorhus | 642 |
-| [flags](https://github.com/vercel/flags) | Vercel's SDK for defining and evaluating feature flags in applications. | vercel | 629 |
+| [flags](https://github.com/vercel/flags) | Vercel's SDK for defining and evaluating feature flags in applications. | vercel | 630 |
 | [discord-api-types](https://github.com/discordjs/discord-api-types) | TypeScript typings for the Discord API, versioned to match each API version. | discordjs | 626 |
 | [sdk](https://github.com/microlinkhq/sdk) 🗄️ | SDK for turning any URL into an embeddable link preview card. | microlinkhq | 624 |
 | [globals](https://github.com/sindresorhus/globals) | Lists of global identifiers available in different JavaScript environments. | sindresorhus | 619 |
@@ -508,9 +508,9 @@
 | [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) | Node.js module that hooks into ESM import statements for instrumentation and monitoring. | nodejs | 174 |
 | [winston-loki](https://github.com/JaniAnttonen/winston-loki) | Grafana Loki transport for the Winston Node.js logging library. | JaniAnttonen | 170 |
 | [zstd-wasm](https://github.com/bokuweb/zstd-wasm) | Zstandard compression library compiled to WebAssembly for browsers, Node.js and Deno. | bokuweb | 167 |
-| [javascript](https://github.com/lezer-parser/javascript) 🗄️ | Lezer grammar for parsing JavaScript, used with the Lezer parser system. | lezer-parser | 166 |
 | [exec](https://github.com/semantic-release/exec) | semantic-release plugin that runs custom shell commands during the release process. | semantic-release | 166 |
 | [unzipit](https://github.com/greggman/unzipit) | Random-access unzip library for JavaScript, suitable for reading entries from zip files. | greggman | 165 |
+| [javascript](https://github.com/lezer-parser/javascript) 🗄️ | Lezer grammar for parsing JavaScript, used with the Lezer parser system. | lezer-parser | 165 |
 | [abort-utils](https://github.com/fregante/abort-utils) | Utility functions for combining AbortSignal and AbortController with Promises. | fregante | 163 |
 | [yaml-loader](https://github.com/eemeli/yaml-loader) | Webpack loader that imports YAML files as JavaScript objects. | eemeli | 153 |
 | [types.ts](https://github.com/octokit/types.ts) | Shared TypeScript type definitions for Octokit projects. | octokit | 152 |
@@ -526,7 +526,7 @@
 | [core_d.js](https://github.com/mantoni/core_d.js) | Node.js daemon that offloads heavy processing work to a background service, extracted from eslint_d. | mantoni | 68 |
 | [baseline-browser-mapping](https://github.com/web-platform-dx/baseline-browser-mapping) | Library that exposes arrays of browsers compatible with Baseline feature sets. | web-platform-dx | 65 |
 | [google-docs-hast](https://github.com/googleworkspace/google-docs-hast) | Converts Google Docs JSON documents into an HTML abstract syntax tree (HAST). | googleworkspace | 53 |
-| [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill) | esbuild plugin that polyfills Node.js built-in modules for use in browser bundles. | imranbarbhuiya | 29 |
+| [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill) | esbuild plugin that polyfills Node.js built-in modules for use in browser bundles. | imranbarbhuiya | 30 |
 | [yarn-lock-to-package-json](https://github.com/rohit-gohri/yarn-lock-to-package-json) | Generates package.json files from yarn.lock to enable Docker layer caching of node_modules. | rohit-gohri | 17 |
 | [all-node-versions](https://github.com/ehmicky/all-node-versions) | Command-line tool that lists all available Node.js versions. | ehmicky | 11 |
 | [nctx](https://github.com/devthefuture-org/nctx) | Dependency injection library for Node.js using native async_hooks to provide contextual instances. | devthefuture-org | 6 |

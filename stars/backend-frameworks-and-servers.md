@@ -29,11 +29,11 @@
 | [fastify](https://github.com/fastify/fastify) | Fast, low-overhead web framework for Node.js for building HTTP APIs and servers. | fastify | 37.4k |
 | [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.2k |
 | [koa](https://github.com/koajs/koa) | Expressive middleware framework for Node.js built on ES2017 async functions. | koajs | 35.7k |
-| [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.5k |
+| [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.6k |
 | [hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate for Node.js web applications, aimed at hackathons, with OAuth2 and other starter features. | sahat | 35.3k |
 | [framework](https://github.com/laravel/framework) | PHP web framework with an expressive, elegant syntax for building web applications. | laravel | 35k |
 | [remix](https://github.com/remix-run/remix) | Full-stack web framework built on standard web APIs. | remix-run | 33.5k |
-| [hono](https://github.com/honojs/hono) | Web framework built on Web Standards for running on Cloudflare Workers, Deno, Bun, and AWS Lambda. | honojs | 32.9k |
+| [hono](https://github.com/honojs/hono) | Web framework built on Web Standards for running on Cloudflare Workers, Deno, Bun, and AWS Lambda. | honojs | 33k |
 | [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 32.1k |
 | [symfony](https://github.com/symfony/symfony) | Full-stack PHP framework and set of reusable components for building web applications and APIs. | symfony | 31.4k |
 | [better-auth](https://github.com/better-auth/better-auth) | Comprehensive authentication framework for TypeScript with OAuth, OIDC, and SSO support. | better-auth | 30.7k |
@@ -166,7 +166,7 @@
 | [middleware](https://github.com/truenas/middleware) | Middleware for TrueNAS CORE, Enterprise and SCALE, managing storage services such as NFS and SMB. | truenas | 2.6k |
 | [workflow](https://github.com/vercel/workflow) | TypeScript SDK for building durable, observable apps and AI agents with workflow orchestration. | vercel | 2.5k |
 | [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Project boilerplate combining Django 5, React, Tailwind 4, Webpack, and Celery for web applications. | vintasoftware | 2.3k |
-| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.3k |
+| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.2k |
 | [typescript-starter](https://github.com/nestjs/typescript-starter) | TypeScript starter project template for the Nest framework. | nestjs | 2.2k |
 | [wildduck](https://github.com/zone-eu/wildduck) | Opinionated email server providing IMAP, POP3 and LMTP services backed by MongoDB. | zone-eu | 2.1k |
 | [cookie-parser](https://github.com/expressjs/cookie-parser) | Express middleware for parsing HTTP request cookies into req.cookies. | expressjs | 2k |
@@ -205,7 +205,7 @@
 | [prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql) | Generates GraphQL object types, inputs and args from a Prisma schema for use with @nestjs/graphql. | unlight | 573 |
 | [jupyter_server](https://github.com/jupyter-server/jupyter_server) | Backend server providing core services, APIs, and REST endpoints for Jupyter web applications. | jupyter-server | 570 |
 | [node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) | Node.js wrapper for amqplib adding auto-reconnect and round-robin support. | jwalton | 563 |
-| [passport](https://github.com/nestjs/passport) | Passport authentication module for adding authentication strategies to NestJS applications. | nestjs | 562 |
+| [passport](https://github.com/nestjs/passport) | Passport authentication module for adding authentication strategies to NestJS applications. | nestjs | 561 |
 | [next-shared-cache](https://github.com/caching-tools/next-shared-cache) | Self-hosting cache handler for Next.js ISR and cache, backed by Redis. | caching-tools | 541 |
 | [necord](https://github.com/necordjs/necord) | Module for building Discord bots with NestJS on top of discord.js. | necordjs | 504 |
 | [nanoexpress](https://github.com/nanoexpress/nanoexpress) | Node.js backend framework with an Express-like API, implemented in C++ for speed and low memory use. | nanoexpress | 496 |

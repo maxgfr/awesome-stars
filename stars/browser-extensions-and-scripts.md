@@ -6,10 +6,10 @@
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35.4k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
-| [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25k |
+| [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
 | [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Browser extension that saves a complete web page as a single HTML file, with annotations and auto-save. | gildas-lormeau | 22.9k |
 | [darkreader](https://github.com/darkreader/darkreader) | Browser extension that applies a dark theme to web pages in Chrome and Firefox. | darkreader | 22.6k |
 | [automa](https://github.com/AutomaApp/automa) | Browser extension for automating browser tasks by connecting blocks into visual workflows. | AutomaApp | 21.7k |
@@ -57,7 +57,7 @@
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
-| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 760 |
+| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 761 |
 | [hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare) | Browser extension that creates random email aliases forwarding to your real inbox via Cloudflare. | webmonch | 682 |
 | [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 666 |
@@ -68,12 +68,12 @@
 | [linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) | Browser extension that exports a LinkedIn profile page as a JSON Resume file. | joshuatz | 341 |
 | [ScrewTwitchAds](https://github.com/zGato/ScrewTwitchAds) | Repository with updated solutions for blocking ads on Twitch. | zGato | 331 |
 | [huh-spicetify-extensions](https://github.com/huhridge/huh-spicetify-extensions) | Collection of custom extensions for the Spicetify client to modify the Spotify desktop app. | huhridge | 276 |
-| [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 269 |
+| [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 270 |
 | [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) | Spicetify extension that hides podcast content from the Spotify interface. | theRealPadster | 257 |
 | [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 235 |
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
 | [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
-| [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 135 |
+| [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 136 |
 | [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 116 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |

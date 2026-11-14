@@ -8,7 +8,7 @@
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.5k |
-| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.2k |
+| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
 | [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
 | [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.3k |
@@ -41,7 +41,7 @@
 | [ureq](https://github.com/algesten/ureq) | Simple, safe HTTP client library for Rust. | algesten | 2.2k |
 | [rust-toolchain](https://github.com/dtolnay/rust-toolchain) | GitHub Action for installing a Rust toolchain. | dtolnay | 1.6k |
 | [slotmap](https://github.com/orlp/slotmap) | Rust slot map data structure that provides stable keys for inserting and removing items. | orlp | 1.4k |
-| [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 968 |
+| [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 969 |
 | [envsubst](https://github.com/a8m/envsubst) | Go library and command for substituting environment variables in text, following envsubst syntax. | a8m | 912 |
 | [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 674 |
 | [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 625 |

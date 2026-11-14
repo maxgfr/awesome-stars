@@ -19,19 +19,19 @@
 | [orm](https://github.com/prisma/orm) | TypeScript ORM for querying databases with type-safe, human-readable queries instead of raw SQL. | prisma | 47.7k |
 | [airflow](https://github.com/apache/airflow) | Platform for programmatically authoring, scheduling, and monitoring data workflows as DAGs. | apache | 47.5k |
 | [milvus](https://github.com/milvus-io/milvus) | Cloud-native vector database for scalable approximate nearest neighbor search over embeddings. | milvus-io | 46.7k |
-| [streamlit](https://github.com/streamlit/streamlit) | Python framework for building data apps and dashboards for data analysis and business intelligence. | streamlit | 46.3k |
+| [streamlit](https://github.com/streamlit/streamlit) | Python framework for building data apps and dashboards for data analysis and business intelligence. | streamlit | 46.4k |
 | [spark](https://github.com/apache/spark) | Unified analytics engine for large-scale data processing with Java, Scala, Python, and R APIs. | apache | 44.5k |
-| [duckdb](https://github.com/duckdb/duckdb) | Embedded analytical SQL database system for fast OLAP queries within a single process. | duckdb | 43k |
+| [duckdb](https://github.com/duckdb/duckdb) | Embedded analytical SQL database system for fast OLAP queries within a single process. | duckdb | 43.1k |
 | [tidb](https://github.com/pingcap/tidb) | Distributed SQL database offering ACID transactions, analytics, and vector search for AI workloads. | pingcap | 40.7k |
 | [polars](https://github.com/pola-rs/polars) | Fast DataFrame query engine written in Rust, with lazy and out-of-core processing. | pola-rs | 40.3k |
 | [drawdb](https://github.com/drawdb-io/drawdb) | Online database diagram editor that generates SQL from designed schemas. | drawdb-io | 40.3k |
-| [umami](https://github.com/umami-software/umami) | Self-hostable, privacy-focused web analytics platform that tracks traffic without cookies. | umami-software | 40.1k |
+| [umami](https://github.com/umami-software/umami) | Self-hostable, privacy-focused web analytics platform that tracks traffic without cookies. | umami-software | 40.2k |
 | [leveldb](https://github.com/google/leveldb) | Fast C++ key-value storage library providing an ordered mapping from string keys to values. | google | 39.5k |
 | [typeorm](https://github.com/typeorm/typeorm) | ORM for TypeScript and JavaScript on Node.js, supporting many SQL databases. | typeorm | 36.7k |
 | [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | TypeScript ORM for MySQL and PostgreSQL databases, usable from Node.js and Bun. | drizzle-team | 36.3k |
 | [rustfs](https://github.com/rustfs/rustfs) | S3-compatible, high-performance object storage that supports migration from MinIO and Ceph. | rustfs | 36.1k |
 | [seaweedfs](https://github.com/seaweedfs/seaweedfs) | A distributed storage system for object storage, file systems, and billions of files. | seaweedfs | 36.1k |
-| [qdrant](https://github.com/qdrant/qdrant) | Vector database and similarity search engine for AI applications, with HNSW indexing and filtering. | qdrant | 35.5k |
+| [qdrant](https://github.com/qdrant/qdrant) | Vector database and similarity search engine for AI applications, with HNSW indexing and filtering. | qdrant | 35.6k |
 | [kafka](https://github.com/apache/kafka) | Distributed event streaming platform for high-throughput, fault-tolerant data pipelines and streaming apps. | apache | 34.2k |
 | [surrealdb](https://github.com/surrealdb/surrealdb) | Scalable distributed document-graph database for realtime web applications. | surrealdb | 33.3k |
 | [cockroach](https://github.com/cockroachdb/cockroach) | Distributed SQL database with high availability, horizontal scaling and control over data placement. | cockroachdb | 32.6k |
@@ -50,8 +50,8 @@
 | [rethinkdb](https://github.com/rethinkdb/rethinkdb) | Open-source database designed for building realtime web applications. | rethinkdb | 27k |
 | [flatbuffers](https://github.com/google/flatbuffers) | Cross-platform serialization library for efficient, memory-friendly access to structured data without parsing. | google | 26.6k |
 | [yfinance](https://github.com/ranaroussi/yfinance) | Python library for downloading historical market data from the Yahoo! Finance API. | ranaroussi | 25.9k |
-| [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Relational database that runs application logic inside it, aimed at game development and MMORPG servers. | clockworklabs | 25.5k |
-| [turso](https://github.com/tursodatabase/turso) | SQLite-compatible SQL database written in Rust, with experimental Postgres support and WebAssembly builds. | tursodatabase | 25.2k |
+| [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Relational database that runs application logic inside it, aimed at game development and MMORPG servers. | clockworklabs | 25.6k |
+| [turso](https://github.com/tursodatabase/turso) | SQLite-compatible SQL database written in Rust, with experimental Postgres support and WebAssembly builds. | tursodatabase | 25.3k |
 | [dolt](https://github.com/dolthub/dolt) | SQL database with Git-style version control for data, supporting branching, merging and diffs. | dolthub | 24.9k |
 | [simdjson](https://github.com/simdjson/simdjson) | C++ library for parsing JSON at gigabytes per second using SIMD instructions. | simdjson | 24.6k |
 | [prefect](https://github.com/PrefectHQ/prefect) | Workflow orchestration framework in Python for building resilient data pipelines. | PrefectHQ | 24.2k |
@@ -77,7 +77,7 @@
 | [migrate](https://github.com/golang-migrate/migrate) | Database migration CLI and Go library for applying schema changes from files or S3 buckets. | golang-migrate | 19k |
 | [plotly.py](https://github.com/plotly/plotly.py) | Interactive graphing library for Python, used to create declarative charts and dashboards. | plotly | 18.9k |
 | [sqlmodel](https://github.com/fastapi/sqlmodel) | Python library for SQL databases that combines SQLAlchemy and Pydantic for FastAPI applications. | fastapi | 18.6k |
-| [rqlite](https://github.com/rqlite/rqlite) | Lightweight, fault-tolerant distributed database built on SQLite with high availability. | rqlite | 17.9k |
+| [rqlite](https://github.com/rqlite/rqlite) | Lightweight, fault-tolerant distributed database built on SQLite with high availability. | rqlite | 18k |
 | [zincsearch](https://github.com/zincsearch/zincsearch) | Lightweight, low-resource search engine written in Go as an alternative to Elasticsearch. | zincsearch | 17.9k |
 | [sqlx](https://github.com/transact-rs/sqlx) | Async SQL toolkit for Rust with compile-time checked queries for PostgreSQL, MySQL and SQLite. | transact-rs | 17.7k |
 | [pouchdb](https://github.com/apache/pouchdb) | JavaScript database that syncs with CouchDB and runs in browsers and Node.js. | apache | 17.6k |
@@ -237,7 +237,7 @@
 | [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 800 |
 | [npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader) | JavaScript library that parses text and tables from PDF files. | adrienjoly | 704 |
 | [couchdb-nano](https://github.com/apache/couchdb-nano) | Official Apache CouchDB library for Node.js applications. | apache | 691 |
-| [duck-ui](https://github.com/caioricciuti/duck-ui) | Browser-based DuckDB workbench with a SQL editor, notebooks, charts, and an AI assistant. | caioricciuti | 657 |
+| [duck-ui](https://github.com/caioricciuti/duck-ui) | Browser-based DuckDB workbench with a SQL editor, notebooks, charts, and an AI assistant. | caioricciuti | 658 |
 | [libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts) | TypeScript and JavaScript client API for libSQL, an open source fork of SQLite. | tursodatabase | 579 |
 | [datanymizer](https://github.com/datanymizer/datanymizer) | Database anonymizer that replaces sensitive data in dumps using configurable rules. | datanymizer | 572 |
 | [xlsx-template](https://github.com/optilude/xlsx-template) | Node.js module that generates .xlsx Excel files from templates created in Excel. | optilude | 459 |

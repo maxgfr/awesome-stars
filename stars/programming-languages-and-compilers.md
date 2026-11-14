@@ -15,7 +15,7 @@
 | [llvm-project](https://github.com/llvm/llvm-project) | Collection of modular, reusable compiler and toolchain technologies. | llvm | 41.4k |
 | [modular](https://github.com/modular/modular) | Modular AI platform including the MAX inference framework and the Mojo programming language. | modular | 30.1k |
 | [emscripten](https://github.com/emscripten-core/emscripten) | LLVM-based compiler toolchain that compiles C and C++ code to WebAssembly. | emscripten-core | 27.8k |
-| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.4k |
+| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.5k |
 | [typescript-go](https://github.com/microsoft/typescript-go) 🗄️ | Staging repository for the native Go port of the TypeScript compiler. | microsoft | 26.1k |
 | [solidity](https://github.com/argotorg/solidity) | Compiler for Solidity, a programming language for writing Ethereum smart contracts. | argotorg | 25.8k |
 | [bend](https://github.com/bendlang/bend) | Fast parallel programming language with dependent types, targeting GPUs via CUDA and Metal. | bendlang | 25k |

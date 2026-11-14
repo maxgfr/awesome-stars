@@ -1,5 +1,5 @@
 {
-  "contentHash": "c37f216fa508",
+  "contentHash": "0a0ad3443ac0",
   "digest": {
     "language": "en",
     "text": "Agents dominate this batch of stars. **Agent protocols and tooling** lead the way, with A2A, ag-ui, and Unity-MCP connecting models to apps, editors, and SEO data, while claude-swap and free-claude-code show developers managing accounts and token budgets. **Free and local AI** runs alongside, from freellmapi's aggregated endpoints to pocket-tts and mflux running on local hardware.\n\n**Document intelligence** appears in chandra and GLM-OCR, while **reverse engineering and privacy tools** like camoufox, androguard, and unfairplay reflect interest in understanding closed software.",
@@ -10917,9 +10917,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTY4NDc5Mzc=": {
       "category": "Cryptography and Blockchain",
-      "ch": "99d563a25dfd",
-      "description": "Python framework for backtesting and running algorithmic cryptocurrency trading bots.",
-      "dh": "7992a0628d53"
+      "ch": "3f35663dd245",
+      "description": "Python trading bot for backtesting and running algorithmic cryptocurrency trading strategies.",
+      "dh": "2af010f071a1"
     },
     "MDEwOlJlcG9zaXRvcnkxNTY4NDkyMjc=": {
       "category": "Frontend UI Libraries",
@@ -12147,9 +12147,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "f220de94212f",
-      "description": "Python framework for web scraping, end-to-end testing, product tours, and bypassing bot detection.",
-      "dh": "649c8b2067af"
+      "ch": "e0621102a982",
+      "description": "Python framework for web automation, end-to-end testing, and bypassing bot detection.",
+      "dh": "acddd1ecb592"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -13497,9 +13497,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=": {
       "category": "Desktop and Mobile Apps",
-      "ch": "cc8ffe698d23",
-      "description": "Framework for building small, fast, secure desktop and mobile apps with a web frontend and Rust backend.",
-      "dh": "99abd0b2a1f8"
+      "ch": "e21ca461a910",
+      "description": "Framework for building small, fast, secure desktop and mobile apps with a web frontend.",
+      "dh": "7420d4577fb8"
     },
     "MDEwOlJlcG9zaXRvcnkxOTY5NDg5MzI=": {
       "category": "Cloud and Kubernetes",
@@ -15937,9 +15937,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNDM1NDYzMzU=": {
       "category": "Frontend UI Libraries",
-      "ch": "a1e7a43b64d4",
-      "description": "Over 6,200 free MIT-licensed SVG icons for use in web projects.",
-      "dh": "277d871025fa"
+      "ch": "13d89ef7f965",
+      "description": "Over 6500 free MIT-licensed SVG icons for use in web projects.",
+      "dh": "19152f6f4acf"
     },
     "MDEwOlJlcG9zaXRvcnkyNDM2MjU1": {
       "category": "Other",
@@ -17503,9 +17503,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNzkyOTA1Ng==": {
       "category": "DevOps and Infrastructure",
-      "ch": "85503d634adc",
-      "description": "Official Docker images for Node.js, with build files for multiple Node.js versions and variants.",
-      "dh": "dd056a85343d"
+      "ch": "4ed3f120754b",
+      "description": "Official Docker images for Node.js, for building and running Node.js applications in containers.",
+      "dh": "b630e264356b"
     },
     "MDEwOlJlcG9zaXRvcnkyODA1NTcwNTQ=": {
       "category": "Backend Frameworks and Servers",
@@ -26851,7 +26851,7 @@
     },
     "R_kgDOPW1rAA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "42b2ecbb5add",
+      "ch": "f0b136b5a0fa",
       "description": "Remote MCP server connecting Jira, Confluence, Bitbucket, and Compass to AI tools via OAuth.",
       "dh": "f7b124f2dc7f"
     },
@@ -28003,9 +28003,9 @@
     },
     "R_kgDORWiFDA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "03c5f63c3a3f",
-      "description": "Local plugin that keeps tool output out of coding agent context windows via a SQLite FTS5 sandbox.",
-      "dh": "17370c35e7fa"
+      "ch": "781c0eeac107",
+      "description": "Local plugin that keeps tool output out of coding agent context using a SQLite FTS5 search sandbox.",
+      "dh": "63f31df05e7a"
     },
     "R_kgDORXFZgQ": {
       "category": "Other",
@@ -28547,9 +28547,9 @@
     },
     "R_kgDOStEbEg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "a2552e7c3184",
-      "description": "Local-first control plane and research workbench for running long-horizon goals with agent teams.",
-      "dh": "c82d27972334"
+      "ch": "b13071168f45",
+      "description": "Control plane for always-on agents that turns long-horizon goals into verifiable results across agent runtimes.",
+      "dh": "94211c3d6ba6"
     },
     "R_kgDOSv6ojg": {
       "category": "Documentation and Knowledge Tools",
@@ -28967,6 +28967,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "version": 1
 }

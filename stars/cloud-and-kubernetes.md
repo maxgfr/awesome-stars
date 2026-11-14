@@ -22,7 +22,7 @@
 | [rancher](https://github.com/rancher/rancher) | Container management platform for running and orchestrating Kubernetes clusters. | rancher | 26.1k |
 | [cilium](https://github.com/cilium/cilium) | eBPF-based networking, security and observability for Kubernetes and other container workloads. | cilium | 25.8k |
 | [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous delivery tool for deploying applications to Kubernetes. | argoproj | 24.6k |
-| [lima](https://github.com/lima-vm/lima) | Runs Linux virtual machines, focused on running containers, on macOS and other hosts. | lima-vm | 22.3k |
+| [lima](https://github.com/lima-vm/lima) | Runs Linux virtual machines, focused on running containers, on macOS and other hosts. | lima-vm | 22.4k |
 | [kubectx](https://github.com/ahmetb/kubectx) | A tool for quickly switching between Kubernetes clusters and namespaces in kubectl. | ahmetb | 20.1k |
 | [kubespray](https://github.com/kubernetes-sigs/kubespray) | Ansible playbooks for deploying production-ready Kubernetes clusters on various infrastructure. | kubernetes-sigs | 18.8k |
 | [aws-cli](https://github.com/aws/aws-cli) | Universal command line interface for managing Amazon Web Services from the terminal. | aws | 17.4k |
@@ -72,7 +72,7 @@
 | [calico](https://github.com/projectcalico/calico) | Cloud native networking and network security solution for containers, VMs, and hosts. | projectcalico | 7.4k |
 | [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Desktop app for container management and local Kubernetes on Linux, macOS and Windows. | rancher-sandbox | 7.4k |
 | [kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes API and runtime for defining and managing virtual machines. | kubevirt | 7.2k |
-| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7.1k |
+| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7k |
 | [external-secrets](https://github.com/external-secrets/external-secrets) | Kubernetes operator that syncs secrets from external services like AWS Secrets Manager into Kubernetes Secrets. | external-secrets | 6.9k |
 | [examples](https://github.com/kubernetes/examples) | Tutorials and example applications showing how to run workloads on Kubernetes. | kubernetes | 6.8k |
 | [actions-runner-controller](https://github.com/actions/actions-runner-controller) | Kubernetes operator that manages self-hosted GitHub Actions runners. | actions | 6.7k |
@@ -125,7 +125,7 @@
 | [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) | Development repository for the Azure SDK for JavaScript, covering Node.js and browser support. | Azure | 2.3k |
 | [Azurite](https://github.com/Azure/Azurite) | Lightweight local emulator of Azure Storage, simulating most commands with minimal dependencies. | Azure | 2.3k |
 | [javascript](https://github.com/kubernetes-client/javascript) | JavaScript and TypeScript client library for the Kubernetes API. | kubernetes-client | 2.3k |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Model Context Protocol server for Kubernetes and OpenShift clusters. | containers | 2.2k |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Model Context Protocol server for Kubernetes and OpenShift clusters. | containers | 2.3k |
 | [ocis](https://github.com/owncloud/ocis) | Go server for ownCloud Infinite Scale, a file sync and sharing platform. | owncloud | 2.2k |
 | [AKS](https://github.com/Azure/AKS) | Issue tracker and resources for Azure Kubernetes Service, Microsoft's managed Kubernetes offering. | Azure | 2.1k |
 | [kubectl-neat](https://github.com/itaysk/kubectl-neat) | kubectl plugin that removes clutter from Kubernetes YAML and JSON output for readability. | itaysk | 2.1k |
@@ -143,7 +143,7 @@
 | [kapp](https://github.com/carvel-dev/kapp) | CLI deployment tool that manages sets of Kubernetes resources grouped by a shared label. | carvel-dev | 1.1k |
 | [scaleway-cli](https://github.com/scaleway/scaleway-cli) | Command-line interface for managing Scaleway cloud resources. | scaleway | 1k |
 | [onyxia](https://github.com/InseeFrLab/onyxia) | Data science environment for Kubernetes that provides datalab tools deployed via Helm. | InseeFrLab | 906 |
-| [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 823 |
+| [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 822 |
 | [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 774 |
 | [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 759 |
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 746 |
@@ -152,7 +152,7 @@
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 532 |
-| [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
+| [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 512 |
 | [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 482 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 341 |
 | [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 315 |

@@ -10,12 +10,12 @@
 | [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
 | [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.7k |
-| [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.5k |
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.5k |
-| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.7k |
+| [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.5k |
+| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.8k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.6k |
 | [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.1k |
-| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.4k |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.5k |
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android client for the Shadowsocks encrypted proxy protocol. | shadowsocks | 36.8k |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
 | [algo](https://github.com/trailofbits/algo) | Scripts to set up a personal VPN server in the cloud using Ansible, with IKEv2 and SSH tunnel support. | trailofbits | 30.5k |
@@ -29,7 +29,7 @@
 | [webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API for peer-to-peer audio and video. | pion | 16.9k |
 | [openvpn-install](https://github.com/angristan/openvpn-install) | Shell script that sets up an OpenVPN server on Debian, Ubuntu, Fedora, CentOS, and Arch Linux. | angristan | 16.2k |
 | [gluetun](https://github.com/passteque/gluetun) | Thin Docker container running a Go VPN client for many providers, with OpenVPN or WireGuard. | passteque | 16.1k |
-| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Desktop and mobile client for Amnezia VPN, supporting protocols such as OpenVPN, IKEv2, and Shadowsocks. | amnezia-vpn | 15.9k |
+| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Desktop and mobile client for Amnezia VPN, supporting protocols such as OpenVPN, IKEv2, and Shadowsocks. | amnezia-vpn | 16k |
 | [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Bridge that connects Zigbee devices to MQTT without proprietary Zigbee hubs. | Koenkk | 15.8k |
 | [openvpn](https://github.com/OpenVPN/openvpn) | Open source VPN daemon for creating secure point-to-point or site-to-site network connections. | OpenVPN | 14.8k |
 | [samples](https://github.com/webrtc/samples) | Collection of WebRTC demos and sample code for browser-based real-time communication. | webrtc | 14.6k |
@@ -42,7 +42,7 @@
 | [bore](https://github.com/ekzhang/bore) | Command-line tool that creates tunnels to expose a local port on a remote server. | ekzhang | 11.6k |
 | [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) | Rust port of the Shadowsocks encrypted proxy, with SOCKS4, SOCKS5, and HTTP proxy support. | shadowsocks | 11k |
 | [qrcp](https://github.com/claudiodangelis/qrcp) | Command-line tool that transfers files over Wi-Fi to a mobile device by scanning a QR code. | claudiodangelis | 10.5k |
-| [DnsServer](https://github.com/TechnitiumSoftware/DnsServer) | Self-hosted authoritative and recursive DNS server with DHCP, DoH, and DoQ support. | TechnitiumSoftware | 10.3k |
+| [DnsServer](https://github.com/TechnitiumSoftware/DnsServer) | Self-hosted authoritative and recursive DNS server with DHCP, DoH, and DoQ support. | TechnitiumSoftware | 10.4k |
 | [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of the Git repository for a network protocol analyzer used for packet capture. | wireshark | 10.2k |
 | [flannel](https://github.com/flannel-io/flannel) | Network fabric for containers that provides a layer 3 network for Kubernetes clusters. | flannel-io | 9.6k |
 | [janus-gateway](https://github.com/meetecho/janus-gateway) | WebRTC server gateway for real-time media communication, extended with application plugins. | meetecho | 9.2k |
@@ -86,7 +86,7 @@
 | [guacamole-client](https://github.com/apache/guacamole-client) | Web application and JavaScript client for the Apache Guacamole remote desktop gateway. | apache | 1.8k |
 | [wifite2](https://github.com/kimocoder/wifite2) | Python rewrite of the wifite wireless network auditor for automated Wi-Fi security testing. | kimocoder | 1.8k |
 | [briefing](https://github.com/holtwick/briefing) | End-to-end encrypted video group chat application built with WebRTC. | holtwick | 1.6k |
-| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.5k |
+| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.6k |
 | [geckos.io](https://github.com/geckosio/geckos.io) | Real-time client/server communication over UDP using WebRTC and Node.js. | geckosio | 1.5k |
 | [untun](https://github.com/unjs/untun) | Tool that exposes a local HTTP or HTTPS server to the internet via Cloudflare Quick Tunnels. | unjs | 1.4k |
 | [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) | Scrapes HTTP, SOCKS4 and SOCKS5 proxies from many sources, verifies them, and exports results. | monosans | 1.4k |
@@ -96,11 +96,11 @@
 | [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
 | [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 742 |
 | [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 738 |
-| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 598 |
+| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |
 | [BTorrent](https://github.com/DiegoRBaquero/BTorrent) | Full-featured WebTorrent client that runs in the browser. | DiegoRBaquero | 583 |
 | [WebRTC-Example](https://github.com/shanet/WebRTC-Example) | Minimal example application demonstrating peer-to-peer video communication with WebRTC. | shanet | 462 |
 | [wifitui](https://github.com/shazow/wifitui) | Terminal user interface for managing WiFi connections through NetworkManager. | shazow | 354 |
-| [TorBox](https://github.com/zotil/TorBox) | Anonymizing router based on Raspberry Pi that routes network traffic through Tor. | zotil | 330 |
+| [TorBox](https://github.com/zotil/TorBox) | Anonymizing router based on Raspberry Pi that routes network traffic through Tor. | zotil | 329 |
 | [domainstack.io](https://github.com/jakejarvis/domainstack.io) | Domain name intelligence service covering DNS and domain data, with an API and MCP server. | jakejarvis | 294 |
 | [WiFiCrackPy](https://github.com/phenotypic/WiFiCrackPy) | Automated Wi-Fi cracking tool for macOS. | phenotypic | 212 |
 | [js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) 🗄️ | TypeScript implementation of the Gossipsub publish-subscribe protocol for libp2p networks. | ChainSafe | 166 |
