@@ -1,9 +1,9 @@
 {
-  "contentHash": "0a0ad3443ac0",
+  "contentHash": "ee73bfd1e4da",
   "digest": {
     "language": "en",
-    "text": "Agents dominate this batch of stars. **Agent protocols and tooling** lead the way, with A2A, ag-ui, and Unity-MCP connecting models to apps, editors, and SEO data, while claude-swap and free-claude-code show developers managing accounts and token budgets. **Free and local AI** runs alongside, from freellmapi's aggregated endpoints to pocket-tts and mflux running on local hardware.\n\n**Document intelligence** appears in chandra and GLM-OCR, while **reverse engineering and privacy tools** like camoufox, androguard, and unfairplay reflect interest in understanding closed software.",
-    "upTo": "2026-11-12T22:01:13Z"
+    "text": "**AI agent tooling** leads this batch, from claude-swap for juggling Claude Code accounts to Unity-MCP bridging assistants into game editors. **Local-first models** follow closely, including OCR engines like chandra and GLM-OCR.\n\nMany picks are **free alternatives to paid software**: open-seo rivals Semrush, Playnite replaces scattered game launchers, and valhalla offers open routing. Overall, developers are favoring tools that run locally and cost nothing.",
+    "upTo": "2026-11-15T16:53:00Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-12T22:01:13Z",
+  "newest": "2026-11-15T16:53:00Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -1584,6 +1584,12 @@
       "ch": "79cc8181dea0",
       "description": "List of potentially dangerous file names used for fuzzing and web vulnerability testing.",
       "dh": "6c78f3432c82"
+    },
+    "MDEwOlJlcG9zaXRvcnk0OTk3ODE5Mw==": {
+      "category": "Networking and Wireless",
+      "ch": "9fe3e0d19d51",
+      "description": "Routing engine for OpenStreetMap providing directions, isochrones and multi-modal routing.",
+      "dh": "1ac07ed15c34"
     },
     "MDEwOlJlcG9zaXRvcnk1MDA2MDQyOQ==": {
       "category": "Developer Tools and Editors",
@@ -12147,9 +12153,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "e0621102a982",
-      "description": "Python framework for web automation, end-to-end testing, and bypassing bot detection.",
-      "dh": "acddd1ecb592"
+      "ch": "e67148e0e5fa",
+      "description": "Python framework for web testing, scraping and crawling with pytest support and CDP Mode.",
+      "dh": "1feee57cbd50"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -14823,7 +14829,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMTkzNTk4ODM=": {
       "category": "Frontend UI Libraries",
-      "ch": "44e3f1a1f588",
+      "ch": "91ab9aea7c12",
       "description": "A lightweight YouTube embed that loads faster than the standard iframe embed.",
       "dh": "7ea00bcc5946"
     },
@@ -20446,10 +20452,10 @@
       "dh": "bee952820894"
     },
     "MDEwOlJlcG9zaXRvcnkzNjI5MzQxMjM=": {
-      "category": "Networking and Wireless",
-      "ch": "09e7127dcd51",
-      "description": "Scrapes HTTP, SOCKS4 and SOCKS5 proxies from many sources, verifies them, and exports results.",
-      "dh": "1aa9641a7a2a"
+      "category": "Security and Penetration Testing",
+      "ch": "449d69c8cc03",
+      "description": "Fast CLI that collects HTTP, SOCKS4 and SOCKS5 proxies, verifies them and exports working ones.",
+      "dh": "01aba897e8fd"
     },
     "MDEwOlJlcG9zaXRvcnkzNjIzMDUw": {
       "category": "Mac Utilities",
@@ -24967,6 +24973,12 @@
       "description": "Docker container that runs Windows for ARM hardware using virtualization.",
       "dh": "87f067354db5"
     },
+    "R_kgDOLNwVbA": {
+      "category": "Networking and Wireless",
+      "ch": "bf6f0b7a132f",
+      "description": "Free public transport routing service built on GTFS transit data.",
+      "dh": "848fbeffcc14"
+    },
     "R_kgDOLOC78g": {
       "category": "AI and Machine Learning",
       "ch": "bef8ed12836b",
@@ -26018,10 +26030,10 @@
       "dh": "9282aec12d8a"
     },
     "R_kgDONif6fg": {
-      "category": "AI and Machine Learning",
-      "ch": "a17fa2ddb5ac",
-      "description": "Meeting note taker for Windows and macOS with on-device transcription and speaker diarization.",
-      "dh": "2264779efdb1"
+      "category": "LLM Agents and AI Assistants",
+      "ch": "216ddc557963",
+      "description": "On-device meeting note taker with Whisper or Parakeet transcription and speaker diarization.",
+      "dh": "2baaa8bdb75f"
     },
     "R_kgDONistWw": {
       "category": "LLM Agents and AI Assistants",
@@ -28967,6 +28979,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "version": 1
 }

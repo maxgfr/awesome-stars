@@ -48,7 +48,7 @@
 | [ramda](https://github.com/ramda/ramda) | Library of practical functional programming utilities for JavaScript, designed for immutability and currying. | ramda | 24.1k |
 | [validator.js](https://github.com/validatorjs/validator.js) | Library of string validators and sanitizers for JavaScript and Node.js. | validatorjs | 23.7k |
 | [yup](https://github.com/jquense/yup) | JavaScript object schema validation library for simple data validation. | jquense | 23.6k |
-| [oxc](https://github.com/oxc-project/oxc) | High-performance JavaScript tooling in Rust, including a parser, linter, transpiler and minifier. | oxc-project | 23.4k |
+| [oxc](https://github.com/oxc-project/oxc) | High-performance JavaScript tooling in Rust, including a parser, linter, transpiler and minifier. | oxc-project | 23.5k |
 | [chalk](https://github.com/chalk/chalk) | Library for styling terminal strings with colors and text effects using ANSI escape codes. | chalk | 23.3k |
 | [js-cookie](https://github.com/js-cookie/js-cookie) | Lightweight JavaScript API for reading, writing, and removing browser cookies. | js-cookie | 22.6k |
 | [redux-saga](https://github.com/redux-saga/redux-saga) | Redux middleware for managing side effects using generator-based sagas. | redux-saga | 22.4k |
@@ -90,7 +90,7 @@
 | [nexe](https://github.com/nexe/nexe) | Tool that packages Node.js applications into a single standalone executable. | nexe | 13.6k |
 | [dataloader](https://github.com/graphql/dataloader) | Utility for batching and caching data loads in an application's data fetching layer, reducing backend requests. | graphql | 13.4k |
 | [prism](https://github.com/PrismJS/prism) | Lightweight, extensible library for syntax highlighting of code in web pages. | PrismJS | 13.1k |
-| [workbox](https://github.com/GoogleChrome/workbox) | JavaScript libraries for service worker caching and offline support in progressive web apps. | GoogleChrome | 13k |
+| [workbox](https://github.com/GoogleChrome/workbox) | JavaScript libraries for service worker caching and offline support in progressive web apps. | GoogleChrome | 13.1k |
 | [rspack](https://github.com/web-infra-dev/rspack) | Rust-based web bundler with a webpack-compatible API for faster builds. | web-infra-dev | 13k |
 | [comlink](https://github.com/GoogleChromeLabs/comlink) | Library that simplifies using Web Workers by exposing functions and objects across threads. | GoogleChromeLabs | 12.8k |
 | [knip](https://github.com/webpro-nl/knip) | Finds unused files, dependencies, and exports in JavaScript and TypeScript projects. | webpro-nl | 12.7k |
@@ -113,8 +113,8 @@
 | [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) | Tool that generates code from a GraphQL schema and operations, with support for custom plugins. | dotansimha | 11.3k |
 | [patch-package](https://github.com/ds300/patch-package) | Tool that creates and applies patch files to fix broken node_modules dependencies. | ds300 | 11.2k |
 | [svgr](https://github.com/gregberge/svgr) | Tool that transforms SVG files into React and React Native components. | gregberge | 11.1k |
-| [node-gyp](https://github.com/nodejs/node-gyp) | Cross-platform command-line tool for compiling native addon modules for Node.js. | nodejs | 10.7k |
 | [wxt](https://github.com/wxt-dev/wxt) | Framework for building browser extensions with dev server, hot module reloading, and cross-browser builds. | wxt-dev | 10.7k |
+| [node-gyp](https://github.com/nodejs/node-gyp) | Cross-platform command-line tool for compiling native addon modules for Node.js. | nodejs | 10.7k |
 | [protobuf.js](https://github.com/protobufjs/protobuf.js) | Protocol Buffers implementation for JavaScript and TypeScript that requires no protoc compiler. | protobufjs | 10.6k |
 | [jszip](https://github.com/Stuk/jszip) | JavaScript library for creating, reading, and editing ZIP files. | Stuk | 10.4k |
 | [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | CLI tool that finds newer package versions than those allowed by the version ranges in package.json. | raineorshine | 10.3k |
@@ -268,15 +268,15 @@
 | [diff2html](https://github.com/rtfpessoa/diff2html) | JavaScript library that renders diffs as colorized HTML, including Git-style output. | rtfpessoa | 3.4k |
 | [rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast, extensible web build tool powered by Rspack. | web-infra-dev | 3.4k |
 | [jwt-decode](https://github.com/auth0/jwt-decode) | Library for decoding JWT tokens in browser applications, without verifying signatures. | auth0 | 3.4k |
-| [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) | Official Slack SDK for Node.js for building apps that use Slack APIs, including Socket Mode. | slackapi | 3.4k |
 | [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) | Node.js library that generates TypeScript or JavaScript API clients from OpenAPI specifications. | ferdikoomen | 3.4k |
+| [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) | Official Slack SDK for Node.js for building apps that use Slack APIs, including Socket Mode. | slackapi | 3.4k |
 | [ultracite](https://github.com/haydenbleasel/ultracite) | Zero-configuration linter and formatter with opinionated defaults, built on Biome. | haydenbleasel | 3.4k |
 | [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) | Compiles JSON Schema documents into TypeScript type declarations. | bcherny | 3.4k |
 | [hotkey](https://github.com/github/hotkey) | Library for triggering actions on elements via keyboard shortcuts using a decorator. | github | 3.3k |
 | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | Generates JSON Schema from TypeScript source code types. | YousefED | 3.3k |
 | [spectral](https://github.com/stoplightio/spectral) | Flexible JSON and YAML linter for enforcing style guides on OpenAPI, Arazzo, and AsyncAPI documents. | stoplightio | 3.3k |
-| [react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) | CLI tools to scaffold and build React Native libraries for multiple targets. | callstack | 3.2k |
 | [tsrs](https://github.com/oxc-project/tsrs) 🆕 | Rust port of the TypeScript 7 type checker. | oxc-project | 3.2k |
+| [react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) | CLI tools to scaffold and build React Native libraries for multiple targets. | callstack | 3.2k |
 | [eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) | ESLint plugin that checks code for browser compatibility using Browserslist and caniuse data. | amilajack | 3.2k |
 | [iconv-lite](https://github.com/pillarjs/iconv-lite) | Pure JavaScript library for converting text between character encodings in Node.js and browsers. | pillarjs | 3.2k |
 | [cac](https://github.com/cacjs/cac) | Framework for building command-line applications in JavaScript and TypeScript. | cacjs | 3.1k |
@@ -403,12 +403,12 @@
 | [inngest-js](https://github.com/inngest/inngest-js) | TypeScript and JavaScript SDK for building reliable background workflows, queues, and scheduled jobs. | inngest | 1k |
 | [eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) | ESLint rules that disable mutation and enforce functional programming patterns in JavaScript and TypeScript. | eslint-functional | 1k |
 | [expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) | Monorepo starter with pnpm and Turborepo for cross-platform apps built with Expo and React Native. | byCedric | 995 |
-| [enhanced-resolve](https://github.com/webpack/enhanced-resolve) | Asynchronous, highly configurable module resolver offering an async require.resolve function. | webpack | 988 |
+| [enhanced-resolve](https://github.com/webpack/enhanced-resolve) | Asynchronous, highly configurable module resolver offering an async require.resolve function. | webpack | 989 |
 | [i18next-browser-languageDetector](https://github.com/i18next/i18next-browser-languageDetector) | Browser language detection plugin for i18next that determines the user's preferred language. | i18next | 973 |
 | [nx-examples](https://github.com/nrwl/nx-examples) | Example Nx monorepo workspace using Angular, React, Cypress, and Jest. | nrwl | 966 |
 | [stylelint-order](https://github.com/hudochenkov/stylelint-order) | Stylelint plugin pack with linting rules for ordering properties and related CSS constructs. | hudochenkov | 963 |
 | [pkg](https://github.com/yao-pkg/pkg) | Tool that packages a Node.js project into a single executable file. | yao-pkg | 933 |
-| [node-tar](https://github.com/isaacs/node-tar) | Node.js implementation of the tar archive format for creating and extracting tar files. | isaacs | 923 |
+| [node-tar](https://github.com/isaacs/node-tar) | Node.js implementation of the tar archive format for creating and extracting tar files. | isaacs | 924 |
 | [bundlejs](https://github.com/okikio/bundlejs) | Browser-based tool that bundles and minifies JavaScript projects and shows gzip and brotli bundle sizes. | okikio | 916 |
 | [link-preview-js](https://github.com/OP-Engineering/link-preview-js) | Extracts link metadata like title, description and images via OpenGraph, in browsers and Node.js. | OP-Engineering | 914 |
 | [optics-ts](https://github.com/akheron/optics-ts) | Library of type-safe lenses, prisms and other optics for reading and updating immutable TypeScript data. | akheron | 908 |
@@ -419,33 +419,33 @@
 | [effection](https://github.com/thefrontside/effection) | Library for structured concurrency and algebraic effects in JavaScript. | thefrontside | 866 |
 | [opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) | Adapter that deploys Next.js applications on Netlify. | opennextjs | 856 |
 | [nostr-tools](https://github.com/nbd-wtf/nostr-tools) | Toolkit for developing Nostr clients in TypeScript. | nbd-wtf | 854 |
-| [debounce](https://github.com/sindresorhus/debounce) | Delays function calls until a set time has elapsed since the last invocation. | sindresorhus | 850 |
+| [debounce](https://github.com/sindresorhus/debounce) | Delays function calls until a set time has elapsed since the last invocation. | sindresorhus | 849 |
 | [postcss-normalize](https://github.com/csstools/postcss-normalize) | PostCSS plugin that includes only the parts of normalize.css or sanitize.css that a browserslist needs. | csstools | 833 |
 | [yauzl](https://github.com/thejoshwolfe/yauzl) | Unzip library for Node.js that reads zip files with random access. | thejoshwolfe | 832 |
 | [eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript) | Resolver that adds TypeScript support to eslint-plugin-import and eslint-plugin-import-x. | import-js | 828 |
 | [beachball](https://github.com/microsoft/beachball) | Semantic version bumper for multi-package repos, using git history and registry publishing. | microsoft | 816 |
 | [react-native-version-check](https://github.com/kimxogus/react-native-version-check) | Version checker for React Native applications that determines whether an app update is available. | kimxogus | 804 |
-| [npmgraph](https://github.com/npmgraph/npmgraph) | Tool for exploring npm modules and their dependencies. | npmgraph | 803 |
-| [node-deep-equal](https://github.com/inspect-js/node-deep-equal) | Loose deep-equality check that reimplements the algorithm of Node's assert.deepEqual. | inspect-js | 793 |
+| [npmgraph](https://github.com/npmgraph/npmgraph) | Tool for exploring npm modules and their dependencies. | npmgraph | 804 |
+| [node-deep-equal](https://github.com/inspect-js/node-deep-equal) | Loose deep-equality check that reimplements the algorithm of Node's assert.deepEqual. | inspect-js | 794 |
 | [ics](https://github.com/adamgibbons/ics) | Node.js generator for iCalendar (.ics) files supporting events and alarms. | adamgibbons | 788 |
 | [e18e](https://github.com/e18e/e18e) | Ecosystem project focused on performance of JavaScript packages and tooling. | e18e | 779 |
 | [node-dependency-tree](https://github.com/dependents/node-dependency-tree) | Node.js library that computes the dependency tree of a JavaScript module by parsing its imports. | dependents | 777 |
-| [node-tmp](https://github.com/raszi/node-tmp) | Node.js library for creating temporary files and directories. | raszi | 774 |
+| [node-tmp](https://github.com/raszi/node-tmp) | Node.js library for creating temporary files and directories. | raszi | 775 |
 | [tsc-watch](https://github.com/gilamran/tsc-watch) | TypeScript compiler in watch mode with an onSuccess callback that runs after each successful build. | gilamran | 719 |
 | [quansync](https://github.com/quansync-dev/quansync) | TypeScript library for writing code that runs in either sync or async mode. | quansync-dev | 718 |
 | [next-plausible](https://github.com/4lejandrito/next-plausible) | Integration component for adding Plausible privacy-friendly analytics to Next.js applications. | 4lejandrito | 710 |
-| [camelcase](https://github.com/sindresorhus/camelcase) | Converts dash, dot, underscore, or space separated strings to camelCase, such as foo-bar to fooBar. | sindresorhus | 699 |
+| [camelcase](https://github.com/sindresorhus/camelcase) | Converts dash, dot, underscore, or space separated strings to camelCase, such as foo-bar to fooBar. | sindresorhus | 700 |
 | [cleye](https://github.com/privatenumber/cleye) | Strongly typed library for building command-line interfaces in Node.js. | privatenumber | 695 |
 | [rest.js](https://github.com/octokit/rest.js) | GitHub REST API client for JavaScript with a plugin system. | octokit | 668 |
 | [npm-publish](https://github.com/JS-DevTools/npm-publish) | GitHub Action that publishes packages to the npm registry. | JS-DevTools | 667 |
 | [tumblr.js](https://github.com/tumblr/tumblr.js) | JavaScript client library for the Tumblr API. | tumblr | 667 |
-| [minimist](https://github.com/minimistjs/minimist) | Parses command-line argument options. | minimistjs | 664 |
+| [minimist](https://github.com/minimistjs/minimist) | Parses command-line argument options. | minimistjs | 665 |
 | [only-allow](https://github.com/pnpm/only-allow) 🗄️ | Tool that enforces use of a specific package manager for a project. | pnpm | 659 |
-| [find-up](https://github.com/sindresorhus/find-up) | Finds a file or directory by walking up through parent directories. | sindresorhus | 642 |
+| [find-up](https://github.com/sindresorhus/find-up) | Finds a file or directory by walking up through parent directories. | sindresorhus | 643 |
 | [flags](https://github.com/vercel/flags) | Vercel's SDK for defining and evaluating feature flags in applications. | vercel | 630 |
 | [discord-api-types](https://github.com/discordjs/discord-api-types) | TypeScript typings for the Discord API, versioned to match each API version. | discordjs | 626 |
 | [sdk](https://github.com/microlinkhq/sdk) 🗄️ | SDK for turning any URL into an embeddable link preview card. | microlinkhq | 624 |
-| [globals](https://github.com/sindresorhus/globals) | Lists of global identifiers available in different JavaScript environments. | sindresorhus | 619 |
+| [globals](https://github.com/sindresorhus/globals) | Lists of global identifiers available in different JavaScript environments. | sindresorhus | 621 |
 | [eslint-plugin-check-file](https://github.com/dukeluo/eslint-plugin-check-file) | ESLint plugin that enforces consistent naming patterns for filenames and folders using glob matching. | dukeluo | 616 |
 | [community-plugins](https://github.com/esbuild/community-plugins) | Community-maintained list of plugins for the esbuild JavaScript bundler. | esbuild | 616 |
 | [limax](https://github.com/lovell/limax) | Node.js module that generates URL slugs and transliterates non-Latin scripts per RFC 3986. | lovell | 609 |
@@ -466,7 +466,7 @@
 | [tsafe](https://github.com/garronej/tsafe) | Collection of TypeScript utility types and functions for type-safe code, usable in Deno and Node.js. | garronej | 479 |
 | [poolifier](https://github.com/poolifier/poolifier) | Worker thread and cluster pool library for Node.js to run tasks concurrently across CPU cores. | poolifier | 455 |
 | [p-memoize](https://github.com/sindresorhus/p-memoize) | Memoizes promise-returning and async functions. | sindresorhus | 454 |
-| [bl](https://github.com/rvagg/bl) | Buffer list that collects buffers and exposes them through a standard readable Buffer interface. | rvagg | 442 |
+| [bl](https://github.com/rvagg/bl) | Buffer list that collects buffers and exposes them through a standard readable Buffer interface. | rvagg | 443 |
 | [tar-stream](https://github.com/mafintosh/tar-stream) | Streaming tar parser and generator for Node.js. | mafintosh | 437 |
 | [plugins](https://github.com/swc-project/plugins) | Plugins for the swc compiler, written in Rust. | swc-project | 389 |
 | [stylelint-prettier](https://github.com/prettier/stylelint-prettier) | Stylelint plugin that runs Prettier formatting as lint rules for stylesheets. | prettier | 381 |
@@ -474,8 +474,8 @@
 | [package-template](https://github.com/napi-rs/package-template) | Template project for building native Node.js packages with napi-rs. | napi-rs | 372 |
 | [ts-ci](https://github.com/garronej/ts-ci) | Project starter for publishing TypeScript modules to npm, with preconfigured tooling and CI setup. | garronej | 364 |
 | [tst-reflect](https://github.com/Hookyns/tst-reflect) | Runtime reflection system for TypeScript, providing type metadata for dependency injection. | Hookyns | 361 |
-| [babel-polyfills](https://github.com/babel/babel-polyfills) | Babel plugins that inject polyfills into compiled code using configurable strategies. | babel | 356 |
-| [node-which](https://github.com/npm/node-which) | Node.js utility that finds the first executable matching a name in the PATH. | npm | 353 |
+| [babel-polyfills](https://github.com/babel/babel-polyfills) | Babel plugins that inject polyfills into compiled code using configurable strategies. | babel | 357 |
+| [node-which](https://github.com/npm/node-which) | Node.js utility that finds the first executable matching a name in the PATH. | npm | 354 |
 | [p-all](https://github.com/sindresorhus/p-all) | Runs promise-returning or async functions concurrently, with optional concurrency limits. | sindresorhus | 346 |
 | [changelog](https://github.com/semantic-release/changelog) | semantic-release plugin that creates or updates a changelog file. | semantic-release | 342 |
 | [eslint-plugin-github](https://github.com/github/eslint-plugin-github) | ESLint plugin with an opinionated set of rules used by GitHub. | github | 336 |
@@ -489,7 +489,7 @@
 | [request.js](https://github.com/octokit/request.js) | Client for sending parameterized requests to GitHub APIs with sensible defaults in browsers and Node.js. | octokit | 265 |
 | [openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) | Official JavaScript package for accessing the Open Food Facts API. | openfoodfacts | 265 |
 | [get-tsconfig](https://github.com/privatenumber/get-tsconfig) | Lightweight Node.js library for parsing tsconfig.json files and resolving path mappings. | privatenumber | 255 |
-| [decamelize](https://github.com/sindresorhus/decamelize) | Converts a camelCase string to lowercase with a custom separator, such as unicornRainbow to unicorn_rainbow. | sindresorhus | 246 |
+| [decamelize](https://github.com/sindresorhus/decamelize) | Converts a camelCase string to lowercase with a custom separator, such as unicornRainbow to unicorn_rainbow. | sindresorhus | 247 |
 | [ts-enum-util](https://github.com/UselessPickles/ts-enum-util) | Strictly typed utility functions for working with TypeScript enums. | UselessPickles | 244 |
 | [p-debounce](https://github.com/sindresorhus/p-debounce) | Debounces promise-returning and async functions so they run only after a set delay. | sindresorhus | 241 |
 | [i18n](https://github.com/fnando/i18n) | Small JavaScript and TypeScript library for providing I18n translations. | fnando | 239 |
@@ -501,21 +501,21 @@
 | [eslint-plugin-only-warn](https://github.com/bfanger/eslint-plugin-only-warn) | ESLint plugin that downgrades all reported errors to warnings. | bfanger | 185 |
 | [matomo-next](https://github.com/SocialGouv/matomo-next) | Matomo analytics integration for Next.js applications using both app and pages routers. | SocialGouv | 185 |
 | [sentry-javascript-bundler-plugins](https://github.com/getsentry/sentry-javascript-bundler-plugins) 🗄️ | Bundler plugins for Sentry that upload source maps and release data from esbuild and Rollup. | getsentry | 177 |
+| [read-pkg](https://github.com/sindresorhus/read-pkg) | Reads and parses a package.json file. | sindresorhus | 177 |
 | [template](https://github.com/unjs/template) | Starter template for creating UnJS projects with TypeScript. | unjs | 177 |
-| [read-pkg](https://github.com/sindresorhus/read-pkg) | Reads and parses a package.json file. | sindresorhus | 176 |
 | [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) | Detects the package manager used by a project, supporting npm, pnpm, Bun and Deno. | antfu-collective | 174 |
 | [node-ical](https://github.com/jens-maus/node-ical) | iCalendar (RFC 5545) parser for Node.js with RRULE recurrence support. | jens-maus | 174 |
 | [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) | Node.js module that hooks into ESM import statements for instrumentation and monitoring. | nodejs | 174 |
 | [winston-loki](https://github.com/JaniAnttonen/winston-loki) | Grafana Loki transport for the Winston Node.js logging library. | JaniAnttonen | 170 |
 | [zstd-wasm](https://github.com/bokuweb/zstd-wasm) | Zstandard compression library compiled to WebAssembly for browsers, Node.js and Deno. | bokuweb | 167 |
+| [unzipit](https://github.com/greggman/unzipit) | Random-access unzip library for JavaScript, suitable for reading entries from zip files. | greggman | 166 |
 | [exec](https://github.com/semantic-release/exec) | semantic-release plugin that runs custom shell commands during the release process. | semantic-release | 166 |
-| [unzipit](https://github.com/greggman/unzipit) | Random-access unzip library for JavaScript, suitable for reading entries from zip files. | greggman | 165 |
 | [javascript](https://github.com/lezer-parser/javascript) 🗄️ | Lezer grammar for parsing JavaScript, used with the Lezer parser system. | lezer-parser | 165 |
 | [abort-utils](https://github.com/fregante/abort-utils) | Utility functions for combining AbortSignal and AbortController with Promises. | fregante | 163 |
 | [yaml-loader](https://github.com/eemeli/yaml-loader) | Webpack loader that imports YAML files as JavaScript objects. | eemeli | 153 |
 | [types.ts](https://github.com/octokit/types.ts) | Shared TypeScript type definitions for Octokit projects. | octokit | 152 |
+| [wrap-ansi](https://github.com/chalk/wrap-ansi) | Word-wraps strings containing ANSI escape codes while preserving their styling. | chalk | 145 |
 | [astx](https://github.com/codemodsquad/astx) | Structural search and replace tool for JavaScript and TypeScript code refactoring. | codemodsquad | 145 |
-| [wrap-ansi](https://github.com/chalk/wrap-ansi) | Word-wraps strings containing ANSI escape codes while preserving their styling. | chalk | 144 |
 | [node-trucker](https://github.com/davidmfoley/node-trucker) | Tool for import-aware file management and dependency analysis of JavaScript projects with Graphviz output. | davidmfoley | 108 |
 | [fparse](https://github.com/bylexus/fparse) | JavaScript formula parser for evaluating mathematical expressions. | bylexus | 107 |
 | [parse-diff](https://github.com/sergeyt/parse-diff) | Parser for unified diff output that works in Node.js and browsers. | sergeyt | 99 |

@@ -73,7 +73,7 @@
 | [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Desktop app for container management and local Kubernetes on Linux, macOS and Windows. | rancher-sandbox | 7.4k |
 | [kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes API and runtime for defining and managing virtual machines. | kubevirt | 7.2k |
 | [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7k |
-| [external-secrets](https://github.com/external-secrets/external-secrets) | Kubernetes operator that syncs secrets from external services like AWS Secrets Manager into Kubernetes Secrets. | external-secrets | 6.9k |
+| [external-secrets](https://github.com/external-secrets/external-secrets) | Kubernetes operator that syncs secrets from external services like AWS Secrets Manager into Kubernetes Secrets. | external-secrets | 7k |
 | [examples](https://github.com/kubernetes/examples) | Tutorials and example applications showing how to run workloads on Kubernetes. | kubernetes | 6.8k |
 | [actions-runner-controller](https://github.com/actions/actions-runner-controller) | Kubernetes operator that manages self-hosted GitHub Actions runners. | actions | 6.7k |
 | [k3d](https://github.com/k3d-io/k3d) | Command-line tool that runs lightweight k3s Kubernetes clusters inside Docker. | k3d-io | 6.6k |
@@ -89,7 +89,7 @@
 | [lxc](https://github.com/lxc/lxc) | User-space tools and libraries for creating and managing Linux system containers. | lxc | 5.3k |
 | [postgres-operator](https://github.com/zalando/postgres-operator) | Operator that creates and manages PostgreSQL clusters on Kubernetes. | zalando | 5.3k |
 | [docs](https://github.com/knative/docs) | User documentation for Knative, a Kubernetes-based platform for serverless workloads. | knative | 5.1k |
-| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5k |
+| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5.1k |
 | [stern](https://github.com/stern/stern) | Command-line tool for tailing logs from multiple pods and containers in Kubernetes. | stern | 4.9k |
 | [lxd](https://github.com/canonical/lxd) | Manager for system containers and virtual machines with a unified API, built on LXC. | canonical | 4.9k |
 | [krr](https://github.com/robusta-dev/krr) | Tool that generates Kubernetes resource recommendations from Prometheus metrics to reduce costs. | robusta-dev | 4.8k |
@@ -144,11 +144,11 @@
 | [scaleway-cli](https://github.com/scaleway/scaleway-cli) | Command-line interface for managing Scaleway cloud resources. | scaleway | 1k |
 | [onyxia](https://github.com/InseeFrLab/onyxia) | Data science environment for Kubernetes that provides datalab tools deployed via Helm. | InseeFrLab | 906 |
 | [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 822 |
-| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 774 |
+| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 775 |
 | [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 759 |
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 746 |
 | [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 666 |
-| [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 600 |
+| [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 532 |

@@ -3,8 +3,32 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-12T22:01:13Z</updated>
+  <updated>2026-11-15T16:53:00Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>valhalla/valhalla</title>
+    <link href="https://github.com/valhalla/valhalla"/>
+    <id>https://github.com/valhalla/valhalla</id>
+    <updated>2026-11-15T16:53:00Z</updated>
+    <author><name>valhalla</name></author>
+    <summary>Routing engine for OpenStreetMap providing directions, isochrones and multi-modal routing. · C++ · astar, dijkstra, directions, isochrones, multi-modal</summary>
+    <category term="astar"/>
+    <category term="dijkstra"/>
+    <category term="directions"/>
+    <category term="isochrones"/>
+    <category term="multi-modal"/>
+  </entry>
+  <entry>
+    <title>public-transport/transitous</title>
+    <link href="https://github.com/public-transport/transitous"/>
+    <id>https://github.com/public-transport/transitous</id>
+    <updated>2026-11-15T16:52:14Z</updated>
+    <author><name>public-transport</name></author>
+    <summary>Free public transport routing service built on GTFS transit data. · Lua · gtfs, public-transport, transit</summary>
+    <category term="gtfs"/>
+    <category term="public-transport"/>
+    <category term="transit"/>
+  </entry>
   <entry>
     <title>VirusTotal/yara</title>
     <link href="https://github.com/VirusTotal/yara"/>
@@ -542,21 +566,5 @@
     <category term="gamedev"/>
     <category term="linux"/>
     <category term="minecraft"/>
-  </entry>
-  <entry>
-    <title>oxc-project/tsrs</title>
-    <link href="https://github.com/oxc-project/tsrs"/>
-    <id>https://github.com/oxc-project/tsrs</id>
-    <updated>2026-10-26T08:37:44Z</updated>
-    <author><name>oxc-project</name></author>
-    <summary>Rust port of the TypeScript 7 type checker. · Rust</summary>
-  </entry>
-  <entry>
-    <title>tashfeenahmed/freellmapi</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi"/>
-    <id>https://github.com/tashfeenahmed/freellmapi</id>
-    <updated>2026-10-26T07:43:44Z</updated>
-    <author><name>tashfeenahmed</name></author>
-    <summary>Proxies requests to many free LLM providers through one OpenAI-compatible /v1 endpoint. · TypeScript</summary>
   </entry>
 </feed>

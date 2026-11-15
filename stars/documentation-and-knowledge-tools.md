@@ -4,26 +4,26 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 195k |
+| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 196k |
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.1k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 78.9k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.5k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.6k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.5k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.1k |
+| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.3k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.2k |
-| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.2k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 46.9k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.3k |
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.6k |
-| [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 38.9k |
+| [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.4k |
 | [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.8k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
@@ -32,12 +32,12 @@
 | [gitbook](https://github.com/GitbookIO/gitbook) | Open source frontend for rendering GitBook documentation sites from Markdown content. | GitbookIO | 29.1k |
 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Renders interactive API documentation from OpenAPI specifications in the browser. | swagger-api | 29.1k |
 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Self-hosted web archiver that saves URLs, bookmarks, and browser history as HTML, PDFs, and media. | ArchiveBox | 29k |
-| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | LaTeX template for writing a CV or resume for job applications. | posquit0 | 28.9k |
+| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | LaTeX template for writing a CV or resume for job applications. | posquit0 | 29k |
 | [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Theme and framework for MkDocs documentation sites, with Material Design styling and plugins. | squidfunk | 27.6k |
 | [dashy](https://github.com/lissy93/dashy) | Self-hosted personal dashboard with status checks, widgets, themes, icon packs, and a UI editor. | lissy93 | 27k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
-| [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.5k |
+| [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.6k |
 | [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.3k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.3k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
@@ -53,7 +53,7 @@
 | [foam](https://github.com/foambubble/foam) | Personal knowledge management and note-taking system for VS Code using Markdown and graph views. | foambubble | 17.5k |
 | [docs](https://github.com/suitenumerique/docs) | Open-source web-based collaborative editor for real-time editing of structured documents, built with Django and React. | suitenumerique | 17k |
 | [omnivore](https://github.com/omnivore-app/omnivore) | Open source read-it-later app for saving, organizing, and reading web articles and bookmarks. | omnivore-app | 16.4k |
-| [zotero](https://github.com/zotero/zotero) | Free tool for collecting, organizing, annotating, citing, and sharing research sources. | zotero | 15.9k |
+| [zotero](https://github.com/zotero/zotero) | Free tool for collecting, organizing, annotating, citing, and sharing research sources. | zotero | 16k |
 | [answer](https://github.com/apache/answer) | Q&amp;A platform software for teams, usable as a community forum, help center, or knowledge base. | apache | 15.7k |
 | [ecma262](https://github.com/tc39/ecma262) | Specification text and process documents for the ECMAScript language standard, ECMA-262. | tc39 | 15.7k |
 | [jsdoc](https://github.com/jsdoc/jsdoc) | API documentation generator for JavaScript that builds docs from JSDoc comments. | jsdoc | 15.5k |

@@ -5,27 +5,27 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [immich](https://github.com/immich-app/immich) | Self-hosted photo and video management solution with mobile apps and automatic backup. | immich-app | 119k |
-| [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 118k |
+| [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 119k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.6k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 79.4k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 79.6k |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.2k |
 | [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.4k |
-| [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 52.6k |
+| [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 52.7k |
 | [supervision](https://github.com/roboflow/supervision) | Python library of reusable computer vision tools for detections, datasets, and annotations. | roboflow | 51.6k |
 | [pixijs](https://github.com/pixijs/pixijs) | Fast, flexible 2D WebGL renderer for building interactive graphics and games in web browsers. | pixijs | 48.7k |
 | [photoprism](https://github.com/photoprism/photoprism) | AI-powered photo management app for private, self-hosted organization and search of photo libraries. | photoprism | 40.5k |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python tool that adds an OCR text layer to scanned PDFs so they become searchable. | ocrmypdf | 35.3k |
 | [glide](https://github.com/bumptech/glide) | Android image loading and caching library focused on smooth scrolling performance. | bumptech | 35k |
 | [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
-| [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.8k |
+| [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.9k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 27.9k |
-| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.4k |
+| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.5k |
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | JavaScript framework and engine for building 3D games and rendering in web browsers. | BabylonJS | 26.4k |
 | [rembg](https://github.com/danielgatis/rembg) | Python tool that removes the background from images using deep learning models. | danielgatis | 25.5k |
 | [Iosevka](https://github.com/be5invis/Iosevka) | Open source monospaced typeface for coding, generated from code with configurable options. | be5invis | 23.3k |
 | [svgo](https://github.com/svg/svgo) | Node.js library and CLI that optimizes SVG files by minifying and cleaning markup. | svg | 22.8k |
-| [blender](https://github.com/blender/blender) | Official mirror of Blender, a 3D creation suite for modeling, animation and rendering. | blender | 22k |
+| [blender](https://github.com/blender/blender) | Official mirror of Blender, a 3D creation suite for modeling, animation and rendering. | blender | 22.1k |
 | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 17.9k |
 | [engine](https://github.com/playcanvas/engine) | Web graphics runtime built on WebGL, WebGPU, WebXR, and glTF for 3D and gaussian splatting. | playcanvas | 17.3k |
 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI tool for upscaling images, videos and GIFs and interpolating video frames with AI models. | AaronFeng753 | 17.2k |
@@ -35,8 +35,8 @@
 | [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library fork for opening, manipulating, and saving many image file formats. | python-pillow | 14k |
 | [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | Library for rendering interactive vector tile maps in web browsers using WebGL. | maplibre | 12.1k |
 | [uCrop](https://github.com/Yalantis/uCrop) | Android image cropping library that provides a simple UI for cropping photos with animation. | Yalantis | 12.1k |
-| [vectorcraft](https://github.com/storytold/vectorcraft) | Open-source vector art editor written from scratch in pure Rust, with SVG support. | storytold | 11.7k |
-| [krita](https://github.com/KDE/krita) | Free open source cross-platform application for creating digital art, built on KDE and Qt. | KDE | 10.7k |
+| [vectorcraft](https://github.com/storytold/vectorcraft) | Open-source vector art editor written from scratch in pure Rust, with SVG support. | storytold | 11.8k |
+| [krita](https://github.com/KDE/krita) | Free open source cross-platform application for creating digital art, built on KDE and Qt. | KDE | 10.8k |
 | [node-canvas](https://github.com/Automattic/node-canvas) | Cairo-backed implementation of the HTML Canvas API for Node.js. | Automattic | 10.7k |
 | [manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Tool that translates text in manga and other images, using inpainting to replace the original text. | zyddnys | 10.6k |
 | [thumbor](https://github.com/thumbor/thumbor) | Open-source service that generates image thumbnails and processes images on demand. | thumbor | 10.5k |
@@ -50,7 +50,7 @@
 | [pixelmatch](https://github.com/mapbox/pixelmatch) | Small, fast JavaScript library for pixel-level comparison of images. | mapbox | 7k |
 | [gimp](https://github.com/GNOME/gimp) | Read-only mirror of the GIMP image editor source repository hosted on GNOME GitLab. | GNOME | 6.6k |
 | [svgomg](https://github.com/jakearchibald/svgomg) | Web-based graphical interface for optimizing SVG files with SVGO. | jakearchibald | 6.2k |
-| [kcc](https://github.com/ciromattia/kcc) 🆕 | Converter that turns comic and manga archives into ebook formats for Kindle and other e-readers. | ciromattia | 6k |
+| [kcc](https://github.com/ciromattia/kcc) 🆕 | Converter that turns comic and manga archives into ebook formats for Kindle and other e-readers. | ciromattia | 6.1k |
 | [image](https://github.com/image-rs/image) | Rust library for encoding and decoding image files in multiple formats. | image-rs | 5.9k |
 | [perfect-freehand](https://github.com/steveruizok/perfect-freehand) | Library for drawing smooth, pressure-sensitive freehand strokes on HTML canvas. | steveruizok | 5.8k |
 | [svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Online editor for creating and manipulating SVG path data. | Yqnn | 5.3k |
@@ -75,11 +75,11 @@
 | [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) | Node.js module that converts images into ASCII art. | IonicaBizau | 1.7k |
 | [barcode](https://github.com/milon/barcode) | PHP package for generating barcodes, with Laravel integration. | milon | 1.5k |
 | [withoutbg-python](https://github.com/withoutbg/withoutbg-python) | Python SDK for local and cloud background removal from images. | withoutbg | 1.3k |
-| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 868 |
+| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 869 |
 | [looks-same](https://github.com/gemini-testing/looks-same) | Node.js library for comparing images and detecting visual differences, used with Testplane. | gemini-testing | 828 |
-| [uqr](https://github.com/unjs/uqr) 🆕 | Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. | unjs | 789 |
+| [uqr](https://github.com/unjs/uqr) 🆕 | Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. | unjs | 790 |
 | [dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) | Library that generates PNG and JPEG images from DOM nodes using HTML5 canvas. | IDisposable | 683 |
-| [logo-soup](https://github.com/sanity-labs/logo-soup) | Tool that normalizes and harmonizes logo visuals for consistent display. | sanity-labs | 433 |
+| [logo-soup](https://github.com/sanity-labs/logo-soup) | Tool that normalizes and harmonizes logo visuals for consistent display. | sanity-labs | 434 |
 | [unpic](https://github.com/ascorbic/unpic) | Universal translator for image CDN URLs, converting transformation options between providers. | ascorbic | 431 |
 | [librsvg](https://github.com/GNOME/librsvg) | Read-only mirror of a Rust library for rendering SVG documents, maintained by GNOME. | GNOME | 412 |
 | [svg2roughjs](https://github.com/fskpf/svg2roughjs) | Converts SVG images into sketchy, hand-drawn-style graphics using RoughJS. | fskpf | 220 |

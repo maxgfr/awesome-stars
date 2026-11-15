@@ -8,10 +8,10 @@
 | [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with automatic JSON Schema validation. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.5k |
 | [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
-| [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79k |
+| [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79.1k |
 | [nest](https://github.com/nestjs/nest) | TypeScript framework for building scalable server-side applications on Node.js. | nestjs | 77.1k |
 | [json-server](https://github.com/typicode/json-server) | Tool that creates a fake REST API from a JSON file, for use in frontend development and mocking. | typicode | 75.7k |
-| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.1k |
+| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.2k |
 | [strapi](https://github.com/strapi/strapi) | Open-source headless CMS built with JavaScript and TypeScript for creating customizable content APIs. | strapi | 73.5k |
 | [express](https://github.com/expressjs/express) | Minimal, unopinionated web framework for Node.js for building servers and APIs. | expressjs | 69.7k |
 | [socket.io](https://github.com/socketio/socket.io) | Library for bidirectional, low-latency real-time communication between clients and servers across platforms. | socketio | 63.2k |
@@ -27,7 +27,7 @@
 | [fiber](https://github.com/gofiber/fiber) | Web framework for Go with an Express-like API, built on fasthttp for high performance. | gofiber | 40.3k |
 | [directus](https://github.com/directus/directus) | Open-source backend that turns a database into a headless CMS with instant REST and GraphQL APIs. | directus | 38.7k |
 | [fastify](https://github.com/fastify/fastify) | Fast, low-overhead web framework for Node.js for building HTTP APIs and servers. | fastify | 37.4k |
-| [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.2k |
+| [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.3k |
 | [koa](https://github.com/koajs/koa) | Expressive middleware framework for Node.js built on ES2017 async functions. | koajs | 35.7k |
 | [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.6k |
 | [hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate for Node.js web applications, aimed at hackathons, with OAuth2 and other starter features. | sahat | 35.3k |
@@ -36,7 +36,7 @@
 | [hono](https://github.com/honojs/hono) | Web framework built on Web Standards for running on Cloudflare Workers, Deno, Bun, and AWS Lambda. | honojs | 33k |
 | [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 32.1k |
 | [symfony](https://github.com/symfony/symfony) | Full-stack PHP framework and set of reusable components for building web applications and APIs. | symfony | 31.4k |
-| [better-auth](https://github.com/better-auth/better-auth) | Comprehensive authentication framework for TypeScript with OAuth, OIDC, and SSO support. | better-auth | 30.7k |
+| [better-auth](https://github.com/better-auth/better-auth) | Comprehensive authentication framework for TypeScript with OAuth, OIDC, and SSO support. | better-auth | 30.8k |
 | [celery](https://github.com/celery/celery) | Distributed Python task queue for running asynchronous and scheduled jobs across worker processes. | celery | 29.2k |
 | [next-auth](https://github.com/nextauthjs/next-auth) | Authentication library for Next.js and the web, supporting sessions, JWT, and CSRF protection. | nextauthjs | 28.4k |
 | [pingora](https://github.com/cloudflare/pingora) | Rust library for building fast, reliable, and evolvable network services. | cloudflare | 27.9k |
@@ -66,7 +66,7 @@
 | [bull](https://github.com/OptimalBits/bull) | Queue package for NodeJS that handles distributed jobs and messages with priorities. | OptimalBits | 16.3k |
 | [saas-starter](https://github.com/nextjs/saas-starter) | Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui. | nextjs | 16.3k |
 | [server](https://github.com/gotify/server) | Server for sending and receiving real-time messages over WebSocket, with a web UI. | gotify | 16.2k |
-| [stalwart](https://github.com/stalwartlabs/stalwart) | Self-hosted mail and collaboration server supporting IMAP, JMAP, SMTP, POP3, CalDAV, CardDAV and WebDAV. | stalwartlabs | 15.9k |
+| [stalwart](https://github.com/stalwartlabs/stalwart) | Self-hosted mail and collaboration server supporting IMAP, JMAP, SMTP, POP3, CalDAV, CardDAV and WebDAV. | stalwartlabs | 16k |
 | [spree](https://github.com/spree/spree) | Self-hosted open-source commerce platform for DTC, B2B, and marketplaces with REST APIs. | spree | 15.8k |
 | [httpx](https://github.com/encode/httpx) | Next-generation HTTP client for Python with sync and async APIs, supporting asyncio and Trio. | encode | 15.8k |
 | [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | Reverse proxy that adds authentication with Google, Azure, OIDC, and other identity providers. | oauth2-proxy | 15.4k |
@@ -102,7 +102,7 @@
 | [bullmq](https://github.com/taskforcesh/bullmq) | Message queue and batch processing system for several languages, backed by Redis or PostgreSQL. | taskforcesh | 9.6k |
 | [nhost](https://github.com/nhost/nhost) | Open-source backend-as-a-service with GraphQL, authentication, storage and PostgreSQL. | nhost | 9.4k |
 | [node-schedule](https://github.com/node-schedule/node-schedule) | Flexible job scheduler for Node.js supporting cron-style and date-based scheduling. | node-schedule | 9.2k |
-| [workerd](https://github.com/cloudflare/workerd) 🆕 | JavaScript and Wasm runtime that powers Cloudflare Workers. | cloudflare | 9.2k |
+| [workerd](https://github.com/cloudflare/workerd) | JavaScript and Wasm runtime that powers Cloudflare Workers. | cloudflare | 9.2k |
 | [adminjs](https://github.com/SoftwareBrothers/adminjs) | Admin panel framework for Node.js applications with automatically generated interfaces. | SoftwareBrothers | 9k |
 | [core](https://github.com/owncloud/core) | Core server of ownCloud, providing file sharing, sync, and WebDAV services in PHP. | owncloud | 8.9k |
 | [llrt](https://github.com/awslabs/llrt) | Experimental lightweight JavaScript runtime aimed at low-latency serverless applications. | awslabs | 8.8k |
@@ -166,7 +166,7 @@
 | [middleware](https://github.com/truenas/middleware) | Middleware for TrueNAS CORE, Enterprise and SCALE, managing storage services such as NFS and SMB. | truenas | 2.6k |
 | [workflow](https://github.com/vercel/workflow) | TypeScript SDK for building durable, observable apps and AI agents with workflow orchestration. | vercel | 2.5k |
 | [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Project boilerplate combining Django 5, React, Tailwind 4, Webpack, and Celery for web applications. | vintasoftware | 2.3k |
-| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.2k |
+| [emailengine](https://github.com/postalsys/emailengine) | Headless email client that exposes email accounts through an API. | postalsys | 2.3k |
 | [typescript-starter](https://github.com/nestjs/typescript-starter) | TypeScript starter project template for the Nest framework. | nestjs | 2.2k |
 | [wildduck](https://github.com/zone-eu/wildduck) | Opinionated email server providing IMAP, POP3 and LMTP services backed by MongoDB. | zone-eu | 2.1k |
 | [cookie-parser](https://github.com/expressjs/cookie-parser) | Express middleware for parsing HTTP request cookies into req.cookies. | expressjs | 2k |
@@ -195,7 +195,7 @@
 | [nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n) | Internationalization (i18n) module for NestJS applications. | toonvanstrijp | 723 |
 | [pino-http](https://github.com/pinojs/pino-http) | High-speed HTTP request logger for Node.js built on the Pino logging library. | pinojs | 709 |
 | [nestjs-prometheus](https://github.com/willsoto/nestjs-prometheus) | NestJS module that exposes Prometheus metrics from NestJS applications. | willsoto | 685 |
-| [limits](https://github.com/alisaifee/limits) | Python rate limiting library with multiple strategies and storage backends such as Redis and Memcached. | alisaifee | 655 |
+| [limits](https://github.com/alisaifee/limits) | Python rate limiting library with multiple strategies and storage backends such as Redis and Memcached. | alisaifee | 657 |
 | [method-override](https://github.com/expressjs/method-override) | Express middleware that overrides HTTP verbs, such as using PUT or DELETE from clients that cannot send them. | expressjs | 628 |
 | [inversify-express-utils](https://github.com/inversify/inversify-express-utils) | Utilities for building Express applications with InversifyJS dependency injection. | inversify | 604 |
 | [config](https://github.com/nestjs/config) | Configuration module for NestJS applications that loads and validates environment settings. | nestjs | 595 |
@@ -203,7 +203,7 @@
 | [laracart](https://github.com/lukepolo/laracart) | Laravel shopping cart package with support for coupons, discounts, and taxation. | lukepolo | 583 |
 | [next-runtime](https://github.com/smeijer/next-runtime) | Helpers for handling POST requests, file uploads and API requests in Next.js getServerSideProps. | smeijer | 583 |
 | [prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql) | Generates GraphQL object types, inputs and args from a Prisma schema for use with @nestjs/graphql. | unlight | 573 |
-| [jupyter_server](https://github.com/jupyter-server/jupyter_server) | Backend server providing core services, APIs, and REST endpoints for Jupyter web applications. | jupyter-server | 570 |
+| [jupyter_server](https://github.com/jupyter-server/jupyter_server) | Backend server providing core services, APIs, and REST endpoints for Jupyter web applications. | jupyter-server | 571 |
 | [node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) | Node.js wrapper for amqplib adding auto-reconnect and round-robin support. | jwalton | 563 |
 | [passport](https://github.com/nestjs/passport) | Passport authentication module for adding authentication strategies to NestJS applications. | nestjs | 561 |
 | [next-shared-cache](https://github.com/caching-tools/next-shared-cache) | Self-hosting cache handler for Next.js ISR and cache, backed by Redis. | caching-tools | 541 |
@@ -223,4 +223,4 @@
 | [typed-route-handler](https://github.com/venables/typed-route-handler) | Type-safe API route handlers for Next.js. | venables | 89 |
 | [teanjs](https://github.com/adrien2p/teanjs) | Example project combining TypeORM, Express, Angular 8 SSR, and NestJS in one codebase. | adrien2p | 87 |
 
-**Legend:** 🗄️ archived · 🆕 starred in the last 30 days
+**Legend:** 🗄️ archived

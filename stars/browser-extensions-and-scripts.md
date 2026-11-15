@@ -4,9 +4,9 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.3k |
+| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.4k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35.4k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35.6k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -20,7 +20,7 @@
 | [plasmo](https://github.com/PlasmoHQ/plasmo) | Framework for building browser extensions with bundling and a modern development workflow. | PlasmoHQ | 13.2k |
 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | Dark GitHub style with custom syntax themes for code, editors, and notebooks. | StylishThemes | 10k |
 | [buster](https://github.com/dessant/buster) | Browser extension that solves reCAPTCHA challenges using speech recognition. | dessant | 9.4k |
-| [floccus](https://github.com/floccusaddon/floccus) | Browser extension for syncing bookmarks privately across browsers and devices. | floccusaddon | 8.6k |
+| [floccus](https://github.com/floccusaddon/floccus) | Browser extension for syncing bookmarks privately across browsers and devices. | floccusaddon | 8.7k |
 | [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) | Browser extension for finding and subscribing to RSS feeds and RSSHub routes. | DIYgod | 7.4k |
 | [AdNauseam](https://github.com/dhowe/AdNauseam) | Browser extension that obscures advertising surveillance by automatically clicking ads in the background. | dhowe | 6.8k |
 | [ublacklist](https://github.com/iorate/ublacklist) | Browser extension that hides specified websites from Google search results. | iorate | 6.7k |
@@ -57,7 +57,7 @@
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
-| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 761 |
+| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 760 |
 | [hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare) | Browser extension that creates random email aliases forwarding to your real inbox via Cloudflare. | webmonch | 682 |
 | [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 666 |
@@ -74,7 +74,7 @@
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
 | [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
 | [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 136 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 116 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 117 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 | [Ostendo](https://github.com/WebOnField/Ostendo) | Tool that shows accessibility compliance rates of French websites in Google search results. | WebOnField | 18 |

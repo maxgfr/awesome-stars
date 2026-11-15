@@ -38,7 +38,7 @@
 | [graphql-engine](https://github.com/hasura/graphql-engine) | Realtime GraphQL API engine for databases with access control and webhooks on database events. | hasura | 32.1k |
 | [dragonfly](https://github.com/dragonflydb/dragonfly) | In-memory data store compatible with Redis and Memcached APIs, used as a cache and database. | dragonflydb | 31.9k |
 | [influxdb](https://github.com/influxdata/influxdb) | Time series database for storing and querying metrics, events, and real-time analytics data. | influxdata | 31.8k |
-| [analytics](https://github.com/plausible/analytics) | Self-hostable, privacy-focused web analytics platform and cookie-free alternative to Google Analytics. | plausible | 29.8k |
+| [analytics](https://github.com/plausible/analytics) | Self-hostable, privacy-focused web analytics platform and cookie-free alternative to Google Analytics. | plausible | 29.9k |
 | [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI applications and agents. | chroma-core | 29.7k |
 | [redash](https://github.com/getredash/redash) | Platform for connecting to many data sources to query, visualize, dashboard, and share data. | getredash | 28.9k |
 | [mongo](https://github.com/mongodb/mongo) | Source code of the MongoDB document database server. | mongodb | 28.7k |
@@ -85,7 +85,7 @@
 | [questdb](https://github.com/questdb/questdb) 🆕 | High-performance open-source time-series database for real-time analytics and market data. | questdb | 17.5k |
 | [turbovec](https://github.com/RyanCodrai/turbovec) | Rust vector index built on TurboQuant with Python bindings for approximate nearest-neighbor search. | RyanCodrai | 17.5k |
 | [libsql](https://github.com/tursodatabase/libsql) | Open-contribution fork of SQLite as an embeddable database library. | tursodatabase | 17.3k |
-| [tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database built on the Raft consensus protocol, originally for TiDB. | tikv | 16.9k |
+| [tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database built on the Raft consensus protocol, originally for TiDB. | tikv | 17k |
 | [weaviate](https://github.com/weaviate/weaviate) | Open-source vector database that combines vector search with structured filtering. | weaviate | 16.9k |
 | [mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | Open source MCP server that lets AI agents work with databases such as BigQuery and ClickHouse. | googleapis | 16.9k |
 | [dagster](https://github.com/dagster-io/dagster) | Orchestration platform for developing, running, and observing data assets and pipelines. | dagster-io | 16.4k |
@@ -100,7 +100,7 @@
 | [kysely](https://github.com/kysely-org/kysely) | Type-safe SQL query builder for TypeScript supporting multiple SQL databases. | kysely-org | 14.4k |
 | [memcached](https://github.com/memcached/memcached) | Source tree for Memcached, a high-performance distributed memory object caching system. | memcached | 14.3k |
 | [arangodb](https://github.com/arangodb/arangodb) | Multi-model database for documents, graphs and key-value data, queried with an SQL-like language. | arangodb | 14.3k |
-| [diesel](https://github.com/diesel-rs/diesel) | Safe, extensible ORM and query builder for Rust supporting PostgreSQL, MySQL, and SQLite. | diesel-rs | 14.2k |
+| [diesel](https://github.com/diesel-rs/diesel) | Safe, extensible ORM and query builder for Rust supporting PostgreSQL, MySQL, and SQLite. | diesel-rs | 14.3k |
 | [dbt](https://github.com/dbt-labs/dbt) | Data transformation tool that lets analysts and engineers apply software engineering practices to data modeling. | dbt-labs | 14.2k |
 | [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Open source distributed, RESTful search and analytics engine written in Java. | opensearch-project | 14k |
 | [flexsearch](https://github.com/nextapps-de/flexsearch) | Full-text search library for browsers and Node.js with fuzzy matching and fast indexing. | nextapps-de | 13.8k |
@@ -170,7 +170,7 @@
 | [xan](https://github.com/medialab/xan) | Command-line tool for processing CSV and TSV files, written in Rust. | medialab | 4.6k |
 | [pgbackrest](https://github.com/pgbackrest/pgbackrest) | Reliable backup and restore tool for PostgreSQL databases. | pgbackrest | 4.5k |
 | [postgres-operator](https://github.com/CrunchyData/postgres-operator) | Kubernetes operator for running production PostgreSQL with high availability and disaster recovery. | CrunchyData | 4.5k |
-| [pgbouncer](https://github.com/pgbouncer/pgbouncer) | Lightweight connection pooler for PostgreSQL. | pgbouncer | 4.4k |
+| [pgbouncer](https://github.com/pgbouncer/pgbouncer) | Lightweight connection pooler for PostgreSQL. | pgbouncer | 4.5k |
 | [kinto](https://github.com/Kinto/kinto) | Generic JSON document store with an HTTP API, sharing and synchronisation capabilities. | Kinto | 4.4k |
 | [USearch](https://github.com/unum-cloud/USearch) | Vector search engine with approximate nearest neighbor search, clustering and fuzzy matching. | unum-cloud | 4.4k |
 | [briefer](https://github.com/briefercloud/briefer) | Platform for building dashboards and collaborative notebooks that combine code and business data. | briefercloud | 4.3k |
@@ -204,8 +204,8 @@
 | [kapacitor](https://github.com/influxdata/kapacitor) | Framework for processing, monitoring, and alerting on time series data. | influxdata | 2.4k |
 | [node-db-migrate](https://github.com/db-migrate/node-db-migrate) | Framework for Node.js that applies and tracks versioned database schema migrations. | db-migrate | 2.3k |
 | [typegoose](https://github.com/typegoose/typegoose) | TypeScript library for defining Mongoose models using classes and decorators. | typegoose | 2.3k |
-| [postgis](https://github.com/postgis/postgis) | PostGIS spatial database extension that adds geographic objects and functions to PostgreSQL. | postgis | 2.3k |
 | [hucre](https://github.com/productdevbook/hucre) | Zero-dependency TypeScript library for reading and writing XLSX, CSV, and ODS spreadsheets. | productdevbook | 2.3k |
+| [postgis](https://github.com/postgis/postgis) | PostGIS spatial database extension that adds geographic objects and functions to PostgreSQL. | postgis | 2.3k |
 | [pdf2json](https://github.com/modesty/pdf2json) | Zero-dependency Java tool that converts binary PDF files to JSON and text. | modesty | 2.2k |
 | [node-rdkafka](https://github.com/Blizzard/node-rdkafka) | Node.js bindings for librdkafka, enabling Kafka producers and consumers from Node.js. | Blizzard | 2.2k |
 | [azimutt](https://github.com/azimuttapp/azimutt) | Tool to explore, document, and optimize database schemas through interactive diagrams. | azimuttapp | 2.2k |
@@ -231,7 +231,7 @@
 | [node-sql-parser](https://github.com/taozhi8833998/node-sql-parser) | Parser that turns SQL statements into an abstract syntax tree and converts them back to SQL. | taozhi8833998 | 1k |
 | [prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) | Tool for visualizing and editing Prisma schemas, with ER diagrams for several databases. | mohammed-bahumaish | 1k |
 | [prismaliser](https://github.com/Ovyerus/prismaliser) | Tool that visualizes a Prisma schema as an interactive graph. | Ovyerus | 992 |
-| [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | CLI and Node.js tool for downloading historical and real-time tick price data from Dukascopy. | Leo4815162342 | 969 |
+| [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | CLI and Node.js tool for downloading historical and real-time tick price data from Dukascopy. | Leo4815162342 | 973 |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Official JavaScript and TypeScript client library for the Meilisearch search engine API. | meilisearch | 871 |
 | [node-influx](https://github.com/node-influx/node-influx) | Client library for using InfluxDB from Node.js and browser JavaScript applications. | node-influx | 864 |
 | [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 800 |

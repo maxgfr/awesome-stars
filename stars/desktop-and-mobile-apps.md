@@ -6,49 +6,49 @@
 |---|---|---|---:|
 | [flutter](https://github.com/flutter/flutter) | Open-source UI framework for building natively compiled mobile, web, and desktop apps from Dart. | flutter | 181k |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows utilities that boost productivity and customisation, including FancyZones and Color Picker. | microsoft | 141k |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop application for self-hosting, as an alternative to TeamViewer. | rustdesk | 129k |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop application for self-hosting, as an alternative to TeamViewer. | rustdesk | 130k |
 | [react-native](https://github.com/react/react-native) | Framework for building native mobile applications for iOS and Android using React. | react | 127k |
 | [electron](https://github.com/electron/electron) | Framework for building cross-platform desktop applications using JavaScript, HTML, and CSS. | electron | 124k |
 | [tauri](https://github.com/tauri-apps/tauri) | Framework for building small, fast, secure desktop and mobile apps with a web frontend. | tauri-apps | 113k |
-| [localsend](https://github.com/localsend/localsend) | Open-source, cross-platform file sharing app that serves as an alternative to AirDrop. | localsend | 99k |
+| [localsend](https://github.com/localsend/localsend) | Open-source, cross-platform file sharing app that serves as an alternative to AirDrop. | localsend | 99.1k |
 | [ladybird](https://github.com/LadybirdBrowser/ladybird) | Independent web browser and browser engine project aiming to be fully independent of other engines. | LadybirdBrowser | 67.1k |
 | [termux-app](https://github.com/termux/termux-app) | Terminal emulator application for Android with extensible packages for a Linux-style environment. | termux | 64.9k |
 | [Magisk](https://github.com/topjohnwu/Magisk) | Systemless root solution for Android devices, patching the boot image to manage root access. | topjohnwu | 64k |
 | [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Electron-based desktop build of the draw.io diagram editor. | jgraph | 64k |
 | [Pake](https://github.com/tw93/Pake) | Command-line tool that packages any website as a lightweight desktop app for macOS, Windows, and Linux. | tw93 | 63.6k |
-| [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🆕 | Removes bloatware from Android and Google TV devices over Wi-Fi and adds a cleaner home screen. | Gathin23 | 57.9k |
-| [expo](https://github.com/expo/expo) | Open-source framework for building universal native apps with React for Android, iOS and web. | expo | 53.5k |
+| [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🆕 | Removes bloatware from Android and Google TV devices over Wi-Fi and adds a cleaner home screen. | Gathin23 | 58.3k |
+| [expo](https://github.com/expo/expo) | Open-source framework for building universal native apps with React for Android, iOS and web. | expo | 53.6k |
 | [spotube](https://github.com/team-spotube/spotube) | Open-source music streaming client for desktop and mobile, built with Flutter. | team-spotube | 50.8k |
 | [Files](https://github.com/files-community/Files) | A modern file manager for organizing files and folders. | files-community | 46.7k |
 | [architecture-samples](https://github.com/android/architecture-samples) | Sample Android app collection showing architecture tools and patterns for Android apps. | android | 45.9k |
 | [desktop](https://github.com/zen-browser/desktop) | Firefox-based web browser focused on a calmer browsing experience. | zen-browser | 45.8k |
 | [Alamofire](https://github.com/Alamofire/Alamofire) | Swift networking library for HTTP requests, with support for certificate pinning. | Alamofire | 42.4k |
 | [nw.js](https://github.com/nwjs/nw.js) | Runtime for building desktop apps with web technologies that can call Node.js modules directly. | nwjs | 41.1k |
-| [ShareX](https://github.com/ShareX/ShareX) | Free open-source tool for capturing screen areas and sharing images, text, and files. | ShareX | 41k |
+| [ShareX](https://github.com/ShareX/ShareX) | Free open-source tool for capturing screen areas and sharing images, text, and files. | ShareX | 41.1k |
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Lightweight free Android front-end for streaming and downloading media from video services. | TeamNewPipe | 40.7k |
 | [Hyprland](https://github.com/hyprwm/Hyprland) | Dynamic tiling Wayland compositor with a strong focus on customizable appearance. | hyprwm | 40.7k |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Cross-platform open source file explorer built on a distributed virtual filesystem in Rust. | spacedriveapp | 39.5k |
 | [Folo](https://github.com/RSSNext/Folo) | AI-powered RSS reader for following feeds, built on RSSHub. | RSSNext | 39.3k |
-| [Handy](https://github.com/cjpais/Handy) | Open source desktop application that performs speech-to-text transcription completely offline. | cjpais | 38.8k |
+| [Handy](https://github.com/cjpais/Handy) | Open source desktop application that performs speech-to-text transcription completely offline. | cjpais | 38.9k |
 | [rufus](https://github.com/pbatard/rufus) | Utility for formatting and creating bootable USB drives from ISO images, with BIOS and UEFI support. | pbatard | 38.3k |
-| [bitchat](https://github.com/permissionlesstech/bitchat) | Decentralized Bluetooth mesh chat app with end-to-end encryption for iOS and macOS. | permissionlesstech | 37.1k |
+| [bitchat](https://github.com/permissionlesstech/bitchat) | Decentralized Bluetooth mesh chat app with end-to-end encryption for iOS and macOS. | permissionlesstech | 37.2k |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machine app for running virtual machines on iOS and macOS, built on QEMU. | utmapp | 36.9k |
-| [SmartTube](https://github.com/yuliskov/SmartTube) | Android TV app for browsing media content according to user-defined rules. | yuliskov | 36.3k |
+| [SmartTube](https://github.com/yuliskov/SmartTube) | Android TV app for browsing media content according to user-defined rules. | yuliskov | 36.4k |
 | [etcher](https://github.com/balena-io/etcher) | Desktop tool for safely flashing OS images to SD cards and USB drives. | balena-io | 34.7k |
-| [pear-desktop](https://github.com/pear-devs/pear-desktop) | Desktop app built with Electron that extends a music player with extra features and plugins. | pear-devs | 34k |
-| [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Finance application for market analytics, investment research, and economic data with AI agents. | Fincept-Corporation | 33.8k |
+| [pear-desktop](https://github.com/pear-devs/pear-desktop) | Desktop app built with Electron that extends a music player with extra features and plugins. | pear-devs | 34.1k |
+| [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Finance application for market analytics, investment research, and economic data with AI agents. | Fincept-Corporation | 33.9k |
 | [tdesktop](https://github.com/telegramdesktop/tdesktop) | Desktop messaging app for Telegram on multiple platforms. | telegramdesktop | 33.6k |
-| [flameshot](https://github.com/flameshot-org/flameshot) | Screenshot application with simple capture tools and cross-platform support for desktop systems. | flameshot-org | 31.5k |
-| [calculator](https://github.com/microsoft/calculator) | Source code for the Windows Calculator app, which ships with Windows. | microsoft | 31.1k |
-| [deskflow](https://github.com/deskflow/deskflow) | Software for sharing one keyboard and mouse across multiple computers over a network. | deskflow | 31.1k |
+| [flameshot](https://github.com/flameshot-org/flameshot) | Screenshot application with simple capture tools and cross-platform support for desktop systems. | flameshot-org | 31.6k |
+| [deskflow](https://github.com/deskflow/deskflow) | Software for sharing one keyboard and mouse across multiple computers over a network. | deskflow | 31.2k |
 | [koreader](https://github.com/koreader/koreader) | Ebook reader application for e-ink and mobile devices supporting PDF, DjVu, EPUB, and other formats. | koreader | 31.1k |
-| [librepods](https://github.com/librepods-org/librepods) 🆕 | Open-source Android app that frees AirPods from Apple's ecosystem, with battery and ear detection. | librepods-org | 30.7k |
+| [calculator](https://github.com/microsoft/calculator) | Source code for the Windows Calculator app, which ships with Windows. | microsoft | 31.1k |
+| [librepods](https://github.com/librepods-org/librepods) 🆕 | Open-source Android app that frees AirPods from Apple's ecosystem, with battery and ear detection. | librepods-org | 30.8k |
 | [Signal-Android](https://github.com/signalapp/Signal-Android) | Signal private messaging application for Android. | signalapp | 29.6k |
 | [gopeed](https://github.com/GopeedLab/gopeed) | Cross-platform download manager for HTTP, BitTorrent, magnet, and ed2k, built with Go and Flutter. | GopeedLab | 27.7k |
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Desktop app for quickly switching between multiple hosts file configurations. | oldj | 27.4k |
 | [calibre](https://github.com/kovidgoyal/calibre) | Source code for calibre, a desktop ebook manager for organizing, converting, and reading ebooks. | kovidgoyal | 26.4k |
 | [readest](https://github.com/readest/readest) | Cross-platform ebook reader with Calibre integration for reading and managing books. | readest | 26.3k |
-| [Cap](https://github.com/CapSoftware/Cap) | Open source screen recorder for creating shareable recordings, as an alternative to Loom. | CapSoftware | 25k |
+| [Cap](https://github.com/CapSoftware/Cap) | Open source screen recorder for creating shareable recordings, as an alternative to Loom. | CapSoftware | 25.1k |
 | [react-navigation](https://github.com/react-navigation/react-navigation) | Routing and navigation library for React Native and web apps. | react-navigation | 24.5k |
 | [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) | Boilerplate for cross-platform desktop apps built with Electron, React, and ESLint. | electron-react-boilerplate | 24.3k |
 | [brave-browser](https://github.com/brave/brave-browser) | Source code for the Brave web browser on Android, iOS, Linux, macOS, and Windows. | brave | 24.2k |
@@ -58,11 +58,11 @@
 | [Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | Windows utility for removing many unwanted applications at once, including leftover cleanup. | BCUninstaller | 22.5k |
 | [desktop](https://github.com/desktop/desktop) | A GUI application for working with Git and GitHub, built on Electron. | desktop | 22.1k |
 | [deskreen](https://github.com/pavlobu/deskreen) | Turns any device with a web browser into a secondary screen for your computer. | pavlobu | 21.8k |
-| [Obtainium](https://github.com/ImranR98/Obtainium) | Android app that gets app updates directly from their source, such as APK releases. | ImranR98 | 21.5k |
+| [Obtainium](https://github.com/ImranR98/Obtainium) | Android app that gets app updates directly from their source, such as APK releases. | ImranR98 | 21.6k |
 | [xbmc](https://github.com/xbmc/xbmc) | Open-source media center software for playing digital media on home theater devices. | xbmc | 21.5k |
-| [pdfcraft](https://github.com/storytold/pdfcraft) | Open-source PDF reader and editor written from scratch in pure Rust. | storytold | 20.7k |
+| [pdfcraft](https://github.com/storytold/pdfcraft) | Open-source PDF reader and editor written from scratch in pure Rust. | storytold | 20.8k |
+| [gpui-kit](https://github.com/longbridge/gpui-kit) | Rust GUI component library for building cross-platform desktop applications with GPUI. | longbridge | 20.8k |
 | [ish](https://github.com/ish-app/ish) | Linux shell environment for iOS, running an emulated x86 Linux userspace. | ish-app | 20.7k |
-| [gpui-kit](https://github.com/longbridge/gpui-kit) | Rust GUI component library for building cross-platform desktop applications with GPUI. | longbridge | 20.7k |
 | [ignite](https://github.com/infinitered/ignite) | Boilerplate project, CLI and generators for building React Native apps. | infinitered | 20k |
 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | Privacy-focused messaging platform with no user identifiers, end-to-end encryption, and apps for mobile and desktop. | simplex-chat | 19.7k |
 | [activitywatch](https://github.com/ActivityWatch/activitywatch) | Open-source, privacy-focused automated time tracker that records computer activity. | ActivityWatch | 19.6k |
@@ -81,7 +81,7 @@
 | [electron-builder](https://github.com/electron-userland/electron-builder) | Packages and builds distributable Electron apps with built-in auto-update support. | electron-userland | 14.7k |
 | [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform frontend for the libretro API for running emulators and game engines. | libretro | 14.6k |
 | [Playnite](https://github.com/JosefNemec/Playnite) 🆕 | Video game library manager that unifies games from many third-party launchers and emulators. | JosefNemec | 14.5k |
-| [LiveContainer](https://github.com/LiveContainer/LiveContainer) | Runs iOS apps without installing them on the device. | LiveContainer | 14.2k |
+| [LiveContainer](https://github.com/LiveContainer/LiveContainer) | Runs iOS apps without installing them on the device. | LiveContainer | 14.3k |
 | [clients](https://github.com/bitwarden/clients) | Bitwarden client applications for web, browser extension, desktop, and command line. | bitwarden | 14.2k |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Desktop Markdown editor and publication workbench for exporting documents to formats like DOCX and HTML. | Zettlr | 13.9k |
 | [firefox](https://github.com/mozilla-firefox/firefox) | Source code of the Mozilla Firefox web browser. | mozilla-firefox | 13.8k |
@@ -92,7 +92,7 @@
 | [robotjs](https://github.com/octalmage/robotjs) | Node.js library for desktop automation, controlling the mouse, keyboard and screen. | octalmage | 12.8k |
 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | Source code for the Signal private messaging application on iOS. | signalapp | 12.3k |
 | [react-native-firebase](https://github.com/invertase/react-native-firebase) | Modular Firebase implementation for React Native covering all Firebase services on iOS and Android. | invertase | 12.3k |
-| [Anki-Android](https://github.com/ankidroid/Anki-Android) | Android app for studying Anki flashcard decks with spaced repetition. | ankidroid | 12.2k |
+| [Anki-Android](https://github.com/ankidroid/Anki-Android) | Android app for studying Anki flashcard decks with spaced repetition. | ankidroid | 12.3k |
 | [xManager](https://github.com/Team-xManager/xManager) 🗄️ | Ad-free Android app with added features, written in Java. | Team-xManager | 12.1k |
 | [rnote](https://github.com/flxzt/rnote) | Application for sketching and taking handwritten notes, built with GTK4. | flxzt | 11.9k |
 | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | Windows volume control app for managing per-application audio levels and playback devices. | File-New-Project | 11.5k |
@@ -107,7 +107,7 @@
 | [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | Tool that automatically switches Windows 10 and 11 between dark and light themes. | AutoDarkMode | 9.8k |
 | [react-native-vision-camera](https://github.com/margelo/react-native-vision-camera) | A high-performance camera library for React Native with barcode scanning support. | margelo | 9.7k |
 | [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Windows system tray app for adjusting brightness of external and built-in monitors. | xanderfrangos | 9.4k |
-| [bazzite](https://github.com/ublue-os/bazzite) | Desktop operating system based on Fedora, aimed at gaming and everyday use on PCs and handhelds. | ublue-os | 9.3k |
+| [bazzite](https://github.com/ublue-os/bazzite) | Desktop operating system based on Fedora, aimed at gaming and everyday use on PCs and handhelds. | ublue-os | 9.4k |
 | [outline-apps](https://github.com/OutlineFoundation/outline-apps) | Client and manager apps for Outline VPN servers, letting users share VPN access with others. | OutlineFoundation | 9.3k |
 | [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) | TodoMVC sample app for Flutter that demonstrates Redux-based architecture. | brianegan | 8.9k |
 | [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) | React Native module that opens native UI to pick photos or videos from the library or camera. | react-native-image-picker | 8.6k |
@@ -126,7 +126,7 @@
 | [ludusavi](https://github.com/mtkennerly/ludusavi) | Cross-platform backup tool for PC game saves with both CLI and GUI interfaces. | mtkennerly | 6.6k |
 | [facebook-android-sdk](https://github.com/meta/facebook-android-sdk) | Android SDK for integrating apps with the Facebook Platform. | meta | 6.5k |
 | [flat](https://github.com/netless-io/flat) | Web, Windows and macOS client for Agora Flat, an open source online classroom application. | netless-io | 6.4k |
-| [mygo](https://github.com/egoist/mygo) 🆕 | Framework for building desktop apps in Go with a native UI or a web frontend. | egoist | 6.2k |
+| [mygo](https://github.com/egoist/mygo) 🆕 | Framework for building desktop apps in Go with a native UI or a web frontend. | egoist | 6.3k |
 | [pdfarranger](https://github.com/pdfarranger/pdfarranger) | GTK app for merging, splitting, rotating, cropping and rearranging PDF pages graphically. | pdfarranger | 6.1k |
 | [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | Open-source desktop office suite for documents, spreadsheets, presentations, and PDF forms. | ONLYOFFICE | 5.7k |
 | [plexo](https://github.com/anmolkapil/plexo) | Download manager that combines multiple network connections in parallel to speed up downloads. | anmolkapil | 5.7k |
@@ -166,13 +166,13 @@
 | [fdroidclient](https://github.com/f-droid/fdroidclient) | Android client for browsing and installing free and open-source apps from F-Droid repositories. | f-droid | 3.3k |
 | [AppAuth-Android](https://github.com/openid/AppAuth-Android) | Android client SDK for authenticating with OAuth 2.0 and OpenID Connect providers. | openid | 3.2k |
 | [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) | Secure boilerplate for building Electron apps with Vite and TypeScript, supporting several UI frameworks. | cawa-93 | 3k |
-| [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) | Battery-conscious background geolocation library for React Native with motion detection. | transistorsoft | 2.9k |
+| [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) | Battery-conscious background geolocation library for React Native with motion detection. | transistorsoft | 3k |
 | [cli](https://github.com/react-native-community/cli) | Command-line tools for building, running and maintaining React Native apps. | react-native-community | 2.9k |
 | [maps](https://github.com/rnmapbox/maps) | React Native module for rendering custom Mapbox maps in mobile apps. | rnmapbox | 2.9k |
 | [hatchzip](https://github.com/xevrion/hatchzip) 🆕 | Cross-platform archive extractor for ZIP, 7z, RAR, tar and split archives that extracts in place. | xevrion | 2.9k |
 | [pi-apps](https://github.com/Botspot/pi-apps) | App store for installing open source software on Raspberry Pi devices. | Botspot | 2.9k |
-| [rescuezilla](https://github.com/rescuezilla/rescuezilla) 🆕 | Disk imaging and backup tool for system recovery with a graphical interface. | rescuezilla | 2.8k |
 | [sonora](https://github.com/sonorahq/sonora) 🆕 | Native music streaming client for Apple Music, Deezer, and Navidrome, built with GPUI. | sonorahq | 2.8k |
+| [rescuezilla](https://github.com/rescuezilla/rescuezilla) 🆕 | Disk imaging and backup tool for system recovery with a graphical interface. | rescuezilla | 2.8k |
 | [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | Copyleft open source YouTube player for Android that can also download videos. | SkyTubeTeam | 2.8k |
 | [mattermost-mobile](https://github.com/mattermost/mattermost-mobile) | Native iOS and Android mobile apps for Mattermost, built with React Native. | mattermost | 2.7k |
 | [nvda](https://github.com/nvaccess/nvda) | Free open-source screen reader for Microsoft Windows, used by blind and visually impaired people. | nvaccess | 2.7k |
@@ -220,12 +220,12 @@
 | [react-native-orientation-locker](https://github.com/wonday/react-native-orientation-locker) | React Native module to detect device orientation changes and lock the screen to an orientation. | wonday | 803 |
 | [freeotp-ios](https://github.com/freeotp/freeotp-ios) |  | freeotp | 771 |
 | [react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) | Manages audio routes, sensors and events during audio and video calls in React Native apps. | react-native-webrtc | 600 |
-| [ibis-office](https://github.com/ibisjp/ibis-office) | Office suite in Rust with GPU rendering for editing DOCX, XLSX and PPTX files. | ibisjp | 551 |
+| [ibis-office](https://github.com/ibisjp/ibis-office) | Office suite in Rust with GPU rendering for editing DOCX, XLSX and PPTX files. | ibisjp | 553 |
 | [what_the_thing](https://github.com/vigzmv/what_the_thing) | Android app that uses the camera and image recognition to show how to say objects in other languages. | vigzmv | 541 |
 | [react-native-fast-squircle](https://github.com/fbeccaceci/react-native-fast-squircle) | Performant React Native component for rendering squircle shapes. | fbeccaceci | 525 |
-| [qBitControl](https://github.com/Michael-128/qBitControl) | Remote client for controlling qBittorrent from iOS devices. | Michael-128 | 429 |
+| [qBitControl](https://github.com/Michael-128/qBitControl) | Remote client for controlling qBittorrent from iOS devices. | Michael-128 | 430 |
 | [sign-android-release](https://github.com/r0adkll/sign-android-release) | GitHub Action that signs Android APK or AAB files. | r0adkll | 411 |
-| [LauncherHijack](https://github.com/BaronKiko/LauncherHijack) | Project for Amazon Fire tablets and TVs that works with the device launcher. | BaronKiko | 380 |
+| [LauncherHijack](https://github.com/BaronKiko/LauncherHijack) | Project for Amazon Fire tablets and TVs that works with the device launcher. | BaronKiko | 381 |
 | [react-native-file-access](https://github.com/alpha0010/react-native-file-access) | Filesystem access module for React Native apps. | alpha0010 | 339 |
 | [react-native-asset](https://github.com/unimonkiez/react-native-asset) | Tool for linking and unlinking assets in React Native projects. | unimonkiez | 335 |
 | [react-native-get-location](https://github.com/douglasjunior/react-native-get-location) | React Native library for getting the device's GPS location on Android and iOS. | douglasjunior | 261 |
@@ -233,7 +233,7 @@
 | [SignTools-CI](https://github.com/SignTools/SignTools-CI) | Python tool that signs iOS apps on demand in CI as part of the SignTools platform. | SignTools | 242 |
 | [react-native-voip-push-notification](https://github.com/react-native-webrtc/react-native-voip-push-notification) | React Native library for receiving VoIP push notifications on iOS. | react-native-webrtc | 233 |
 | [react-native-svg-app-icon](https://github.com/aeirola/react-native-svg-app-icon) | Generates app icons for React Native apps from a single SVG file. | aeirola | 179 |
-| [tauri-react-example](https://github.com/lukethacoder/tauri-react-example) | Example project combining Tauri, React, and Vite for building desktop apps. | lukethacoder | 147 |
+| [tauri-react-example](https://github.com/lukethacoder/tauri-react-example) | Example project combining Tauri, React, and Vite for building desktop apps. | lukethacoder | 146 |
 | [iTransmission](https://github.com/alexsvitlov/iTransmission) | Lightweight BitTorrent client for iOS. | alexsvitlov | 140 |
 | [react-native-blob-courier](https://github.com/edeckers/react-native-blob-courier) | React Native library for efficient upload and download of blobs and files. | edeckers | 135 |
 | [native-base-react-navigation-stack-navigator](https://github.com/GeekyAnts/native-base-react-navigation-stack-navigator) |  | GeekyAnts | 126 |

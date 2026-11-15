@@ -27,27 +27,27 @@
 | [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Visual explanations of system design concepts to help prepare for software architecture interviews. | ByteByteGoHq | 91.2k |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Interview questions and exercises covering DevOps topics such as Linux, Docker, Kubernetes and AWS. | bregman-arie | 86.8k |
 | [llm-course](https://github.com/mlabonne/llm-course) | Course with roadmaps and Colab notebooks for learning Large Language Models. | mlabonne | 85.1k |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | A curated list of computer science courses that include video lectures, covering algorithms, architecture and related fields. | Developer-Y | 84.8k |
-| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 79.5k |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 75.7k |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | A curated list of computer science courses that include video lectures, covering algorithms, architecture and related fields. | Developer-Y | 84.9k |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 79.6k |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 75.8k |
 | [awesome-react](https://github.com/enaqx/awesome-react) | Curated list of resources covering the React and React Native ecosystem. | enaqx | 75.3k |
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of machine learning frameworks, libraries, and software. | josephmisiti | 74.8k |
 | [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Curated list of C and C++ frameworks, libraries, resources and tools. | fffaraz | 74.4k |
 | [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of resources related to Vue.js. | vuejs | 73.5k |
 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Curated list of Node.js packages and learning resources; submissions are temporarily paused. | sindresorhus | 67.5k |
 | [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources, including stock photos, templates, CSS frameworks, and icons. | bradtraversy | 67.4k |
-| [Java](https://github.com/TheAlgorithms/Java) | Collection of algorithms and data structures implemented in Java for learning and reference. | TheAlgorithms | 67.2k |
+| [Java](https://github.com/TheAlgorithms/Java) | Collection of algorithms and data structures implemented in Java for learning and reference. | TheAlgorithms | 67.3k |
 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | Educational collection of 33 JavaScript concepts that every developer should know. | leonardomso | 66.5k |
 | [rustlings](https://github.com/rust-lang/rustlings) | Small guided exercises for learning to read and write Rust code. | rust-lang | 64.7k |
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Curated list of Flutter libraries, tools, tutorials, and articles. | Solido | 61.9k |
-| [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curated list of Rust libraries, tools, and learning resources. | rust-unofficial | 60.5k |
-| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58k |
+| [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curated list of Rust libraries, tools, and learning resources. | rust-unofficial | 60.6k |
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.1k |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 54.7k |
 | [awesome-ios](https://github.com/vsouza/awesome-ios) | Curated list of iOS ecosystem libraries and projects in Objective-C and Swift. | vsouza | 54k |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Curated, categorized list of over 5,400 skills from the official OpenClaw Skills Registry. | VoltAgent | 53.8k |
 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | Community-maintained list of open-source iOS, macOS, and tvOS apps. | dkhamsing | 53.3k |
 | [professional-programming](https://github.com/charlax/professional-programming) | Curated learning resources on computer science and engineering concepts for software engineers. | charlax | 51.7k |
-| [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Collection of 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor, and Gemini CLI. | sickn33 | 49.7k |
+| [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Collection of 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor, and Gemini CLI. | sickn33 | 49.8k |
 | [awesome-java](https://github.com/akullpp/awesome-java) | Curated list of frameworks, libraries and software for the Java programming language. | akullpp | 49.5k |
 | [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated list of React components and libraries organized by category. | brillout | 48.9k |
 | [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with an online judge for practicing the type system. | type-challenges | 48.6k |
@@ -63,7 +63,7 @@
 | [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and data structures implemented in JavaScript for beginners, following best practices. | TheAlgorithms | 34.3k |
 | [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Curated list of example GitHub profile README pages, updated in real time. | abhisheknaiidu | 31.6k |
 | [awesome-osint](https://github.com/jivoi/awesome-osint) | Curated list of OSINT tools, resources, and references. | jivoi | 31.1k |
-| [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curated list of libraries, packages, and resources for quantitative finance. | wilsonfreitas | 30.6k |
+| [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curated list of libraries, packages, and resources for quantitative finance. | wilsonfreitas | 30.7k |
 | [awesome-datascience](https://github.com/academic/awesome-datascience) | Curated list of data science resources for learning and applying methods to real-world problems. | academic | 30.3k |
 | [HEAD](https://github.com/joshbuchea/HEAD) | Simple guide to HTML head elements, covering their purpose and usage. | joshbuchea | 30.3k |
 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course files, code examples, and exercises for a Udemy Complete Python 3 Bootcamp course. | Pierian-Data | 29.8k |
@@ -75,7 +75,7 @@
 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | Collection of laws, theories, principles, and patterns relevant to software developers and technologists. | dwmkerr | 27.4k |
 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Curated collection of over 100 specialized subagents for Claude Code across many development tasks. | VoltAgent | 26.6k |
 | [awesome-swift](https://github.com/matteocrippa/awesome-swift) | Curated list of Swift libraries and resources for iOS and Linux development. | matteocrippa | 26.4k |
-| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 24.7k |
+| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 24.8k |
 | [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Curated guide to self-hosting applications, LLMs, VPNs, and automation on local or private servers. | mikeroyal | 23.6k |
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | Curated list of awesome README examples and resources. | matiassingers | 21.7k |
 | [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Curated list of awesome Neovim plugins and resources. | rockerBOO | 21.6k |
@@ -96,8 +96,8 @@
 | [opensource.guide](https://github.com/github/opensource.guide) | Community guides on best practices for creators of open source projects. | github | 15.8k |
 | [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | Curated list of creative coding resources covering generative art, data visualization, and interaction design. | terkelg | 15.6k |
 | [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) | Curated list of resources, apps, and tools related to Tailwind CSS. | aniftyco | 15.2k |
-| [ultimate-go](https://github.com/hoanhan101/ultimate-go) | Study guide covering Go programming language fundamentals and computer systems concepts. | hoanhan101 | 14.9k |
 | [static-analysis](https://github.com/analysis-tools-dev/static-analysis) | Curated list of static analysis (SAST) tools and linters for languages, focused on code quality. | analysis-tools-dev | 14.9k |
+| [ultimate-go](https://github.com/hoanhan101/ultimate-go) | Study guide covering Go programming language fundamentals and computer systems concepts. | hoanhan101 | 14.9k |
 | [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | Curated links to free stock photo, video, illustration, and icon font websites. | neutraltone | 14.8k |
 | [rust-by-practice](https://github.com/origin-brain/rust-by-practice) | Exercises for practicing Rust programming skills through hands-on examples. | origin-brain | 14.8k |
 | [awesome-bigdata](https://github.com/oxnr/awesome-bigdata) | Curated list of big data frameworks, resources, and tools. | oxnr | 14.7k |
@@ -172,7 +172,7 @@
 | [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) | Curated list of resources for Game Boy Advance development, including tools, documentation, and emulators. | gbadev-org | 1.4k |
 | [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | Curated list of SEO tools for keyword research, analysis, and optimization. | serpapi | 1.2k |
 | [cryptozombie-lessons](https://github.com/CryptozombiesHQ/cryptozombie-lessons) | Lesson content for the cryptozombies.io site, teaching smart contract development. | CryptozombiesHQ | 1.1k |
-| [ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) | Complete guide to modding iOS devices, from stock firmware to jailbreaking. | cfw-guide | 781 |
+| [ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) | Complete guide to modding iOS devices, from stock firmware to jailbreaking. | cfw-guide | 783 |
 | [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) | Curated list of tools for building a freelance career in France. | etnbrd | 688 |
 | [list-of-tech-migrations](https://github.com/kokizzu/list-of-tech-migrations) | Curated list of publicly documented technology migrations between tools, languages, and platforms. | kokizzu | 549 |
 | [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) | Curated list of Stylelint plugins, configs, and other related tools. | stylelint | 531 |

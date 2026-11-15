@@ -10,8 +10,8 @@
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
 | [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 44.9k |
 | [certbot](https://github.com/certbot/certbot) | Tool from EFF to obtain Let's Encrypt certificates and automatically enable HTTPS on servers. | certbot | 33.3k |
-| [openssl](https://github.com/openssl/openssl) | General-purpose cryptography and TLS library providing SSL and encryption tools. | openssl | 31.4k |
-| [ente](https://github.com/ente/ente) | End-to-end encrypted cloud storage for photos, files and two-factor authentication codes. | ente | 30.1k |
+| [openssl](https://github.com/openssl/openssl) | General-purpose cryptography and TLS library providing SSL and encryption tools. | openssl | 31.5k |
+| [ente](https://github.com/ente/ente) | End-to-end encrypted cloud storage for photos, files and two-factor authentication codes. | ente | 30.2k |
 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | Library of reusable, audited Solidity contracts for building secure smart contracts on Ethereum. | OpenZeppelin | 27.4k |
 | [age](https://github.com/FiloSottile/age) | Simple, modern file encryption tool and Go library with small explicit keys and UNIX-style composability. | FiloSottile | 24.3k |
 | [ethereumbook](https://github.com/ethereumbook/ethereumbook) | Book covering Ethereum blockchain development, smart contracts, dapps, and the devp2p network protocol. | ethereumbook | 21.5k |
@@ -39,7 +39,7 @@
 | [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Free, self-hosted Bitcoin payment processor for accepting payments, including over Lightning. | btcpayserver | 7.9k |
 | [jose](https://github.com/panva/jose) | JavaScript library implementing JOSE standards for JWT, JWS, JWE, JWK, and JWKS across runtimes. | panva | 7.9k |
 | [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) | Library for hashing and comparing passwords with bcrypt in Node.js. | kelektiv | 7.8k |
-| [rustls](https://github.com/rustls/rustls) | Modern TLS library written in Rust. | rustls | 7.7k |
+| [rustls](https://github.com/rustls/rustls) | Modern TLS library written in Rust. | rustls | 7.8k |
 | [smart-contract-best-practices](https://github.com/ConsenSysDiligence/smart-contract-best-practices) | Guide to security best practices for writing smart contracts. | ConsenSysDiligence | 7.6k |
 | [python-binance](https://github.com/sammchardy/python-binance) | Python implementation of the Binance exchange API for automated trading. | sammchardy | 7.2k |
 | [sjcl](https://github.com/bitwiseshiftleft/sjcl) | Deprecated JavaScript library providing cryptographic primitives from Stanford University. | bitwiseshiftleft | 7.2k |
@@ -95,8 +95,8 @@
 | [venus](https://github.com/filecoin-project/venus) | Implementation of a Filecoin full node written in Go. | filecoin-project | 2.1k |
 | [wallet-adapter](https://github.com/anza-xyz/wallet-adapter) | Modular TypeScript wallet adapters and UI components for Solana applications. | anza-xyz | 2k |
 | [apps](https://github.com/polkadot-js/apps) | Web user interface for interacting with Polkadot and Substrate nodes, covering all Substrate chain features. | polkadot-js | 1.8k |
-| [token-lists](https://github.com/Uniswap/token-lists) | Specification for token lists, a JSON format for describing sets of ERC-20 tokens for applications. | Uniswap | 1.7k |
 | [circl](https://github.com/cloudflare/circl) | Go cryptography library from Cloudflare with post-quantum schemes such as Dilithium and CSIDH. | cloudflare | 1.7k |
+| [token-lists](https://github.com/Uniswap/token-lists) | Specification for token lists, a JSON format for describing sets of ERC-20 tokens for applications. | Uniswap | 1.7k |
 | [walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) | Monorepo of WalletConnect libraries for connecting Ethereum wallets to dapps. | WalletConnect | 1.7k |
 | [node-binance-api](https://github.com/ccxt/node-binance-api) | Asynchronous Node.js library for the Binance API, designed to be easy to use. | ccxt | 1.7k |
 | [binance-api-postman](https://github.com/binance/binance-api-postman) | Postman collection for the Binance Public API covering spot, margin, and futures endpoints. | binance | 1.6k |
@@ -119,8 +119,8 @@
 | [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 971 |
 | [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 934 |
 | [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | Ethereum-compatible smart contract parachain on the Polkadot network. | moonbeam-foundation | 932 |
-| [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 925 |
-| [token-profile](https://github.com/consenlabs/token-profile) | Dataset of profile information for blockchain coins and tokens, aimed at wallet use. | consenlabs | 923 |
+| [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 926 |
+| [token-profile](https://github.com/consenlabs/token-profile) | Dataset of profile information for blockchain coins and tokens, aimed at wallet use. | consenlabs | 924 |
 | [cello](https://github.com/hyperledger-cello/cello) | Tool for deploying and managing enterprise blockchain networks on Hyperledger infrastructure. | hyperledger-cello | 921 |
 | [password-hashes](https://github.com/RustCrypto/password-hashes) | Pure Rust implementations of password hashing functions and key derivation functions. | RustCrypto | 920 |
 | [unlock](https://github.com/unlock-protocol/unlock) | Blockchain-based protocol for creating and managing memberships and subscriptions. | unlock-protocol | 887 |
@@ -130,7 +130,7 @@
 | [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 762 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
-| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 678 |
+| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 677 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 673 |
 | [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) | Plugins for Hardhat and Foundry that deploy and manage upgradeable smart contracts on Ethereum. | OpenZeppelin | 660 |
 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | Solana smart contracts for digital assets and NFTs maintained by the Metaplex team. | metaplex-foundation | 646 |
@@ -139,10 +139,10 @@
 | [pem](https://github.com/Dexus/pem) | Node.js library for creating private keys, certificates, and certificate signing requests. | Dexus | 575 |
 | [matic.js](https://github.com/0xPolygon/matic.js) | JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications. | 0xPolygon | 566 |
 | [noble-ed25519](https://github.com/paulmillr/noble-ed25519) | Minimal, fast JavaScript implementation of Ed25519 digital signatures. | paulmillr | 525 |
-| [clob-client](https://github.com/Polymarket/clob-client) 🗄️ | TypeScript client for the Polymarket CLOB API. | Polymarket | 515 |
+| [clob-client](https://github.com/Polymarket/clob-client) 🗄️ | TypeScript client for the Polymarket CLOB API. | Polymarket | 514 |
 | [fabric-ca](https://github.com/hyperledger/fabric-ca) | Certificate authority for issuing and managing identities in Hyperledger Fabric networks. | hyperledger | 455 |
 | [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) | Gas usage analytics plugin for Hardhat that reports gas costs of Solidity contract calls in tests. | cgewecke | 430 |
-| [javascript-sdk](https://github.com/bnb-chain/javascript-sdk) | JavaScript SDK for communicating with the BNB Beacon Chain. | bnb-chain | 401 |
+| [javascript-sdk](https://github.com/bnb-chain/javascript-sdk) | JavaScript SDK for communicating with the BNB Beacon Chain. | bnb-chain | 402 |
 | [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 379 |
 | [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 375 |
 | [prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) | Prisma middleware providing transparent field-level encryption of data at rest. | 47ng | 309 |

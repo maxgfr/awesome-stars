@@ -12,7 +12,7 @@
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Google's language-neutral mechanism for serializing structured data, with compiler and runtime libraries. | protocolbuffers | 72.2k |
 | [swift](https://github.com/swiftlang/swift) | Source code for the Swift programming language, including its compiler and standard library. | swiftlang | 70.6k |
 | [php-src](https://github.com/php/php-src) | The source code of the PHP interpreter, which runs the PHP scripting language. | php | 41.8k |
-| [llvm-project](https://github.com/llvm/llvm-project) | Collection of modular, reusable compiler and toolchain technologies. | llvm | 41.4k |
+| [llvm-project](https://github.com/llvm/llvm-project) | Collection of modular, reusable compiler and toolchain technologies. | llvm | 41.5k |
 | [modular](https://github.com/modular/modular) | Modular AI platform including the MAX inference framework and the Mojo programming language. | modular | 30.1k |
 | [emscripten](https://github.com/emscripten-core/emscripten) | LLVM-based compiler toolchain that compiles C and C++ code to WebAssembly. | emscripten-core | 27.8k |
 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.5k |
@@ -34,7 +34,7 @@
 | [acorn](https://github.com/acornjs/acorn) | Small, fast JavaScript parser that produces ESTree-compatible abstract syntax trees. | acornjs | 11.5k |
 | [hermes](https://github.com/meta/hermes) | JavaScript engine optimized for running React Native applications. | meta | 11.4k |
 | [gcc](https://github.com/gcc-mirror/gcc) |  | gcc-mirror | 11.4k |
-| [sdk](https://github.com/dart-lang/sdk) | Software development kit for the Dart language, including the VM, compilers, and core libraries. | dart-lang | 11.3k |
+| [sdk](https://github.com/dart-lang/sdk) | Software development kit for the Dart language, including the VM, compilers, and core libraries. | dart-lang | 11.4k |
 | [lean4](https://github.com/leanprover/lean4) | Programming language and interactive theorem prover for writing verified mathematics and software. | leanprover | 10k |
 | [jerryscript](https://github.com/jerryscript-project/jerryscript) | Ultra-lightweight JavaScript engine intended for running on resource-constrained IoT devices. | jerryscript-project | 7.4k |
 | [rustup](https://github.com/rust-lang/rustup) | Installer and version manager for the Rust toolchain, including compilers, tools, and targets. | rust-lang | 7.1k |
