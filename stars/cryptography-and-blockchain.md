@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Staging tree of Bitcoin Core, the reference implementation of the Bitcoin peer-to-peer network. | bitcoin | 90.7k |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 56.9k |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 57k |
 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol, including the geth node client. | ethereum | 51.5k |
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
 | [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 44.9k |
@@ -59,8 +59,8 @@
 | [forge](https://github.com/digitalbazaar/forge) | Native JavaScript implementation of TLS, plus tools for cryptography and network-heavy web apps. | digitalbazaar | 5.4k |
 | [anchor](https://github.com/otter-sec/anchor) | Framework for building Solana programs in Rust, with tooling for smart contract development. | otter-sec | 5.2k |
 | [bisq](https://github.com/bisq-network/bisq) | Decentralized peer-to-peer bitcoin exchange network. | bisq-network | 5.2k |
-| [zksync](https://github.com/matter-labs/zksync) | Layer 2 protocol for scaling Ethereum with zero-knowledge proofs and privacy features. | matter-labs | 4.9k |
 | [binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) | Official documentation for the Binance Spot APIs and streams. | binance | 4.9k |
+| [zksync](https://github.com/matter-labs/zksync) | Layer 2 protocol for scaling Ethereum with zero-knowledge proofs and privacy features. | matter-labs | 4.9k |
 | [quorum](https://github.com/Consensys-inc-archive/quorum) 🗄️ | Permissioned Ethereum implementation with data privacy features for enterprise blockchain use. | Consensys-inc-archive | 4.8k |
 | [ockam](https://github.com/build-trust/ockam) | Toolkit for end-to-end encrypted, mutually authenticated communication between distributed applications. | build-trust | 4.6k |
 | [litecoin](https://github.com/litecoin-project/litecoin) | Source code for the Litecoin cryptocurrency node and wallet. | litecoin-project | 4.6k |
@@ -70,7 +70,7 @@
 | [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) | Optimized bcrypt implementation in JavaScript for hashing and verifying passwords, with no dependencies. | dcodeIO | 3.8k |
 | [prysm](https://github.com/OffchainLabs/prysm) | Go implementation of the Ethereum proof-of-stake consensus client. | OffchainLabs | 3.8k |
 | [wallet-core](https://github.com/trustwallet/wallet-core) | Cross-platform C++ library for wallet functionality across many blockchains. | trustwallet | 3.6k |
-| [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) | Cryptocurrency trading bot for exchanges including Bitfinex, Bitmex, Binance and Bybit. | Haehnchen | 3.6k |
+| [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) | Cryptocurrency trading bot for exchanges including Bitfinex, Bitmex, Binance and Bybit. | Haehnchen | 3.5k |
 | [lighthouse](https://github.com/sigp/lighthouse) | Ethereum proof-of-stake consensus client written in Rust. | sigp | 3.5k |
 | [jsrsasign](https://github.com/kjur/jsrsasign) | JavaScript library for RSA, ECDSA, and DSA signing, ASN.1 parsing, and certificate handling. | kjur | 3.4k |
 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | Bitcoin wallet for iOS and Android, built with React Native. | BlueWallet | 3.4k |
@@ -116,34 +116,34 @@
 | [api](https://github.com/polkadot-js/api) | Promise and RxJS APIs for Polkadot and Substrate chains over RPC, generated from runtime metadata. | polkadot-js | 1.1k |
 | [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) | Fast React Native implementation of Node's crypto module, written in C/C++ with JSI. | margelo | 1.1k |
 | [extension](https://github.com/polkadot-js/extension) | Browser extension for managing Polkadot and Substrate accounts and signing extrinsics with them. | polkadot-js | 1k |
-| [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 971 |
-| [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 934 |
+| [noble-curves](https://github.com/paulmillr/noble-curves) | Audited, minimal TypeScript library implementing elliptic curve cryptography. | paulmillr | 972 |
+| [binance](https://github.com/sieblyio/binance) | Node.js and JavaScript SDK for Binance REST and WebSocket APIs, with TypeScript typings. | sieblyio | 935 |
 | [moonbeam](https://github.com/moonbeam-foundation/moonbeam) | Ethereum-compatible smart contract parachain on the Polkadot network. | moonbeam-foundation | 932 |
 | [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 926 |
 | [token-profile](https://github.com/consenlabs/token-profile) | Dataset of profile information for blockchain coins and tokens, aimed at wallet use. | consenlabs | 924 |
+| [password-hashes](https://github.com/RustCrypto/password-hashes) | Pure Rust implementations of password hashing functions and key derivation functions. | RustCrypto | 922 |
 | [cello](https://github.com/hyperledger-cello/cello) | Tool for deploying and managing enterprise blockchain networks on Hyperledger infrastructure. | hyperledger-cello | 921 |
-| [password-hashes](https://github.com/RustCrypto/password-hashes) | Pure Rust implementations of password hashing functions and key derivation functions. | RustCrypto | 920 |
 | [unlock](https://github.com/unlock-protocol/unlock) | Blockchain-based protocol for creating and managing memberships and subscriptions. | unlock-protocol | 887 |
-| [polar](https://github.com/jamaljsr/polar) | Desktop app for launching local Bitcoin Lightning networks with one click for development and testing. | jamaljsr | 860 |
+| [polar](https://github.com/jamaljsr/polar) | Desktop app for launching local Bitcoin Lightning networks with one click for development and testing. | jamaljsr | 861 |
 | [Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) | Collection of published security audit reports for smart contracts on many blockchains. | softstack | 800 |
-| [block-ciphers](https://github.com/RustCrypto/block-ciphers) | Pure Rust implementations of block cipher algorithms. | RustCrypto | 789 |
-| [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 762 |
+| [block-ciphers](https://github.com/RustCrypto/block-ciphers) | Pure Rust implementations of block cipher algorithms. | RustCrypto | 790 |
+| [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 763 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
 | [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 677 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 673 |
 | [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) | Plugins for Hardhat and Foundry that deploy and manage upgradeable smart contracts on Ethereum. | OpenZeppelin | 660 |
 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | Solana smart contracts for digital assets and NFTs maintained by the Metaplex team. | metaplex-foundation | 646 |
-| [tenderly-cli](https://github.com/Tenderly/tenderly-cli) | CLI tool for smart contract error tracking, monitoring, and alerting during development. | Tenderly | 591 |
+| [tenderly-cli](https://github.com/Tenderly/tenderly-cli) | CLI tool for smart contract error tracking, monitoring, and alerting during development. | Tenderly | 592 |
 | [contract-metadata](https://github.com/MetaMask/contract-metadata) | Mapping of Ethereum contract addresses to icons used by wallet interfaces. | MetaMask | 585 |
 | [pem](https://github.com/Dexus/pem) | Node.js library for creating private keys, certificates, and certificate signing requests. | Dexus | 575 |
-| [matic.js](https://github.com/0xPolygon/matic.js) | JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications. | 0xPolygon | 566 |
+| [matic.js](https://github.com/0xPolygon/matic.js) | JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications. | 0xPolygon | 567 |
 | [noble-ed25519](https://github.com/paulmillr/noble-ed25519) | Minimal, fast JavaScript implementation of Ed25519 digital signatures. | paulmillr | 525 |
 | [clob-client](https://github.com/Polymarket/clob-client) 🗄️ | TypeScript client for the Polymarket CLOB API. | Polymarket | 514 |
 | [fabric-ca](https://github.com/hyperledger/fabric-ca) | Certificate authority for issuing and managing identities in Hyperledger Fabric networks. | hyperledger | 455 |
 | [hardhat-gas-reporter](https://github.com/cgewecke/hardhat-gas-reporter) | Gas usage analytics plugin for Hardhat that reports gas costs of Solidity contract calls in tests. | cgewecke | 430 |
 | [javascript-sdk](https://github.com/bnb-chain/javascript-sdk) | JavaScript SDK for communicating with the BNB Beacon Chain. | bnb-chain | 402 |
-| [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 379 |
+| [MACs](https://github.com/RustCrypto/MACs) | Pure Rust implementations of message authentication code (MAC) algorithms. | RustCrypto | 380 |
 | [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) | Auditable minimal JavaScript library for post-quantum public-key cryptography, per FIPS 203-206. | paulmillr | 375 |
 | [prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) | Prisma middleware providing transparent field-level encryption of data at rest. | 47ng | 309 |
 | [providers](https://github.com/MetaMask/providers) | Ethereum provider that communicates over a stream, as injected into websites by MetaMask. | MetaMask | 268 |

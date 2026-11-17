@@ -1,9 +1,9 @@
 {
-  "contentHash": "ee73bfd1e4da",
+  "contentHash": "da71dfd36917",
   "digest": {
     "language": "en",
-    "text": "**AI agent tooling** leads this batch, from claude-swap for juggling Claude Code accounts to Unity-MCP bridging assistants into game editors. **Local-first models** follow closely, including OCR engines like chandra and GLM-OCR.\n\nMany picks are **free alternatives to paid software**: open-seo rivals Semrush, Playnite replaces scattered game launchers, and valhalla offers open routing. Overall, developers are favoring tools that run locally and cost nothing.",
-    "upTo": "2026-11-15T16:53:00Z"
+    "text": "This batch leans heavily toward **AI agents and developer tooling**. Protocols like A2A and AG-UI sit beside MCP servers such as Unity-MCP, while claude-swap shows how many users want flexible access to coding assistants.\n\nPrivacy and local-first software also stand out, from **censorship-resistant tools** like hysteria and mullvadvpn-app to on-device OCR such as RapidOCR. Stable developer staples like sqlc and lefthook keep appearing too.",
+    "upTo": "2026-11-16T17:44:55Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-15T16:53:00Z",
+  "newest": "2026-11-16T17:44:55Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -7553,7 +7553,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMTAyMTY4NjY=": {
       "category": "Browser Extensions and Scripts",
-      "ch": "43759755b59b",
+      "ch": "8bbe689a8ab5",
       "description": "A personalized developer news feed and community for browser new tabs and mobile.",
       "dh": "9f67352e468a"
     },
@@ -7798,10 +7798,10 @@
       "dh": "a1ab62a35c28"
     },
     "MDEwOlJlcG9zaXRvcnkxMTIzMzU5MA==": {
-      "category": "Systems Programming in Go and Rust",
-      "ch": "278ee0b3fb3f",
-      "description": "Public mirror of the GNU coreutils source code, accepting pull requests and issues.",
-      "dh": "d648534e3345"
+      "category": "Other",
+      "ch": "76ca11179f22",
+      "description": "Public GNU mirror of the core utilities, the basic file, shell and text manipulation tools.",
+      "dh": "c231094bdd73"
     },
     "MDEwOlJlcG9zaXRvcnkxMTM0MDQ5NTc=": {
       "category": "DevOps and Infrastructure",
@@ -7910,6 +7910,12 @@
       "ch": "43f8b3781101",
       "description": "Facilitates high-level interactions between WebAssembly modules and JavaScript, generating bindings for Rust.",
       "dh": "1721ad14cfd4"
+    },
+    "MDEwOlJlcG9zaXRvcnkxMTQ3NDI0MjI=": {
+      "category": "Networking and Wireless",
+      "ch": "74bf4f334bd4",
+      "description": "Desktop and mobile client app for Mullvad VPN, supporting WireGuard and OpenVPN connections.",
+      "dh": "87a8ffffc487"
     },
     "MDEwOlJlcG9zaXRvcnkxMTQ3NDcyMjY=": {
       "category": "AI and Machine Learning",
@@ -9260,8 +9266,8 @@
       "dh": "34b019c6c85f"
     },
     "MDEwOlJlcG9zaXRvcnkxMzEyMTI2Mzg=": {
-      "category": "DevOps and Infrastructure",
-      "ch": "7f3cf173532c",
+      "category": "Cloud and Kubernetes",
+      "ch": "63af164c8d69",
       "description": "Application kernel for containers that provides an isolation layer between workloads and the host.",
       "dh": "5459ee0d0b12"
     },
@@ -13309,6 +13315,12 @@
       "description": "TypeScript validator that defines types with TypeScript syntax and checks data at runtime.",
       "dh": "f79369befb33"
     },
+    "MDEwOlJlcG9zaXRvcnkxOTMxNjA2Nzk=": {
+      "category": "Databases and Data Tools",
+      "ch": "7c7d94659fe0",
+      "description": "Generates type-safe Go and Kotlin code from SQL queries for MySQL and PostgreSQL databases.",
+      "dh": "55217cb7135f"
+    },
     "MDEwOlJlcG9zaXRvcnkxOTMxNjI2Mjk=": {
       "category": "Mac Utilities",
       "ch": "fdb1ee25273f",
@@ -13515,9 +13527,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTY5NjAwNg==": {
       "category": "Image and Graphics Processing",
-      "ch": "a3c7eea7ce0b",
-      "description": "Web graphics runtime built on WebGL, WebGPU, WebXR, and glTF for 3D and gaussian splatting.",
-      "dh": "7ab4688b72f3"
+      "ch": "aef448940e51",
+      "description": "Open-source web graphics engine built on WebGPU and WebGL2, with Gaussian splatting support.",
+      "dh": "212b4c7d0eea"
     },
     "MDEwOlJlcG9zaXRvcnkxOTYwNTc2MDg=": {
       "category": "DevOps and Infrastructure",
@@ -14829,7 +14841,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMTkzNTk4ODM=": {
       "category": "Frontend UI Libraries",
-      "ch": "91ab9aea7c12",
+      "ch": "44e3f1a1f588",
       "description": "A lightweight YouTube embed that loads faster than the standard iframe embed.",
       "dh": "7ea00bcc5946"
     },
@@ -16502,6 +16514,12 @@
       "ch": "0e66203f2530",
       "description": "Node.js generator for iCalendar (.ics) files supporting events and alarms.",
       "dh": "8f967b67e476"
+    },
+    "MDEwOlJlcG9zaXRvcnkyNTc0MzQzNzM=": {
+      "category": "Networking and Wireless",
+      "ch": "1a1fa8e7e0bc",
+      "description": "Open-source proxy software that is fast and censorship-resistant, built on the QUIC protocol.",
+      "dh": "5f774308a14f"
     },
     "MDEwOlJlcG9zaXRvcnkyNTc0ODU0MjI=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -23569,7 +23587,7 @@
     },
     "R_kgDOJ9PpSQ": {
       "category": "Other",
-      "ch": "718c1940ece5",
+      "ch": "1653bac0c509",
       "description": "Open source CRM software built on the Frappe framework for managing sales and customer relations.",
       "dh": "176afbf07f25"
     },
@@ -23683,9 +23701,9 @@
     },
     "R_kgDOJKOCnw": {
       "category": "Desktop and Mobile Apps",
-      "ch": "86ea6179f160",
-      "description": "Open-source local-first apps built with SvelteKit, Tailwind CSS and Tauri.",
-      "dh": "48881b085ae8"
+      "ch": "adfe4f9b6f93",
+      "description": "Personal software platform built with SvelteKit, Tailwind CSS and Tauri for desktop and web.",
+      "dh": "898c3449af32"
     },
     "R_kgDOJKSO2A": {
       "category": "Developer Tools and Editors",
@@ -23819,9 +23837,9 @@
     },
     "R_kgDOJWqbDw": {
       "category": "Frontend UI Libraries",
-      "ch": "2d6090f503cf",
-      "description": "Universal lazy loading library for placeholder images using native browser APIs and blurhash.",
-      "dh": "a96f80e2a7fe"
+      "ch": "5de36f6f495e",
+      "description": "Lazy-loads images with BlurHash or ThumbHash placeholders in JS, Vue, React, Svelte and Nuxt.",
+      "dh": "1a9dc7bb5567"
     },
     "R_kgDOJXWAoQ": {
       "category": "JavaScript and TypeScript Tooling",
@@ -26291,7 +26309,7 @@
     },
     "R_kgDOOELNJA": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "5dad4619b7a0",
+      "ch": "c151d6e2d051",
       "description": "Unified toolchain and entry point for web development projects.",
       "dh": "a44184455545"
     },
@@ -27133,9 +27151,9 @@
     },
     "R_kgDOQ5Wxyg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "55a53b83ab26",
-      "description": "Multi-platform SDK for embedding the GitHub Copilot agent in applications and services.",
-      "dh": "4d38cb5c7667"
+      "ch": "3cb3e38becaa",
+      "description": "Java repository for the Microsoft Copilot SDK; no description is provided for it.",
+      "dh": "67dc67e3df1e"
     },
     "R_kgDOQ5YdJw": {
       "category": "LLM Agents and AI Assistants",
@@ -28979,6 +28997,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-17",
   "version": 1
 }

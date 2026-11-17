@@ -4,9 +4,9 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 40.9k |
+| [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41k |
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
-| [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32k |
+| [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.1k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.6k |
 | [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
@@ -30,7 +30,6 @@
 | [procs](https://github.com/dalance/procs) | Modern replacement for ps that lists and inspects running processes with more detail. | dalance | 6.2k |
 | [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) | Comparison of web frameworks and libraries written in Rust. | flosse | 5.8k |
 | [json](https://github.com/serde-rs/json) | Strongly typed JSON library for Rust, built on the serde serialization framework. | serde-rs | 5.7k |
-| [coreutils](https://github.com/coreutils/coreutils) | Public mirror of the GNU coreutils source code, accepting pull requests and issues. | coreutils | 5.4k |
 | [nalgebra](https://github.com/dimforge/nalgebra) | Linear algebra library for Rust providing vectors, matrices, and related numerical operations. | dimforge | 4.8k |
 | [regex](https://github.com/rust-lang/regex) | Rust regex library using finite automata, guaranteeing linear-time matching on all inputs. | rust-lang | 4.1k |
 | [parking_lot](https://github.com/Amanieu/parking_lot) | Compact, efficient synchronization primitives for Rust, plus an API for building custom ones. | Amanieu | 3.4k |

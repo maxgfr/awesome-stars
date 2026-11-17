@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.4k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 35.6k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -52,8 +52,8 @@
 | [marketplace](https://github.com/spicetify/marketplace) | Spicetify tool for browsing and installing extensions, themes, and custom apps for Spotify. | spicetify | 1.6k |
 | [news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) | Browser extension that removes the news feed from social sites and replaces it with a quote. | jordwest | 1.5k |
 | [webperf-snippets](https://github.com/nucliweb/webperf-snippets) | Tested JavaScript snippets for measuring and debugging web performance in DevTools or via AI agents. | nucliweb | 1.5k |
-| [Just-Read](https://github.com/ZachSaucier/Just-Read) | Customizable browser extension that provides a read mode for web pages. | ZachSaucier | 1.3k |
 | [Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) | Tool that exports cookies.txt files locally, with no data sent to external servers. | kairi003 | 1.3k |
+| [Just-Read](https://github.com/ZachSaucier/Just-Read) | Customizable browser extension that provides a read mode for web pages. | ZachSaucier | 1.3k |
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
@@ -62,19 +62,19 @@
 | [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 666 |
 | [lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) | Browser extension wallet for connecting to Lightning nodes and signing Nostr events and transactions. | getAlby | 585 |
-| [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 511 |
+| [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 512 |
 | [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) | Command-line and Node.js tool to upload Chrome extensions to the Chrome Web Store. | fregante | 411 |
 | [highlighter](https://github.com/jeromepl/highlighter) | Chrome extension for highlighting text on web pages and saving highlights for later. | jeromepl | 382 |
 | [linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) | Browser extension that exports a LinkedIn profile page as a JSON Resume file. | joshuatz | 341 |
 | [ScrewTwitchAds](https://github.com/zGato/ScrewTwitchAds) | Repository with updated solutions for blocking ads on Twitch. | zGato | 331 |
 | [huh-spicetify-extensions](https://github.com/huhridge/huh-spicetify-extensions) | Collection of custom extensions for the Spicetify client to modify the Spotify desktop app. | huhridge | 276 |
-| [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 270 |
+| [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 271 |
 | [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) | Spicetify extension that hides podcast content from the Spotify interface. | theRealPadster | 257 |
 | [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 235 |
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
 | [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
 | [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 136 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 117 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 118 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 | [Ostendo](https://github.com/WebOnField/Ostendo) | Tool that shows accessibility compliance rates of French websites in Google search results. | WebOnField | 18 |

@@ -4,21 +4,21 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 462k |
+| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 464k |
 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 200k |
-| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 112k |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 113k |
 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 100k |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.7k |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | All-in-one Python toolkit that bundles many hacking and penetration testing tools in one menu. | Z4nzu | 81.9k |
-| [strix](https://github.com/usestrix/strix) | Open-source AI tool for penetration testing that finds and helps fix application vulnerabilities. | usestrix | 75.7k |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | All-in-one Python toolkit that bundles many hacking and penetration testing tools in one menu. | Z4nzu | 82k |
+| [strix](https://github.com/usestrix/strix) | Open-source AI tool for penetration testing that finds and helps fix application vulnerabilities. | usestrix | 76.1k |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Collection of wordlists for security testing, including usernames, passwords, URLs, and sensitive data patterns. | danielmiessler | 74.8k |
-| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible password manager server written in Rust, for self-hosting. | dani-garcia | 70.8k |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible password manager server written in Rust, for self-hosting. | dani-garcia | 70.9k |
 | [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers and programmers, with binary analysis features. | WerWolv | 55.9k |
-| [shannon](https://github.com/KeygraphHQ/shannon) | AI pentesting tool for web apps and APIs that analyzes source code and runs exploits to confirm flaws. | KeygraphHQ | 51.9k |
-| [jadx](https://github.com/skylot/jadx) | Command-line and GUI decompiler that converts DEX and APK bytecode into readable Java source. | skylot | 51.8k |
+| [shannon](https://github.com/KeygraphHQ/shannon) | AI pentesting tool for web apps and APIs that analyzes source code and runs exploits to confirm flaws. | KeygraphHQ | 52k |
+| [jadx](https://github.com/skylot/jadx) | Command-line and GUI decompiler that converts DEX and APK bytecode into readable Java source. | skylot | 51.9k |
 | [x64dbg](https://github.com/x64dbg/x64dbg) | Open-source user-mode debugger for Windows, geared toward reverse engineering and malware analysis. | x64dbg | 50.3k |
 | [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive intercepting HTTP proxy with TLS support, used to inspect and modify traffic for debugging. | mitmproxy | 47k |
-| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Skill router pack for reverse engineering and authorized penetration testing with AI agents. | zhaoxuya520 | 44.7k |
+| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Skill router pack for reverse engineering and authorized penetration testing with AI agents. | zhaoxuya520 | 44.8k |
 | [maigret](https://github.com/soxoj/maigret) | Command-line tool that collects a dossier on a person by username across thousands of websites. | soxoj | 40.8k |
 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Framework for developing, testing, and executing exploits against remote hosts for penetration testing. | rapid7 | 39.6k |
 | [trivy](https://github.com/aquasecurity/trivy) | Scanner for vulnerabilities, misconfigurations, secrets, and SBOMs in containers, Kubernetes, and code. | aquasecurity | 39.4k |
@@ -26,8 +26,8 @@
 | [keycloak](https://github.com/keycloak/keycloak) | Open source identity and access management server for securing modern applications and services. | keycloak | 37.9k |
 | [vault](https://github.com/hashicorp/vault) | Tool for managing secrets, providing encryption as a service and privileged access management. | hashicorp | 36.5k |
 | [CyberChef](https://github.com/gchq/CyberChef) | Web app for encryption, encoding, compression, and data analysis tasks. | gchq | 36.4k |
-| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Structured cybersecurity skills for AI agents, mapped to MITRE ATT&amp;CK and NIST CSF 2.0. | mukul975 | 36.2k |
-| [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Tool for detecting website changes and sending alerts on content updates, price drops, and restocks. | dgtlmoon | 35.8k |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Structured cybersecurity skills for AI agents, mapped to MITRE ATT&amp;CK and NIST CSF 2.0. | mukul975 | 36.3k |
+| [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Tool for detecting website changes and sending alerts on content updates, price drops, and restocks. | dgtlmoon | 35.9k |
 | [web-check](https://github.com/lissy93/web-check) | All-in-one OSINT tool that analyzes a website's security, privacy, and infrastructure details. | lissy93 | 35.5k |
 | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | Concise collection of OWASP cheat sheets with best-practice guidance on application security topics. | OWASP | 34.1k |
 | [nuclei](https://github.com/projectdiscovery/nuclei) | Fast vulnerability scanner with YAML-based templates for detecting CVEs and other security issues. | projectdiscovery | 33k |
@@ -72,13 +72,13 @@
 | [zaproxy](https://github.com/zaproxy/zaproxy) | Java-based DAST tool for finding security vulnerabilities in web applications during testing. | zaproxy | 16.2k |
 | [evilginx2](https://github.com/kgretzky/evilginx2) | Man-in-the-middle framework for phishing credentials and session cookies to bypass two-factor authentication. | kgretzky | 15.9k |
 | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | Reverse engineering suite for Java bytecode and Android APKs, with decompiler, editor and debugger. | Konloch | 15.7k |
-| [Osintgram](https://github.com/Datalux/Osintgram) | OSINT shell tool for analyzing Instagram accounts by username. | Datalux | 15.6k |
-| [crowdsec](https://github.com/crowdsecurity/crowdsec) | Open-source intrusion detection and prevention system with WAF, bot detection and a shared IP blocklist. | crowdsecurity | 15.6k |
+| [Osintgram](https://github.com/Datalux/Osintgram) | OSINT shell tool for analyzing Instagram accounts by username. | Datalux | 15.7k |
+| [crowdsec](https://github.com/crowdsecurity/crowdsec) | Open-source intrusion detection and prevention system with WAF, bot detection and a shared IP blocklist. | crowdsecurity | 15.7k |
 | [zitadel](https://github.com/zitadel/zitadel) | Identity platform for authentication and authorization, with 2FA, FIDO2, and FIPS 140-3 support. | zitadel | 15.6k |
 | [ecapture](https://github.com/gojue/ecapture) | eBPF tool that captures SSL/TLS plaintext on Linux and Android without a MITM proxy. | gojue | 15.5k |
 | [amass](https://github.com/owasp-amass/amass) | Tool for in-depth attack surface mapping and asset discovery using DNS enumeration and data sources. | owasp-amass | 15.5k |
 | [XSStrike](https://github.com/s0md3v/XSStrike) | Python XSS scanner with WAF detection, payload generation, and brute-force and exploit features. | s0md3v | 15.3k |
-| [prowler](https://github.com/prowler-cloud/prowler) | Open-source CLI and server for automating security and compliance checks across cloud environments. | prowler-cloud | 15.2k |
+| [prowler](https://github.com/prowler-cloud/prowler) | Open-source CLI and server for automating security and compliance checks across cloud environments. | prowler-cloud | 15.3k |
 | [dirsearch](https://github.com/maurosoria/dirsearch) | Command-line tool that scans web servers for hidden directories and files by brute-forcing paths. | maurosoria | 15.1k |
 | [casdoor](https://github.com/casdoor/casdoor) | Open-source IAM and auth server with web UI, supporting OAuth, OIDC, SAML, LDAP, MFA and more. | casdoor | 14.9k |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration tool that queries online sources. | projectdiscovery | 14.8k |
@@ -87,13 +87,13 @@
 | [portmaster](https://github.com/safing/portmaster) | Application firewall and privacy tool that blocks network connections and DNS queries per app. | safing | 14.1k |
 | [nmap](https://github.com/nmap/nmap) | Network mapping tool for host discovery, port scanning, and service and OS detection. | nmap | 14k |
 | [john](https://github.com/openwall/john) | Offline password cracker supporting hundreds of hash and cipher types across CPUs and GPUs. | openwall | 13.9k |
-| [codex-security](https://github.com/openai/codex-security) | CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities with Codex. | openai | 13.6k |
+| [codex-security](https://github.com/openai/codex-security) | CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities with Codex. | openai | 13.8k |
 | [Aegis](https://github.com/beemdevelopment/Aegis) | Free, secure open source Android app for managing two-step verification tokens. | beemdevelopment | 13.6k |
 | [git-secrets](https://github.com/awslabs/git-secrets) | Tool that prevents committing secrets and credentials into git repositories. | awslabs | 13.4k |
+| [camoufox](https://github.com/daijro/camoufox) 🆕 | Anti-detect Firefox-based browser for automation with customized browser fingerprints. | daijro | 13.4k |
 | [mastg](https://github.com/OWASP/mastg) | Manual of technical processes for security testing and reverse engineering of Android and iOS apps. | OWASP | 13.3k |
 | [Photon](https://github.com/s0md3v/Photon) | Fast web crawler designed for OSINT data gathering. | s0md3v | 13.3k |
 | [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community-curated YAML templates for the Nuclei engine to detect security vulnerabilities. | projectdiscovery | 13.3k |
-| [camoufox](https://github.com/daijro/camoufox) 🆕 | Anti-detect Firefox-based browser for automation with customized browser fingerprints. | daijro | 13.3k |
 | [grype](https://github.com/anchore/grype) | Vulnerability scanner for container images and filesystems, with support for CycloneDX SBOMs. | anchore | 13.3k |
 | [user.js](https://github.com/arkenfox/user.js) | Firefox user.js template for hardening privacy, security and anti-tracking settings. | arkenfox | 13k |
 | [hacktricks](https://github.com/HackTricks-wiki/hacktricks) | Notes on hacking techniques, CTF tricks, and pentesting methods drawn from real apps and research. | HackTricks-wiki | 12.8k |
@@ -116,7 +116,7 @@
 | [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) | Curated list of open-source tools for AWS security, covering defensive, offensive, auditing, and DFIR. | toniblyx | 9.5k |
 | [pwnagotchi](https://github.com/evilsocket/pwnagotchi) | Autonomous WiFi security testing tool that uses deep reinforcement learning to drive bettercap. | evilsocket | 9.3k |
 | [checkov](https://github.com/bridgecrewio/checkov) | Scans infrastructure as code and container images for cloud misconfigurations and vulnerabilities. | bridgecrewio | 9.2k |
-| [openbao](https://github.com/openbao/openbao) | Software for managing, storing, and distributing secrets, certificates, and keys. | openbao | 9k |
+| [openbao](https://github.com/openbao/openbao) | Software for managing, storing, and distributing secrets, certificates, and keys. | openbao | 9.1k |
 | [gosec](https://github.com/securego/gosec) | Static analysis tool that inspects Go source code for security issues. | securego | 9k |
 | [rengine](https://github.com/yogeshojha/rengine) | Automated web application reconnaissance framework with configurable engines and data correlation. | yogeshojha | 8.9k |
 | [monty](https://github.com/pydantic/monty) | Secure Python sandbox written in Rust for running untrusted code generated by AI. | pydantic | 8.9k |
@@ -125,7 +125,7 @@
 | [bandit](https://github.com/PyCQA/bandit) | Linter that finds common security issues in Python code. | PyCQA | 8.4k |
 | [skills](https://github.com/trailofbits/skills) | Agent skills for security research, vulnerability detection, and audit workflows. | trailofbits | 8.2k |
 | [tutanota](https://github.com/tutao/tutanota) | Encrypted email, contacts, and calendar service focused on security and privacy across devices. | tutao | 8.2k |
-| [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) | Bash script for auditing Linux wireless networks with multiple attack and testing modules. | v1s1t0r1sh3r3 | 8.1k |
+| [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) | Bash script for auditing Linux wireless networks with multiple attack and testing modules. | v1s1t0r1sh3r3 | 8.2k |
 | [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) | Curated list of resources on web application firewalls, including bypass techniques and tools. | 0xInfection | 7.7k |
 | [clamav](https://github.com/Cisco-Talos/clamav) | Open-source antivirus engine for detecting trojans, viruses, malware, and other malicious threats. | Cisco-Talos | 7.6k |
 | [Recaf](https://github.com/Col-E/Recaf) | Java bytecode editor for viewing, decompiling, and modifying Java class files. | Col-E | 7.5k |
@@ -140,7 +140,7 @@
 | [MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | Android app for reading, writing, and analyzing MIFARE Classic RFID tags over NFC. | ikarus23 | 6.6k |
 | [androguard](https://github.com/androguard/androguard) 🆕 | Python toolkit for reverse engineering and penetration testing of Android applications. | androguard | 6.4k |
 | [capa](https://github.com/mandiant/capa) | Open-source tool from the FLARE team that identifies capabilities in executable files for malware analysis. | mandiant | 6.3k |
-| [ghidra-mcp](https://github.com/bethington/ghidra-mcp) | MCP server with 200+ tools letting AI agents perform reverse engineering in Ghidra. | bethington | 6.2k |
+| [ghidra-mcp](https://github.com/bethington/ghidra-mcp) | MCP server with 200+ tools letting AI agents perform reverse engineering in Ghidra. | bethington | 6.3k |
 | [proxmark3](https://github.com/RfidResearchGroup/proxmark3) | Community fork of Proxmark3 firmware and client for RFID and NFC research. | RfidResearchGroup | 6.2k |
 | [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | Tool for applying privacy and security hardening scripts on Windows, macOS and Linux. | undergroundwires | 6.2k |
 | [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) | Open-source network stresser for DDoS-style load testing, themed around Hatsune Miku. | sammwyy | 5.9k |
@@ -150,7 +150,7 @@
 | [device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) | Proof of concept showing how delivery receipts and timing reveal phone device activity. | gommzystudio | 5.2k |
 | [TorBot](https://github.com/DedSecInside/TorBot) | Python OSINT tool that crawls and scrapes dark web onion sites. | DedSecInside | 5.2k |
 | [password-manager-resources](https://github.com/apple/password-manager-resources) | Shared resources for password manager developers and users to improve password management. | apple | 5k |
-| [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) | Cross-platform Qt6 IDE for reverse-engineering Android apps, with smali syntax highlighting. | vaibhavpandeyvpz | 4.7k |
+| [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) | Cross-platform Qt6 IDE for reverse-engineering Android apps, with smali syntax highlighting. | vaibhavpandeyvpz | 4.8k |
 | [detect-secrets](https://github.com/Yelp/detect-secrets) | Tool for detecting and preventing secrets such as credentials in code, suited to enterprise use. | Yelp | 4.7k |
 | [volatility3](https://github.com/volatilityfoundation/volatility3) | Python framework for memory forensics and analysis of memory dumps in incident response. | volatilityfoundation | 4.6k |
 | [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) | Generates test PDFs for penetration testing PDF viewers and converters for SSRF, XSS and NTLM theft. | jonaslejon | 4.5k |
@@ -162,8 +162,8 @@
 | [BrowserBox](https://github.com/BrowserBox/BrowserBox) | Secure browser infrastructure for regulated enterprises, with support for AI agents and cobrowsing. | BrowserBox | 3.9k |
 | [apk.sh](https://github.com/ax/apk.sh) | Shell script that automates pulling, decoding, rebuilding, and patching Android APKs. | ax | 3.9k |
 | [node-oidc-provider](https://github.com/panva/node-oidc-provider) | Certified OpenID OAuth 2.0 authorization server implementation for Node.js. | panva | 3.9k |
-| [oletools](https://github.com/decalage2/oletools) | Python tools for analyzing OLE2 files and MS Office documents for malware analysis and forensics. | decalage2 | 3.5k |
 | [autopsy](https://github.com/sleuthkit/autopsy) | Digital forensics platform and graphical interface for The Sleuth Kit and other forensic tools. | sleuthkit | 3.5k |
+| [oletools](https://github.com/decalage2/oletools) | Python tools for analyzing OLE2 files and MS Office documents for malware analysis and forensics. | decalage2 | 3.5k |
 | [pagodo](https://github.com/opsdisk/pagodo) 🗄️ | Automates scraping and searching the Google Hacking Database using Google dorks. | opsdisk | 3.4k |
 | [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) | List of potentially dangerous file names used for fuzzing and web vulnerability testing. | Bo0oM | 3.4k |
 | [coreruleset](https://github.com/coreruleset/coreruleset) | OWASP Core Rule Set, a collection of rules for web application firewalls. | coreruleset | 3.4k |
@@ -179,8 +179,8 @@
 | [ettercap](https://github.com/Ettercap/ettercap) | Suite for man-in-the-middle attacks on local networks, including packet sniffing and interception. | Ettercap | 2.8k |
 | [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) | Python tool for attacking wireless networks using built-in Kali Linux utilities, supporting WEP, WPA, and WPA2. | ankit0183 | 2.8k |
 | [git-dumper](https://github.com/arthaud/git-dumper) | Dumps a git repository exposed by a website by reconstructing it from its publicly accessible files. | arthaud | 2.7k |
-| [testdisk](https://github.com/cgsecurity/testdisk) | Data recovery utilities for repairing partition tables and recovering files from disks. | cgsecurity | 2.7k |
 | [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) | Curated list of OSINT tools, search engines, and scrapers for researching the dark web. | apurvsinghgautam | 2.7k |
+| [testdisk](https://github.com/cgsecurity/testdisk) | Data recovery utilities for repairing partition tables and recovering files from disks. | cgsecurity | 2.7k |
 | [scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) | Scans code to detect licenses, copyrights, and dependencies of open source packages. | aboutcode-org | 2.7k |
 | [unblob](https://github.com/onekey-sec/unblob) | Extracts files from many kinds of container formats such as archives, compressed data and filesystem images. | onekey-sec | 2.7k |
 | [advisory-database](https://github.com/github/advisory-database) | Vulnerability database of CVEs and GitHub security advisories for open source software. | github | 2.6k |
@@ -209,11 +209,11 @@
 | [trivy-action](https://github.com/aquasecurity/trivy-action) | GitHub Action that runs Trivy to scan Docker container images for vulnerabilities. | aquasecurity | 1.5k |
 | [Seth](https://github.com/SySS-Research/Seth) | Proof-of-concept tool performing ARP spoofing MitM attacks to extract cleartext RDP credentials. | SySS-Research | 1.5k |
 | [bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) | Collection of wordlists for brute forcing credentials and paths in bug bounty testing. | random-robbie | 1.4k |
+| [dep-scan](https://github.com/owasp-dep-scan/dep-scan) | Audits dependencies and container images for known vulnerabilities, advisories, and license risks. | owasp-dep-scan | 1.4k |
 | [cook](https://github.com/glitchedgitz/cook) | Wordlist framework for generating custom wordlists with permutation, combination, encoding, and hashing. | glitchedgitz | 1.4k |
 | [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) | Fast CLI that collects HTTP, SOCKS4 and SOCKS5 proxies, verifies them and exports working ones. | monosans | 1.4k |
-| [dep-scan](https://github.com/owasp-dep-scan/dep-scan) | Audits dependencies and container images for known vulnerabilities, advisories, and license risks. | owasp-dep-scan | 1.4k |
 | [harden-runner](https://github.com/step-security/harden-runner) | Agent that monitors network egress, file integrity, and processes on GitHub Actions runners. | step-security | 1.3k |
-| [hermes-dec](https://github.com/P1sec/hermes-dec) | Reverse engineering tool that decompiles and disassembles React Native Hermes bytecode. | P1sec | 1.2k |
+| [hermes-dec](https://github.com/P1sec/hermes-dec) | Reverse engineering tool that decompiles and disassembles React Native Hermes bytecode. | P1sec | 1.3k |
 | [cdxgen](https://github.com/cdxgen/cdxgen) | Generates CycloneDX bills of materials from source code and container images for CI/CD. | cdxgen | 1.1k |
 | [sitedorks](https://github.com/Zarcolio/sitedorks) | Tool that runs a search term (dork) across several search engines, limited to chosen sites. | Zarcolio | 1.1k |
 | [duplicut](https://github.com/nil0x42/duplicut) | Removes duplicate lines from very large wordlists without sorting them, for password cracking. | nil0x42 | 984 |
@@ -222,14 +222,14 @@
 | [decompile-apk](https://github.com/venshine/decompile-apk) | Script for decompiling Android APK files using apktool and related bytecode tools. | venshine | 826 |
 | [keycloak-nodejs-connect](https://github.com/keycloak/keycloak-nodejs-connect) |  | keycloak | 741 |
 | [oidc-client](https://github.com/AxaFrance/oidc-client) | Lightweight, secure pure JavaScript OpenID Connect client, with a React wrapper for Next.js projects. | AxaFrance | 681 |
-| [PS3HEN](https://github.com/PS3Xploit/PS3HEN) | Homebrew enabler for PS3 consoles, supporting firmware versions 4.80 to 4.90. | PS3Xploit | 614 |
-| [isomorphic-dompurify](https://github.com/kkomelin/isomorphic-dompurify) | Wrapper that lets DOMPurify sanitize HTML the same way on the server and in the browser. | kkomelin | 608 |
+| [PS3HEN](https://github.com/PS3Xploit/PS3HEN) | Homebrew enabler for PS3 consoles, supporting firmware versions 4.80 to 4.90. | PS3Xploit | 617 |
+| [isomorphic-dompurify](https://github.com/kkomelin/isomorphic-dompurify) | Wrapper that lets DOMPurify sanitize HTML the same way on the server and in the browser. | kkomelin | 609 |
 | [wifi-hacking.py](https://github.com/akashblackhat/wifi-hacking.py) | Python tool for attacking wireless networks with Kali tools, supporting WEP, WPS, WPA, and WPA2. | akashblackhat | 555 |
 | [TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) | Python tool that crawls and extracts regular and onion webpages through the Tor network. | MikeMeliz | 548 |
 | [js-confuser](https://github.com/MichaelXF/js-confuser) | JavaScript obfuscator that applies control-flow and other transformations to make code hard to read. | MichaelXF | 527 |
-| [francisca](https://github.com/UwUDev/francisca) | High-performance Rust indexer for services using the U2P system over Nostr, compatible with Prowlarr. | UwUDev | 503 |
+| [francisca](https://github.com/UwUDev/francisca) | High-performance Rust indexer for services using the U2P system over Nostr, compatible with Prowlarr. | UwUDev | 502 |
 | [clamav-desktop](https://github.com/ivangabriele/clamav-desktop) | Cross-platform desktop GUI for managing and scanning with the ClamAV antivirus engine. | ivangabriele | 483 |
-| [pupflare](https://github.com/unixfox/pupflare) | Web proxy that fetches pages through Chromium with Puppeteer to bypass Cloudflare anti-bot checks. | unixfox | 459 |
+| [pupflare](https://github.com/unixfox/pupflare) | Web proxy that fetches pages through Chromium with Puppeteer to bypass Cloudflare anti-bot checks. | unixfox | 460 |
 | [webappsec-permissions-policy](https://github.com/w3c/webappsec-permissions-policy) | Specification for selectively enabling and disabling browser features and APIs in web pages. | w3c | 432 |
 | [react-native-ssl-pinning](https://github.com/MaxToyberman/react-native-ssl-pinning) | React Native SSL pinning and cookie handling via OkHttp on Android and AFNetworking on iOS. | MaxToyberman | 410 |
 | [hudsucker](https://github.com/omjadas/hudsucker) | Rust library for intercepting HTTP and HTTPS traffic as a man-in-the-middle proxy with TLS support. | omjadas | 388 |
@@ -244,7 +244,7 @@
 | [Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) | Keycloak extension for integrating FranceConnect and ProConnect identity login. | InseeFr | 107 |
 | [HostOnion](https://github.com/anubhavanonymous/HostOnion) | Python tool for hosting a website as a hidden service on the Tor network with an onion address. | anubhavanonymous | 102 |
 | [AirJack](https://github.com/rtulke/AirJack) | Python tool for testing WPA/WPA2 Wi-Fi security on macOS through password cracking analysis. | rtulke | 82 |
-| [torrent-search-mcp](https://github.com/philogicae/torrent-search-mcp) | MCP server, API and web UI for searching torrents programmatically, for use by agents and scripts. | philogicae | 45 |
+| [torrent-search-mcp](https://github.com/philogicae/torrent-search-mcp) | MCP server, API and web UI for searching torrents programmatically, for use by agents and scripts. | philogicae | 46 |
 | [sanitize-svg](https://github.com/mattkrick/sanitize-svg) | Small script that removes script tags and other XSS vectors from SVG files. | mattkrick | 32 |
 | [node-talisman](https://github.com/pgmanutd/node-talisman) | Git pre-push hook that scans outgoing changes for secrets such as tokens and private keys. | pgmanutd | 10 |
 | [security-scan-deps](https://github.com/SocialGouv/security-scan-deps) |  | SocialGouv | 6 |

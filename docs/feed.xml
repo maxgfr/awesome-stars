@@ -3,8 +3,47 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-15T16:53:00Z</updated>
+  <updated>2026-11-16T17:44:55Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>sqlc-dev/sqlc</title>
+    <link href="https://github.com/sqlc-dev/sqlc"/>
+    <id>https://github.com/sqlc-dev/sqlc</id>
+    <updated>2026-11-16T17:44:55Z</updated>
+    <author><name>sqlc-dev</name></author>
+    <summary>Generates type-safe Go and Kotlin code from SQL queries for MySQL and PostgreSQL databases. · Go · code-generator, go, kotlin, mysql, orm</summary>
+    <category term="code-generator"/>
+    <category term="go"/>
+    <category term="kotlin"/>
+    <category term="mysql"/>
+    <category term="orm"/>
+  </entry>
+  <entry>
+    <title>HyNetworks/hysteria</title>
+    <link href="https://github.com/HyNetworks/hysteria"/>
+    <id>https://github.com/HyNetworks/hysteria</id>
+    <updated>2026-11-16T17:43:49Z</updated>
+    <author><name>HyNetworks</name></author>
+    <summary>Open-source proxy software that is fast and censorship-resistant, built on the QUIC protocol. · Go · censorship-circumvention, golang, http-proxy, hysteria, proxy</summary>
+    <category term="censorship-circumvention"/>
+    <category term="golang"/>
+    <category term="http-proxy"/>
+    <category term="hysteria"/>
+    <category term="proxy"/>
+  </entry>
+  <entry>
+    <title>mullvad/mullvadvpn-app</title>
+    <link href="https://github.com/mullvad/mullvadvpn-app"/>
+    <id>https://github.com/mullvad/mullvadvpn-app</id>
+    <updated>2026-11-16T14:13:10Z</updated>
+    <author><name>mullvad</name></author>
+    <summary>Desktop and mobile client app for Mullvad VPN, supporting WireGuard and OpenVPN connections. · Rust · electron, nodejs, openvpn, rust, vpn</summary>
+    <category term="electron"/>
+    <category term="nodejs"/>
+    <category term="openvpn"/>
+    <category term="rust"/>
+    <category term="vpn"/>
+  </entry>
   <entry>
     <title>valhalla/valhalla</title>
     <link href="https://github.com/valhalla/valhalla"/>
@@ -529,42 +568,5 @@
     <category term="launcher"/>
     <category term="linux"/>
     <category term="macos"/>
-  </entry>
-  <entry>
-    <title>zai-org/GLM-OCR</title>
-    <link href="https://github.com/zai-org/GLM-OCR"/>
-    <id>https://github.com/zai-org/GLM-OCR</id>
-    <updated>2026-10-26T10:36:48Z</updated>
-    <author><name>zai-org</name></author>
-    <summary>Multimodal OCR model for accurate, fast, and comprehensive text recognition from images. · Python · glm, image2text, ocr</summary>
-    <category term="glm"/>
-    <category term="image2text"/>
-    <category term="ocr"/>
-  </entry>
-  <entry>
-    <title>RapidAI/RapidOCR</title>
-    <link href="https://github.com/RapidAI/RapidOCR"/>
-    <id>https://github.com/RapidAI/RapidOCR</id>
-    <updated>2026-10-26T09:30:27Z</updated>
-    <author><name>RapidAI</name></author>
-    <summary>OCR toolkits for many languages, built on ONNX Runtime, OpenVINO, MNN, PaddlePaddle or PyTorch. · Python · chineseocr, crnn, dbnet, easyocr, mnn</summary>
-    <category term="chineseocr"/>
-    <category term="crnn"/>
-    <category term="dbnet"/>
-    <category term="easyocr"/>
-    <category term="mnn"/>
-  </entry>
-  <entry>
-    <title>horizon-rust/horizon</title>
-    <link href="https://github.com/horizon-rust/horizon"/>
-    <id>https://github.com/horizon-rust/horizon</id>
-    <updated>2026-10-26T09:16:55Z</updated>
-    <author><name>horizon-rust</name></author>
-    <summary>Rust rewrite of Minecraft Java Edition 26.3, checked against vanilla with differential tests. · Rust · differential-testing, game-engine, gamedev, linux, minecraft</summary>
-    <category term="differential-testing"/>
-    <category term="game-engine"/>
-    <category term="gamedev"/>
-    <category term="linux"/>
-    <category term="minecraft"/>
   </entry>
 </feed>

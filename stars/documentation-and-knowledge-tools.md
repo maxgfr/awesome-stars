@@ -8,23 +8,23 @@
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.1k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.1k |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.6k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.5k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.1k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.2k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.3k |
-| [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.2k |
-| [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 46.9k |
+| [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.3k |
+| [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.3k |
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.6k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39k |
-| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.4k |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.5k |
 | [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.8k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
@@ -39,11 +39,11 @@
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
 | [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.6k |
 | [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.3k |
-| [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.3k |
+| [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.4k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
 | [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.5k |
-| [tolaria](https://github.com/refactoringhq/tolaria) | Desktop app for managing markdown-based knowledge bases. | refactoringhq | 20.5k |
-| [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust library that classifies PDFs as scanned or text-based and extracts their text. | firecrawl | 20k |
+| [tolaria](https://github.com/refactoringhq/tolaria) | Desktop app for managing markdown-based knowledge bases. | refactoringhq | 20.6k |
+| [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust library that classifies PDFs as scanned or text-based and extracts their text. | firecrawl | 20.1k |
 | [proposals](https://github.com/tc39/proposals) | Tracks ECMAScript proposals through the TC39 stages from idea to standardization. | tc39 | 19.2k |
 | [etherpad](https://github.com/ether/etherpad) | Open-source real-time collaborative document editor that runs in the browser. | ether | 18.6k |
 | [vitepress](https://github.com/vuejs/vitepress) | Static site generator built on Vite and Vue, designed for Markdown-based documentation. | vuejs | 18.5k |
@@ -85,7 +85,7 @@
 | [hedgedoc](https://github.com/hedgedoc/hedgedoc) | Collaborative real-time markdown editor for writing and sharing documents with diagrams. | hedgedoc | 7.5k |
 | [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | Self-hosted server for collaborative online editing of documents, spreadsheets and presentations. | ONLYOFFICE | 7.1k |
 | [yn](https://github.com/purocean/yn) | Extensible Markdown editor with version control, AI copilot, mind maps, and encryption. | purocean | 6.8k |
-| [pdf-craft](https://github.com/oomol-lab/pdf-craft) | Converts PDFs of scanned books into other formats such as ebooks, using OCR models. | oomol-lab | 6.7k |
+| [pdf-craft](https://github.com/oomol-lab/pdf-craft) | Converts PDFs of scanned books into other formats such as ebooks, using OCR models. | oomol-lab | 6.8k |
 | [discord-api-docs](https://github.com/discord/discord-api-docs) | Official documentation for the Discord developer platform and its API. | discord | 6.5k |
 | [mammoth.js](https://github.com/mwilliamson/mammoth.js) | Converts Word (.docx) documents to HTML. | mwilliamson | 6.3k |
 | [schemaorg](https://github.com/schemaorg/schemaorg) | Vocabulary and supporting software for Schema.org structured data, covering JSON-LD and RDF. | schemaorg | 6.3k |
@@ -100,7 +100,7 @@
 | [hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) | Hugo theme for academic sites with BibTeX import, Jupyter, LaTeX and slide support. | HugoBlox | 5.1k |
 | [pdfme](https://github.com/pdfme/pdfme) | Open-source TypeScript and React library for generating PDFs with a visual template designer. | pdfme | 5.1k |
 | [peps](https://github.com/python/peps) | Repository of Python Enhancement Proposals describing features, processes, and design decisions. | python | 5k |
-| [open-knowledge](https://github.com/inkeep/open-knowledge) | AI-native markdown IDE and LLM wiki for building personal and company knowledge bases. | inkeep | 4.8k |
+| [open-knowledge](https://github.com/inkeep/open-knowledge) | AI-native markdown IDE and LLM wiki for building personal and company knowledge bases. | inkeep | 4.9k |
 | [readme.so](https://github.com/octokatherine/readme.so) | Online drag-and-drop editor for building README files in Markdown. | octokatherine | 4.6k |
 | [docsearch](https://github.com/algolia/docsearch) | Service and open-source tooling that adds Algolia search to documentation websites. | algolia | 4.4k |
 | [markdown](https://github.com/Python-Markdown/markdown) | Python implementation of John Gruber's Markdown with support for extensions. | Python-Markdown | 4.3k |
@@ -129,11 +129,11 @@
 | [markit](https://github.com/shift-labs-ai/markit) | Rust tool that converts documents of many formats into Markdown. | shift-labs-ai | 1.3k |
 | [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | Docusaurus v3 plugin that generates API reference documentation from OpenAPI specifications. | PaloAltoNetworks | 1.1k |
 | [fyi](https://github.com/expo/fyi) | Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename. | expo | 1.1k |
-| [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 969 |
+| [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 970 |
 | [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 910 |
 | [typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) | TypeDoc plugin that generates TypeScript API documentation in Markdown format. | typedoc2md | 823 |
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 748 |
-| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 732 |
+| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 733 |
 | [docs](https://github.com/minio/docs) | Documentation for MinIO object storage, built with Sphinx. | minio | 611 |
 | [pubpub](https://github.com/knowledgefutures/pubpub) | Open-source platform for community publishing and collaborative academic writing. | knowledgefutures | 547 |
 | [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | Collection of stemmers and stopword lists for using the Lunr search library in other languages. | MihaiValentin | 460 |

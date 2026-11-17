@@ -6,13 +6,13 @@
 |---|---|---|---:|
 | [frp](https://github.com/fatedier/frp) | Fast reverse proxy that exposes a local server behind a NAT or firewall to the internet. | fatedier | 111k |
 | [syncthing](https://github.com/syncthing/syncthing) | Open source continuous file synchronization tool that works peer to peer between devices. | syncthing | 90.5k |
-| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62k |
+| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62.1k |
 | [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
-| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.7k |
+| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.8k |
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.5k |
 | [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.5k |
-| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.8k |
+| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 42.9k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.7k |
 | [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.2k |
 | [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.5k |
@@ -20,11 +20,12 @@
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
 | [algo](https://github.com/trailofbits/algo) | Scripts to set up a personal VPN server in the cloud using Ansible, with IKEv2 and SSH tunnel support. | trailofbits | 30.5k |
 | [openwrt](https://github.com/openwrt/openwrt) | Linux distribution for routers and embedded devices, mirrored from the official OpenWrt git tree. | openwrt | 29.2k |
-| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts for deploying a self-hosted IPsec VPN server supporting IPsec/L2TP, Cisco IPsec and IKEv2. | hwdsl2 | 29k |
+| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts for deploying a self-hosted IPsec VPN server supporting IPsec/L2TP, Cisco IPsec and IKEv2. | hwdsl2 | 29.1k |
 | [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) | Python tool for securely sending files and data between two computers using one-time codes. | magic-wormhole | 23.1k |
 | [ipfs](https://github.com/ipfs/ipfs) | Peer-to-peer hypermedia protocol for distributing and addressing content across networks. | ipfs | 23.1k |
+| [hysteria](https://github.com/HyNetworks/hysteria) 🆕 | Open-source proxy software that is fast and censorship-resistant, built on the QUIC protocol. | HyNetworks | 22.9k |
 | [localtunnel](https://github.com/localtunnel/localtunnel) | Tool that exposes a local server to the public internet through a tunnel. | localtunnel | 22.5k |
-| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Curated list of self-hosted alternatives to ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier. | anderspitman | 22k |
+| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Curated list of self-hosted alternatives to ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier. | anderspitman | 22.1k |
 | [kubo](https://github.com/ipfs/kubo) | Go implementation of IPFS: a daemon for serving content-addressed data via CLI, gateway and RPC. | ipfs | 17.2k |
 | [webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API for peer-to-peer audio and video. | pion | 16.9k |
 | [openvpn-install](https://github.com/angristan/openvpn-install) | Shell script that sets up an OpenVPN server on Debian, Ubuntu, Fedora, CentOS, and Arch Linux. | angristan | 16.2k |
@@ -50,6 +51,7 @@
 | [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Network management and troubleshooting tool with DNS lookup, IP scanning, ICMP and LLDP support. | BornToBeRoot | 8.9k |
 | [trippy](https://github.com/fujiapple852/trippy) | Command-line network diagnostic tool for tracing routes and probing hosts using ICMP and DNS. | fujiapple852 | 8.2k |
 | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | Suite of tools for auditing WiFi network security, covering monitoring, testing and key cracking. | aircrack-ng | 7.9k |
+| [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) 🆕 | Desktop and mobile client app for Mullvad VPN, supporting WireGuard and OpenVPN connections. | mullvad | 7.8k |
 | [undici](https://github.com/nodejs/undici) | HTTP/1.1 client written from scratch for Node.js. | nodejs | 7.7k |
 | [arkime](https://github.com/arkime/arkime) | Open source system for large-scale full packet capture, indexing, and searching network traffic. | arkime | 7.6k |
 | [blocky](https://github.com/0xERR0R/blocky) 🆕 | Lightweight DNS proxy that blocks ads on a local network, with DNS-over-HTTPS and other features. | 0xERR0R | 7.1k |
@@ -61,7 +63,7 @@
 | [torrent](https://github.com/anacrolix/torrent) | Go package implementing a full-featured BitTorrent client and related utilities. | anacrolix | 6.1k |
 | [libtorrent](https://github.com/arvidn/libtorrent) | C++ library implementing the BitTorrent protocol with an efficient, feature-complete design. | arvidn | 6.1k |
 | [node-serialport](https://github.com/serialport/node-serialport) | Node.js library for accessing and programming serial ports on Linux, macOS and Windows. | serialport | 6k |
-| [tribler](https://github.com/Tribler/tribler) | Privacy-focused BitTorrent client with peer-to-peer content discovery and search. | Tribler | 5.3k |
+| [tribler](https://github.com/Tribler/tribler) | Privacy-focused BitTorrent client with peer-to-peer content discovery and search. | Tribler | 5.4k |
 | [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Web interface for setting up a wireless router on Debian-based devices using hostapd and dnsmasq. | RaspAP | 5.2k |
 | [keepalived](https://github.com/acassen/keepalived) | Routing software providing high availability and load balancing through VRRP and health checks. | acassen | 4.7k |
 | [guacamole-server](https://github.com/apache/guacamole-server) | Proxy daemon guacd and C library libguac implementing the Guacamole remote desktop protocol. | apache | 4k |
@@ -93,20 +95,20 @@
 | [hyperswarm](https://github.com/holepunchto/hyperswarm) | Distributed networking stack for connecting peers in JavaScript, with peer discovery and connections. | holepunchto | 1.3k |
 | [stanza](https://github.com/legastero/stanza) | XMPP library for JavaScript with a JSON API for building messaging clients. | legastero | 1.2k |
 | [proxy-agents](https://github.com/TooTallNate/proxy-agents) | Monorepo of Node.js HTTP and HTTPS proxy agent packages, including PAC support. | TooTallNate | 1.2k |
-| [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
-| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 755 |
+| [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 927 |
+| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 757 |
 | [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 742 |
 | [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 738 |
-| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |
+| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 600 |
 | [BTorrent](https://github.com/DiegoRBaquero/BTorrent) | Full-featured WebTorrent client that runs in the browser. | DiegoRBaquero | 583 |
 | [WebRTC-Example](https://github.com/shanet/WebRTC-Example) | Minimal example application demonstrating peer-to-peer video communication with WebRTC. | shanet | 462 |
 | [wifitui](https://github.com/shazow/wifitui) | Terminal user interface for managing WiFi connections through NetworkManager. | shazow | 354 |
 | [TorBox](https://github.com/zotil/TorBox) | Anonymizing router based on Raspberry Pi that routes network traffic through Tor. | zotil | 329 |
-| [domainstack.io](https://github.com/jakejarvis/domainstack.io) | Domain name intelligence service covering DNS and domain data, with an API and MCP server. | jakejarvis | 294 |
+| [domainstack.io](https://github.com/jakejarvis/domainstack.io) | Domain name intelligence service covering DNS and domain data, with an API and MCP server. | jakejarvis | 296 |
 | [WiFiCrackPy](https://github.com/phenotypic/WiFiCrackPy) | Automated Wi-Fi cracking tool for macOS. | phenotypic | 212 |
 | [js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) 🗄️ | TypeScript implementation of the Gossipsub publish-subscribe protocol for libp2p networks. | ChainSafe | 166 |
 | [torrent-webseed-creator](https://github.com/AnimMouse/torrent-webseed-creator) | Tool that creates webseeded torrents using GitHub Actions. | AnimMouse | 105 |
-| [wifi-scan](https://github.com/simon0302010/wifi-scan) | Rust crate for listing WiFi hotspots in range, forked from booyaa/wifiscanner. | simon0302010 | 42 |
+| [wifi-scan](https://github.com/simon0302010/wifi-scan) | Rust crate for listing WiFi hotspots in range, forked from booyaa/wifiscanner. | simon0302010 | 43 |
 | [scp](https://github.com/jainampatel27/scp) |  | jainampatel27 | 13 |
 | [airsnare](https://github.com/rtulke/airsnare) | C tool that performs automated 802.11 deauthentication attacks against Wi-Fi networks. | rtulke | 8 |
 | [esphome-one](https://github.com/m-maillot/esphome-one) | ESP32 BLE-to-WiFi bridge running ESPHome to control an On.e pool module via Bluetooth. | m-maillot | 2 |
