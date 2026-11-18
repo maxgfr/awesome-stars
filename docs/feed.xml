@@ -3,8 +3,68 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-16T17:44:55Z</updated>
+  <updated>2026-11-17T16:30:57Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>cloud-ru-tech/mcp-server-mattermost</title>
+    <link href="https://github.com/cloud-ru-tech/mcp-server-mattermost"/>
+    <id>https://github.com/cloud-ru-tech/mcp-server-mattermost</id>
+    <updated>2026-11-17T16:30:57Z</updated>
+    <author><name>cloud-ru-tech</name></author>
+    <summary>MCP server that gives AI assistants access to Mattermost channels, messages, and files. · Python · ai, claude, cursor, fastmcp, llm</summary>
+    <category term="ai"/>
+    <category term="claude"/>
+    <category term="cursor"/>
+    <category term="fastmcp"/>
+    <category term="llm"/>
+  </entry>
+  <entry>
+    <title>ankitpokhrel/jira-cli</title>
+    <link href="https://github.com/ankitpokhrel/jira-cli"/>
+    <id>https://github.com/ankitpokhrel/jira-cli</id>
+    <updated>2026-11-17T11:22:26Z</updated>
+    <author><name>ankitpokhrel</name></author>
+    <summary>Interactive command-line client for Jira issues. · Go · atlassian, cli, cli-app, command-line, command-line-tool</summary>
+    <category term="atlassian"/>
+    <category term="cli"/>
+    <category term="cli-app"/>
+    <category term="command-line"/>
+    <category term="command-line-tool"/>
+  </entry>
+  <entry>
+    <title>nkarasiak/qgis-mcp</title>
+    <link href="https://github.com/nkarasiak/qgis-mcp"/>
+    <id>https://github.com/nkarasiak/qgis-mcp</id>
+    <updated>2026-11-17T10:31:37Z</updated>
+    <author><name>nkarasiak</name></author>
+    <summary>Connects QGIS to AI agents through the Model Context Protocol (MCP). · Python</summary>
+  </entry>
+  <entry>
+    <title>vercel-labs/ui</title>
+    <link href="https://github.com/vercel-labs/ui"/>
+    <id>https://github.com/vercel-labs/ui</id>
+    <updated>2026-11-17T10:23:03Z</updated>
+    <author><name>vercel-labs</name></author>
+    <summary>Library of accessible UI behaviors that AI agents can use to build user interfaces. · TypeScript · accessibility, agent, agents, ai, aria</summary>
+    <category term="accessibility"/>
+    <category term="agent"/>
+    <category term="agents"/>
+    <category term="ai"/>
+    <category term="aria"/>
+  </entry>
+  <entry>
+    <title>nightly-labs/openbot</title>
+    <link href="https://github.com/nightly-labs/openbot"/>
+    <id>https://github.com/nightly-labs/openbot</id>
+    <updated>2026-11-17T10:22:34Z</updated>
+    <author><name>nightly-labs</name></author>
+    <summary>Local-first desktop app that runs persistent AI agents like Codex and Claude in separate workspaces. · TypeScript · ai-agents, bun, codex, electron, local-first</summary>
+    <category term="ai-agents"/>
+    <category term="bun"/>
+    <category term="codex"/>
+    <category term="electron"/>
+    <category term="local-first"/>
+  </entry>
   <entry>
     <title>sqlc-dev/sqlc</title>
     <link href="https://github.com/sqlc-dev/sqlc"/>
@@ -515,58 +575,11 @@
     <id>https://github.com/datalab-to/chandra</id>
     <updated>2026-10-27T11:07:46Z</updated>
     <author><name>datalab-to</name></author>
-    <summary>OCR model that extracts text from documents with complex tables, forms, and handwriting, keeping layout. · Python · ai, ocr</summary>
+    <summary>OCR model for complex documents, handling tables, forms, handwriting, and full page layout. · Python · ai, document-ai, document-parsing, form-extraction, handwriting-recognition</summary>
     <category term="ai"/>
-    <category term="ocr"/>
-  </entry>
-  <entry>
-    <title>colinhacks/reylo</title>
-    <link href="https://github.com/colinhacks/reylo"/>
-    <id>https://github.com/colinhacks/reylo</id>
-    <updated>2026-10-27T10:30:38Z</updated>
-    <author><name>colinhacks</name></author>
-    <summary>Imports SQL files into TypeScript with full type inference and no code generation step. · Rust</summary>
-  </entry>
-  <entry>
-    <title>sonorahq/sonora</title>
-    <link href="https://github.com/sonorahq/sonora"/>
-    <id>https://github.com/sonorahq/sonora</id>
-    <updated>2026-10-27T10:28:20Z</updated>
-    <author><name>sonorahq</name></author>
-    <summary>Native music streaming client for Apple Music, Deezer, and Navidrome, built with GPUI. · Rust · applemusic, deezer, gpui, music-player, navidrome-client</summary>
-    <category term="applemusic"/>
-    <category term="deezer"/>
-    <category term="gpui"/>
-    <category term="music-player"/>
-    <category term="navidrome-client"/>
-  </entry>
-  <entry>
-    <title>jdx/mise-action</title>
-    <link href="https://github.com/jdx/mise-action"/>
-    <id>https://github.com/jdx/mise-action</id>
-    <updated>2026-10-27T10:27:57Z</updated>
-    <author><name>jdx</name></author>
-    <summary>TypeScript</summary>
-  </entry>
-  <entry>
-    <title>abue-ammar/tinycast</title>
-    <link href="https://github.com/abue-ammar/tinycast"/>
-    <id>https://github.com/abue-ammar/tinycast</id>
-    <updated>2026-10-26T14:13:01Z</updated>
-    <author><name>abue-ammar</name></author>
-    <summary>Lightweight native macOS launcher for everyday productivity tasks. · Swift</summary>
-  </entry>
-  <entry>
-    <title>kunkka19xx/look</title>
-    <link href="https://github.com/kunkka19xx/look"/>
-    <id>https://github.com/kunkka19xx/look</id>
-    <updated>2026-10-26T14:12:14Z</updated>
-    <author><name>kunkka19xx</name></author>
-    <summary>Cross-platform, open-source application launcher for macOS, Linux, and Windows, built with GPUI. · Rust · cross-platform, gpui, launcher, linux, macos</summary>
-    <category term="cross-platform"/>
-    <category term="gpui"/>
-    <category term="launcher"/>
-    <category term="linux"/>
-    <category term="macos"/>
+    <category term="document-ai"/>
+    <category term="document-parsing"/>
+    <category term="form-extraction"/>
+    <category term="handwriting-recognition"/>
   </entry>
 </feed>

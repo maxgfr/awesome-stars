@@ -1,9 +1,9 @@
 {
-  "contentHash": "da71dfd36917",
+  "contentHash": "fea6395c8b87",
   "digest": {
     "language": "en",
-    "text": "This batch leans heavily toward **AI agents and developer tooling**. Protocols like A2A and AG-UI sit beside MCP servers such as Unity-MCP, while claude-swap shows how many users want flexible access to coding assistants.\n\nPrivacy and local-first software also stand out, from **censorship-resistant tools** like hysteria and mullvadvpn-app to on-device OCR such as RapidOCR. Stable developer staples like sqlc and lefthook keep appearing too.",
-    "upTo": "2026-11-16T17:44:55Z"
+    "text": "**AI agents and protocols** dominate these stars, from MCP servers linking Claude and Cursor to Mattermost, QGIS, and Search Console (mcp-server-mattermost, qgis-mcp) to standards like ag-ui and A2A. Frontend tooling follows, with vercel-labs/ui built for agents, not people.\n\nPrivacy matters too. **Local-first tools** such as the hex dictation app and blocky DNS filter, plus circumvention projects like hysteria, recur. **Developer infrastructure** like sqlc and lefthook keeps the rest grounded.",
+    "upTo": "2026-11-17T16:30:57Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-16T17:44:55Z",
+  "newest": "2026-11-17T16:30:57Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -7205,9 +7205,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==": {
       "category": "DevOps and Infrastructure",
-      "ch": "1633b2ad0ef3",
-      "description": "Observability platform for full stack monitoring, alerting, and visualization, with AI-powered features.",
-      "dh": "92f45646beab"
+      "ch": "0f45b9e3df23",
+      "description": "Observability platform for metrics, logs, traces, network flows, and infrastructure monitoring.",
+      "dh": "00c2ef428916"
     },
     "MDEwOlJlcG9zaXRvcnkxMDc1MDU4Njk=": {
       "category": "Cloud and Kubernetes",
@@ -10945,12 +10945,6 @@
       "description": "Internationalization plugin for Next.js that simplifies translating applications with i18next.",
       "dh": "98587d93de40"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTY5Mzk2NzI=": {
-      "category": "AI and Machine Learning",
-      "ch": "912f41dd6c94",
-      "description": "Cross-platform, high-performance accelerator for ONNX machine learning inference and training.",
-      "dh": "62df0653da65"
-    },
     "MDEwOlJlcG9zaXRvcnkxNTY5OTgw": {
       "category": "Networking and Wireless",
       "ch": "5cf138965da8",
@@ -11943,7 +11937,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzAyNDQ0NTY=": {
       "category": "Mac Utilities",
-      "ch": "c5b4726b39b4",
+      "ch": "37e5a2c9fae2",
       "description": "Lightweight macOS utility that hides menu bar icons.",
       "dh": "8efc43f933e4"
     },
@@ -12159,9 +12153,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "e67148e0e5fa",
-      "description": "Python framework for web testing, scraping and crawling with pytest support and CDP Mode.",
-      "dh": "1feee57cbd50"
+      "ch": "c05be40bf1e7",
+      "description": "Browser automation framework for web scraping, end-to-end testing, and bypassing bot detection.",
+      "dh": "d39c33585272"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -13575,9 +13569,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTcwMTgxODk=": {
       "category": "Frontend UI Libraries",
-      "ch": "4a9d4f8813aa",
-      "description": "Libraries for building node-based UIs in React and Svelte, such as flowcharts and graphs.",
-      "dh": "9af125ed9694"
+      "ch": "516792eeb3a9",
+      "description": "Open source libraries for building node-based, flowchart-style UIs in React, Svelte, and Vue.",
+      "dh": "8ddd1dfc2d79"
     },
     "MDEwOlJlcG9zaXRvcnkxOTcwODEyOTE=": {
       "category": "Systems Programming in Go and Rust",
@@ -14457,9 +14451,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMTIzMzE5MQ==": {
       "category": "Networking and Wireless",
-      "ch": "45cba97d1bef",
-      "description": "Go implementation of IPFS: a daemon for serving content-addressed data via CLI, gateway and RPC.",
-      "dh": "81c473f74058"
+      "ch": "d0fc8e670435",
+      "description": "Go implementation of IPFS, a daemon that stores and serves content-addressed data. No maintainer.",
+      "dh": "e1ea916550d4"
     },
     "MDEwOlJlcG9zaXRvcnkyMTIzNzg0MDk=": {
       "category": "Databases and Data Tools",
@@ -16297,9 +16291,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNTAyMTMyODY=": {
       "category": "AI and Machine Learning",
-      "ch": "55464da2bd0e",
-      "description": "Python library for loading, sharing, and processing machine learning datasets from the Hugging Face Hub.",
-      "dh": "58133191a665"
+      "ch": "ea2af2440602",
+      "description": "Python library for loading and processing ready-to-use datasets for AI models.",
+      "dh": "1ab0170fef9d"
     },
     "MDEwOlJlcG9zaXRvcnkyNTE2MjQz": {
       "category": "Security and Penetration Testing",
@@ -16409,9 +16403,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNTQ4MzI3OTk=": {
       "category": "Security and Penetration Testing",
-      "ch": "05c2488a2f8f",
-      "description": "All-in-one Python toolkit that bundles many hacking and penetration testing tools in one menu.",
-      "dh": "8256268c4b5a"
+      "ch": "557d6569e263",
+      "description": "Python toolkit that bundles many hacking and security tools in one menu-driven interface.",
+      "dh": "d756dfb1db2c"
     },
     "MDEwOlJlcG9zaXRvcnkyNTQxMjg0": {
       "category": "JavaScript and TypeScript Tooling",
@@ -18871,6 +18865,12 @@
       "description": "Collection of JavaScript coding challenges for frontend interview practice, from beginner to expert level.",
       "dh": "3f7467e15f3f"
     },
+    "MDEwOlJlcG9zaXRvcnkzMTQ5OTUwOTk=": {
+      "category": "Developer Tools and Editors",
+      "ch": "089e3a522bb7",
+      "description": "Interactive command-line client for Jira issues.",
+      "dh": "5f0c533a343c"
+    },
     "MDEwOlJlcG9zaXRvcnkzMTQyNTE0NQ==": {
       "category": "Networking and Wireless",
       "ch": "22fecfd156df",
@@ -20525,9 +20525,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzNjU4MDEwMQ==": {
       "category": "Desktop and Mobile Apps",
-      "ch": "aebe1f1aeb0b",
-      "description": "Desktop application for managing an IPFS node on Windows, macOS, and Linux.",
-      "dh": "a6ffac0a255b"
+      "ch": "077f560cc455",
+      "description": "Desktop application for managing IPFS on Windows, macOS, and Linux. No maintainer.",
+      "dh": "18775ad78312"
     },
     "MDEwOlJlcG9zaXRvcnkzNjUwMDUzNzc=": {
       "category": "Developer Tools and Editors",
@@ -22863,7 +22863,7 @@
     },
     "R_kgDOI78thQ": {
       "category": "Desktop and Mobile Apps",
-      "ch": "b2108c114aec",
+      "ch": "175c8660c9ca",
       "description": "Desktop operating system based on Fedora, aimed at gaming and everyday use on PCs and handhelds.",
       "dh": "f564d838edfa"
     },
@@ -23521,9 +23521,9 @@
     },
     "R_kgDOJ4etkw": {
       "category": "Other",
-      "ch": "0383d909273f",
-      "description": "Python library for scraping job listings from LinkedIn, Indeed, Glassdoor, and other job boards.",
-      "dh": "46d00a0cec48"
+      "ch": "b9bdb76120cb",
+      "description": "Library and CLI that scrapes job listings from LinkedIn, Indeed, Glassdoor, and other job sites.",
+      "dh": "a85ba976abc3"
     },
     "R_kgDOJ4haAg": {
       "category": "LLM Agents and AI Assistants",
@@ -23563,9 +23563,9 @@
     },
     "R_kgDOJ7brVg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "652fb3b0a0d6",
-      "description": "Coding agent designed for open models such as Kimi, GLM, DeepSeek, and Qwen.",
-      "dh": "4775344c70e6"
+      "ch": "b499391ff078",
+      "description": "Coding agent for open-weight models such as Kimi, DeepSeek, and Qwen.",
+      "dh": "80f0882153f3"
     },
     "R_kgDOJ7tF0g": {
       "category": "Desktop and Mobile Apps",
@@ -25275,9 +25275,9 @@
     },
     "R_kgDOLunVBg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "37e963e1090b",
-      "description": "Web crawling and scraping API that supplies AI agents and applications with structured web data.",
-      "dh": "6eef7272d4df"
+      "ch": "de52f271d421",
+      "description": "API that searches, scrapes, and pulls data from 550+ providers for AI agents.",
+      "dh": "856d6c5e572c"
     },
     "R_kgDOLuyr4g": {
       "category": "JavaScript and TypeScript Tooling",
@@ -26721,9 +26721,9 @@
     },
     "R_kgDOP-2oUg": {
       "category": "AI and Machine Learning",
-      "ch": "6311bf7ec32a",
-      "description": "OCR model that extracts text from documents with complex tables, forms, and handwriting, keeping layout.",
-      "dh": "8644225a129f"
+      "ch": "eacd841abd70",
+      "description": "OCR model for complex documents, handling tables, forms, handwriting, and full page layout.",
+      "dh": "cab8353fe804"
     },
     "R_kgDOP-qVgw": {
       "category": "Developer Tools and Editors",
@@ -27151,9 +27151,9 @@
     },
     "R_kgDOQ5Wxyg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "3cb3e38becaa",
-      "description": "Java repository for the Microsoft Copilot SDK; no description is provided for it.",
-      "dh": "67dc67e3df1e"
+      "ch": "482cd0c78a10",
+      "description": "Multi-platform SDK for integrating the GitHub Copilot agent into applications and services.",
+      "dh": "4d38cb5c7667"
     },
     "R_kgDOQ5YdJw": {
       "category": "LLM Agents and AI Assistants",
@@ -27451,9 +27451,9 @@
     },
     "R_kgDOQYZtxg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "0bb510b2876f",
-      "description": "Collection of extracted Claude Code system prompts, built-in tool descriptions, and sub-agent prompts.",
-      "dh": "93217e03f2f0"
+      "ch": "ed14986e670b",
+      "description": "Text of Claude Code's system prompts, tool descriptions, and subagent prompts, updated per release.",
+      "dh": "baff4d86f086"
     },
     "R_kgDOQZWsmQ": {
       "category": "Audio and Video Processing",
@@ -27771,9 +27771,9 @@
     },
     "R_kgDOR5h10Q": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "f46a7ad5147d",
-      "description": "Skill and proxy for coding agents that reduces token use by about 65% through terse output.",
-      "dh": "386d1dbf0661"
+      "ch": "15613aa739f6",
+      "description": "Skill and local proxy that shortens coding agent replies and tool output without losing originals.",
+      "dh": "aa4a743461c0"
     },
     "R_kgDOR6HRkg": {
       "category": "Developer Tools and Editors",
@@ -27910,6 +27910,12 @@
     "R_kgDORIwNhg": {
       "category": "LLM Agents and AI Assistants",
       "ch": "cff7fa96dd08"
+    },
+    "R_kgDORJFNIA": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "21256c03b5eb",
+      "description": "MCP server that gives AI assistants access to Mattermost channels, messages, and files.",
+      "dh": "666a7fb61507"
     },
     "R_kgDORJmIwg": {
       "category": "Other",
@@ -28162,6 +28168,12 @@
       "ch": "29950db90e8a",
       "description": "Framework for writing HTML and rendering it to video, built for AI agents.",
       "dh": "941eaeacb73e"
+    },
+    "R_kgDORjyMzw": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "0507e86ae611",
+      "description": "Connects QGIS to AI agents through the Model Context Protocol (MCP).",
+      "dh": "8665c60e3438"
     },
     "R_kgDORk5XlQ": {
       "category": "Testing and Automation",
@@ -28605,6 +28617,12 @@
       "description": "Open-source alternative to Grok Bot, with a virtual machine that bots can use for computer tasks.",
       "dh": "aa38912246c2"
     },
+    "R_kgDOT2u-XQ": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "0dfd96b4bd12",
+      "description": "Local-first desktop app that runs persistent AI agents like Codex and Claude in separate workspaces.",
+      "dh": "1f3ec2d13700"
+    },
     "R_kgDOT3T1gw": {
       "category": "LLM Agents and AI Assistants",
       "ch": "647e8a4dc6c7",
@@ -28625,9 +28643,9 @@
     },
     "R_kgDOTCSrMw": {
       "category": "Other",
-      "ch": "ad185401e84d",
-      "description": "Browser-based 3D globe showing live flight tracking and other open geospatial data.",
-      "dh": "ac017daaf4e2"
+      "ch": "4a998476bbbc",
+      "description": "Browser-based 3D globe that displays live open-source flight tracking and geospatial data.",
+      "dh": "0adbceb4fefb"
     },
     "R_kgDOTCTBWA": {
       "category": "Documentation and Knowledge Tools",
@@ -28928,8 +28946,8 @@
       "dh": "2422d4948028"
     },
     "R_kgDOVRjs8w": {
-      "category": "Databases and Data Tools",
-      "ch": "2d716e96a983",
+      "category": "JavaScript and TypeScript Tooling",
+      "ch": "069be04c7562",
       "description": "Imports SQL files into TypeScript with full type inference and no code generation step.",
       "dh": "01bfefb1751d"
     },
@@ -28956,6 +28974,12 @@
       "ch": "27503fc33dcd",
       "description": "Tool for decrypting iOS IPA files on macOS.",
       "dh": "567d7ac604d3"
+    },
+    "R_kgDOVYQpxw": {
+      "category": "Frontend UI Libraries",
+      "ch": "616de5878e4a",
+      "description": "Library of accessible UI behaviors that AI agents can use to build user interfaces.",
+      "dh": "f8df7c4fb2cf"
     },
     "R_kgDOVeM_1A": {
       "category": "Other",
@@ -28997,6 +29021,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "version": 1
 }

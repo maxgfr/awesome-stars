@@ -10,35 +10,35 @@
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.1k |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.6k |
-| [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.7k |
+| [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.5k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.2k |
-| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.3k |
+| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.4k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.3k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.3k |
-| [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.6k |
+| [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.7k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.5k |
-| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.8k |
+| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.9k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
 | [wiki](https://github.com/requarks/wiki) | Open-source wiki application for documentation, supporting Markdown and Git-based storage. | requarks | 29.3k |
 | [gitbook](https://github.com/GitbookIO/gitbook) | Open source frontend for rendering GitBook documentation sites from Markdown content. | GitbookIO | 29.1k |
 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Renders interactive API documentation from OpenAPI specifications in the browser. | swagger-api | 29.1k |
-| [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Self-hosted web archiver that saves URLs, bookmarks, and browser history as HTML, PDFs, and media. | ArchiveBox | 29k |
+| [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Self-hosted web archiver that saves URLs, bookmarks, and browser history as HTML, PDFs, and media. | ArchiveBox | 29.1k |
 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | LaTeX template for writing a CV or resume for job applications. | posquit0 | 29k |
 | [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Theme and framework for MkDocs documentation sites, with Material Design styling and plugins. | squidfunk | 27.6k |
 | [dashy](https://github.com/lissy93/dashy) | Self-hosted personal dashboard with status checks, widgets, themes, icon packs, and a UI editor. | lissy93 | 27k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
 | [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.6k |
-| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.3k |
+| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.4k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.4k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
 | [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.5k |
@@ -60,13 +60,13 @@
 | [languagetool](https://github.com/languagetool-org/languagetool) | Grammar and style checker supporting over 25 languages, used for proofreading text. | languagetool-org | 15.3k |
 | [nextra](https://github.com/shuding/nextra) | Site generation framework built on Next.js for creating documentation sites from Markdown and MDX. | shuding | 14k |
 | [tinacms](https://github.com/tinacms/tinacms) | Open-source headless CMS for Markdown content stored in a GitHub repository, with visual editing. | tinacms | 13.9k |
-| [fumadocs](https://github.com/fuma-nama/fumadocs) | React framework for building documentation sites with MDX content. | fuma-nama | 13.6k |
+| [fumadocs](https://github.com/fuma-nama/fumadocs) | React framework for building documentation sites with MDX content. | fuma-nama | 13.7k |
 | [gotenberg](https://github.com/gotenberg/gotenberg) | API for converting documents such as DOCX into PDF files, run as a Docker service. | gotenberg | 13.6k |
 | [wallabag](https://github.com/wallabag/wallabag) | Self-hostable web application for saving, classifying, and reading web articles later. | wallabag | 13.1k |
 | [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | Zotero plugin that translates PDFs, EPUBs, webpages, metadata, and notes using over 20 services. | windingwind | 12.3k |
 | [milkdown](https://github.com/Milkdown/milkdown) | Plugin-driven WYSIWYG markdown editor framework built on ProseMirror. | Milkdown | 12.1k |
 | [blinko](https://github.com/blinkospace/blinko) | Self-hosted, privacy-focused AI note-taking tool with Markdown notebooks. | blinkospace | 11.2k |
-| [content](https://github.com/mdn/content) | Official source content for MDN Web Docs, covering HTML, CSS, JavaScript, HTTP and Web APIs. | mdn | 11.1k |
+| [content](https://github.com/mdn/content) | Official source content for MDN Web Docs, covering HTML, CSS, JavaScript, HTTP and Web APIs. | mdn | 11.2k |
 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Source files for Microsoft Azure product documentation, published on Microsoft Learn. | MicrosoftDocs | 11k |
 | [reference](https://github.com/Fechin/reference) | Collection of quick reference cheat sheets for developers covering tools such as bash and awk. | Fechin | 11k |
 | [pdfkit](https://github.com/foliojs/pdfkit) | JavaScript library for generating PDF documents in Node.js and the browser. | foliojs | 10.7k |
@@ -130,7 +130,7 @@
 | [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | Docusaurus v3 plugin that generates API reference documentation from OpenAPI specifications. | PaloAltoNetworks | 1.1k |
 | [fyi](https://github.com/expo/fyi) | Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename. | expo | 1.1k |
 | [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 970 |
-| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 910 |
+| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 911 |
 | [typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) | TypeDoc plugin that generates TypeScript API documentation in Markdown format. | typedoc2md | 823 |
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 748 |
 | [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 733 |
@@ -140,7 +140,7 @@
 | [repo2pdf](https://github.com/BankkRoll/repo2pdf) | Converts a GitHub repository into a PDF by cloning it and processing its files. | BankkRoll | 383 |
 | [putaindecode.io](https://github.com/putaindecode/putaindecode.io) | Community-driven participatory blog for French-speaking developers. | putaindecode | 267 |
 | [pdf-creator-node](https://github.com/hajareshyam/pdf-creator-node) | Node.js package that generates PDF files from HTML templates. | hajareshyam | 244 |
-| [docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) | Tool that generates PDF documents from Docusaurus, Fumadocs, and similar sites using Prince XML. | signcl | 193 |
+| [docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) | Tool that generates PDF documents from Docusaurus, Fumadocs, and similar sites using Prince XML. | signcl | 194 |
 | [mdx-mermaid](https://github.com/sjwall/mdx-mermaid) | Plugin that enables Mermaid diagrams in MDX files for Docusaurus 2 sites. | sjwall | 187 |
 | [graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) | Generator that produces customizable MDX documentation from GraphQL schemas. | graphql-markdown | 182 |
 | [repo-to-pdf](https://github.com/josherich/repo-to-pdf) | Tool for converting a repository into a PDF file. | josherich | 141 |

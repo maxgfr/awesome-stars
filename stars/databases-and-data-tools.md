@@ -5,8 +5,8 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [supabase](https://github.com/supabase/supabase) | Open source platform built on Postgres, offering databases, authentication, storage, and AI tooling for apps. | supabase | 115k |
-| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.7k |
-| [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.5k |
+| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.8k |
+| [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.7k |
 | [superset](https://github.com/apache/superset) | Data visualization and exploration platform for business intelligence and analytics dashboards. | apache | 75.5k |
 | [nocodb](https://github.com/nocodb/nocodb) | Self-hostable alternative to Airtable that turns databases into spreadsheets with automatic REST APIs. | nocodb | 65.6k |
 | [pathway](https://github.com/pathwaycom/pathway) | Python framework for ETL, stream processing, real-time analytics, LLM pipelines, and RAG. | pathwaycom | 62k |
@@ -14,13 +14,13 @@
 | [etcd](https://github.com/etcd-io/etcd) | Distributed, reliable key-value store for the critical data of distributed systems. | etcd-io | 52.6k |
 | [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client with ER diagrams and support for many databases. | dbeaver | 52.5k |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | Column-oriented real-time analytics database management system for large-scale data processing. | ClickHouse | 51k |
-| [pandas](https://github.com/pandas-dev/pandas) | Python library for data analysis and manipulation with labeled data structures like DataFrames. | pandas-dev | 50.5k |
+| [pandas](https://github.com/pandas-dev/pandas) | Python library for data analysis and manipulation with labeled data structures like DataFrames. | pandas-dev | 50.6k |
 | [metabase](https://github.com/metabase/metabase) | Open source business intelligence and embedded analytics tool for querying and dashboarding data. | metabase | 50.4k |
 | [orm](https://github.com/prisma/orm) | TypeScript ORM for querying databases with type-safe, human-readable queries instead of raw SQL. | prisma | 47.7k |
 | [airflow](https://github.com/apache/airflow) | Platform for programmatically authoring, scheduling, and monitoring data workflows as DAGs. | apache | 47.5k |
 | [milvus](https://github.com/milvus-io/milvus) | Cloud-native vector database for scalable approximate nearest neighbor search over embeddings. | milvus-io | 46.7k |
 | [streamlit](https://github.com/streamlit/streamlit) | Python framework for building data apps and dashboards for data analysis and business intelligence. | streamlit | 46.4k |
-| [spark](https://github.com/apache/spark) | Unified analytics engine for large-scale data processing with Java, Scala, Python, and R APIs. | apache | 44.5k |
+| [spark](https://github.com/apache/spark) | Unified analytics engine for large-scale data processing with Java, Scala, Python, and R APIs. | apache | 44.6k |
 | [duckdb](https://github.com/duckdb/duckdb) | Embedded analytical SQL database system for fast OLAP queries within a single process. | duckdb | 43.1k |
 | [tidb](https://github.com/pingcap/tidb) | Distributed SQL database offering ACID transactions, analytics, and vector search for AI workloads. | pingcap | 40.7k |
 | [polars](https://github.com/pola-rs/polars) | Fast DataFrame query engine written in Rust, with lazy and out-of-core processing. | pola-rs | 40.4k |
@@ -46,7 +46,7 @@
 | [postgrest](https://github.com/PostgREST/postgrest) | Server that turns a PostgreSQL database into a RESTful API automatically. | PostgREST | 27.8k |
 | [valkey](https://github.com/valkey-io/valkey) | Distributed key-value database optimized for caching and real-time workloads. | valkey-io | 27.7k |
 | [mongoose](https://github.com/Automattic/mongoose) | MongoDB object modeling library for Node.js, providing schemas, validation, and query building. | Automattic | 27.4k |
-| [typesense](https://github.com/typesense/typesense) | In-memory, typo-tolerant search engine offering an open source alternative to Algolia and Elasticsearch. | typesense | 27.1k |
+| [typesense](https://github.com/typesense/typesense) | In-memory, typo-tolerant search engine offering an open source alternative to Algolia and Elasticsearch. | typesense | 27.2k |
 | [rethinkdb](https://github.com/rethinkdb/rethinkdb) | Open-source database designed for building realtime web applications. | rethinkdb | 27k |
 | [flatbuffers](https://github.com/google/flatbuffers) | Cross-platform serialization library for efficient, memory-friendly access to structured data without parsing. | google | 26.6k |
 | [yfinance](https://github.com/ranaroussi/yfinance) | Python library for downloading historical market data from the Yahoo! Finance API. | ranaroussi | 25.9k |
@@ -115,7 +115,7 @@
 | [OpenRefine](https://github.com/OpenRefine/OpenRefine) | Free, open-source tool for cleaning, transforming, and exploring messy data. | OpenRefine | 12.1k |
 | [grist-core](https://github.com/gristlabs/grist-core) | Core of Grist, a spreadsheet application that combines spreadsheets with relational database features. | gristlabs | 12.1k |
 | [manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Open-source search database for full-text, vector, and hybrid search with real-time indexing. | manticoresoftware | 12.1k |
-| [perspective](https://github.com/perspective-dev/perspective) | Data visualization and analytics component suited to large and streaming datasets. | perspective-dev | 11.4k |
+| [perspective](https://github.com/perspective-dev/perspective) | Data visualization and analytics component suited to large and streaming datasets. | perspective-dev | 11.5k |
 | [sqlite](https://github.com/sqlite/sqlite) | Git mirror of the SQLite source tree, an embedded SQL database engine written in C. | sqlite | 11k |
 | [prql](https://github.com/PRQL/prql) | Pipelined language for transforming data that compiles to SQL as a replacement for SQL queries. | PRQL | 10.9k |
 | [yugabyte-db](https://github.com/yugabyte/yugabyte-db) | Distributed SQL database for mission-critical cloud-native applications requiring high availability. | yugabyte | 10.7k |
@@ -176,8 +176,8 @@
 | [USearch](https://github.com/unum-cloud/USearch) | Vector search engine with approximate nearest neighbor search, clustering and fuzzy matching. | unum-cloud | 4.4k |
 | [briefer](https://github.com/briefercloud/briefer) | Platform for building dashboards and collaborative notebooks that combine code and business data. | briefercloud | 4.3k |
 | [node-csv](https://github.com/adaltas/node-csv) | Full-featured CSV parser for Node.js with a simple API, tested on large datasets. | adaltas | 4.3k |
-| [pg-boss](https://github.com/timgit/pg-boss) | Job queue for Node.js that stores and processes jobs in PostgreSQL. | timgit | 4.1k |
-| [pgadmin4](https://github.com/pgadmin-org/pgadmin4) | Open source administration and development platform for PostgreSQL databases. | pgadmin-org | 3.9k |
+| [pg-boss](https://github.com/timgit/pg-boss) | Job queue for Node.js that stores and processes jobs in PostgreSQL. | timgit | 4.2k |
+| [pgadmin4](https://github.com/pgadmin-org/pgadmin4) | Open source administration and development platform for PostgreSQL databases. | pgadmin-org | 4k |
 | [camelot](https://github.com/camelot-dev/camelot) | Python library for extracting tables from PDF documents into structured data. | camelot-dev | 3.9k |
 | [qsv](https://github.com/dathere/qsv) | Fast Rust toolkit for wrangling and analyzing CSV data, with AI-assisted features. | dathere | 3.8k |
 | [dbml](https://github.com/holistics/dbml) | Database Markup Language for defining and documenting database schemas. | holistics | 3.7k |
@@ -219,7 +219,6 @@
 | [greenmask](https://github.com/GreenmaskIO/greenmask) | Tool for anonymizing databases and generating test data using masking and privacy techniques. | GreenmaskIO | 1.8k |
 | [fast-csv](https://github.com/C2FO/fast-csv) | CSV parser and formatter for Node.js, built on streams. | C2FO | 1.8k |
 | [level](https://github.com/Level/level) | Universal abstract-level database for Node.js and browsers, with LevelDB-style storage. | Level | 1.7k |
-| [reylo](https://github.com/colinhacks/reylo) 🆕 | Imports SQL files into TypeScript with full type inference and no code generation step. | colinhacks | 1.6k |
 | [pgcopydb](https://github.com/dimitri/pgcopydb) | Tool that copies a PostgreSQL database to another server, extending pg_dump and pg_restore. | dimitri | 1.6k |
 | [node-pg-migrate](https://github.com/salsita/node-pg-migrate) | Node.js tool for managing PostgreSQL schema migrations as JavaScript or TypeScript files. | salsita | 1.5k |
 | [pgsync](https://github.com/toluaina/pgsync) | Syncs data from Postgres, MySQL, or MariaDB to Elasticsearch or OpenSearch in near real time. | toluaina | 1.4k |
@@ -231,11 +230,11 @@
 | [mongo-tools](https://github.com/mongodb/mongo-tools) |  | mongodb | 1.1k |
 | [node-sql-parser](https://github.com/taozhi8833998/node-sql-parser) | Parser that turns SQL statements into an abstract syntax tree and converts them back to SQL. | taozhi8833998 | 1k |
 | [prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) | Tool for visualizing and editing Prisma schemas, with ER diagrams for several databases. | mohammed-bahumaish | 1k |
-| [prismaliser](https://github.com/Ovyerus/prismaliser) | Tool that visualizes a Prisma schema as an interactive graph. | Ovyerus | 992 |
-| [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | CLI and Node.js tool for downloading historical and real-time tick price data from Dukascopy. | Leo4815162342 | 977 |
+| [prismaliser](https://github.com/Ovyerus/prismaliser) | Tool that visualizes a Prisma schema as an interactive graph. | Ovyerus | 993 |
+| [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | CLI and Node.js tool for downloading historical and real-time tick price data from Dukascopy. | Leo4815162342 | 978 |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Official JavaScript and TypeScript client library for the Meilisearch search engine API. | meilisearch | 872 |
 | [node-influx](https://github.com/node-influx/node-influx) | Client library for using InfluxDB from Node.js and browser JavaScript applications. | node-influx | 864 |
-| [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 800 |
+| [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) | Open-source market data API for financial data, including earnings call transcripts. | defeat-beta | 801 |
 | [npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader) | JavaScript library that parses text and tables from PDF files. | adrienjoly | 704 |
 | [couchdb-nano](https://github.com/apache/couchdb-nano) | Official Apache CouchDB library for Node.js applications. | apache | 691 |
 | [duck-ui](https://github.com/caioricciuti/duck-ui) | Browser-based DuckDB workbench with a SQL editor, notebooks, charts, and an AI assistant. | caioricciuti | 658 |

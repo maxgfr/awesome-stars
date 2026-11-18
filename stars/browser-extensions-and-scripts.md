@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.4k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.2k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -37,7 +37,7 @@
 | [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) | Curated list of userscripts for customizing websites, such as ad blocking and ChatGPT tools. | awesome-scripts | 3.6k |
 | [web-ext](https://github.com/mozilla/web-ext) | Command line tool for building, running, and testing WebExtensions. | mozilla | 3.2k |
 | [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 🗄️ | Polyfill library that makes Promise-based WebExtension APIs work in Chrome. | mozilla | 3.1k |
-| [adblock-rust](https://github.com/brave/adblock-rust) | Ad-blocking engine written in Rust, used by Brave to block ads and trackers. | brave | 2.9k |
+| [adblock-rust](https://github.com/brave/adblock-rust) | Ad-blocking engine written in Rust, used by Brave to block ads and trackers. | brave | 3k |
 | [TwitchNoSub](https://github.com/besuper/TwitchNoSub) | Browser extension that lets users watch subscriber-only Twitch VODs without a subscription. | besuper | 2.9k |
 | [chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) | Starter template for building Chrome extensions with TypeScript and React. | chibat | 2.8k |
 | [OldTwitter](https://github.com/dimdenGD/OldTwitter) | Browser extension that restores the Twitter layout from 2015 and 2018. | dimdenGD | 2.8k |
@@ -52,8 +52,8 @@
 | [marketplace](https://github.com/spicetify/marketplace) | Spicetify tool for browsing and installing extensions, themes, and custom apps for Spotify. | spicetify | 1.6k |
 | [news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator) | Browser extension that removes the news feed from social sites and replaces it with a quote. | jordwest | 1.5k |
 | [webperf-snippets](https://github.com/nucliweb/webperf-snippets) | Tested JavaScript snippets for measuring and debugging web performance in DevTools or via AI agents. | nucliweb | 1.5k |
-| [Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) | Tool that exports cookies.txt files locally, with no data sent to external servers. | kairi003 | 1.3k |
 | [Just-Read](https://github.com/ZachSaucier/Just-Read) | Customizable browser extension that provides a read mode for web pages. | ZachSaucier | 1.3k |
+| [Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) | Tool that exports cookies.txt files locally, with no data sent to external servers. | kairi003 | 1.3k |
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
@@ -62,7 +62,7 @@
 | [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 666 |
 | [lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) | Browser extension wallet for connecting to Lightning nodes and signing Nostr events and transactions. | getAlby | 585 |
-| [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 512 |
+| [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 513 |
 | [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) | Command-line and Node.js tool to upload Chrome extensions to the Chrome Web Store. | fregante | 411 |
 | [highlighter](https://github.com/jeromepl/highlighter) | Chrome extension for highlighting text on web pages and saving highlights for later. | jeromepl | 382 |
 | [linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) | Browser extension that exports a LinkedIn profile page as a JSON Resume file. | joshuatz | 341 |
