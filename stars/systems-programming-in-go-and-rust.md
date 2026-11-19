@@ -7,17 +7,17 @@
 | [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41k |
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.1k |
-| [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.6k |
+| [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.7k |
 | [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
 | [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
-| [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.3k |
+| [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.4k |
 | [wasmtime](https://github.com/bytecodealliance/wasmtime) | Lightweight, fast, and secure WebAssembly runtime that follows standards. | bytecodealliance | 18.9k |
 | [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.7k |
 | [bottom](https://github.com/ClementTsang/bottom) | Cross-platform terminal system monitor showing CPU, memory, network, disk, and process usage. | ClementTsang | 14.2k |
 | [rayon](https://github.com/rayon-rs/rayon) | Data parallelism library for Rust that runs computations across multiple threads. | rayon-rs | 13.5k |
 | [windows-rs](https://github.com/microsoft/windows-rs) | Rust bindings and tools for calling Windows APIs from Rust code. | microsoft | 12.9k |
-| [gitoxide](https://github.com/GitoxideLabs/gitoxide) | Pure Rust implementation of Git, focused on speed, safety, and a lean codebase. | GitoxideLabs | 12.1k |
+| [gitoxide](https://github.com/GitoxideLabs/gitoxide) | Pure Rust implementation of Git, focused on speed, safety, and a lean codebase. | GitoxideLabs | 12.2k |
 | [reqwest](https://github.com/seanmonstar/reqwest) | Easy-to-use asynchronous and blocking HTTP client library for Rust. | seanmonstar | 11.9k |
 | [serde](https://github.com/serde-rs/serde) | Serialization framework for Rust with derive macros and support for no-std environments. | serde-rs | 11k |
 | [spotifyd](https://github.com/Spotifyd/spotifyd) | Headless Spotify Connect client that runs as a background daemon. | Spotifyd | 10.8k |

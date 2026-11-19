@@ -1,9 +1,9 @@
 {
-  "contentHash": "fea6395c8b87",
+  "contentHash": "25c41a39c5e7",
   "digest": {
     "language": "en",
-    "text": "**AI agents and protocols** dominate these stars, from MCP servers linking Claude and Cursor to Mattermost, QGIS, and Search Console (mcp-server-mattermost, qgis-mcp) to standards like ag-ui and A2A. Frontend tooling follows, with vercel-labs/ui built for agents, not people.\n\nPrivacy matters too. **Local-first tools** such as the hex dictation app and blocky DNS filter, plus circumvention projects like hysteria, recur. **Developer infrastructure** like sqlc and lefthook keeps the rest grounded.",
-    "upTo": "2026-11-17T16:30:57Z"
+    "text": "This month's stars lean hard toward **AI agents and the tools that connect them**. Claude-BugHunter bundles security skills, while qgis-mcp and mcp-server-mattermost link assistants to GIS data and team chat through the Model Context Protocol. Rig and ag-ui show the same pull toward agent frameworks in Rust and TypeScript.\n\nA second thread is **privacy and self-hosting**, seen in zen-desktop, blocky, and Endurain, plus Mullvad's VPN client. Many picks also favor **native, dependency-free builds**, like office2pdf, which converts Office files without LibreOffice.",
+    "upTo": "2026-11-18T19:33:20Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-17T16:30:57Z",
+  "newest": "2026-11-18T19:33:20Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -5219,9 +5219,9 @@
     },
     "MDEwOlJlcG9zaXRvcnk4MzA1MDY4MA==": {
       "category": "Developer Tools and Editors",
-      "ch": "c1791afed35e",
-      "description": "Cloud and desktop IDE framework implemented in TypeScript, supporting Language Server Protocol.",
-      "dh": "161351945a92"
+      "ch": "f358d159f58c",
+      "description": "Open-source platform for building custom browser and desktop IDEs and AI-native tools.",
+      "dh": "cc768cdb24a3"
     },
     "MDEwOlJlcG9zaXRvcnk4MzEzNTk1OA==": {
       "category": "Backend Frameworks and Servers",
@@ -10671,9 +10671,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTI2MzExODI=": {
       "category": "Awesome Lists and Learning Resources",
-      "ch": "52155a809366",
-      "description": "Python and modern C++ solutions to all LeetCode problems for interview practice.",
-      "dh": "160b509f45a6"
+      "ch": "4dd4d9168d34",
+      "description": "Python and modern C++ solutions to all LeetCode problems, updated weekly for interview practice.",
+      "dh": "309ff2441787"
     },
     "MDEwOlJlcG9zaXRvcnkxNTI2NzQwOQ==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -11673,9 +11673,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNjc1MjYyMA==": {
       "category": "Developer Tools and Editors",
-      "ch": "cf8ae0bec13b",
-      "description": "Self-hosted Git service written in Go, designed for simple, lightweight deployment.",
-      "dh": "5a56c468b8e7"
+      "ch": "fa97bf96ab79",
+      "description": "Self-hosted Git service that is painless to set up, written in Go.",
+      "dh": "0228237a0222"
     },
     "MDEwOlJlcG9zaXRvcnkxNjc1OTYzOTM=": {
       "category": "Cloud and Kubernetes",
@@ -12153,9 +12153,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "c05be40bf1e7",
-      "description": "Browser automation framework for web scraping, end-to-end testing, and bypassing bot detection.",
-      "dh": "d39c33585272"
+      "ch": "354ed428f5fa",
+      "description": "Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection.",
+      "dh": "74f7e682004c"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -15577,9 +15577,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMzQ5NzIxMjQ=": {
       "category": "Awesome Lists and Learning Resources",
-      "ch": "c6c7ef992f27",
-      "description": "Curated list of Blender add-ons, extensions, AI and MCP tools, tutorials, and 3D resources.",
-      "dh": "cae32d69b7ba"
+      "ch": "be7e701234f0",
+      "description": "Curated list of Blender add-ons, AI and MCP tools, tutorials, and 3D resources.",
+      "dh": "3312d54f5117"
     },
     "MDEwOlJlcG9zaXRvcnkyMzQwNTc1OA==": {
       "category": "Databases and Data Tools",
@@ -21692,10 +21692,10 @@
       "dh": "c0d463a69fd3"
     },
     "R_kgDOGSuXyg": {
-      "category": "Security and Penetration Testing",
-      "ch": "ece3735a54c0",
-      "description": "Agent that monitors network egress, file integrity, and processes on GitHub Actions runners.",
-      "dh": "753806ce8287"
+      "category": "DevOps and Infrastructure",
+      "ch": "9b9f4752d96f",
+      "description": "Security agent for GitHub Actions runners that monitors network, file, and process activity.",
+      "dh": "8941b64ff4fe"
     },
     "R_kgDOGTKuoA": {
       "category": "Developer Tools and Editors",
@@ -22671,7 +22671,7 @@
     },
     "R_kgDOHqyb3g": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "a63056821c48",
+      "ch": "a66b742e8a27",
       "description": "Type-safe TypeScript library for building readable regular expressions that compile away at build time.",
       "dh": "b9170c7e6602"
     },
@@ -24043,6 +24043,12 @@
       "description": "Open-source visual editor for building 2D and 3D React Three Fiber scenes in React.",
       "dh": "fcd8eb99e527"
     },
+    "R_kgDOJoKLaw": {
+      "category": "Networking and Wireless",
+      "ch": "541989736241",
+      "description": "System-wide ad blocker and privacy guard for Windows, macOS, and Linux.",
+      "dh": "37ae22ddc5d5"
+    },
     "R_kgDOJoVL_g": {
       "category": "Other",
       "ch": "ee920e23dd90",
@@ -24694,6 +24700,12 @@
       "ch": "6ede08c7171a",
       "description": "Curated resources for learning data structures and algorithms and preparing for coding interviews.",
       "dh": "b7a9b454cbf6"
+    },
+    "R_kgDOKlnEXA": {
+      "category": "Other",
+      "ch": "b7436d9f19a2",
+      "description": "Self-hosted fitness tracking service that gives users full control over their data and hosting.",
+      "dh": "f04a23947423"
     },
     "R_kgDOKlrpgA": {
       "category": "LLM Agents and AI Assistants",
@@ -25392,6 +25404,12 @@
       "ch": "98121d3d8dcc",
       "description": "Docker container that runs macOS in a virtual machine.",
       "dh": "c669c33f5012"
+    },
+    "R_kgDOMFTDmg": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "207afc9ba6da",
+      "description": "Rust framework for building modular, scalable LLM applications and AI agents.",
+      "dh": "d5fe21c73343"
     },
     "R_kgDOMGbPlg": {
       "category": "Databases and Data Tools",
@@ -28081,6 +28099,12 @@
       "description": "Structured cybersecurity skills for AI agents, mapped to MITRE ATT&CK and NIST CSF 2.0.",
       "dh": "f801d510019d"
     },
+    "R_kgDORZMSgQ": {
+      "category": "Other",
+      "ch": "00b72f5ed538",
+      "description": "Rust library and CLI converting DOCX, XLSX, and PPTX files to PDF without LibreOffice or Chromium.",
+      "dh": "4d32da58da43"
+    },
     "R_kgDORZOZYw": {
       "category": "LLM Agents and AI Assistants",
       "ch": "f365e776cb2e",
@@ -28153,9 +28177,9 @@
     },
     "R_kgDORhFMww": {
       "category": "Frontend UI Libraries",
-      "ch": "a076a167431c",
-      "description": "TypeScript library for fast and accurate text measurement and layout.",
-      "dh": "4bb165b92546"
+      "ch": "f2749b0ef94b",
+      "description": "Fast, accurate, and comprehensive text measurement and layout library for TypeScript projects.",
+      "dh": "65216df4c507"
     },
     "R_kgDORhiEjA": {
       "category": "LLM Agents and AI Assistants",
@@ -28164,10 +28188,10 @@
       "dh": "9de0453de49f"
     },
     "R_kgDORi26-Q": {
-      "category": "AI and Machine Learning",
-      "ch": "29950db90e8a",
-      "description": "Framework for writing HTML and rendering it to video, built for AI agents.",
-      "dh": "941eaeacb73e"
+      "category": "Audio and Video Processing",
+      "ch": "80e95689b300",
+      "description": "Open-source AI video editor that turns text descriptions into editable video projects.",
+      "dh": "15eff7c2596f"
     },
     "R_kgDORjyMzw": {
       "category": "LLM Agents and AI Assistants",
@@ -28502,6 +28526,12 @@
       "ch": "800056acb00d",
       "description": "Self-hosted, OpenAI-compatible LLM router for single workspaces, with streaming and BYOK support.",
       "dh": "25be4d9ab6dc"
+    },
+    "R_kgDOSUzdDA": {
+      "category": "Security and Penetration Testing",
+      "ch": "c5ca5f3e5fc8",
+      "description": "Claude Code skills and slash commands for bug bounty hunting and external red-team security work.",
+      "dh": "0985a22a6753"
     },
     "R_kgDOSVBndA": {
       "category": "Other",
@@ -29021,6 +29051,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "version": 1
 }

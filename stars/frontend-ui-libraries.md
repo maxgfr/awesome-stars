@@ -10,27 +10,27 @@
 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for creating hand-drawn style diagrams and sketches, with real-time collaboration. | excalidraw | 136k |
 | [ui](https://github.com/shadcn-ui/ui) | Copyable, accessible UI components you customize and extend to build your own component library. | shadcn-ui | 128k |
 | [d3](https://github.com/d3/d3) | JavaScript library for building data visualizations with SVG, Canvas, and HTML. | d3 | 114k |
-| [angular](https://github.com/angular/angular) | Platform and framework for building single-page web applications with TypeScript. | angular | 102k |
+| [angular](https://github.com/angular/angular) | Platform and framework for building single-page web applications with TypeScript. | angular | 101k |
 | [ant-design](https://github.com/ant-design/ant-design) | Enterprise UI design language and React component library for building web applications. | ant-design | 100k |
-| [material-ui](https://github.com/mui/material-ui) | React component library implementing Google's Material Design, with a design system for UIs. | mui | 99.3k |
-| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | Utility-first CSS framework for building custom user interfaces quickly with prebuilt classes. | tailwindlabs | 98.8k |
+| [material-ui](https://github.com/mui/material-ui) | React component library implementing Google's Material Design, with a design system for UIs. | mui | 99.4k |
+| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | Utility-first CSS framework for building custom user interfaces quickly with prebuilt classes. | tailwindlabs | 98.6k |
 | [storybook](https://github.com/storybookjs/storybook) | Tool for building, documenting, and testing UI components in isolation. | storybookjs | 91.6k |
 | [svelte](https://github.com/sveltejs/svelte) | Compiler that turns component templates into optimized JavaScript for building user interfaces. | sveltejs | 89.6k |
 | [imgui](https://github.com/ocornut/imgui) | Bloat-free immediate-mode graphical user interface library for C++ with minimal dependencies. | ocornut | 77.2k |
 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | Icon toolkit providing SVG, font and CSS icons for websites and applications. | FortAwesome | 77k |
-| [anime](https://github.com/juliangarnier/anime) | JavaScript library for animating CSS properties, SVG, DOM attributes and JavaScript objects. | juliangarnier | 74.8k |
+| [anime](https://github.com/juliangarnier/anime) | JavaScript library for animating CSS properties, SVG, DOM attributes and JavaScript objects. | juliangarnier | 74.9k |
 | [reveal.js](https://github.com/hakimel/reveal.js) | HTML framework for creating presentations and slideshows in the browser. | hakimel | 72.6k |
 | [Chart.js](https://github.com/chartjs/Chart.js) | JavaScript library for drawing simple, responsive HTML5 charts on the canvas element. | chartjs | 67.8k |
-| [echarts](https://github.com/apache/echarts) | Interactive charting and data visualization library for browsers, using canvas and SVG rendering. | apache | 67.7k |
+| [echarts](https://github.com/apache/echarts) | Interactive charting and data visualization library for browsers, using canvas and SVG rendering. | apache | 67.8k |
 | [astro](https://github.com/withastro/astro) | Web framework for building content-driven websites with islands architecture and components. | withastro | 64k |
 | [nuxt](https://github.com/nuxt/nuxt) | Full-stack framework for building Vue applications with server-side or static rendering. | nuxt | 61.1k |
 | [zustand](https://github.com/pmndrs/zustand) | Small state management library for React with hooks-based stores and minimal boilerplate. | pmndrs | 58.9k |
 | [react-router](https://github.com/remix-run/react-router) | Declarative routing library for React applications. | remix-run | 56.6k |
 | [gatsby](https://github.com/gatsbyjs/gatsby) | Framework for building fast, secure React websites and apps using GraphQL data sources. | gatsbyjs | 55.9k |
-| [core](https://github.com/vuejs/core) | Core runtime and compiler of Vue.js for building user interfaces on the web. | vuejs | 55.2k |
+| [core](https://github.com/vuejs/core) | Core runtime and compiler of Vue.js for building user interfaces on the web. | vuejs | 55k |
 | [ionic-framework](https://github.com/ionic-team/ionic-framework) | Cross-platform UI toolkit for building iOS, Android and progressive web apps with web technologies. | ionic-team | 52.8k |
 | [tldraw](https://github.com/tldraw/tldraw) | SDK for building infinite canvas applications with collaborative drawing and diagramming in React. | tldraw | 51.5k |
-| [pretext](https://github.com/chenglou/pretext) | TypeScript library for fast and accurate text measurement and layout. | chenglou | 51.1k |
+| [pretext](https://github.com/chenglou/pretext) | Fast, accurate, and comprehensive text measurement and layout library for TypeScript projects. | chenglou | 51.1k |
 | [query](https://github.com/TanStack/query) | Asynchronous state management and data fetching library for TypeScript, JavaScript, and popular frameworks. | TanStack | 50.6k |
 | [bulma](https://github.com/jgthms/bulma) | Flexbox-based CSS framework for building responsive, modern web layouts. | jgthms | 50k |
 | [htmx](https://github.com/bigskysoftware/htmx) | JavaScript library that extends HTML with attributes for AJAX, transitions, and hypermedia-driven interactions. | bigskysoftware | 49.6k |
@@ -47,9 +47,9 @@
 | [tiptap](https://github.com/ueberdosis/tiptap) | Headless rich text editor framework for building custom editors on top of ProseMirror. | ueberdosis | 39.1k |
 | [servo](https://github.com/servo/servo) | Lightweight, high-performance embeddable web engine for applications, written in Rust. | servo | 38.6k |
 | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | Android library for line, bar, pie, radar, bubble and candlestick charts with zoom and animation. | PhilJay | 38.2k |
-| [solid](https://github.com/solidjs/solid) | Declarative JavaScript library for building user interfaces with fine-grained reactivity. | solidjs | 36.3k |
+| [solid](https://github.com/solidjs/solid) | Declarative JavaScript library for building user interfaces with fine-grained reactivity. | solidjs | 36.6k |
 | [bulletproof-react](https://github.com/alan2207/bulletproof-react) | Guidelines and architecture for structuring scalable, production-ready React applications. | alan2207 | 36.1k |
-| [refine](https://github.com/refinedev/refine) | React framework for building internal tools, admin panels, dashboards, and B2B applications. | refinedev | 36k |
+| [refine](https://github.com/refinedev/refine) | React framework for building internal tools, admin panels, dashboards, and B2B applications. | refinedev | 36.1k |
 | [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | JavaScript plugin for creating full-screen, section-based scrolling pages with mouse wheel and touch navigation. | alvarotrigo | 35.4k |
 | [motion](https://github.com/motiondivision/motion) | Animation library for React and JavaScript supporting spring and other motion effects. | motiondivision | 35.3k |
 | [formik](https://github.com/jaredpalmer/formik) | Library for building forms in React with state, validation, and submission handling. | jaredpalmer | 34.3k |
@@ -63,10 +63,10 @@
 | [mantine](https://github.com/mantinedev/mantine) | A fully featured React components library with hooks and dark theme support. | mantinedev | 32k |
 | [slate](https://github.com/ianstormtaylor/slate) | Framework for building customizable rich text editors, currently in beta. | ianstormtaylor | 31.7k |
 | [fabric.js](https://github.com/fabricjs/fabric.js) | JavaScript canvas library with SVG-to-canvas and canvas-to-SVG parsing. | fabricjs | 31.6k |
-| [heroui](https://github.com/heroui-inc/heroui) | React component library for building fast, modern user interfaces, formerly known as NextUI. | heroui-inc | 31.2k |
+| [heroui](https://github.com/heroui-inc/heroui) | React component library for building fast, modern user interfaces, formerly known as NextUI. | heroui-inc | 31.3k |
 | [uppy](https://github.com/transloadit/uppy) | Open-source JavaScript file uploader for web browsers with cloud service integrations. | transloadit | 31.1k |
-| [GSAP](https://github.com/greensock/GSAP) | JavaScript library for high-performance animations, including scroll-based effects, on the web. | greensock | 30.8k |
-| [astryx](https://github.com/meta/astryx) | Customizable open source design system built to be used by AI agents. | meta | 30.2k |
+| [GSAP](https://github.com/greensock/GSAP) | JavaScript library for high-performance animations, including scroll-based effects, on the web. | greensock | 30.9k |
+| [astryx](https://github.com/meta/astryx) | Customizable open source design system built to be used by AI agents. | meta | 30.6k |
 | [plyr](https://github.com/sampotts/plyr) | Deprecated HTML5, YouTube, and Vimeo video player, receiving security updates only. | sampotts | 30k |
 | [react-spring](https://github.com/pmndrs/react-spring) | Spring physics based animation library for React. | pmndrs | 29.3k |
 | [fyne](https://github.com/fyne-io/fyne) | Cross-platform GUI toolkit for Go, styled after Material Design, for desktop and mobile. | fyne-io | 28.8k |
@@ -79,14 +79,14 @@
 | [react-admin](https://github.com/marmelab/react-admin) | Frontend framework for building single-page admin applications on top of REST or GraphQL APIs. | marmelab | 27k |
 | [grapesjs](https://github.com/GrapesJS/grapesjs) | Open-source web builder framework for creating templates with a drag-and-drop, no-code editor. | GrapesJS | 26.4k |
 | [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross-platform UI toolkit for React Native providing reusable components for mobile apps. | react-native-elements | 25.9k |
-| [lucide](https://github.com/lucide-icons/lucide) | Open-source icon library providing over 2000 SVG icons for digital and print projects. | lucide-icons | 25.8k |
+| [lucide](https://github.com/lucide-icons/lucide) | Open-source icon library providing over 2000 SVG icons for digital and print projects. | lucide-icons | 25.9k |
 | [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | Modular, framework-independent JavaScript image gallery and lightbox for mobile and desktop. | dimsemenov | 25.3k |
 | [components](https://github.com/angular/components) | Component infrastructure and Material Design components for building Angular applications. | angular | 25k |
 | [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) | Bootstrap 5 UI kit with Material Design components and themes for building web interfaces. | mdbootstrap | 24.2k |
 | [lexical](https://github.com/meta/lexical) | Extensible text editor framework focused on reliability, accessibility and performance. | meta | 24k |
 | [heroicons](https://github.com/tailwindlabs/heroicons) | Free MIT-licensed SVG icon set for user interface development. | tailwindlabs | 23.9k |
 | [intro.js](https://github.com/usablica/intro.js) | Lightweight JavaScript library for building user-friendly onboarding tours and guides in web pages. | usablica | 23.5k |
-| [magicui](https://github.com/magicuidesign/magicui) | Open-source library of animated React components and effects to copy into Tailwind CSS apps. | magicuidesign | 23.3k |
+| [magicui](https://github.com/magicuidesign/magicui) | Open-source library of animated React components and effects to copy into Tailwind CSS apps. | magicuidesign | 23.4k |
 | [tabler-icons](https://github.com/tabler/tabler-icons) | Over 6500 free MIT-licensed SVG icons for use in web projects. | tabler | 22.7k |
 | [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | Bootstrap components rebuilt as React components for building responsive web interfaces. | react-bootstrap | 22.6k |
 | [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | React component for draggable, resizable grid layouts with responsive breakpoints. | react-grid-layout | 22.5k |
@@ -127,19 +127,19 @@
 | [less.js](https://github.com/less/less.js) | Dynamic stylesheet language compiling to CSS, with variables, mixins, and functions. | less | 17k |
 | [react-pdf](https://github.com/diegomura/react-pdf) | React renderer for generating PDF files from React components using flexbox layout. | diegomura | 16.9k |
 | [pico](https://github.com/picocss/pico) 🗄️ | Minimal CSS framework that styles semantic HTML elements with little or no custom classes. | picocss | 16.8k |
-| [shadcn-admin](https://github.com/satnaing/shadcn-admin) | Admin dashboard UI template built with shadcn/ui and Vite. | satnaing | 16.7k |
+| [shadcn-admin](https://github.com/satnaing/shadcn-admin) | Admin dashboard UI template built with shadcn/ui and Vite. | satnaing | 16.8k |
 | [plate](https://github.com/udecode/plate) | Rich-text editor with AI features built on Slate and shadcn/ui for React applications. | udecode | 16.7k |
 | [filepond](https://github.com/pqina/filepond) | JavaScript library for flexible drag-and-drop file uploads with image processing plugins. | pqina | 16.4k |
 | [tinymce](https://github.com/tinymce/tinymce) | Rich text editor library for JavaScript, with integrations for React, Vue and Angular. | tinymce | 16.3k |
-| [react-spectrum](https://github.com/adobe/react-spectrum) | Libraries and tools for building adaptive, accessible React user interfaces with ARIA support. | adobe | 16k |
+| [react-spectrum](https://github.com/adobe/react-spectrum) | Libraries and tools for building adaptive, accessible React user interfaces with ARIA support. | adobe | 16.1k |
 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | React Native MapView component for iOS and Android apps, with Google Maps support. | react-native-maps | 16k |
 | [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | React component for generating web forms from JSON Schema definitions. | rjsf-team | 15.9k |
 | [react-markdown](https://github.com/remarkjs/react-markdown) | React component for rendering Markdown safely using the remark and unified ecosystem. | remarkjs | 15.9k |
 | [ag-grid](https://github.com/ag-grid/ag-grid) | Data table component for enterprise apps, supporting React, Angular, Vue and plain JavaScript. | ag-grid | 15.7k |
 | [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | Collection of under 1KB SVG icons of popular website and app logos. | edent | 15.4k |
 | [sass](https://github.com/sass/sass) | CSS preprocessor language and compiler adding variables, nesting, and mixins to stylesheets. | sass | 15.4k |
-| [router](https://github.com/TanStack/router) | Client-first, type-safe router and full-stack framework for React and other web frameworks. | TanStack | 15.3k |
 | [openui](https://github.com/thesysdev/openui) | Open standard for generative UI, enabling AI agents to render user interfaces. | thesysdev | 15.3k |
+| [router](https://github.com/TanStack/router) | Client-first, type-safe router and full-stack framework for React and other web frameworks. | TanStack | 15.3k |
 | [lynx](https://github.com/lynx-family/lynx) | Cross-platform framework for building apps across native and web targets using web technologies. | lynx-family | 15.3k |
 | [konva](https://github.com/konvajs/konva) | HTML5 Canvas framework for interactive graphics, with events, drag and drop, transforms and export. | konvajs | 15k |
 | [hooks](https://github.com/alibaba/hooks) | React Hooks library offering reusable hooks for state, side effects, and data fetching. | alibaba | 15k |
@@ -147,7 +147,7 @@
 | [amphtml](https://github.com/ampproject/amphtml) | Web component framework for building Accelerated Mobile Pages (AMP) web pages. | ampproject | 14.9k |
 | [deck.gl](https://github.com/visgl/deck.gl) | WebGL2-powered framework for large-scale data visualization, including geospatial and map layers. | visgl | 14.8k |
 | [react-native-paper](https://github.com/callstack/react-native-paper) | Material Design component library for React Native apps on Android and iOS. | callstack | 14.5k |
-| [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) | Chat user interface component library for React Native applications. | FaridSafi | 14.4k |
+| [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) | Chat user interface component library for React Native applications. | FaridSafi | 14.5k |
 | [tamagui](https://github.com/tamagui/tamagui) | Library for styling React and React Native apps with an optimizing compiler and optional UI kit. | tamagui | 14.3k |
 | [commerce](https://github.com/vercel/commerce) 🗄️ | Next.js and React storefront template for ecommerce sites backed by Shopify. | vercel | 14.3k |
 | [nivo](https://github.com/plouc/nivo) | Set of dataviz components for React, built on d3 and offering canvas and SVG chart rendering. | plouc | 14.1k |
@@ -158,8 +158,8 @@
 | [fresh](https://github.com/freshframework/fresh) | Web framework for Deno that renders pages on the server using Preact and TypeScript. | freshframework | 13.8k |
 | [sonner](https://github.com/emilkowalski/sonner) | Opinionated toast notification component for React applications. | emilkowalski | 13.2k |
 | [TW-Elements](https://github.com/mdbootstrap/TW-Elements) | Free, MIT-licensed collection of Tailwind CSS components, sections and templates. | mdbootstrap | 13.2k |
-| [core](https://github.com/stenciljs/core) | Toolchain for building reusable web components in TypeScript that compile to React, Angular, Vue, and others. | stenciljs | 13.2k |
 | [cmdk](https://github.com/dip/cmdk) | Unstyled React command menu component for building fast, accessible combobox and command palette interfaces. | dip | 13.2k |
+| [core](https://github.com/stenciljs/core) | Toolchain for building reusable web components in TypeScript that compile to React, Angular, Vue, and others. | stenciljs | 13.2k |
 | [css](https://github.com/primer/css) | CSS implementation of Primer, GitHub's design system, for building consistent web interfaces. | primer | 13.1k |
 | [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) | Lightweight drag and drop toolkit for building sortable and drop-target interfaces on any stack. | atlassian | 12.8k |
 | [react-icons](https://github.com/react-icons/react-icons) | Collection of popular icon packs exported as SVG React components. | react-icons | 12.7k |
@@ -180,16 +180,16 @@
 | [summernote](https://github.com/summernote/summernote) | Simple WYSIWYG rich text editor for embedding in web pages. | summernote | 11.8k |
 | [usehooks](https://github.com/uidotdev/usehooks) | Website with a collection of server-safe React hooks, documented with examples and articles. | uidotdev | 11.5k |
 | [material-web](https://github.com/material-components/material-web) | Web components implementing Material Design, built with Lit. | material-components | 11.5k |
-| [base-ui](https://github.com/mui/base-ui) | Unstyled, accessible React UI components for building web apps and design systems. | mui | 11.4k |
+| [base-ui](https://github.com/mui/base-ui) | Unstyled, accessible React UI components for building web apps and design systems. | mui | 11.5k |
 | [vee-validate](https://github.com/logaretm/vee-validate) | Library for building and validating forms in Vue.js. | logaretm | 11.3k |
-| [victory](https://github.com/FormidableLabs/victory) | Composable React components for building interactive data visualizations. | FormidableLabs | 11.2k |
+| [victory](https://github.com/FormidableLabs/victory) | Composable React components for building interactive data visualizations. | FormidableLabs | 11.3k |
 | [tambo](https://github.com/tambo-ai/tambo) | SDK for building generative UI in React applications driven by AI agents. | tambo-ai | 11.2k |
 | [react-pdf](https://github.com/wojtekmaj/react-pdf) | React component for displaying PDF files in web applications as easily as images. | wojtekmaj | 11.2k |
 | [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) | Animation library for React Native that runs animations on the UI thread for smooth performance. | software-mansion | 11.1k |
 | [react-dropzone](https://github.com/react-dropzone/react-dropzone) | React component for HTML5 drag-and-drop file zones to handle file uploads. | react-dropzone | 11k |
 | [react-hot-toast](https://github.com/timolins/react-hot-toast) | Lightweight React library for displaying toast notifications. | timolins | 11k |
 | [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | Microsoft icon collection for Android, iOS, Flutter, and web design in a modern style. | microsoft | 11k |
-| [MathJax](https://github.com/mathjax/MathJax) | JavaScript library that renders LaTeX and MathML math accessibly in all major web browsers. | mathjax | 10.9k |
+| [MathJax](https://github.com/mathjax/MathJax) | JavaScript library that renders LaTeX and MathML math accessibly in all major web browsers. | mathjax | 11k |
 | [nuqs](https://github.com/47ng/nuqs) | Type-safe React state manager that stores state in URL search parameters, like useState. | 47ng | 10.9k |
 | [ui](https://github.com/cosscom/ui) | Design system and component library for Cal.com, built with React, Radix UI, and shadcn/ui. | cosscom | 10.9k |
 | [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) | React Native UI library with themeable Eva Design components for iOS, Android and web. | akveo | 10.7k |
@@ -200,7 +200,7 @@
 | [ckeditor5](https://github.com/ckeditor/ckeditor5) | Modular rich text editor framework with collaborative editing and modern framework integrations. | ckeditor | 10.5k |
 | [stylex](https://github.com/meta/stylex) | Styling system for building large, complex user interfaces in JavaScript. | meta | 10.5k |
 | [react-native-swiper](https://github.com/leecade/react-native-swiper) | Swiper component for React Native that supports swipeable carousel views. | leecade | 10.5k |
-| [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) | Zero-runtime stylesheet system for writing CSS in TypeScript. | vanilla-extract-css | 10.4k |
+| [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) | Zero-runtime stylesheet system for writing CSS in TypeScript. | vanilla-extract-css | 10.5k |
 | [BlockNote](https://github.com/TypeCellOS/BlockNote) | Block-based rich text editor for React in the style of Notion, built on ProseMirror and Tiptap. | TypeCellOS | 10.4k |
 | [react-native-calendars](https://github.com/wix/react-native-calendars) | Calendar components for React Native apps on iOS and Android. | wix | 10.3k |
 | [critical](https://github.com/addyosmani/critical) | Extracts critical-path CSS from HTML pages and inlines it to speed up rendering. | addyosmani | 10.3k |
@@ -213,8 +213,8 @@
 | [carbon](https://github.com/carbon-design-system/carbon) | IBM's design system providing React components and styles for building consistent web interfaces. | carbon-design-system | 9.6k |
 | [flowbite](https://github.com/themesberg/flowbite) | Open-source UI component library and front-end framework built on Tailwind CSS. | themesberg | 9.4k |
 | [react-draggable](https://github.com/react-grid-layout/react-draggable) | React component that makes its child element draggable. | react-grid-layout | 9.3k |
-| [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) | Performant, fully configurable interactive bottom sheet component for React Native. | gorhom | 9.1k |
 | [tsparticles](https://github.com/tsparticles/tsparticles) | JavaScript library for creating customizable particle, confetti and fireworks animations for web backgrounds. | tsparticles | 9.1k |
+| [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) | Performant, fully configurable interactive bottom sheet component for React Native. | gorhom | 9.1k |
 | [baseweb](https://github.com/uber/baseweb) | React component library implementing Uber's Base design language for web applications. | uber | 9k |
 | [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | Minimal CSS stylesheet that replicates GitHub's Markdown rendering style. | sindresorhus | 9k |
 | [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) | JavaScript library that detects elements entering the viewport and provides smooth scrolling with parallax effects. | locomotivemtl | 8.9k |
@@ -251,8 +251,8 @@
 | [styled-jsx](https://github.com/vercel/styled-jsx) | Scoped CSS support for JSX, including dynamic styles and shadow DOM, for React. | vercel | 7.8k |
 | [polished](https://github.com/styled-components/polished) | Lightweight toolset of helper functions for writing styles in JavaScript. | styled-components | 7.7k |
 | [boneyard](https://github.com/0xGF/boneyard) | Framework that automatically generates skeleton loading screens for user interfaces. | 0xGF | 7.6k |
+| [rune](https://github.com/anomalyco/rune) 🆕 | Native user interface framework written in Rust. | anomalyco | 7.5k |
 | [next-enterprise](https://github.com/Blazity/next-enterprise) | Next.js starter template with TypeScript, Tailwind CSS, ESLint, Prettier, and testing tools for large apps. | Blazity | 7.5k |
-| [rune](https://github.com/anomalyco/rune) 🆕 | Native user interface framework written in Rust. | anomalyco | 7.4k |
 | [react-modal](https://github.com/reactjs/react-modal) | Accessible modal dialog component for React applications. | reactjs | 7.4k |
 | [flash-list](https://github.com/Shopify/flash-list) | List component for React Native intended as a faster replacement for the built-in list views. | Shopify | 7.3k |
 | [react-native-webview](https://github.com/react-native-webview/react-native-webview) | Cross-platform WebView component for React Native apps. | react-native-webview | 7.2k |
@@ -285,16 +285,16 @@
 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | Community-maintained collection of themes for customizing the Spotify client via Spicetify. | spicetify | 6.2k |
 | [solid-start](https://github.com/solidjs/solid-start) | Meta-framework for building web applications with Solid.js, including file-system routing. | solidjs | 5.9k |
 | [mui-x](https://github.com/mui/mui-x) | Advanced React components including a data grid, date and time pickers, and charts. | mui | 5.9k |
+| [ui](https://github.com/vercel-labs/ui) 🆕 | Library of accessible UI behaviors that AI agents can use to build user interfaces. | vercel-labs | 5.9k |
 | [frontend](https://github.com/home-assistant/frontend) | Web user interface for the Home Assistant home automation platform, built with Lit. | home-assistant | 5.8k |
 | [streamdown](https://github.com/vercel/streamdown) | Drop-in replacement for react-markdown, designed for rendering streaming AI-generated markdown. | vercel | 5.8k |
 | [tailwind-merge](https://github.com/dcastil/tailwind-merge) | Utility for merging Tailwind CSS classes while resolving conflicting styles. | dcastil | 5.7k |
 | [angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) | Example real-world application built with Angular for reference. | realworld-apps | 5.7k |
-| [react-native-modal](https://github.com/react-native-modal/react-native-modal) | Enhanced, animated and customizable modal component for React Native. | react-native-modal | 5.7k |
-| [ui](https://github.com/vercel-labs/ui) 🆕 | Library of accessible UI behaviors that AI agents can use to build user interfaces. | vercel-labs | 5.6k |
+| [react-native-modal](https://github.com/react-native-modal/react-native-modal) | Enhanced, animated and customizable modal component for React Native. | react-native-modal | 5.6k |
 | [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) | React hooks for the Intersection Observer API to detect when elements enter or leave the viewport. | thebuilder | 5.5k |
 | [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) | React library for resizable panel groups and layouts. | bvaughn | 5.5k |
-| [ark](https://github.com/chakra-ui/ark) | Unstyled, accessible UI component primitives for React, Vue, Solid and Svelte design systems. | chakra-ui | 5.5k |
 | [canvas-ui](https://github.com/DavidHDev/canvas-ui) | Component library of canvas-based creative UI elements with WebGL effects for React, Vue, and Svelte. | DavidHDev | 5.5k |
+| [ark](https://github.com/chakra-ui/ark) | Unstyled, accessible UI component primitives for React, Vue, Solid and Svelte design systems. | chakra-ui | 5.5k |
 | [theme-ui](https://github.com/system-ui/theme-ui) | React design system library for building themeable apps using design tokens and constraint-based layout. | system-ui | 5.4k |
 | [codehike](https://github.com/code-hike/codehike) | Library for building content-rich websites from Markdown and React components. | code-hike | 5.4k |
 | [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) | JavaScript WYSIWYG HTML editor for adding rich text editing to web applications. | froala | 5.4k |
@@ -312,7 +312,7 @@
 | [survey-library](https://github.com/surveyjs/survey-library) | Library for rendering JSON-defined forms, surveys, and wizards in React, Angular, and Vue. | surveyjs | 4.9k |
 | [reactivesearch](https://github.com/appbaseio/reactivesearch) | Search UI components for React and Vue apps that work with Elasticsearch data. | appbaseio | 4.9k |
 | [firebaseui-web](https://github.com/firebase/firebaseui-web) | Customizable web UI components built on Firebase SDKs to reduce boilerplate code. | firebase | 4.9k |
-| [Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | Collection of libraries and models for building next-generation user interfaces with motion effects. | Jakubantalik | 4.8k |
+| [Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | Collection of libraries and models for building next-generation user interfaces with motion effects. | Jakubantalik | 4.9k |
 | [monaco-react](https://github.com/suren-atoyan/monaco-react) | React wrapper for the Monaco Editor that works without webpack, rollup, or parcel configuration. | suren-atoyan | 4.8k |
 | [tweakpane](https://github.com/cocopon/tweakpane) | Compact, zero-dependency GUI for tweaking parameters and monitoring values. | cocopon | 4.7k |
 | [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) | React component for syntax highlighting using Prism or highlight.js, styled with inline styles. | react-syntax-highlighter | 4.7k |
@@ -332,8 +332,8 @@
 | [instantsearch](https://github.com/algolia/instantsearch) | Libraries for building fast search interfaces with Algolia in JavaScript, React and Vue. | algolia | 4.1k |
 | [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | Dotted orb loading indicators for AI and agent interfaces, with nine types in two sizes. | Jakubantalik | 4k |
 | [next-auth-example](https://github.com/nextauthjs/next-auth-example) | Example project showing how to use NextAuth.js with Next.js for authentication. | nextauthjs | 4k |
-| [kibo](https://github.com/shadcnblocks/kibo) | Registry of composable, accessible components for shadcn/ui, free and open source. | shadcnblocks | 4k |
 | [shaders](https://github.com/paper-design/shaders) | Zero-dependency WebGL canvas shader library for React that installs from npm. | paper-design | 4k |
+| [kibo](https://github.com/shadcnblocks/kibo) | Registry of composable, accessible components for shadcn/ui, free and open source. | shadcnblocks | 4k |
 | [twind](https://github.com/tw-in-js/twind) | Compact, fast Tailwind CSS engine that runs directly in JavaScript. | tw-in-js | 3.9k |
 | [react-image-gallery](https://github.com/xiaolin/react-image-gallery) | React image gallery component with thumbnail support and carousel-style slide navigation. | xiaolin | 3.9k |
 | [uilayouts](https://github.com/ui-layouts/uilayouts) | Collection of UI components, effects, and ready-to-use blocks for building front-end interfaces. | ui-layouts | 3.9k |
@@ -412,8 +412,8 @@
 | [react-stripe-js](https://github.com/stripe/react-stripe-js) | React components for integrating Stripe.js and Stripe Elements into React applications. | stripe | 2k |
 | [Relm4](https://github.com/Relm4/Relm4) | Framework for building native GTK4 desktop applications in Rust with an Elm-inspired architecture. | Relm4 | 2k |
 | [shadcn-studio](https://github.com/shadcnstudio/shadcn-studio) | Open-source copy-paste shadcn components, blocks, and templates with a theme generator. | shadcnstudio | 2k |
-| [react-filepond](https://github.com/pqina/react-filepond) | Adapter component for using FilePond file upload widgets in React. | pqina | 2k |
 | [bklit-ui](https://github.com/bklit/bklit-ui) | Open-source UI and charts library for data visualization, built on Base UI. | bklit | 2k |
+| [react-filepond](https://github.com/pqina/react-filepond) | Adapter component for using FilePond file upload widgets in React. | pqina | 2k |
 | [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) | React components wrapping the Google Maps JavaScript API for use in React and Gatsby apps. | JustFly1984 | 2k |
 | [drag-and-drop](https://github.com/formkit/drag-and-drop) |  | formkit | 2k |
 | [react-google-maps](https://github.com/visgl/react-google-maps) | React components and hooks for integrating the Google Maps JavaScript API. | visgl | 1.9k |
@@ -453,7 +453,7 @@
 | [uitripled](https://github.com/moumen-soliman/uitripled) | Production-ready blocks, components, and pages for shadcn/ui and Base UI, built with Framer Motion. | moumen-soliman | 1.4k |
 | [sonner-native-toasts](https://github.com/gunnartorfis/sonner-native-toasts) | Opinionated toast component for React Native, ported from Sonner. | gunnartorfis | 1.4k |
 | [react-date-picker](https://github.com/wojtekmaj/react-date-picker) | Date picker component for React apps, with calendar and month picker support. | wojtekmaj | 1.4k |
-| [edumeet](https://github.com/edumeet/edumeet) | Self-hosted multiparty video meeting web application built on mediasoup and WebRTC. | edumeet | 1.4k |
+| [edumeet](https://github.com/edumeet/edumeet) | Self-hosted multiparty video meeting web application built on mediasoup and WebRTC. | edumeet | 1.3k |
 | [react-awesome-button](https://github.com/rcaferati/react-awesome-button) | React button component with 3D, progress, social, and share styles and 60fps animations. | rcaferati | 1.3k |
 | [react-native](https://github.com/storybookjs/react-native) | Storybook integration for developing and documenting React Native components. | storybookjs | 1.3k |
 | [react-fullpage](https://github.com/alvarotrigo/react-fullpage) | Official React wrapper for fullPage.js, for building full-screen scrolling single-page websites. | alvarotrigo | 1.3k |
@@ -475,7 +475,7 @@
 | [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) | Collection of spinner components for React, used to show async operations in progress. | mhnpd | 1k |
 | [react-diff-view](https://github.com/otakustay/react-diff-view) | React component for rendering git diffs in a web interface. | otakustay | 1k |
 | [tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) |  | tailwindlabs | 999 |
-| [react-native-ease](https://github.com/appandflow/react-native-ease) | Declarative animation library for React Native that uses native platform animation APIs. | appandflow | 995 |
+| [react-native-ease](https://github.com/appandflow/react-native-ease) | Declarative animation library for React Native that uses native platform animation APIs. | appandflow | 996 |
 | [react-native-rich-editor](https://github.com/wxik/react-native-rich-editor) | Lightweight rich text editor component for React Native, built with JavaScript and HTML. | wxik | 945 |
 | [angular-split](https://github.com/angular-split/angular-split) | Angular UI library for splitting views into resizable areas using CSS grid layout. | angular-split | 934 |
 | [unlazy](https://github.com/johannschopplich/unlazy) | Lazy-loads images with BlurHash or ThumbHash placeholders in JS, Vue, React, Svelte and Nuxt. | johannschopplich | 889 |
@@ -506,7 +506,7 @@
 | [react-photoswipe-gallery](https://github.com/dromru/react-photoswipe-gallery) | React component wrapper around the PhotoSwipe lightbox gallery library. | dromru | 580 |
 | [react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) | Lightweight React component providing a code editor with syntax highlighting in a textarea. | uiwjs | 579 |
 | [react-color](https://github.com/uiwjs/react-color) | Small color picker component for React apps with several selectable color picker styles. | uiwjs | 575 |
-| [web](https://github.com/owncloud/web) | Next-generation web frontend for ownCloud Infinite Scale file sync and sharing. | owncloud | 568 |
+| [web](https://github.com/owncloud/web) | Next-generation web frontend for ownCloud Infinite Scale file sync and sharing. | owncloud | 569 |
 | [meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) | Search client that connects Meilisearch to InstantSearch for JavaScript front ends. | meilisearch | 534 |
 | [tw-classed](https://github.com/sannajammeh/tw-classed) | Library for Tailwind CSS class handling in React and TypeScript components. | sannajammeh | 528 |
 | [react-schemaorg](https://github.com/google/react-schemaorg) | Type-checked Schema.org JSON-LD generation for React components. | google | 525 |
@@ -528,13 +528,13 @@
 | [dsfr](https://github.com/GouvernementFR/dsfr) | French government design system providing HTML, CSS, and JavaScript components for public websites. | GouvernementFR | 401 |
 | [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) | Utilities for traversing React.Children, adding recursive filter and map methods for nested children. | fernandopasik | 384 |
 | [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) | Lightweight React component for embedding YouTube videos privately, with faster loading. | ibrahimcesar | 382 |
-| [react-terminal](https://github.com/bony2023/react-terminal) | React component that renders an interactive terminal in a web application. | bony2023 | 377 |
 | [is-hotkey](https://github.com/ianstormtaylor/is-hotkey) | Checks whether a browser keyboard event matches a hotkey definition. | ianstormtaylor | 377 |
+| [react-terminal](https://github.com/bony2023/react-terminal) | React component that renders an interactive terminal in a web application. | bony2023 | 376 |
 | [react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) | Checkbox component for React Native apps with a consistent cross-platform appearance. | react-native-checkbox | 376 |
 | [keycloakify-starter](https://github.com/keycloakify/keycloakify-starter) | Starter template for creating Keycloak login and account themes with Keycloakify. | keycloakify | 361 |
 | [supertokens-auth-react](https://github.com/supertokens/supertokens-auth-react) | React authentication module for the SuperTokens open source auth system. | supertokens | 306 |
 | [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) | Customizable cookie consent banner components for web apps, built on shadcn/ui and Tailwind CSS. | r2hu1 | 292 |
-| [shadcn-ui-big-calendar](https://github.com/list-jonas/shadcn-ui-big-calendar) | React Big Calendar styled with shadcn CSS variables for light and dark themes, usable in Next.js. | list-jonas | 272 |
+| [shadcn-ui-big-calendar](https://github.com/list-jonas/shadcn-ui-big-calendar) | React Big Calendar styled with shadcn CSS variables for light and dark themes, usable in Next.js. | list-jonas | 274 |
 | [react-embed](https://github.com/streamich/react-embed) | Embeds third-party widgets in React applications. | streamich | 254 |
 | [react-signature-pad-wrapper](https://github.com/michaeldzjap/react-signature-pad-wrapper) | React wrapper component for the signature_pad library to capture handwritten signatures. | michaeldzjap | 231 |
 | [image](https://github.com/react-component/image) | React components for displaying images with fallback sources and preview support. | react-component | 211 |

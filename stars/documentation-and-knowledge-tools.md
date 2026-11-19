@@ -4,22 +4,22 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 196k |
+| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 197k |
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.1k |
+| [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.2k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.1k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.6k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.2k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 74.7k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
-| [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.5k |
+| [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.6k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.2k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.2k |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.5k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.2k |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.6k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.3k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.4k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.3k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47k |
-| [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.6k |
+| [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.7k |
 | [cheat.sh](https://github.com/chubin/cheat.sh) | Command-line cheat sheet service that provides quick examples for Unix commands and tools. | chubin | 41.9k |
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.3k |
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.7k |
@@ -47,7 +47,7 @@
 | [proposals](https://github.com/tc39/proposals) | Tracks ECMAScript proposals through the TC39 stages from idea to standardization. | tc39 | 19.2k |
 | [etherpad](https://github.com/ether/etherpad) | Open-source real-time collaborative document editor that runs in the browser. | ether | 18.6k |
 | [vitepress](https://github.com/vuejs/vitepress) | Static site generator built on Vite and Vue, designed for Markdown-based documentation. | vuejs | 18.5k |
-| [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Generates wiki-style documentation with AI for GitHub, GitLab, and Bitbucket repositories. | AsyncFuncAI | 18.4k |
+| [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Generates wiki-style documentation with AI for GitHub, GitLab, and Bitbucket repositories. | AsyncFuncAI | 18.5k |
 | [openwiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent-oriented documentation for a codebase. | langchain-ai | 18k |
 | [zola](https://github.com/getzola/zola) | Fast static site generator distributed as a single binary, with built-in markdown and content management. | getzola | 17.6k |
 | [foam](https://github.com/foambubble/foam) | Personal knowledge management and note-taking system for VS Code using Markdown and graph views. | foambubble | 17.5k |
@@ -92,8 +92,8 @@
 | [ai-notes](https://github.com/swyxio/ai-notes) | Notes for software engineers keeping up with AI developments, backing Latent Space articles. | swyxio | 6.3k |
 | [blocksuite](https://github.com/toeverything/blocksuite) | Toolkit for building block-based content editors and collaborative web applications with CRDT support. | toeverything | 6.1k |
 | [docx](https://github.com/dolanmiu/docx) | JavaScript and TypeScript library for generating and modifying .docx files with a declarative API, in Node and browsers. | dolanmiu | 6k |
-| [documentation](https://github.com/documentationjs/documentation) | Documentation generator for modern JavaScript that extracts API docs from source comments. | documentationjs | 5.8k |
 | [browser-compat-data](https://github.com/mdn/browser-compat-data) | Dataset of browser compatibility data for Web technologies, as displayed on MDN. | mdn | 5.8k |
+| [documentation](https://github.com/documentationjs/documentation) | Documentation generator for modern JavaScript that extracts API docs from source comments. | documentationjs | 5.8k |
 | [website](https://github.com/kubernetes/website) | Source repository for the Kubernetes project website and documentation. | kubernetes | 5.4k |
 | [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) | Markdown syntax reference for writing README files on GitHub. | tchapi | 5.3k |
 | [mediawiki](https://github.com/wikimedia/mediawiki) | PHP wiki software that powers Wikipedia and other collaborative editing sites. | wikimedia | 5.2k |
@@ -130,7 +130,7 @@
 | [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | Docusaurus v3 plugin that generates API reference documentation from OpenAPI specifications. | PaloAltoNetworks | 1.1k |
 | [fyi](https://github.com/expo/fyi) | Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename. | expo | 1.1k |
 | [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 970 |
-| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 911 |
+| [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 912 |
 | [typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) | TypeDoc plugin that generates TypeScript API documentation in Markdown format. | typedoc2md | 823 |
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 748 |
 | [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 733 |

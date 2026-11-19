@@ -5,14 +5,14 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | Web scraping framework for everything from single requests to full-scale crawls. | D4Vinci | 104k |
-| [playwright](https://github.com/microsoft/playwright) | Framework for web testing and automation across Chromium, Firefox and WebKit with a single API. | microsoft | 100k |
+| [playwright](https://github.com/microsoft/playwright) | Framework for web testing and automation across Chromium, Firefox and WebKit with a single API. | microsoft | 101k |
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
 | [cypress](https://github.com/cypress-io/cypress) | End-to-end and component testing framework for applications running in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
 | [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.2k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
-| [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.3k |
-| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.1k |
+| [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
+| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.4k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.5k |
@@ -25,9 +25,9 @@
 | [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.6k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.7k |
 | [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.4k |
-| [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.4k |
+| [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.5k |
 | [docker-android](https://github.com/budtmo/docker-android) | Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents. | budtmo | 16.2k |
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
 | [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.6k |
@@ -35,7 +35,7 @@
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
 | [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 13.9k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation framework for web scraping, end-to-end testing, and bypassing bot detection. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.4k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
@@ -47,7 +47,7 @@
 | [jmeter](https://github.com/apache/jmeter) | Open-source Java application for load testing and measuring the performance of web and other services. | apache | 9.6k |
 | [artillery](https://github.com/artilleryio/artillery) | Load testing platform for HTTP, GraphQL, WebSocket, and gRPC APIs, supporting distributed runs. | artilleryio | 9.1k |
 | [chai](https://github.com/chaijs/chai) | BDD and TDD assertion library for Node.js and the browser, usable with any test framework. | chaijs | 8.3k |
-| [axe-core](https://github.com/dequelabs/axe-core) | Accessibility testing engine for automated checks of web user interfaces. | dequelabs | 7.8k |
+| [axe-core](https://github.com/dequelabs/axe-core) | Accessibility testing engine for automated checks of web user interfaces. | dequelabs | 7.9k |
 | [newman](https://github.com/postmanlabs/newman) | Command-line runner for Postman collections, used for automated API testing in CI pipelines. | postmanlabs | 7.3k |
 | [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Runs Lighthouse on every commit, compares results over time, and flags performance regressions. | GoogleChrome | 7.2k |
 | [ts-jest](https://github.com/kulshekhar/ts-jest) | Jest transformer with source map support for testing TypeScript projects with Jest. | kulshekhar | 7.1k |
@@ -57,7 +57,7 @@
 | [cucumber-js](https://github.com/cucumber/cucumber-js) | Cucumber behavior-driven testing tool for JavaScript and TypeScript. | cucumber | 5.4k |
 | [prism](https://github.com/stoplightio/prism) | Tool that turns OpenAPI and Postman collection files into mock API servers with validation. | stoplightio | 5.1k |
 | [unlighthouse](https://github.com/harlan-zw/unlighthouse) | Tool that runs Google Lighthouse audits across every page of a website using Puppeteer. | harlan-zw | 5k |
-| [happy-dom](https://github.com/capricorn86/happy-dom) | JavaScript implementation of a web browser's DOM and APIs without a graphical interface, for testing. | capricorn86 | 4.7k |
+| [happy-dom](https://github.com/capricorn86/happy-dom) | JavaScript implementation of a web browser's DOM and APIs without a graphical interface, for testing. | capricorn86 | 4.8k |
 | [fuite](https://github.com/nolanlawson/fuite) | Tool for detecting memory leaks in web applications. | nolanlawson | 4.6k |
 | [jest-dom](https://github.com/testing-library/jest-dom) | Custom Jest matchers for testing the state of the DOM. | testing-library | 4.6k |
 | [pa11y](https://github.com/pa11y/pa11y) | Automated accessibility testing tool that checks web pages for WCAG issues. | pa11y | 4.6k |

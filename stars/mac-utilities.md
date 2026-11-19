@@ -5,11 +5,11 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.4k |
-| [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.4k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.5k |
+| [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.5k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.1k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.2k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
@@ -26,7 +26,7 @@
 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows-style alt-tab window switcher for macOS that shows window previews. | lwouis | 16.5k |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS, inspired by xmonad. | ianyh | 16.3k |
 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | Default Homebrew tap containing open-source formulae built from source for macOS and Linux package management. | Homebrew | 15.7k |
-| [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.4k |
+| [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.5k |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Source-available macOS app cleaner for removing apps and leftover files. | alienator88 | 15.2k |
 | [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.8k |
 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.4k |
@@ -55,7 +55,7 @@
 | [Snapzy](https://github.com/duongductrong/Snapzy) | Native macOS app for screenshots and screen recording, an open-source alternative to CleanShot X. | duongductrong | 3.6k |
 | [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) | OpenCore-based configuration for running native macOS on AMD hardware. | AMD-OSX | 3.1k |
 | [AutoRaise](https://github.com/sbmpost/AutoRaise) | macOS utility that raises and focuses a window when the mouse hovers over it. | sbmpost | 2.9k |
-| [terminal-mac](https://github.com/govijr/terminal-mac) 🆕 | Renders the macOS graphical environment inside a terminal window. | govijr | 2.8k |
+| [terminal-mac](https://github.com/govijr/terminal-mac) 🆕 | Renders the macOS graphical environment inside a terminal window. | govijr | 2.9k |
 | [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) | Swift package for adding user-customizable global keyboard shortcuts to macOS apps. | sindresorhus | 2.7k |
 | [timer-app](https://github.com/michaelvillar/timer-app) | Simple timer application for macOS with a desktop widget. | michaelvillar | 2.7k |
 | [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) | Python script that cleans up caches and unneeded files on macOS. | mac-cleanup | 2.4k |
@@ -66,7 +66,7 @@
 | [MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) | Plugin for macOS Mail that blocks email trackers, read receipts, and spy pixels. | apparition47 | 1.1k |
 | [XQuartz](https://github.com/XQuartz/XQuartz) | X11 server and client libraries for macOS, providing X Window System support. | XQuartz | 1.1k |
 | [homebrew-brew](https://github.com/mongodb/homebrew-brew) | Homebrew tap providing official MongoDB software formulas for macOS. | mongodb | 957 |
-| [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) | Rust crates for Apple platform tasks such as code signing, notarization, and Mach-O parsing. | indygreg | 893 |
+| [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) | Rust crates for Apple platform tasks such as code signing, notarization, and Mach-O parsing. | indygreg | 894 |
 | [Trimmy](https://github.com/steipete/Trimmy) | Clipboard tool that flattens multi-line shell snippets so they paste and run as one command. | steipete | 753 |
 | [osx-sign](https://github.com/electron/osx-sign) | Library for codesigning Electron macOS apps with entitlements support. | electron | 635 |
 | [notarize](https://github.com/electron/notarize) | Library for notarizing Electron macOS apps with Apple's notarization service. | electron | 194 |

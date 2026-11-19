@@ -38,7 +38,7 @@
 | [rook](https://github.com/rook/rook) | Storage orchestration for Kubernetes, managing Ceph and other storage systems. | rook | 13.7k |
 | [aws-cdk](https://github.com/aws/aws-cdk) | Framework for defining AWS cloud infrastructure in code using languages such as TypeScript. | aws | 13k |
 | [eureka](https://github.com/Netflix/eureka) | Service registry from Netflix for discovery, load balancing, and failover of mid-tier services. | Netflix | 12.8k |
-| [crossplane](https://github.com/crossplane/crossplane) | Cloud-native control plane for provisioning and managing infrastructure through Kubernetes APIs. | crossplane | 12.2k |
+| [crossplane](https://github.com/crossplane/crossplane) | Cloud-native control plane for provisioning and managing infrastructure through Kubernetes APIs. | crossplane | 12.3k |
 | [functions-samples](https://github.com/firebase/functions-samples) | Sample apps demonstrating common use cases with Cloud Functions for Firebase. | firebase | 12.2k |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | Tool for customizing Kubernetes YAML configurations without templates, using overlays and patches. | kubernetes-sigs | 12.2k |
 | [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.1k |
@@ -59,7 +59,7 @@
 | [amplify-js](https://github.com/aws-amplify/amplify-js) | JavaScript library for building applications that connect to AWS cloud services. | aws-amplify | 9.6k |
 | [microk8s](https://github.com/canonical/microk8s) | Single-package Kubernetes distribution for datacenters, edge and IoT devices. | canonical | 9.4k |
 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | SDK for building Kubernetes APIs and controllers using custom resource definitions. | kubernetes-sigs | 9.4k |
-| [sealed-secrets](https://github.com/bitnami/sealed-secrets) | Kubernetes controller and CLI that encrypts Secrets so they can be stored safely in Git. | bitnami | 9.3k |
+| [sealed-secrets](https://github.com/bitnami/sealed-secrets) | Kubernetes controller and CLI that encrypts Secrets so they can be stored safely in Git. | bitnami | 9.4k |
 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | Controller that dynamically configures external DNS servers from Kubernetes resources. | kubernetes-sigs | 9.2k |
 | [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native Kubernetes resources for defining and running CI/CD pipelines. | tektoncd | 9.1k |
 | [autoscaler](https://github.com/kubernetes/autoscaler) | Components that automatically scale Kubernetes clusters and pods based on load. | kubernetes | 9k |
@@ -95,8 +95,8 @@
 | [lxd](https://github.com/canonical/lxd) | Manager for system containers and virtual machines with a unified API, built on LXC. | canonical | 4.9k |
 | [krr](https://github.com/robusta-dev/krr) | Tool that generates Kubernetes resource recommendations from Prometheus metrics to reduce costs. | robusta-dev | 4.8k |
 | [azure-cli](https://github.com/Azure/azure-cli) | Command-line interface for managing Azure resources and services. | Azure | 4.7k |
-| [s5cmd](https://github.com/peak/s5cmd) | Parallel tool for running S3 and local filesystem operations. | peak | 4.2k |
 | [crun](https://github.com/containers/crun) | Fast, lightweight OCI runtime and C library for running containers. | containers | 4.2k |
+| [s5cmd](https://github.com/peak/s5cmd) | Parallel tool for running S3 and local filesystem operations. | peak | 4.2k |
 | [kubeadm](https://github.com/kubernetes/kubeadm) | Issue tracker aggregating reports and feature requests for the kubeadm cluster bootstrapping tool. | kubernetes | 4k |
 | [enhancements](https://github.com/kubernetes/enhancements) | Tracks Kubernetes enhancement proposals and their status across releases and SIGs. | kubernetes | 4k |
 | [kube](https://github.com/kube-rs/kube) | Rust client library and controller runtime for interacting with Kubernetes clusters. | kube-rs | 3.9k |
@@ -146,15 +146,15 @@
 | [onyxia](https://github.com/InseeFrLab/onyxia) | Data science environment for Kubernetes that provides datalab tools deployed via Helm. | InseeFrLab | 908 |
 | [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 822 |
 | [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 776 |
-| [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 758 |
+| [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 757 |
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 746 |
-| [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 666 |
+| [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 667 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
-| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 569 |
+| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
-| [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 512 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 483 |
+| [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 485 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 341 |
 | [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 315 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 312 |

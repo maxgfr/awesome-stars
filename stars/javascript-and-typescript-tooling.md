@@ -4,12 +4,12 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [axios](https://github.com/axios/axios) | Promise-based HTTP client for the browser and Node.js. | axios | 110k |
+| [axios](https://github.com/axios/axios) | Promise-based HTTP client for the browser and Node.js. | axios | 109k |
 | [deno](https://github.com/denoland/deno) | Modern runtime for JavaScript and TypeScript built on V8 and Rust. | denoland | 109k |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript runtime with built-in bundler, test runner, and package manager. | oven-sh | 96.7k |
-| [vite](https://github.com/vitejs/vite) | Frontend build tool with a fast dev server and hot module replacement. | vitejs | 83.9k |
+| [vite](https://github.com/vitejs/vite) | Frontend build tool with a fast dev server and hot module replacement. | vitejs | 84k |
 | [webpack](https://github.com/webpack/webpack) | Module bundler that packs JavaScript and other assets into bundles, with code splitting and loaders. | webpack | 66k |
-| [lodash](https://github.com/lodash/lodash) | Modern JavaScript utility library offering modular methods for common programming tasks. | lodash | 61.5k |
+| [lodash](https://github.com/lodash/lodash) | Modern JavaScript utility library offering modular methods for common programming tasks. | lodash | 61.3k |
 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | Repository of high-quality TypeScript type definitions for JavaScript libraries under @types. | DefinitelyTyped | 51.5k |
 | [dayjs](https://github.com/iamkun/dayjs) | Lightweight immutable date library with a Moment.js-like API for parsing and formatting dates. | iamkun | 48.6k |
 | [zx](https://github.com/google/zx) | Tool for writing scripts in JavaScript that run shell commands through child processes. | google | 45.9k |
@@ -25,7 +25,7 @@
 | [swc](https://github.com/swc-project/swc) | A Rust-based platform for fast JavaScript and TypeScript compilation and parsing. | swc-project | 34.2k |
 | [immutable-js](https://github.com/immutable-js/immutable-js) | Library of immutable persistent data collections for JavaScript that improve efficiency and simplicity. | immutable-js | 33k |
 | [turborepo](https://github.com/vercel/turborepo) | High-performance build system for JavaScript and TypeScript monorepos, written in Rust. | vercel | 31.4k |
-| [cheerio](https://github.com/cheeriojs/cheerio) | Fast, flexible library for parsing and manipulating HTML and XML with a jQuery-like API. | cheeriojs | 30.5k |
+| [cheerio](https://github.com/cheeriojs/cheerio) | Fast, flexible library for parsing and manipulating HTML and XML with a jQuery-like API. | cheeriojs | 30.6k |
 | [xstate](https://github.com/statelyai/xstate) | Library for state machines, statecharts and actors to manage complex application logic in JavaScript. | statelyai | 30.5k |
 | [composer](https://github.com/composer/composer) | Dependency manager for PHP that declares and installs project packages. | composer | 29.6k |
 | [vue-cli](https://github.com/vuejs/vue-cli) | webpack-based tooling for scaffolding and developing Vue.js applications. | vuejs | 29.5k |
@@ -78,8 +78,8 @@
 | [ts-pattern](https://github.com/gvergnaud/ts-pattern) | Exhaustive pattern matching library for TypeScript with type inference. | gvergnaud | 15.2k |
 | [brotli](https://github.com/google/brotli) | Reference implementation of the Brotli compression format. | google | 15.1k |
 | [got](https://github.com/sindresorhus/got) | Human-friendly HTTP request library for Node.js with retries, streams, and promise support. | sindresorhus | 15k |
-| [ajv](https://github.com/ajv-validator/ajv) | Fast JSON Schema validator supporting multiple drafts and JSON Type Definition (RFC 8927). | ajv-validator | 14.9k |
 | [showdown](https://github.com/showdownjs/showdown) | Bidirectional converter between Markdown and HTML, written in JavaScript. | showdownjs | 14.9k |
+| [ajv](https://github.com/ajv-validator/ajv) | Fast JSON Schema validator supporting multiple drafts and JSON Type Definition (RFC 8927). | ajv-validator | 14.9k |
 | [formatjs](https://github.com/formatjs/formatjs) | Monorepo of FormatJS internationalization libraries, including react-intl. | formatjs | 14.8k |
 | [mitosis](https://github.com/BuilderIO/mitosis) | Compiler that lets components be written once and generated for React, Vue, Angular, Svelte and more. | BuilderIO | 14.5k |
 | [shelljs](https://github.com/shelljs/shelljs) | Portable Unix shell commands implemented in JavaScript for use in Node.js scripts. | shelljs | 14.4k |
@@ -113,7 +113,7 @@
 | [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) | Tool that generates code from a GraphQL schema and operations, with support for custom plugins. | dotansimha | 11.3k |
 | [patch-package](https://github.com/ds300/patch-package) | Tool that creates and applies patch files to fix broken node_modules dependencies. | ds300 | 11.2k |
 | [svgr](https://github.com/gregberge/svgr) | Tool that transforms SVG files into React and React Native components. | gregberge | 11.1k |
-| [wxt](https://github.com/wxt-dev/wxt) | Framework for building browser extensions with dev server, hot module reloading, and cross-browser builds. | wxt-dev | 10.7k |
+| [wxt](https://github.com/wxt-dev/wxt) | Framework for building browser extensions with dev server, hot module reloading, and cross-browser builds. | wxt-dev | 10.8k |
 | [node-gyp](https://github.com/nodejs/node-gyp) | Cross-platform command-line tool for compiling native addon modules for Node.js. | nodejs | 10.7k |
 | [protobuf.js](https://github.com/protobufjs/protobuf.js) | Protocol Buffers implementation for JavaScript and TypeScript that requires no protoc compiler. | protobufjs | 10.6k |
 | [jszip](https://github.com/Stuk/jszip) | JavaScript library for creating, reading, and editing ZIP files. | Stuk | 10.4k |
@@ -170,9 +170,9 @@
 | [typebox](https://github.com/sinclairzx81/typebox) | Library for building JSON Schema types with static TypeScript type resolution. | sinclairzx81 | 7k |
 | [query-string](https://github.com/sindresorhus/query-string) | Library for parsing and stringifying URL query strings into JavaScript objects. | sindresorhus | 6.9k |
 | [js-yaml](https://github.com/nodeca/js-yaml) | Fast YAML parser and dumper for JavaScript. | nodeca | 6.6k |
-| [npm-check](https://github.com/dylang/npm-check) | CLI tool that checks for outdated, incorrect, and unused npm dependencies. | dylang | 6.6k |
 | [vite-plus](https://github.com/voidzero-dev/vite-plus) | Unified toolchain and entry point for web development projects. | voidzero-dev | 6.6k |
 | [orval](https://github.com/orval-labs/orval) | Generates typed TypeScript clients, mocks and MSW handlers from OpenAPI or Swagger specifications. | orval-labs | 6.6k |
+| [npm-check](https://github.com/dylang/npm-check) | CLI tool that checks for outdated, incorrect, and unused npm dependencies. | dylang | 6.6k |
 | [larastan](https://github.com/larastan/larastan) | PHPStan extension that adds static code analysis to Laravel projects to improve code quality. | larastan | 6.6k |
 | [chancejs](https://github.com/chancejs/chancejs) | Random generator helper library for JavaScript producing numbers, strings, and other random data. | chancejs | 6.5k |
 | [markdownlint](https://github.com/DavidAnson/markdownlint) | Node.js style checker and lint tool for Markdown and CommonMark files. | DavidAnson | 6.4k |
@@ -225,7 +225,7 @@
 | [js-base64](https://github.com/dankogai/js-base64) | Base64 encoding and decoding library for JavaScript. | dankogai | 4.4k |
 | [tsdown](https://github.com/rolldown/tsdown) | Bundler for building JavaScript and TypeScript libraries, powered by Rolldown. | rolldown | 4.3k |
 | [file-type](https://github.com/sindresorhus/file-type) | Detects the file type of a file, stream, or buffer from its binary content. | sindresorhus | 4.3k |
-| [magic-regexp](https://github.com/unjs/magic-regexp) | Type-safe TypeScript library for building readable regular expressions that compile away at build time. | unjs | 4.3k |
+| [magic-regexp](https://github.com/danielroe/magic-regexp) | Type-safe TypeScript library for building readable regular expressions that compile away at build time. | danielroe | 4.3k |
 | [css-loader](https://github.com/webpack/css-loader) 🗄️ | Webpack loader that resolves and interprets CSS imports and url() references. | webpack | 4.3k |
 | [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) | Zero-configuration plugin that adds PWA support to Vite projects. | vite-pwa | 4.3k |
 | [p-queue](https://github.com/sindresorhus/p-queue) | Promise queue with concurrency control for Node.js and browsers. | sindresorhus | 4.3k |
@@ -269,11 +269,11 @@
 | [rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast, extensible web build tool powered by Rspack. | web-infra-dev | 3.4k |
 | [jwt-decode](https://github.com/auth0/jwt-decode) | Library for decoding JWT tokens in browser applications, without verifying signatures. | auth0 | 3.4k |
 | [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) | Node.js library that generates TypeScript or JavaScript API clients from OpenAPI specifications. | ferdikoomen | 3.4k |
-| [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) | Official Slack SDK for Node.js for building apps that use Slack APIs, including Socket Mode. | slackapi | 3.4k |
 | [ultracite](https://github.com/haydenbleasel/ultracite) | Zero-configuration linter and formatter with opinionated defaults, built on Biome. | haydenbleasel | 3.4k |
+| [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) | Official Slack SDK for Node.js for building apps that use Slack APIs, including Socket Mode. | slackapi | 3.4k |
 | [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) | Compiles JSON Schema documents into TypeScript type declarations. | bcherny | 3.4k |
-| [hotkey](https://github.com/github/hotkey) | Library for triggering actions on elements via keyboard shortcuts using a decorator. | github | 3.3k |
 | [tsrs](https://github.com/oxc-project/tsrs) 🆕 | Rust port of the TypeScript 7 type checker. | oxc-project | 3.3k |
+| [hotkey](https://github.com/github/hotkey) | Library for triggering actions on elements via keyboard shortcuts using a decorator. | github | 3.3k |
 | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | Generates JSON Schema from TypeScript source code types. | YousefED | 3.3k |
 | [spectral](https://github.com/stoplightio/spectral) | Flexible JSON and YAML linter for enforcing style guides on OpenAPI, Arazzo, and AsyncAPI documents. | stoplightio | 3.3k |
 | [react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) | CLI tools to scaffold and build React Native libraries for multiple targets. | callstack | 3.2k |
@@ -355,8 +355,8 @@
 | [cRonstrue](https://github.com/bradymholt/cRonstrue) | JavaScript library that converts cron expressions into human-readable descriptions. | bradymholt | 1.6k |
 | [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) | Vite plugin that resolves TypeScript path mappings from tsconfig.json. | aleclarson | 1.6k |
 | [colorette](https://github.com/jorgebucaran/colorette) | Lightweight library for setting terminal text colors and styles in Node.js and browser consoles. | jorgebucaran | 1.6k |
-| [tinypool](https://github.com/tinylibs/tinypool) | Minimal Node.js worker thread pool implementation, around 38KB in size. | tinylibs | 1.6k |
 | [reylo](https://github.com/reylosql/reylo) 🆕 | Imports SQL files into TypeScript with full type inference and no code generation step. | reylosql | 1.6k |
+| [tinypool](https://github.com/tinylibs/tinypool) | Minimal Node.js worker thread pool implementation, around 38KB in size. | tinylibs | 1.6k |
 | [deno_lint](https://github.com/denoland/deno_lint) | Fast linter for JavaScript and TypeScript written in Rust, used by the Deno runtime. | denoland | 1.6k |
 | [typesync](https://github.com/jeffijoe/typesync) | Tool that installs missing TypeScript type definitions for packages in package.json. | jeffijoe | 1.6k |
 | [redocly-cli](https://github.com/Redocly/redocly-cli) | Command-line tool to lint, validate, and generate docs for OpenAPI and other API standards. | Redocly | 1.6k |
@@ -405,7 +405,7 @@
 | [eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) | ESLint rules that disable mutation and enforce functional programming patterns in JavaScript and TypeScript. | eslint-functional | 1k |
 | [expo-monorepo-example](https://github.com/byCedric/expo-monorepo-example) | Monorepo starter with pnpm and Turborepo for cross-platform apps built with Expo and React Native. | byCedric | 995 |
 | [enhanced-resolve](https://github.com/webpack/enhanced-resolve) | Asynchronous, highly configurable module resolver offering an async require.resolve function. | webpack | 989 |
-| [i18next-browser-languageDetector](https://github.com/i18next/i18next-browser-languageDetector) | Browser language detection plugin for i18next that determines the user's preferred language. | i18next | 973 |
+| [i18next-browser-languageDetector](https://github.com/i18next/i18next-browser-languageDetector) | Browser language detection plugin for i18next that determines the user's preferred language. | i18next | 974 |
 | [nx-examples](https://github.com/nrwl/nx-examples) | Example Nx monorepo workspace using Angular, React, Cypress, and Jest. | nrwl | 966 |
 | [stylelint-order](https://github.com/hudochenkov/stylelint-order) | Stylelint plugin pack with linting rules for ordering properties and related CSS constructs. | hudochenkov | 962 |
 | [pkg](https://github.com/yao-pkg/pkg) | Tool that packages a Node.js project into a single executable file. | yao-pkg | 933 |
@@ -430,7 +430,7 @@
 | [node-deep-equal](https://github.com/inspect-js/node-deep-equal) | Loose deep-equality check that reimplements the algorithm of Node's assert.deepEqual. | inspect-js | 794 |
 | [ics](https://github.com/adamgibbons/ics) | Node.js generator for iCalendar (.ics) files supporting events and alarms. | adamgibbons | 788 |
 | [e18e](https://github.com/e18e/e18e) | Ecosystem project focused on performance of JavaScript packages and tooling. | e18e | 779 |
-| [node-dependency-tree](https://github.com/dependents/node-dependency-tree) | Node.js library that computes the dependency tree of a JavaScript module by parsing its imports. | dependents | 778 |
+| [node-dependency-tree](https://github.com/dependents/node-dependency-tree) | Node.js library that computes the dependency tree of a JavaScript module by parsing its imports. | dependents | 777 |
 | [node-tmp](https://github.com/raszi/node-tmp) | Node.js library for creating temporary files and directories. | raszi | 775 |
 | [tsc-watch](https://github.com/gilamran/tsc-watch) | TypeScript compiler in watch mode with an onSuccess callback that runs after each successful build. | gilamran | 719 |
 | [quansync](https://github.com/quansync-dev/quansync) | TypeScript library for writing code that runs in either sync or async mode. | quansync-dev | 718 |
@@ -446,7 +446,7 @@
 | [flags](https://github.com/vercel/flags) | Vercel's SDK for defining and evaluating feature flags in applications. | vercel | 630 |
 | [discord-api-types](https://github.com/discordjs/discord-api-types) | TypeScript typings for the Discord API, versioned to match each API version. | discordjs | 626 |
 | [sdk](https://github.com/microlinkhq/sdk) 🗄️ | SDK for turning any URL into an embeddable link preview card. | microlinkhq | 624 |
-| [globals](https://github.com/sindresorhus/globals) | Lists of global identifiers available in different JavaScript environments. | sindresorhus | 620 |
+| [globals](https://github.com/sindresorhus/globals) | Lists of global identifiers available in different JavaScript environments. | sindresorhus | 621 |
 | [eslint-plugin-check-file](https://github.com/dukeluo/eslint-plugin-check-file) | ESLint plugin that enforces consistent naming patterns for filenames and folders using glob matching. | dukeluo | 616 |
 | [community-plugins](https://github.com/esbuild/community-plugins) | Community-maintained list of plugins for the esbuild JavaScript bundler. | esbuild | 616 |
 | [limax](https://github.com/lovell/limax) | Node.js module that generates URL slugs and transliterates non-Latin scripts per RFC 3986. | lovell | 609 |
@@ -480,7 +480,7 @@
 | [p-all](https://github.com/sindresorhus/p-all) | Runs promise-returning or async functions concurrently, with optional concurrency limits. | sindresorhus | 346 |
 | [changelog](https://github.com/semantic-release/changelog) | semantic-release plugin that creates or updates a changelog file. | semantic-release | 342 |
 | [eslint-plugin-github](https://github.com/github/eslint-plugin-github) | ESLint plugin with an opinionated set of rules used by GitHub. | github | 336 |
-| [pnpm.io](https://github.com/pnpm/pnpm.io) | Website and documentation for the pnpm package manager. | pnpm | 314 |
+| [pnpm.io](https://github.com/pnpm/pnpm.io) | Website and documentation for the pnpm package manager. | pnpm | 313 |
 | [proxy-compare](https://github.com/dai-shi/proxy-compare) | Library for comparing two objects by the properties accessed, using JavaScript Proxy. | dai-shi | 311 |
 | [node-chardet](https://github.com/runk/node-chardet) | Character encoding detection tool for Node.js. | runk | 310 |
 | [npm](https://github.com/semantic-release/npm) | semantic-release plugin that publishes an npm package to the registry. | semantic-release | 303 |
@@ -515,7 +515,7 @@
 | [abort-utils](https://github.com/fregante/abort-utils) | Utility functions for combining AbortSignal and AbortController with Promises. | fregante | 163 |
 | [yaml-loader](https://github.com/eemeli/yaml-loader) | Webpack loader that imports YAML files as JavaScript objects. | eemeli | 153 |
 | [types.ts](https://github.com/octokit/types.ts) | Shared TypeScript type definitions for Octokit projects. | octokit | 152 |
-| [wrap-ansi](https://github.com/chalk/wrap-ansi) | Word-wraps strings containing ANSI escape codes while preserving their styling. | chalk | 145 |
+| [wrap-ansi](https://github.com/chalk/wrap-ansi) | Word-wraps strings containing ANSI escape codes while preserving their styling. | chalk | 146 |
 | [astx](https://github.com/codemodsquad/astx) | Structural search and replace tool for JavaScript and TypeScript code refactoring. | codemodsquad | 145 |
 | [node-trucker](https://github.com/davidmfoley/node-trucker) | Tool for import-aware file management and dependency analysis of JavaScript projects with Graphviz output. | davidmfoley | 108 |
 | [fparse](https://github.com/bylexus/fparse) | JavaScript formula parser for evaluating mathematical expressions. | bylexus | 107 |

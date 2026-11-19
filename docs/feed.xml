@@ -3,8 +3,68 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-17T16:30:57Z</updated>
+  <updated>2026-11-18T19:33:20Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>elementalsouls/Claude-BugHunter</title>
+    <link href="https://github.com/elementalsouls/Claude-BugHunter"/>
+    <id>https://github.com/elementalsouls/Claude-BugHunter</id>
+    <updated>2026-11-18T19:33:20Z</updated>
+    <author><name>elementalsouls</name></author>
+    <summary>Claude Code skills and slash commands for bug bounty hunting and external red-team security work. · Python · ai-security, anthropic, application-security, bug-bounty, bugbounty</summary>
+    <category term="ai-security"/>
+    <category term="anthropic"/>
+    <category term="application-security"/>
+    <category term="bug-bounty"/>
+    <category term="bugbounty"/>
+  </entry>
+  <entry>
+    <title>endurain-project/endurain</title>
+    <link href="https://github.com/endurain-project/endurain"/>
+    <id>https://github.com/endurain-project/endurain</id>
+    <updated>2026-11-18T19:32:40Z</updated>
+    <author><name>endurain-project</name></author>
+    <summary>Self-hosted fitness tracking service that gives users full control over their data and hosting. · Python</summary>
+  </entry>
+  <entry>
+    <title>irbis-sh/zen-desktop</title>
+    <link href="https://github.com/irbis-sh/zen-desktop"/>
+    <id>https://github.com/irbis-sh/zen-desktop</id>
+    <updated>2026-11-18T15:35:52Z</updated>
+    <author><name>irbis-sh</name></author>
+    <summary>System-wide ad blocker and privacy guard for Windows, macOS, and Linux. · Go · ad-block, ad-blocker, ad-blocking, adblock, adblocker</summary>
+    <category term="ad-block"/>
+    <category term="ad-blocker"/>
+    <category term="ad-blocking"/>
+    <category term="adblock"/>
+    <category term="adblocker"/>
+  </entry>
+  <entry>
+    <title>0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig"/>
+    <id>https://github.com/0xPlaygrounds/rig</id>
+    <updated>2026-11-18T14:46:45Z</updated>
+    <author><name>0xPlaygrounds</name></author>
+    <summary>Rust framework for building modular, scalable LLM applications and AI agents. · Rust · agent, ai, artificial-intelligence, automation, generative-ai</summary>
+    <category term="agent"/>
+    <category term="ai"/>
+    <category term="artificial-intelligence"/>
+    <category term="automation"/>
+    <category term="generative-ai"/>
+  </entry>
+  <entry>
+    <title>developer0hye/office2pdf</title>
+    <link href="https://github.com/developer0hye/office2pdf"/>
+    <id>https://github.com/developer0hye/office2pdf</id>
+    <updated>2026-11-18T10:45:37Z</updated>
+    <author><name>developer0hye</name></author>
+    <summary>Rust library and CLI converting DOCX, XLSX, and PPTX files to PDF without LibreOffice or Chromium. · Rust · docx, msoffice, office2pdf, pptx, xlsx</summary>
+    <category term="docx"/>
+    <category term="msoffice"/>
+    <category term="office2pdf"/>
+    <category term="pptx"/>
+    <category term="xlsx"/>
+  </entry>
   <entry>
     <title>cloud-ru-tech/mcp-server-mattermost</title>
     <link href="https://github.com/cloud-ru-tech/mcp-server-mattermost"/>
@@ -529,57 +589,5 @@
     <category term="fingerprint"/>
     <category term="firefox"/>
     <category term="networking"/>
-  </entry>
-  <entry>
-    <title>act-rules/act-rules.github.io</title>
-    <link href="https://github.com/act-rules/act-rules.github.io"/>
-    <id>https://github.com/act-rules/act-rules.github.io</id>
-    <updated>2026-10-28T13:58:22Z</updated>
-    <author><name>act-rules</name></author>
-    <summary>Accessibility conformance testing rules for HTML, used to check WCAG compliance. · JavaScript · w3c, wcag</summary>
-    <category term="w3c"/>
-    <category term="wcag"/>
-  </entry>
-  <entry>
-    <title>vercel-labs/wterm</title>
-    <link href="https://github.com/vercel-labs/wterm"/>
-    <id>https://github.com/vercel-labs/wterm</id>
-    <updated>2026-10-28T12:43:28Z</updated>
-    <author><name>vercel-labs</name></author>
-    <summary>Terminal emulator that runs in the web browser. · TypeScript</summary>
-  </entry>
-  <entry>
-    <title>androguard/androguard</title>
-    <link href="https://github.com/androguard/androguard"/>
-    <id>https://github.com/androguard/androguard</id>
-    <updated>2026-10-28T12:42:58Z</updated>
-    <author><name>androguard</name></author>
-    <summary>Python toolkit for reverse engineering and penetration testing of Android applications. · Python · android, dalvik, dex, odex, pentesting</summary>
-    <category term="android"/>
-    <category term="dalvik"/>
-    <category term="dex"/>
-    <category term="odex"/>
-    <category term="pentesting"/>
-  </entry>
-  <entry>
-    <title>Nutlope/bygga</title>
-    <link href="https://github.com/Nutlope/bygga"/>
-    <id>https://github.com/Nutlope/bygga</id>
-    <updated>2026-10-28T09:54:46Z</updated>
-    <author><name>Nutlope</name></author>
-    <summary>Generates animated, step-by-step 3D assembly guides for IKEA furniture from scanned paper manuals. · TypeScript</summary>
-  </entry>
-  <entry>
-    <title>datalab-to/chandra</title>
-    <link href="https://github.com/datalab-to/chandra"/>
-    <id>https://github.com/datalab-to/chandra</id>
-    <updated>2026-10-27T11:07:46Z</updated>
-    <author><name>datalab-to</name></author>
-    <summary>OCR model for complex documents, handling tables, forms, handwriting, and full page layout. · Python · ai, document-ai, document-parsing, form-extraction, handwriting-recognition</summary>
-    <category term="ai"/>
-    <category term="document-ai"/>
-    <category term="document-parsing"/>
-    <category term="form-extraction"/>
-    <category term="handwriting-recognition"/>
   </entry>
 </feed>
