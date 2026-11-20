@@ -13,7 +13,7 @@
 | [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
 | [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.4k |
 | [wasmtime](https://github.com/bytecodealliance/wasmtime) | Lightweight, fast, and secure WebAssembly runtime that follows standards. | bytecodealliance | 18.9k |
-| [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.7k |
+| [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.8k |
 | [bottom](https://github.com/ClementTsang/bottom) | Cross-platform terminal system monitor showing CPU, memory, network, disk, and process usage. | ClementTsang | 14.2k |
 | [rayon](https://github.com/rayon-rs/rayon) | Data parallelism library for Rust that runs computations across multiple threads. | rayon-rs | 13.5k |
 | [windows-rs](https://github.com/microsoft/windows-rs) | Rust bindings and tools for calling Windows APIs from Rust code. | microsoft | 12.9k |
@@ -42,5 +42,5 @@
 | [slotmap](https://github.com/orlp/slotmap) | Rust slot map data structure that provides stable keys for inserting and removing items. | orlp | 1.4k |
 | [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 969 |
 | [envsubst](https://github.com/a8m/envsubst) | Go library and command for substituting environment variables in text, following envsubst syntax. | a8m | 912 |
-| [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 674 |
-| [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 625 |
+| [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 673 |
+| [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 624 |

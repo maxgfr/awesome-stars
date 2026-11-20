@@ -8,14 +8,14 @@
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 119k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.6k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 80.3k |
-| [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.2k |
-| [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.5k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 80.5k |
+| [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.3k |
+| [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.6k |
 | [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 52.9k |
 | [supervision](https://github.com/roboflow/supervision) | Python library of reusable computer vision tools for detections, datasets, and annotations. | roboflow | 51.7k |
-| [pixijs](https://github.com/pixijs/pixijs) | Fast, flexible 2D WebGL renderer for building interactive graphics and games in web browsers. | pixijs | 48.8k |
+| [pixijs](https://github.com/pixijs/pixijs) | Fast, flexible 2D WebGL renderer for building interactive graphics and games in web browsers. | pixijs | 48.9k |
 | [photoprism](https://github.com/photoprism/photoprism) | AI-powered photo management app for private, self-hosted organization and search of photo libraries. | photoprism | 40.5k |
-| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python tool that adds an OCR text layer to scanned PDFs so they become searchable. | ocrmypdf | 35.3k |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | Python tool that adds an OCR text layer to scanned PDFs so they become searchable. | ocrmypdf | 35.4k |
 | [glide](https://github.com/bumptech/glide) | Android image loading and caching library focused on smooth scrolling performance. | bumptech | 35k |
 | [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
 | [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.9k |
@@ -63,7 +63,7 @@
 | [TypeGPU](https://github.com/software-mansion/TypeGPU) | TypeScript toolkit for WebGPU that offers typed GPU programming and writing shaders in TypeScript. | software-mansion | 3.3k |
 | [odiff](https://github.com/dmtrKovalenko/odiff) | SIMD-optimized image comparison library with a Node.js API for pixel-perfect diffs. | dmtrKovalenko | 3.3k |
 | [takumi](https://github.com/kane50613/takumi) | Layout engine rendering JSX, HTML and CSS to images, SVG, PDFs or paint trees without a browser. | kane50613 | 3.2k |
-| [library](https://github.com/zxing-js/library) | Multi-format 1D and 2D barcode decoding and encoding library for the JavaScript ecosystem. | zxing-js | 3k |
+| [library](https://github.com/zxing-js/library) | Multi-format 1D and 2D barcode decoding and encoding library for the JavaScript ecosystem. | zxing-js | 2.9k |
 | [tileserver-gl](https://github.com/maptiler/tileserver-gl) | Server-side map tile renderer for GL styles, serving MapLibre, Leaflet and OpenLayers clients. | maptiler | 2.9k |
 | [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) | Library that renders HTML into a browser canvas element. | cburgmer | 2.6k |
 | [bwip-js](https://github.com/metafloor/bwip-js) | Barcode writer library for generating barcodes in pure JavaScript. | metafloor | 2.4k |
@@ -75,7 +75,7 @@
 | [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) | Node.js module that converts images into ASCII art. | IonicaBizau | 1.7k |
 | [barcode](https://github.com/milon/barcode) | PHP package for generating barcodes, with Laravel integration. | milon | 1.5k |
 | [withoutbg-python](https://github.com/withoutbg/withoutbg-python) | Python SDK for local and cloud background removal from images. | withoutbg | 1.3k |
-| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 876 |
+| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 877 |
 | [looks-same](https://github.com/gemini-testing/looks-same) | Node.js library for comparing images and detecting visual differences, used with Testplane. | gemini-testing | 828 |
 | [uqr](https://github.com/unjs/uqr) 🆕 | Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. | unjs | 795 |
 | [dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) | Library that generates PNG and JPEG images from DOM nodes using HTML5 canvas. | IDisposable | 683 |

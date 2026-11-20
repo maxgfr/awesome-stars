@@ -12,20 +12,20 @@
 | [istio](https://github.com/istio/istio) | Service mesh for connecting, securing, controlling, and observing microservices. | istio | 38.5k |
 | [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.1k |
 | [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35k |
-| [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.4k |
+| [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
-| [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.4k |
+| [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.5k |
 | [harbor](https://github.com/goharbor/harbor) | Cloud native container registry that stores, signs, and scans container images. | goharbor | 29.8k |
 | [envoy](https://github.com/envoyproxy/envoy) | High-performance C++ edge, middle, and service proxy designed for cloud-native applications. | envoyproxy | 29.3k |
 | [faas](https://github.com/openfaas/faas) | Framework for deploying serverless functions and microservices to Docker and Kubernetes. | openfaas | 26.3k |
 | [dapr](https://github.com/dapr/dapr) | A portable runtime for building distributed applications with event-driven and workflow patterns. | dapr | 26.2k |
 | [rancher](https://github.com/rancher/rancher) | Container management platform for running and orchestrating Kubernetes clusters. | rancher | 26.1k |
 | [cilium](https://github.com/cilium/cilium) | eBPF-based networking, security and observability for Kubernetes and other container workloads. | cilium | 25.9k |
-| [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous delivery tool for deploying applications to Kubernetes. | argoproj | 24.6k |
+| [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous delivery tool for deploying applications to Kubernetes. | argoproj | 24.7k |
 | [lima](https://github.com/lima-vm/lima) | Runs Linux virtual machines, focused on running containers, on macOS and other hosts. | lima-vm | 22.4k |
 | [kubectx](https://github.com/ahmetb/kubectx) | A tool for quickly switching between Kubernetes clusters and namespaces in kubectl. | ahmetb | 20.1k |
-| [gvisor](https://github.com/gvisor/gvisor) | Application kernel for containers that provides an isolation layer between workloads and the host. | gvisor | 20k |
-| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Ansible playbooks for deploying production-ready Kubernetes clusters on various infrastructure. | kubernetes-sigs | 18.8k |
+| [gvisor](https://github.com/gvisor/gvisor) | Application kernel for containers that provides an isolation layer between workloads and the host. | gvisor | 20.1k |
+| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Ansible playbooks for deploying production-ready Kubernetes clusters on various infrastructure. | kubernetes-sigs | 18.9k |
 | [aws-cli](https://github.com/aws/aws-cli) | Universal command line interface for managing Amazon Web Services from the terminal. | aws | 17.4k |
 | [apisix](https://github.com/apache/apisix) | Cloud-native API gateway and AI gateway for managing API traffic. | apache | 17.3k |
 | [argo-workflows](https://github.com/argoproj/argo-workflows) | Workflow engine for orchestrating batch and parallel jobs on Kubernetes. | argoproj | 17.1k |
@@ -44,7 +44,7 @@
 | [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.1k |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | Lightweight, high-performance WebAssembly runtime for cloud native, edge, and decentralized applications. | WasmEdge | 10.9k |
 | [keda](https://github.com/kedacore/keda) | Kubernetes-based event-driven autoscaling component that scales any container on event sources. | kedacore | 10.7k |
-| [kompose](https://github.com/kubernetes/kompose) | Tool that converts Docker Compose files into Kubernetes resource definitions. | kubernetes | 10.6k |
+| [kompose](https://github.com/kubernetes/kompose) | Tool that converts Docker Compose files into Kubernetes resource definitions. | kubernetes | 10.7k |
 | [Reloader](https://github.com/stakater/Reloader) | Kubernetes controller that performs rolling upgrades on pods when their ConfigMaps or Secrets change. | stakater | 10.6k |
 | [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | Code examples for AWS documentation and SDK guides, covering C++, .NET, Go, and other languages. | awsdocs | 10.5k |
 | [charts](https://github.com/bitnami/charts) | Helm charts for deploying Bitnami packaged applications on Kubernetes. | bitnami | 10.4k |
@@ -90,7 +90,7 @@
 | [lxc](https://github.com/lxc/lxc) | User-space tools and libraries for creating and managing Linux system containers. | lxc | 5.3k |
 | [postgres-operator](https://github.com/zalando/postgres-operator) | Operator that creates and manages PostgreSQL clusters on Kubernetes. | zalando | 5.3k |
 | [docs](https://github.com/knative/docs) | User documentation for Knative, a Kubernetes-based platform for serverless workloads. | knative | 5.1k |
-| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5.1k |
+| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5k |
 | [stern](https://github.com/stern/stern) | Command-line tool for tailing logs from multiple pods and containers in Kubernetes. | stern | 4.9k |
 | [lxd](https://github.com/canonical/lxd) | Manager for system containers and virtual machines with a unified API, built on LXC. | canonical | 4.9k |
 | [krr](https://github.com/robusta-dev/krr) | Tool that generates Kubernetes resource recommendations from Prometheus metrics to reduce costs. | robusta-dev | 4.8k |
@@ -119,8 +119,8 @@
 | [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Kubernetes operator for deploying and managing Elasticsearch and Kibana clusters. | elastic | 2.9k |
 | [aws-cf-templates](https://github.com/widdix/aws-cf-templates) | Free AWS CloudFormation templates for common AWS infrastructure setups. | widdix | 2.8k |
 | [keel](https://github.com/keel-hq/keel) | Kubernetes operator that automatically updates Helm releases, DaemonSets, StatefulSets, and Deployments. | keel-hq | 2.7k |
-| [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Android SDK for Firebase services, including the Realtime Database and other Firebase products. | firebase | 2.6k |
 | [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
+| [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Android SDK for Firebase services, including the Realtime Database and other Firebase products. | firebase | 2.6k |
 | [rke2](https://github.com/rancher/rke2) |  | rancher | 2.4k |
 | [kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) | Jenkins plugin that runs build agents as dynamically provisioned pods in Kubernetes or Docker. | jenkinsci | 2.3k |
 | [Azurite](https://github.com/Azure/Azurite) | Lightweight local emulator of Azure Storage, simulating most commands with minimal dependencies. | Azure | 2.3k |
@@ -144,10 +144,10 @@
 | [kapp](https://github.com/carvel-dev/kapp) | CLI deployment tool that manages sets of Kubernetes resources grouped by a shared label. | carvel-dev | 1.1k |
 | [scaleway-cli](https://github.com/scaleway/scaleway-cli) | Command-line interface for managing Scaleway cloud resources. | scaleway | 1k |
 | [onyxia](https://github.com/InseeFrLab/onyxia) | Data science environment for Kubernetes that provides datalab tools deployed via Helm. | InseeFrLab | 908 |
-| [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 822 |
-| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 776 |
+| [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) 🗄️ | Tutorial for building and deploying a complete Node.js application on Google Cloud Platform. | GoogleCloudPlatform | 821 |
+| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 775 |
 | [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 757 |
-| [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 746 |
+| [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 747 |
 | [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 667 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
@@ -155,9 +155,9 @@
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
 | [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 485 |
-| [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 341 |
-| [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 315 |
-| [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 312 |
+| [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
+| [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 312 |
+| [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |
 | [jitsi-helm](https://github.com/jitsi-contrib/jitsi-helm) | Helm chart for deploying the Jitsi video conferencing platform to Kubernetes. | jitsi-contrib | 203 |
 | [k8s-operator-node](https://github.com/dot-i/k8s-operator-node) | Framework for writing Kubernetes operators in Node.js. | dot-i | 180 |
 | [kubernetes-models-ts](https://github.com/tommy351/kubernetes-models-ts) | TypeScript type definitions and model classes for Kubernetes API resources. | tommy351 | 165 |

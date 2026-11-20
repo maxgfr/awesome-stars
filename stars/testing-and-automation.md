@@ -14,10 +14,10 @@
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
-| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.4k |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.5k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.5k |
 | [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.4k |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.5k |
 | [mocha](https://github.com/mochajs/mocha) | Feature-rich JavaScript test framework for running tests in Node.js and browsers. | mochajs | 22.9k |
 | [appium](https://github.com/appium/appium) | Cross-platform automation framework for all app types, built on the W3C WebDriver protocol. | appium | 22.2k |
 | [enzyme](https://github.com/enzymejs/enzyme) | JavaScript testing utilities for React components, used with assertion libraries like Chai. | enzymejs | 19.8k |
@@ -25,15 +25,15 @@
 | [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.7k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.8k |
 | [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.4k |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.5k |
 | [docker-android](https://github.com/budtmo/docker-android) | Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents. | budtmo | 16.2k |
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
-| [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.6k |
+| [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.7k |
 | [pytest](https://github.com/pytest-dev/pytest) | Testing framework for writing small to complex Python tests, including functional testing. | pytest-dev | 14.7k |
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
-| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14k |
+| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.1k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 13.9k |
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
@@ -93,8 +93,8 @@
 | [data](https://github.com/mswjs/data) | Data querying library for modeling mock data and fixtures in JavaScript application tests. | mswjs | 1.1k |
 | [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library) | ESLint rules enforcing best practices and catching common mistakes when testing with Testing Library. | testing-library | 1.1k |
 | [solidity-coverage](https://github.com/sc-forks/solidity-coverage) | Code coverage tool for Solidity smart contracts. | sc-forks | 1k |
-| [vscode](https://github.com/vitest-dev/vscode) | VS Code extension for running and debugging Vitest tests within the editor. | vitest-dev | 932 |
-| [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) | Type-safe mocking extensions for Jest, with support for calledWith and TypeScript. | marchaos | 909 |
+| [vscode](https://github.com/vitest-dev/vscode) | VS Code extension for running and debugging Vitest tests within the editor. | vitest-dev | 931 |
+| [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) | Type-safe mocking extensions for Jest, with support for calledWith and TypeScript. | marchaos | 908 |
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [testing-playground](https://github.com/testing-library/testing-playground) | A DOM testing playground that encourages good testing practices and accessibility. | testing-library | 814 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 770 |
@@ -105,10 +105,10 @@
 | [cypress-axe](https://github.com/component-driven/cypress-axe) | Cypress plugin for testing web page accessibility with axe-core. | component-driven | 641 |
 | [tinyspy](https://github.com/tinylibs/tinyspy) | Minimal spy library for testing, a fork of nanospy with additional features. | tinylibs | 633 |
 | [expect-type](https://github.com/mmkal/expect-type) | Compile-time tests for TypeScript types that catch changes making types overly permissive. | mmkal | 568 |
-| [jest-coverage-report-action](https://github.com/ArtiomTr/jest-coverage-report-action) | GitHub Action that reports Jest code coverage as annotations and comments on pull requests. | ArtiomTr | 545 |
-| [jest-native](https://github.com/testing-library/jest-native) | Custom Jest matchers for testing the state of React Native components. | testing-library | 436 |
+| [jest-coverage-report-action](https://github.com/ArtiomTr/jest-coverage-report-action) | GitHub Action that reports Jest code coverage as annotations and comments on pull requests. | ArtiomTr | 544 |
+| [jest-native](https://github.com/testing-library/jest-native) | Custom Jest matchers for testing the state of React Native components. | testing-library | 435 |
 | [next-router-mock](https://github.com/scottrippey/next-router-mock) | Mock implementation of the Next.js router for testing components and code that depend on it. | scottrippey | 423 |
-| [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 304 |
+| [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 302 |
 | [vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) | GitHub Action that reports Vitest test coverage results on pull requests. | davelosert | 280 |
 | [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) 🆕 | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 170 |
 | [semantic-prs](https://github.com/Ezard/semantic-prs) | GitHub app that checks that pull requests follow the Conventional Commits specification. | Ezard | 148 |

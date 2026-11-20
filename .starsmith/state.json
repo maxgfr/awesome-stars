@@ -1,5 +1,5 @@
 {
-  "contentHash": "25c41a39c5e7",
+  "contentHash": "cab81c52b07c",
   "digest": {
     "language": "en",
     "text": "This month's stars lean hard toward **AI agents and the tools that connect them**. Claude-BugHunter bundles security skills, while qgis-mcp and mcp-server-mattermost link assistants to GIS data and team chat through the Model Context Protocol. Rig and ag-ui show the same pull toward agent frameworks in Rust and TypeScript.\n\nA second thread is **privacy and self-hosting**, seen in zen-desktop, blocky, and Endurain, plus Mullvad's VPN client. Many picks also favor **native, dependency-free builds**, like office2pdf, which converts Office files without LibreOffice.",
@@ -7205,9 +7205,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==": {
       "category": "DevOps and Infrastructure",
-      "ch": "0f45b9e3df23",
-      "description": "Observability platform for metrics, logs, traces, network flows, and infrastructure monitoring.",
-      "dh": "00c2ef428916"
+      "ch": "76e90cbce53b",
+      "description": "Observability platform for metrics, logs, traces and infrastructure, with anomaly detection.",
+      "dh": "a8a60963e1c0"
     },
     "MDEwOlJlcG9zaXRvcnkxMDc1MDU4Njk=": {
       "category": "Cloud and Kubernetes",
@@ -7511,7 +7511,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMTAwMjc5MzE=": {
       "category": "Cloud and Kubernetes",
-      "ch": "b4341ac9dad4",
+      "ch": "9c6b7baa605d",
       "description": "Load-balancer implementation for bare-metal Kubernetes clusters using BGP and ARP routing.",
       "dh": "ae793aad20a0"
     },
@@ -13263,9 +13263,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTM1MjY5MTU=": {
       "category": "Developer Tools and Editors",
-      "ch": "f1779e365b00",
-      "description": "Syntax-highlighting pager for git, diff, grep, and blame output.",
-      "dh": "b1ff3d63de65"
+      "ch": "b49ba82a6467",
+      "description": "Syntax-highlighting pager for git, diff, blame and grep output.",
+      "dh": "f2d080488be7"
     },
     "MDEwOlJlcG9zaXRvcnkxOTM1NTgzMTk=": {
       "category": "DevOps and Infrastructure",
@@ -13305,9 +13305,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTMxNTY0Nzk=": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "4c34d45a69ab",
-      "description": "TypeScript validator that defines types with TypeScript syntax and checks data at runtime.",
-      "dh": "f79369befb33"
+      "ch": "e4c4740fcd26",
+      "description": "Fast TypeScript runtime validator for parsing and checking data using TypeScript-style types.",
+      "dh": "ff9fa38eba40"
     },
     "MDEwOlJlcG9zaXRvcnkxOTMxNjA2Nzk=": {
       "category": "Databases and Data Tools",
@@ -14409,7 +14409,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMTI2MjQ0": {
       "category": "Frontend UI Libraries",
-      "ch": "f3794a554c27",
+      "ch": "819d182343ad",
       "description": "Popular HTML, CSS and JavaScript framework for building responsive, mobile-first websites.",
       "dh": "7b99be6dd13d"
     },
@@ -14451,9 +14451,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMTIzMzE5MQ==": {
       "category": "Networking and Wireless",
-      "ch": "d0fc8e670435",
-      "description": "Go implementation of IPFS, a daemon that stores and serves content-addressed data. No maintainer.",
-      "dh": "e1ea916550d4"
+      "ch": "45cba97d1bef",
+      "description": "Go IPFS daemon that stores and serves content-addressed data via CLI, HTTP gateway and RPC API.",
+      "dh": "81c473f74058"
     },
     "MDEwOlJlcG9zaXRvcnkyMTIzNzg0MDk=": {
       "category": "Databases and Data Tools",
@@ -23521,9 +23521,9 @@
     },
     "R_kgDOJ4etkw": {
       "category": "Other",
-      "ch": "b9bdb76120cb",
-      "description": "Library and CLI that scrapes job listings from LinkedIn, Indeed, Glassdoor, and other job sites.",
-      "dh": "a85ba976abc3"
+      "ch": "6a552145e76c",
+      "description": "Python library for scraping job listings from LinkedIn, Indeed, Glassdoor and other job boards.",
+      "dh": "a6b355ee42e6"
     },
     "R_kgDOJ4haAg": {
       "category": "LLM Agents and AI Assistants",
@@ -23737,9 +23737,9 @@
     },
     "R_kgDOJLZRXA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "ce44002409e3",
-      "description": "AI chat suite for multiple models with personas, voice, text-to-image and response streaming.",
-      "dh": "640eeb40e168"
+      "ch": "5fbf7577b793",
+      "description": "Web workspace for chatting with 800+ AI models side by side, with BYO API keys and self-hosting.",
+      "dh": "9861e2be16fd"
     },
     "R_kgDOJMGK0w": {
       "category": "Developer Tools and Editors",
@@ -25041,7 +25041,7 @@
     },
     "R_kgDOLUsMbg": {
       "category": "Databases and Data Tools",
-      "ch": "26b1caf9ebe1",
+      "ch": "74f0fadb4348",
       "description": "Embeddable WebAssembly build of Postgres with real-time reactive bindings.",
       "dh": "6f85a186a9ad"
     },
@@ -25628,10 +25628,10 @@
       "dh": "2a57fbea1c48"
     },
     "R_kgDOMqDqIA": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "3c509bc6ff86",
-      "description": "Finance application for market analytics, investment research, and economic data with AI agents.",
-      "dh": "43e5ccaf594a"
+      "category": "Other",
+      "ch": "2f1e1a099491",
+      "description": "Finance application for market analytics, investment research and economic data exploration.",
+      "dh": "7105a6f891df"
     },
     "R_kgDOMr4gyw": {
       "category": "JavaScript and TypeScript Tooling",
@@ -27150,10 +27150,10 @@
       "dh": "e71b28deb342"
     },
     "R_kgDOQ536sA": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "d8423d750a1d",
-      "description": "Collection of 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor, and Gemini CLI.",
-      "dh": "bab9cc76563a"
+      "category": "LLM Agents and AI Assistants",
+      "ch": "ac4953cb60ac",
+      "description": "Library of 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI.",
+      "dh": "fd4d7195022a"
     },
     "R_kgDOQ55KRw": {
       "category": "Security and Penetration Testing",
@@ -27551,7 +27551,7 @@
     },
     "R_kgDOQfkh9A": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "541be51a4f80",
+      "ch": "decb6ba147ac",
       "description": "Collection of AI agent skills for working with Expo projects and Expo Application Services.",
       "dh": "9255c01b6f7e"
     },
@@ -28177,9 +28177,9 @@
     },
     "R_kgDORhFMww": {
       "category": "Frontend UI Libraries",
-      "ch": "f2749b0ef94b",
-      "description": "Fast, accurate, and comprehensive text measurement and layout library for TypeScript projects.",
-      "dh": "65216df4c507"
+      "ch": "d38acba304c3",
+      "description": "Library for fast, accurate text measurement and layout, including line breaking and occlusion.",
+      "dh": "4a0ae53bc5a1"
     },
     "R_kgDORhiEjA": {
       "category": "LLM Agents and AI Assistants",
@@ -29051,6 +29051,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "version": 1
 }

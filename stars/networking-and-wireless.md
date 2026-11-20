@@ -26,7 +26,7 @@
 | [hysteria](https://github.com/HyNetworks/hysteria) 🆕 | Open-source proxy software that is fast and censorship-resistant, built on the QUIC protocol. | HyNetworks | 23k |
 | [localtunnel](https://github.com/localtunnel/localtunnel) | Tool that exposes a local server to the public internet through a tunnel. | localtunnel | 22.5k |
 | [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Curated list of self-hosted alternatives to ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier. | anderspitman | 22.1k |
-| [kubo](https://github.com/ipfs/kubo) | Go implementation of IPFS, a daemon that stores and serves content-addressed data. No maintainer. | ipfs | 17.2k |
+| [kubo](https://github.com/ipfs/kubo) | Go IPFS daemon that stores and serves content-addressed data via CLI, HTTP gateway and RPC API. | ipfs | 17.2k |
 | [webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API for peer-to-peer audio and video. | pion | 16.9k |
 | [openvpn-install](https://github.com/angristan/openvpn-install) | Shell script that sets up an OpenVPN server on Debian, Ubuntu, Fedora, CentOS, and Arch Linux. | angristan | 16.2k |
 | [gluetun](https://github.com/passteque/gluetun) | Thin Docker container running a Go VPN client for many providers, with OpenVPN or WireGuard. | passteque | 16.1k |
@@ -37,7 +37,7 @@
 | [rathole](https://github.com/rathole-org/rathole) | Lightweight Rust reverse proxy for exposing services behind NAT, an alternative to frp and ngrok. | rathole-org | 14.5k |
 | [peerjs](https://github.com/peers/peerjs) | Library that simplifies peer-to-peer data and media connections in browsers using WebRTC. | peers | 13.5k |
 | [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | Firmware suite of WiFi and Bluetooth offensive and defensive tools for the ESP32 microcontroller. | justcallmekoko | 13.2k |
-| [iroh](https://github.com/n0-computer/iroh) | Library adding QUIC and NAT traversal so apps connect by public key instead of IP address. | n0-computer | 13k |
+| [iroh](https://github.com/n0-computer/iroh) | Library adding QUIC and NAT traversal so apps connect by public key instead of IP address. | n0-computer | 13.1k |
 | [gping](https://github.com/orf/gping) | Command-line ping tool that graphs response times over time. | orf | 12.7k |
 | [scapy](https://github.com/secdev/scapy) | Python library and interactive program for packet manipulation, sniffing, and network analysis. | secdev | 12.7k |
 | [bore](https://github.com/ekzhang/bore) | Command-line tool that creates tunnels to expose a local port on a remote server. | ekzhang | 11.6k |
@@ -96,11 +96,11 @@
 | [hyperswarm](https://github.com/holepunchto/hyperswarm) | Distributed networking stack for connecting peers in JavaScript, with peer discovery and connections. | holepunchto | 1.3k |
 | [stanza](https://github.com/legastero/stanza) | XMPP library for JavaScript with a JSON API for building messaging clients. | legastero | 1.2k |
 | [proxy-agents](https://github.com/TooTallNate/proxy-agents) | Monorepo of Node.js HTTP and HTTPS proxy agent packages, including PAC support. | TooTallNate | 1.2k |
-| [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 927 |
+| [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
 | [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 761 |
-| [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 742 |
-| [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 738 |
-| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 600 |
+| [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 741 |
+| [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 737 |
+| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |
 | [BTorrent](https://github.com/DiegoRBaquero/BTorrent) | Full-featured WebTorrent client that runs in the browser. | DiegoRBaquero | 583 |
 | [WebRTC-Example](https://github.com/shanet/WebRTC-Example) | Minimal example application demonstrating peer-to-peer video communication with WebRTC. | shanet | 462 |
 | [wifitui](https://github.com/shazow/wifitui) | Terminal user interface for managing WiFi connections through NetworkManager. | shazow | 355 |
