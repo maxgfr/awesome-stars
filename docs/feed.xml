@@ -215,11 +215,12 @@
     <id>https://github.com/AminForou/mcp-gsc</id>
     <updated>2026-11-12T12:38:55Z</updated>
     <author><name>AminForou</name></author>
-    <summary>MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights. · Python · claude, google-search-console, mcp-server, seo</summary>
+    <summary>Google Search Console analysis for SEO professionals through Claude AI. · Python · chatgpt-plugin, chatgpt-seo, claude, claude-code, claude-desktop</summary>
+    <category term="chatgpt-plugin"/>
+    <category term="chatgpt-seo"/>
     <category term="claude"/>
-    <category term="google-search-console"/>
-    <category term="mcp-server"/>
-    <category term="seo"/>
+    <category term="claude-code"/>
+    <category term="claude-desktop"/>
   </entry>
   <entry>
     <title>GoogleChrome/modern-web-guidance</title>

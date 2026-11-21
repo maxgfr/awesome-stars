@@ -4,12 +4,12 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [Scrapling](https://github.com/D4Vinci/Scrapling) | Web scraping framework for everything from single requests to full-scale crawls. | D4Vinci | 104k |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | Web scraping framework for everything from single requests to full-scale crawls. | D4Vinci | 105k |
 | [playwright](https://github.com/microsoft/playwright) | Framework for web testing and automation across Chromium, Firefox and WebKit with a single API. | microsoft | 101k |
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
 | [cypress](https://github.com/cypress-io/cypress) | End-to-end and component testing framework for applications running in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
-| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.2k |
+| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.3k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
@@ -34,7 +34,7 @@
 | [pytest](https://github.com/pytest-dev/pytest) | Testing framework for writing small to complex Python tests, including functional testing. | pytest-dev | 14.7k |
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
 | [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.1k |
-| [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 13.9k |
+| [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 14k |
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.4k |
@@ -101,16 +101,16 @@
 | [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 737 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 694 |
-| [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 648 |
+| [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 649 |
 | [cypress-axe](https://github.com/component-driven/cypress-axe) | Cypress plugin for testing web page accessibility with axe-core. | component-driven | 641 |
-| [tinyspy](https://github.com/tinylibs/tinyspy) | Minimal spy library for testing, a fork of nanospy with additional features. | tinylibs | 633 |
+| [tinyspy](https://github.com/tinylibs/tinyspy) | Minimal spy library for testing, a fork of nanospy with additional features. | tinylibs | 634 |
 | [expect-type](https://github.com/mmkal/expect-type) | Compile-time tests for TypeScript types that catch changes making types overly permissive. | mmkal | 568 |
 | [jest-coverage-report-action](https://github.com/ArtiomTr/jest-coverage-report-action) | GitHub Action that reports Jest code coverage as annotations and comments on pull requests. | ArtiomTr | 544 |
 | [jest-native](https://github.com/testing-library/jest-native) | Custom Jest matchers for testing the state of React Native components. | testing-library | 435 |
 | [next-router-mock](https://github.com/scottrippey/next-router-mock) | Mock implementation of the Next.js router for testing components and code that depend on it. | scottrippey | 423 |
 | [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 302 |
 | [vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) | GitHub Action that reports Vitest test coverage results on pull requests. | davelosert | 280 |
-| [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) 🆕 | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 170 |
+| [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) 🆕 | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 171 |
 | [semantic-prs](https://github.com/Ezard/semantic-prs) | GitHub app that checks that pull requests follow the Conventional Commits specification. | Ezard | 148 |
 | [mcp-accessibility-scanner](https://github.com/JustasMonkev/mcp-accessibility-scanner) | MCP server that runs accessibility audits on web pages using axe-core. | JustasMonkev | 59 |
 | [ultra11y](https://github.com/SocialGouv/ultra11y) | Accessibility audit tool for RGAA 4.1.2 producing dated reports, a 106-criterion grid and backlog. | SocialGouv | 5 |

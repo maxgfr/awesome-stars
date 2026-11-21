@@ -15,7 +15,7 @@
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
 | [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.5k |
-| [harbor](https://github.com/goharbor/harbor) | Cloud native container registry that stores, signs, and scans container images. | goharbor | 29.8k |
+| [harbor](https://github.com/goharbor/harbor) | CNCF container registry for managing images and OCI artifacts with access control and scanning. | goharbor | 29.8k |
 | [envoy](https://github.com/envoyproxy/envoy) | High-performance C++ edge, middle, and service proxy designed for cloud-native applications. | envoyproxy | 29.3k |
 | [faas](https://github.com/openfaas/faas) | Framework for deploying serverless functions and microservices to Docker and Kubernetes. | openfaas | 26.3k |
 | [dapr](https://github.com/dapr/dapr) | A portable runtime for building distributed applications with event-driven and workflow patterns. | dapr | 26.2k |
@@ -27,7 +27,7 @@
 | [gvisor](https://github.com/gvisor/gvisor) | Application kernel for containers that provides an isolation layer between workloads and the host. | gvisor | 20.1k |
 | [kubespray](https://github.com/kubernetes-sigs/kubespray) | Ansible playbooks for deploying production-ready Kubernetes clusters on various infrastructure. | kubernetes-sigs | 18.9k |
 | [aws-cli](https://github.com/aws/aws-cli) | Universal command line interface for managing Amazon Web Services from the terminal. | aws | 17.4k |
-| [apisix](https://github.com/apache/apisix) | Cloud-native API gateway and AI gateway for managing API traffic. | apache | 17.3k |
+| [apisix](https://github.com/apache/apisix) | Cloud-native API gateway and AI gateway for managing API traffic. | apache | 17.4k |
 | [argo-workflows](https://github.com/argoproj/argo-workflows) | Workflow engine for orchestrating batch and parallel jobs on Kubernetes. | argoproj | 17.1k |
 | [kops](https://github.com/kubernetes/kops) | Tool for creating, upgrading, and managing production-grade Kubernetes clusters. | kubernetes | 16.7k |
 | [vercel](https://github.com/vercel/vercel) | CLI and platform for deploying and previewing web projects, mainly frontend and JAMstack apps. | vercel | 16.6k |
@@ -61,7 +61,7 @@
 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | SDK for building Kubernetes APIs and controllers using custom resource definitions. | kubernetes-sigs | 9.4k |
 | [sealed-secrets](https://github.com/bitnami/sealed-secrets) | Kubernetes controller and CLI that encrypts Secrets so they can be stored safely in Git. | bitnami | 9.4k |
 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | Controller that dynamically configures external DNS servers from Kubernetes resources. | kubernetes-sigs | 9.2k |
-| [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native Kubernetes resources for defining and running CI/CD pipelines. | tektoncd | 9.1k |
+| [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native pipeline resource for Kubernetes, used to build CI/CD workflows with Tekton. | tektoncd | 9.1k |
 | [autoscaler](https://github.com/kubernetes/autoscaler) | Components that automatically scale Kubernetes clusters and pods based on load. | kubernetes | 9k |
 | [fission](https://github.com/fission/fission) | Serverless framework for running functions on Kubernetes with fast, simple deployment. | fission | 8.9k |
 | [flux2](https://github.com/fluxcd/flux2) | Kubernetes continuous delivery solution built on GitOps Toolkit components to sync clusters from Git. | fluxcd | 8.5k |
@@ -95,8 +95,8 @@
 | [lxd](https://github.com/canonical/lxd) | Manager for system containers and virtual machines with a unified API, built on LXC. | canonical | 4.9k |
 | [krr](https://github.com/robusta-dev/krr) | Tool that generates Kubernetes resource recommendations from Prometheus metrics to reduce costs. | robusta-dev | 4.8k |
 | [azure-cli](https://github.com/Azure/azure-cli) | Command-line interface for managing Azure resources and services. | Azure | 4.7k |
-| [crun](https://github.com/containers/crun) | Fast, lightweight OCI runtime and C library for running containers. | containers | 4.2k |
 | [s5cmd](https://github.com/peak/s5cmd) | Parallel tool for running S3 and local filesystem operations. | peak | 4.2k |
+| [crun](https://github.com/containers/crun) | Fast, lightweight OCI runtime and C library for running containers. | containers | 4.2k |
 | [kubeadm](https://github.com/kubernetes/kubeadm) | Issue tracker aggregating reports and feature requests for the kubeadm cluster bootstrapping tool. | kubernetes | 4k |
 | [enhancements](https://github.com/kubernetes/enhancements) | Tracks Kubernetes enhancement proposals and their status across releases and SIGs. | kubernetes | 4k |
 | [kube](https://github.com/kube-rs/kube) | Rust client library and controller runtime for interacting with Kubernetes clusters. | kube-rs | 3.9k |
@@ -111,8 +111,8 @@
 | [rke](https://github.com/rancher-archives/rke) 🗄️ | Rancher Kubernetes Engine, a simple Kubernetes distribution that runs entirely within containers. | rancher-archives | 3.3k |
 | [google-cloud-node](https://github.com/googleapis/google-cloud-node) | Monorepo of Google Cloud client libraries for Node.js. | googleapis | 3.2k |
 | [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | CLI tool that deletes all resources in cloud accounts to clean them up. | gruntwork-io | 3.2k |
-| [robusta](https://github.com/robusta-dev/robusta) | Kubernetes tool that groups Prometheus alerts, adds AI enrichment, and automates remediation. | robusta-dev | 3.1k |
 | [sablier](https://github.com/sablierapp/sablier) | Starts containers on demand and stops them when idle, for Docker, Kubernetes, ECS, and Nomad. | sablierapp | 3.1k |
+| [robusta](https://github.com/robusta-dev/robusta) | Kubernetes tool that groups Prometheus alerts, adds AI enrichment, and automates remediation. | robusta-dev | 3.1k |
 | [kube-score](https://github.com/zegl/kube-score) | Static analyzer that rates Kubernetes manifests and Helm charts for reliability and security. | zegl | 3.1k |
 | [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | Sets AWS credential environment variables for use by later steps in GitHub Actions workflows. | aws-actions | 3k |
 | [nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) | Node.js code samples showing how to use Google Cloud Platform products. | GoogleCloudPlatform | 3k |
@@ -154,7 +154,7 @@
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 485 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 486 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
 | [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 312 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |

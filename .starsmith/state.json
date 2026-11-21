@@ -1,5 +1,5 @@
 {
-  "contentHash": "cab81c52b07c",
+  "contentHash": "8b150f4fcca2",
   "digest": {
     "language": "en",
     "text": "This month's stars lean hard toward **AI agents and the tools that connect them**. Claude-BugHunter bundles security skills, while qgis-mcp and mcp-server-mattermost link assistants to GIS data and team chat through the Model Context Protocol. Rig and ag-ui show the same pull toward agent frameworks in Rust and TypeScript.\n\nA second thread is **privacy and self-hosting**, seen in zen-desktop, blocky, and Endurain, plus Mullvad's VPN client. Many picks also favor **native, dependency-free builds**, like office2pdf, which converts Office files without LibreOffice.",
@@ -1695,9 +1695,9 @@
     },
     "MDEwOlJlcG9zaXRvcnk1MDYxMzk5MQ==": {
       "category": "Cloud and Kubernetes",
-      "ch": "173cc6d306fc",
-      "description": "Cloud native container registry that stores, signs, and scans container images.",
-      "dh": "b869a6b94de0"
+      "ch": "5df8cbf75c84",
+      "description": "CNCF container registry for managing images and OCI artifacts with access control and scanning.",
+      "dh": "95f09dc1253b"
     },
     "MDEwOlJlcG9zaXRvcnk1MDYxNzQyOA==": {
       "category": "Documentation and Knowledge Tools",
@@ -4817,9 +4817,9 @@
     },
     "MDEwOlJlcG9zaXRvcnk3ODI0Mzc4MQ==": {
       "category": "Desktop and Mobile Apps",
-      "ch": "937e892ef7ed",
-      "description": "Todo list app with timeboxing, time tracking, and integrations with Jira, GitLab, and GitHub.",
-      "dh": "f5365ba1b0ba"
+      "ch": "1ad20452835e",
+      "description": "Offline-first, open source to-do list, time tracker and daily planner for focused personal work.",
+      "dh": "d32f82987ace"
     },
     "MDEwOlJlcG9zaXRvcnk3ODMzMTY4": {
       "category": "Databases and Data Tools",
@@ -10311,9 +10311,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNDY2NDExNTA=": {
       "category": "Cloud and Kubernetes",
-      "ch": "85c3fc6b0924",
-      "description": "Cloud-native Kubernetes resources for defining and running CI/CD pipelines.",
-      "dh": "15f672e1aed8"
+      "ch": "07835c3be294",
+      "description": "Cloud-native pipeline resource for Kubernetes, used to build CI/CD workflows with Tekton.",
+      "dh": "1fd8b1048477"
     },
     "MDEwOlJlcG9zaXRvcnkxNDY3MjgyMjU=": {
       "category": "Other",
@@ -19459,9 +19459,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMzAzNzIxNQ==": {
       "category": "DevOps and Infrastructure",
-      "ch": "80c3b67a1b61",
-      "description": "Production-ready mail server in a container, with SMTP, IMAP, LDAP, antispam, and antivirus.",
-      "dh": "ba18991345f2"
+      "ch": "c05166785642",
+      "description": "Production-ready, fullstack mail server in a container, built from Postfix, Dovecot and Rspamd.",
+      "dh": "de06d878f666"
     },
     "MDEwOlJlcG9zaXRvcnkzMzE0": {
       "category": "Backend Frameworks and Servers",
@@ -19651,9 +19651,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMzY5MjA1MjI=": {
       "category": "Other",
-      "ch": "fa3411747407",
-      "description": "Lightweight modification of Windows intended to improve performance, privacy and usability.",
-      "dh": "a1ae77c0a8df"
+      "ch": "e6ee33ff090f",
+      "description": "Lightweight, open modification of Windows that aims to improve performance, privacy and usability.",
+      "dh": "73dc352df29c"
     },
     "MDEwOlJlcG9zaXRvcnkzMzc0MTQ0OTU=": {
       "category": "Backend Frameworks and Servers",
@@ -23669,12 +23669,6 @@
       "description": "Python app for chatting with the contents of PDF files using GPT models.",
       "dh": "1766755611c7"
     },
-    "R_kgDOJH-jmg": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "f5b73f81ce69",
-      "description": "Cross-platform AI chat client supporting many large language models on web and desktop.",
-      "dh": "04f696e97a08"
-    },
     "R_kgDOJH_K4A": {
       "category": "AI and Machine Learning",
       "ch": "d9c4f0870341",
@@ -25273,12 +25267,6 @@
       "description": "Zero-dependency logging library for Deno, Node.js, Bun, browsers, and edge functions.",
       "dh": "da57196c17df"
     },
-    "R_kgDOLuFyrQ": {
-      "category": "Other",
-      "ch": "ab738d0dfca2",
-      "description": "Experimental Citra fork for the Nintendo 3DS with extra features, continuing Mandarine.",
-      "dh": "d081e48a0fcc"
-    },
     "R_kgDOLueIeg": {
       "category": "AI and Machine Learning",
       "ch": "cda50e3d86d5",
@@ -25286,10 +25274,10 @@
       "dh": "52b0cfec6b50"
     },
     "R_kgDOLunVBg": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "de52f271d421",
-      "description": "API that searches, scrapes, and pulls data from 550+ providers for AI agents.",
-      "dh": "856d6c5e572c"
+      "category": "AI and Machine Learning",
+      "ch": "f776c977671c",
+      "description": "API for searching, scraping and crawling web data and accessing 550+ data providers for AI agents.",
+      "dh": "07335c3a3243"
     },
     "R_kgDOLuyr4g": {
       "category": "JavaScript and TypeScript Tooling",
@@ -26363,9 +26351,9 @@
     },
     "R_kgDOOIUBHw": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "8f2c3bd5358e",
-      "description": "MCP server connecting Claude AI to Google Search Console data for SEO analysis and insights.",
-      "dh": "9f66e962656b"
+      "ch": "7325b150ed24",
+      "description": "Google Search Console analysis for SEO professionals through Claude AI.",
+      "dh": "3a0860d14a96"
     },
     "R_kgDOOIxXqw": {
       "category": "Security and Penetration Testing",
@@ -28083,7 +28071,7 @@
     },
     "R_kgDORYG5fg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "39198a6dd7d0",
+      "ch": "30d0d10c6f7b",
       "description": "Safe, private runtime for running autonomous AI agents.",
       "dh": "784d00a3260e"
     },
@@ -28277,9 +28265,9 @@
     },
     "R_kgDORpCz1g": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "f831733dc70a",
-      "description": "Desktop, mobile, and remote app for running a fleet of coding agents such as Claude Code and Codex.",
-      "dh": "8659f378b9bd"
+      "ch": "711b702b07a9",
+      "description": "Desktop, mobile and remote app for running a fleet of AI coding bots on your own subscriptions.",
+      "dh": "54c4a4b26ff0"
     },
     "R_kgDORpUV8Q": {
       "category": "LLM Agents and AI Assistants",
@@ -29051,6 +29039,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "version": 1
 }

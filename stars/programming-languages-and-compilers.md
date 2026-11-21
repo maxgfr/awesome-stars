@@ -18,8 +18,8 @@
 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | Incremental parsing system that builds concrete syntax trees for source code, used by editors and tools. | tree-sitter | 27.5k |
 | [typescript-go](https://github.com/microsoft/typescript-go) 🗄️ | Staging repository for the native Go port of the TypeScript compiler. | microsoft | 26.1k |
 | [solidity](https://github.com/argotorg/solidity) | Compiler for Solidity, a programming language for writing Ethereum smart contracts. | argotorg | 25.8k |
-| [bend](https://github.com/bendlang/bend) | Fast parallel programming language with dependent types, targeting GPUs via CUDA and Metal. | bendlang | 25.6k |
-| [jdk](https://github.com/openjdk/jdk) | Main-line development repository of the Java Development Kit (JDK). | openjdk | 23.5k |
+| [bend](https://github.com/bendlang/bend) | Fast parallel programming language with dependent types, targeting GPUs via CUDA and Metal. | bendlang | 25.7k |
+| [jdk](https://github.com/openjdk/jdk) | Main-line development repository of the Java Development Kit (JDK). | openjdk | 23.6k |
 | [RustPython](https://github.com/RustPython/RustPython) | Python interpreter written in Rust, with a compiler and JIT for running Python code. | RustPython | 22.5k |
 | [wasmer](https://github.com/wasmerio/wasmer) | Runtime for running WebAssembly sandboxes for apps and AI agents, supporting WASI and WASIX. | wasmerio | 21.3k |
 | [pyscript](https://github.com/pyscript/pyscript) | Open source platform for running Python in the browser via WebAssembly, with HTML integration. | pyscript | 18.7k |
@@ -41,7 +41,7 @@
 | [brython](https://github.com/brython-dev/brython) | Implementation of Python 3 that runs in the browser, allowing Python scripts to execute client-side. | brython-dev | 6.6k |
 | [scriptc](https://github.com/vercel-labs/scriptc) | Compiler that translates TypeScript to native code. | vercel-labs | 6.6k |
 | [mquickjs](https://github.com/bellard/mquickjs) | Public repository of the Micro QuickJS JavaScript engine. | bellard | 6.2k |
-| [uniffi-rs](https://github.com/mozilla/uniffi-rs) | Generator that produces foreign-language bindings for Rust crates across multiple languages. | mozilla | 5.1k |
+| [uniffi-rs](https://github.com/mozilla/uniffi-rs) | Generator that produces foreign-language bindings for Rust crates across multiple languages. | mozilla | 5.2k |
 | [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Specification and documentation for Dhall, a language for maintainable configuration files. | dhall-lang | 4.5k |
 | [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.9k |
 | [isolated-vm](https://github.com/laverdet/isolated-vm) | Node.js library for running secure, isolated JavaScript environments with V8 isolates. | laverdet | 2.9k |

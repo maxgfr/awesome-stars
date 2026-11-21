@@ -28,7 +28,7 @@
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Interview questions and exercises covering DevOps topics such as Linux, Docker, Kubernetes and AWS. | bregman-arie | 86.9k |
 | [llm-course](https://github.com/mlabonne/llm-course) | Course with roadmaps and Colab notebooks for learning Large Language Models. | mlabonne | 85.2k |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | A curated list of computer science courses that include video lectures, covering algorithms, architecture and related fields. | Developer-Y | 84.9k |
-| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 79.9k |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 80k |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 75.9k |
 | [awesome-react](https://github.com/enaqx/awesome-react) | Curated list of resources covering the React and React Native ecosystem. | enaqx | 75.3k |
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of machine learning frameworks, libraries, and software. | josephmisiti | 74.9k |
@@ -38,12 +38,12 @@
 | [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources, including stock photos, templates, CSS frameworks, and icons. | bradtraversy | 67.4k |
 | [Java](https://github.com/TheAlgorithms/Java) | Collection of algorithms and data structures implemented in Java for learning and reference. | TheAlgorithms | 67.3k |
 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | Educational collection of 33 JavaScript concepts that every developer should know. | leonardomso | 66.5k |
-| [rustlings](https://github.com/rust-lang/rustlings) | Small guided exercises for learning to read and write Rust code. | rust-lang | 64.7k |
+| [rustlings](https://github.com/rust-lang/rustlings) | Small guided exercises for learning to read and write Rust code. | rust-lang | 64.8k |
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Curated list of Flutter libraries, tools, tutorials, and articles. | Solido | 62k |
 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curated list of Rust libraries, tools, and learning resources. | rust-unofficial | 60.7k |
-| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.4k |
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.5k |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 54.9k |
-| [awesome-ios](https://github.com/vsouza/awesome-ios) | Curated list of iOS ecosystem libraries and projects in Objective-C and Swift. | vsouza | 54k |
+| [awesome-ios](https://github.com/vsouza/awesome-ios) | Curated list of iOS ecosystem libraries and projects in Objective-C and Swift. | vsouza | 54.1k |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Curated, categorized list of over 5,400 skills from the official OpenClaw Skills Registry. | VoltAgent | 53.9k |
 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | Community-maintained list of open-source iOS, macOS, and tvOS apps. | dkhamsing | 53.4k |
 | [professional-programming](https://github.com/charlax/professional-programming) | Curated learning resources on computer science and engineering concepts for software engineers. | charlax | 51.7k |
@@ -60,10 +60,10 @@
 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | Curated list of Docker resources, tools, and projects including containers, APIs, and related software. | veggiemonk | 37.3k |
 | [wtfpython](https://github.com/satwikkansal/wtfpython) | Collection of surprising Python behaviors and gotchas, explained with examples for learning. | satwikkansal | 37.2k |
 | [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and data structures implemented in JavaScript for beginners, following best practices. | TheAlgorithms | 34.3k |
-| [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Curated list of example GitHub profile README pages, updated in real time. | abhisheknaiidu | 31.6k |
+| [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Curated list of example GitHub profile README pages, updated in real time. | abhisheknaiidu | 31.7k |
 | [awesome-osint](https://github.com/jivoi/awesome-osint) | Curated list of OSINT tools, resources, and references. | jivoi | 31.3k |
-| [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curated list of libraries, packages, and resources for quantitative finance. | wilsonfreitas | 30.7k |
-| [awesome-datascience](https://github.com/academic/awesome-datascience) | Curated list of data science resources for learning and applying methods to real-world problems. | academic | 30.3k |
+| [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | Curated list of libraries, packages, and resources for quantitative finance. | wilsonfreitas | 30.8k |
+| [awesome-datascience](https://github.com/academic/awesome-datascience) | Curated list of data science resources for learning and applying methods to real-world problems. | academic | 30.4k |
 | [HEAD](https://github.com/joshbuchea/HEAD) | Simple guide to HTML head elements, covering their purpose and usage. | joshbuchea | 30.3k |
 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course files, code examples, and exercises for a Udemy Complete Python 3 Bootcamp course. | Pierian-Data | 29.8k |
 | [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | Curated list of falsehoods programmers believe about topics such as dates, names, and currency. | kdeldycke | 27.9k |
@@ -74,7 +74,7 @@
 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | Collection of laws, theories, principles, and patterns relevant to software developers and technologists. | dwmkerr | 27.4k |
 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Curated collection of over 100 specialized subagents for Claude Code across many development tasks. | VoltAgent | 26.7k |
 | [awesome-swift](https://github.com/matteocrippa/awesome-swift) | Curated list of Swift libraries and resources for iOS and Linux development. | matteocrippa | 26.4k |
-| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 25.2k |
+| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 25.3k |
 | [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Curated guide to self-hosting applications, LLMs, VPNs, and automation on local or private servers. | mikeroyal | 23.6k |
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | Curated list of awesome README examples and resources. | matiassingers | 21.8k |
 | [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Curated list of awesome Neovim plugins and resources. | rockerBOO | 21.6k |
@@ -125,7 +125,7 @@
 | [pysheeet](https://github.com/crazyguitar/pysheeet) | Cheat sheet of Python syntax and features for Python 2 and Python 3. | crazyguitar | 8.2k |
 | [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) | Curated list of developers who stream programming on platforms such as Twitch. | bnb | 8.1k |
 | [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Book covering 100 common Go mistakes and how to avoid them, with translations. | teivah | 8k |
-| [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | Curated list of YouTube channels that teach technology topics such as web development and machine learning. | JoseDeFreitas | 7.9k |
+| [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | Curated list of YouTube channels that teach technology topics such as web development and machine learning. | JoseDeFreitas | 8k |
 | [awesome-blender](https://github.com/agmmnn/awesome-blender) | Curated list of Blender add-ons, AI and MCP tools, tutorials, and 3D resources. | agmmnn | 7.7k |
 | [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Curated list of marketing resources for getting early users for SaaS products, apps, and startups. | EdoStra | 7.2k |
 | [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) | Curated list of tools and resources for Chrome DevTools and the DevTools Protocol. | ChromeDevTools | 7.2k |
@@ -134,7 +134,7 @@
 | [open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) | Curated list of open source alternatives to proprietary software. | piotrkulpinski | 6.9k |
 | [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) | Tutorial examples demonstrating common RabbitMQ messaging patterns in various languages. | rabbitmq | 6.9k |
 | [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | Curated list of LLMs, deep learning strategies and tools for financial markets. | georgezouq | 6.8k |
-| [prisma-examples](https://github.com/prisma/prisma-examples) | Ready-to-run example projects demonstrating how to use Prisma with various stacks. | prisma | 6.7k |
+| [prisma-examples](https://github.com/prisma/prisma-examples) | Ready-to-run example projects demonstrating how to use Prisma with various stacks. | prisma | 6.6k |
 | [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) | Curated list of ChatGPT resources, tools, and projects. Submissions are currently paused. | sindresorhus | 6.5k |
 | [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) | Python and modern C++ solutions to all LeetCode problems, updated weekly for interview practice. | kamyu104 | 6.1k |
 | [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | Curated list of LLMOps tools for developers, covering the operation of large language models. | tensorchord | 6k |
@@ -150,7 +150,7 @@
 | [awesome-deno](https://github.com/denolib/awesome-deno) | Curated list of resources, tools, and projects related to the Deno runtime. | denolib | 4.4k |
 | [awesome-ci](https://github.com/ligurio/awesome-ci) | Curated list of continuous integration services and tools, with comparisons. | ligurio | 4.2k |
 | [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | Personal cybersecurity notes from CTF play and red teaming, covering blue teaming and defensive security. | 0xsyr0 | 4.2k |
-| [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) | Curated list of quantitative and algorithmic trading resources focused on machine learning. | grananqvist | 4.1k |
+| [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) | Curated list of quantitative and algorithmic trading resources focused on machine learning. | grananqvist | 4.2k |
 | [awesome-hacking](https://github.com/jekil/awesome-hacking) | Curated collection of hacking tools and resources covering forensics, malware and penetration testing. | jekil | 4.1k |
 | [awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) | Curated list of WYSIWYG editors. | JefMari | 4k |
 | [container.training](https://github.com/jpetazzo/container.training) | Slides and code samples for training and workshops on Docker, containers, and Kubernetes. | jpetazzo | 4k |

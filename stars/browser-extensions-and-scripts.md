@@ -6,7 +6,7 @@
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.5k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.6k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.7k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -73,8 +73,8 @@
 | [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 235 |
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
 | [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
-| [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 136 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 117 |
+| [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 137 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 118 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 | [Ostendo](https://github.com/WebOnField/Ostendo) | Tool that shows accessibility compliance rates of French websites in Google search results. | WebOnField | 18 |

@@ -12,10 +12,10 @@
 | [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.9k |
 | [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.6k |
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.6k |
-| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 43.1k |
-| [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.7k |
-| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.3k |
-| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.6k |
+| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 43.2k |
+| [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.8k |
+| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.4k |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.7k |
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android client for the Shadowsocks encrypted proxy protocol. | shadowsocks | 36.8k |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
 | [algo](https://github.com/trailofbits/algo) | Scripts to set up a personal VPN server in the cloud using Ansible, with IKEv2 and SSH tunnel support. | trailofbits | 30.5k |
@@ -29,10 +29,10 @@
 | [kubo](https://github.com/ipfs/kubo) | Go IPFS daemon that stores and serves content-addressed data via CLI, HTTP gateway and RPC API. | ipfs | 17.2k |
 | [webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API for peer-to-peer audio and video. | pion | 16.9k |
 | [openvpn-install](https://github.com/angristan/openvpn-install) | Shell script that sets up an OpenVPN server on Debian, Ubuntu, Fedora, CentOS, and Arch Linux. | angristan | 16.2k |
-| [gluetun](https://github.com/passteque/gluetun) | Thin Docker container running a Go VPN client for many providers, with OpenVPN or WireGuard. | passteque | 16.1k |
+| [gluetun](https://github.com/passteque/gluetun) | Thin Docker container running a Go VPN client for many providers, with OpenVPN or WireGuard. | passteque | 16.2k |
 | [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Desktop and mobile client for Amnezia VPN, supporting protocols such as OpenVPN, IKEv2, and Shadowsocks. | amnezia-vpn | 16k |
 | [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Bridge that connects Zigbee devices to MQTT without proprietary Zigbee hubs. | Koenkk | 15.8k |
-| [openvpn](https://github.com/OpenVPN/openvpn) | Open source VPN daemon for creating secure point-to-point or site-to-site network connections. | OpenVPN | 14.8k |
+| [openvpn](https://github.com/OpenVPN/openvpn) | Open source VPN daemon for creating secure point-to-point or site-to-site network connections. | OpenVPN | 14.9k |
 | [samples](https://github.com/webrtc/samples) | Collection of WebRTC demos and sample code for browser-based real-time communication. | webrtc | 14.6k |
 | [rathole](https://github.com/rathole-org/rathole) | Lightweight Rust reverse proxy for exposing services behind NAT, an alternative to frp and ngrok. | rathole-org | 14.5k |
 | [peerjs](https://github.com/peers/peerjs) | Library that simplifies peer-to-peer data and media connections in browsers using WebRTC. | peers | 13.5k |
@@ -44,7 +44,7 @@
 | [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) | Rust port of the Shadowsocks encrypted proxy, with SOCKS4, SOCKS5, and HTTP proxy support. | shadowsocks | 11k |
 | [qrcp](https://github.com/claudiodangelis/qrcp) | Command-line tool that transfers files over Wi-Fi to a mobile device by scanning a QR code. | claudiodangelis | 10.5k |
 | [DnsServer](https://github.com/TechnitiumSoftware/DnsServer) | Self-hosted authoritative and recursive DNS server with DHCP, DoH, and DoQ support. | TechnitiumSoftware | 10.4k |
-| [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of the Git repository for a network protocol analyzer used for packet capture. | wireshark | 10.2k |
+| [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of the Git repository for a network protocol analyzer used for packet capture. | wireshark | 10.3k |
 | [flannel](https://github.com/flannel-io/flannel) | Network fabric for containers that provides a layer 3 network for Kubernetes clusters. | flannel-io | 9.6k |
 | [janus-gateway](https://github.com/meetecho/janus-gateway) | WebRTC server gateway for real-time media communication, extended with application plugins. | meetecho | 9.2k |
 | [MQTT.js](https://github.com/mqttjs/MQTT.js) | MQTT client library for Node.js and browsers, used for publishing and subscribing to MQTT brokers. | mqttjs | 9.1k |
@@ -67,7 +67,7 @@
 | [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Web interface for setting up a wireless router on Debian-based devices using hostapd and dnsmasq. | RaspAP | 5.2k |
 | [keepalived](https://github.com/acassen/keepalived) | Routing software providing high availability and load balancing through VRRP and health checks. | acassen | 4.7k |
 | [zen-desktop](https://github.com/irbis-sh/zen-desktop) 🆕 | System-wide ad blocker and privacy guard for Windows, macOS, and Linux. | irbis-sh | 4.4k |
-| [guacamole-server](https://github.com/apache/guacamole-server) | Proxy daemon guacd and C library libguac implementing the Guacamole remote desktop protocol. | apache | 4k |
+| [guacamole-server](https://github.com/apache/guacamole-server) | Proxy daemon guacd and C library libguac implementing the Guacamole remote desktop protocol. | apache | 4.1k |
 | [instant.io](https://github.com/webtorrent/instant.io) | Streaming file transfer over WebTorrent, letting users share and stream torrents in the browser. | webtorrent | 3.6k |
 | [proxy.py](https://github.com/abhinavsingh/proxy.py) | Lightweight Python proxy framework with HTTP, HTTPS, DNS-over-HTTPS, and TLS interception support. | abhinavsingh | 3.6k |
 | [react-native-ble-plx](https://github.com/dotintent/react-native-ble-plx) | React Native library for communicating with Bluetooth Low Energy devices. | dotintent | 3.4k |
@@ -87,9 +87,9 @@
 | [tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter) | Tool that disconnects Tuya IoT devices from the cloud so they can run fully locally. | tuya-cloudcutter | 2k |
 | [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) | Simple, robust BitTorrent tracker with client and server implementations for Node and browsers. | webtorrent | 1.9k |
 | [specs](https://github.com/libp2p/specs) | Technical specifications for the libp2p networking stack. | libp2p | 1.8k |
-| [guacamole-client](https://github.com/apache/guacamole-client) | Web application and JavaScript client for the Apache Guacamole remote desktop gateway. | apache | 1.8k |
 | [wifite2](https://github.com/kimocoder/wifite2) | Python rewrite of the wifite wireless network auditor for automated Wi-Fi security testing. | kimocoder | 1.8k |
-| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.6k |
+| [guacamole-client](https://github.com/apache/guacamole-client) | Web application and JavaScript client for the Apache Guacamole remote desktop gateway. | apache | 1.8k |
+| [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.7k |
 | [briefing](https://github.com/holtwick/briefing) | End-to-end encrypted video group chat application built with WebRTC. | holtwick | 1.6k |
 | [geckos.io](https://github.com/geckosio/geckos.io) | Real-time client/server communication over UDP using WebRTC and Node.js. | geckosio | 1.5k |
 | [untun](https://github.com/unjs/untun) | Tool that exposes a local HTTP or HTTPS server to the internet via Cloudflare Quick Tunnels. | unjs | 1.4k |
@@ -97,7 +97,7 @@
 | [stanza](https://github.com/legastero/stanza) | XMPP library for JavaScript with a JSON API for building messaging clients. | legastero | 1.2k |
 | [proxy-agents](https://github.com/TooTallNate/proxy-agents) | Monorepo of Node.js HTTP and HTTPS proxy agent packages, including PAC support. | TooTallNate | 1.2k |
 | [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
-| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 761 |
+| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 762 |
 | [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 741 |
 | [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 737 |
 | [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |

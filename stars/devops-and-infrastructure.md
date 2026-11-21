@@ -5,9 +5,9 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.7k |
-| [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.5k |
+| [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.6k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78k |
-| [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.7k |
+| [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.8k |
 | [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.5k |
 | [prometheus](https://github.com/prometheus/prometheus) | Monitoring system and time series database that collects metrics and evaluates alerting rules. | prometheus | 67.7k |
 | [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.3k |
@@ -20,7 +20,7 @@
 | [pm2](https://github.com/Unitech/pm2) | Process manager for Node.js, Bun, and TypeScript applications, with load balancing and monitoring. | Unitech | 43.3k |
 | [diagrams](https://github.com/mingrammer/diagrams) | Python library for drawing cloud system architecture diagrams as code using Graphviz. | mingrammer | 42.8k |
 | [fastlane](https://github.com/fastlane/fastlane) | Tool that automates building, testing, and releasing iOS and Android apps. | fastlane | 42.4k |
-| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39k |
+| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39.1k |
 | [harness](https://github.com/harness/harness) | Platform for source control, CI/CD pipelines, hosted dev environments, and artifact registries. | harness | 38.9k |
 | [portainer](https://github.com/portainer/portainer) | Management UI for deploying and operating Docker and Kubernetes environments. | portainer | 38.9k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Self-hostable deployment platform and open source alternative to Vercel, Netlify, and Heroku. | Dokploy | 38.6k |
@@ -56,11 +56,11 @@
 | [goaccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer, usable in a terminal or through a browser. | allinurl | 21.1k |
 | [teleport](https://github.com/gravitational/teleport) | Access platform for securely connecting to servers, databases and clusters, with audit logging. | gravitational | 21.1k |
 | [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Docker image that automatically configures an Nginx reverse proxy for containers as they start and stop. | nginx-proxy | 19.9k |
-| [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready mail server in a container, with SMTP, IMAP, LDAP, antispam, and antivirus. | docker-mailserver | 19.8k |
+| [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready, fullstack mail server in a container, built from Postfix, Dovecot and Rspamd. | docker-mailserver | 19.8k |
 | [gradle](https://github.com/gradle/gradle) | Build automation tool for compiling, testing and packaging projects, mainly Java and Groovy. | gradle | 18.9k |
 | [docker-elk](https://github.com/deviantony/docker-elk) | ELK stack (Elasticsearch, Logstash, Kibana) deployed with Docker and Docker Compose. | deviantony | 18.4k |
 | [zipkin](https://github.com/openzipkin/zipkin) | Distributed tracing system for collecting timing data to troubleshoot latency problems. | openzipkin | 17.5k |
-| [ceph](https://github.com/ceph/ceph) | Distributed platform providing object, block and file storage, with erasure coding and FUSE access. | ceph | 17.2k |
+| [ceph](https://github.com/ceph/ceph) | Distributed platform providing object, block and file storage, with erasure coding and FUSE access. | ceph | 17.3k |
 | [upptime](https://github.com/upptime/upptime) | Uptime monitor and status page built on GitHub Actions and GitHub Pages. | upptime | 17.2k |
 | [nomad](https://github.com/hashicorp/nomad) | Workload orchestrator for scheduling containerized, batch, and non-containerized applications. | hashicorp | 17.1k |
 | [dagger](https://github.com/dagger/dagger) | Automation engine for building, testing and shipping code, running locally, in CI or in the cloud. | dagger | 16.6k |
@@ -82,7 +82,7 @@
 | [qemu](https://github.com/qemu/qemu) | Mirror of the QEMU machine emulator and virtualizer, where pull requests are disabled. | qemu | 14.1k |
 | [node_exporter](https://github.com/prometheus/node_exporter) | Prometheus exporter that collects hardware and operating system metrics from Unix-like machines. | prometheus | 13.9k |
 | [distributions](https://github.com/nodesource/distributions) | Binary distributions of Node.js packages for Linux from NodeSource. | nodesource | 13.9k |
-| [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite with webmail, groupware, and spam and virus filtering. | mailcow | 13.8k |
+| [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite with webmail, groupware, and spam and virus filtering. | mailcow | 13.9k |
 | [fluentd](https://github.com/fluent/fluentd) | Open source data collector that unifies log collection and forwarding across systems, under CNCF. | fluent | 13.6k |
 | [runner-images](https://github.com/actions/runner-images) | Virtual machine images for GitHub Actions hosted runners, listing preinstalled software. | actions | 13.6k |
 | [capistrano](https://github.com/capistrano/capistrano) | Deployment automation tool built on Ruby, Rake, and SSH for running tasks on remote servers. | capistrano | 13k |
@@ -109,7 +109,7 @@
 | [highlight](https://github.com/highlight/highlight) | Open source full-stack monitoring platform with error monitoring, session replay, logging, and tracing. | highlight | 9.4k |
 | [buildah](https://github.com/podman-container-tools/buildah) | Tool for building OCI and Docker container images without requiring a container daemon. | podman-container-tools | 9.2k |
 | [kata-containers](https://github.com/kata-containers/kata-containers) | Open-source project building lightweight virtual machines that perform like containers for runtimes. | kata-containers | 9.2k |
-| [microsandbox](https://github.com/superradcompany/microsandbox) | Local-first microVM runtime and library for running isolated, programmable sandboxes quickly. | superradcompany | 9.1k |
+| [microsandbox](https://github.com/superradcompany/microsandbox) | Local-first microVM runtime and library for running isolated, programmable sandboxes quickly. | superradcompany | 9.2k |
 | [checkout](https://github.com/actions/checkout) | GitHub Action for checking out a repository into the workflow workspace. | actions | 9k |
 | [alertmanager](https://github.com/prometheus/alertmanager) | Handles alerts from Prometheus by deduplicating and routing them to email and other receivers. | prometheus | 8.7k |
 | [docker-node](https://github.com/nodejs/docker-node) | Official Docker images for Node.js, for building and running Node.js applications in containers. | nodejs | 8.6k |
@@ -141,8 +141,8 @@
 | [build-push-action](https://github.com/docker/build-push-action) | GitHub Action that builds and pushes Docker images using Buildx. | docker | 5.4k |
 | [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for deploying static site files to GitHub Pages, compatible with common site generators. | peaceiris | 5.4k |
 | [dockerize](https://github.com/jwilder/dockerize) | Utility that simplifies running applications in Docker containers, such as waiting for services. | jwilder | 5.2k |
-| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Community-maintained receivers, exporters, and processors that extend the OpenTelemetry Collector. | open-telemetry | 5.1k |
+| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [setup-node](https://github.com/actions/setup-node) | GitHub Action that installs a specified version of Node.js in a workflow. | actions | 5k |
 | [varlock](https://github.com/dmno-dev/varlock) | Schema-driven .env file tool that lets AI agents use configuration while keeping secrets protected. | dmno-dev | 5k |
 | [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | Toolkit for building and running containers that use NVIDIA GPUs. | NVIDIA | 4.6k |
@@ -150,7 +150,7 @@
 | [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) | GitHub Action that deploys a project to GitHub Pages by pushing built code to a configured branch. | JamesIves | 4.6k |
 | [buildx](https://github.com/docker/buildx) | Docker CLI plugin that adds extended image build features using BuildKit. | docker | 4.5k |
 | [containers](https://github.com/bitnami/containers) | Bitnami container images packaged to run as non-root for Docker deployments. | bitnami | 4.5k |
-| [actionlint](https://github.com/rhysd/actionlint) 🆕 | Static checker that lints GitHub Actions workflow files for errors. | rhysd | 4.4k |
+| [actionlint](https://github.com/rhysd/actionlint) | Static checker that lints GitHub Actions workflow files for errors. | rhysd | 4.4k |
 | [upload-artifact](https://github.com/actions/upload-artifact) |  | actions | 4.3k |
 | [pms-docker](https://github.com/plexinc/pms-docker) | Docker repository for building and running Plex Media Server containers. | plexinc | 4.1k |
 | [dockly](https://github.com/lirantal/dockly) | Terminal interface for viewing and managing Docker containers and services. | lirantal | 4k |
@@ -229,7 +229,7 @@
 | [action-release](https://github.com/getsentry/action-release) | GitHub Action for creating Sentry releases from workflows, including tagging production deployments. | getsentry | 496 |
 | [docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) | Dockerfiles for running NGINX as a non-root user, based on Alpine and Debian images. | nginx | 484 |
 | [action-discord](https://github.com/Ilshidur/action-discord) | GitHub Action that sends messages to a Discord channel through a webhook. | Ilshidur | 463 |
-| [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 453 |
+| [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 454 |
 | [delete-package-versions](https://github.com/actions/delete-package-versions) |  | actions | 446 |
 | [commit-analyzer](https://github.com/semantic-release/commit-analyzer) | semantic-release plugin that determines the next release type from conventional commits. | semantic-release | 446 |
 | [mise-action](https://github.com/jdx/mise-action) 🆕 |  | jdx | 408 |
@@ -243,17 +243,17 @@
 | [wait-for-secrets](https://github.com/step-security/wait-for-secrets) | GitHub Action for publishing from workflows with multi-factor authentication. | step-security | 300 |
 | [import-codesign-certs](https://github.com/Apple-Actions/import-codesign-certs) | GitHub Action that imports code-signing certificates into a macOS keychain. | Apple-Actions | 290 |
 | [vhs-action](https://github.com/charmbracelet/vhs-action) | GitHub Action that regenerates terminal GIFs with VHS in CI so recordings stay up to date. | charmbracelet | 276 |
-| [actions](https://github.com/GitTools/actions) | GitHub Action that installs GitVersion and GitReleaseManager for use in workflows. | GitTools | 274 |
+| [actions](https://github.com/GitTools/actions) | GitHub Action that installs GitVersion and GitReleaseManager for use in workflows. | GitTools | 275 |
 | [hadolint-action](https://github.com/hadolint/hadolint-action) | GitHub Action that runs Hadolint to lint Dockerfiles. | hadolint | 270 |
 | [upload-testflight-build](https://github.com/Apple-Actions/upload-testflight-build) | GitHub Action that uploads an iOS build to Apple TestFlight. | Apple-Actions | 267 |
 | [action](https://github.com/autofix-ci/action) | GitHub Action that automatically commits fixes from formatters and linters to pull requests. | autofix-ci | 243 |
 | [multi-semantic-release](https://github.com/dhoulb/multi-semantic-release) | Proof-of-concept wrapper that runs semantic-release across packages in a monorepo. | dhoulb | 222 |
 | [Github-Release-Action](https://github.com/elgohr/Github-Release-Action) | GitHub Action that publishes GitHub releases from within a workflow. | elgohr | 215 |
-| [gh-find-current-pr](https://github.com/jwalton/gh-find-current-pr) | GitHub Action that finds the pull request associated with the current commit SHA. | jwalton | 191 |
-| [buildah-build](https://github.com/redhat-actions/buildah-build) | GitHub Action that builds container images using Buildah. | redhat-actions | 191 |
+| [gh-find-current-pr](https://github.com/jwalton/gh-find-current-pr) | GitHub Action that finds the pull request associated with the current commit SHA. | jwalton | 192 |
+| [buildah-build](https://github.com/redhat-actions/buildah-build) | GitHub Action that builds container images using Buildah. | redhat-actions | 192 |
 | [notify-slack-action](https://github.com/ravsamhq/notify-slack-action) | GitHub Action that sends Slack notifications for workflow failures, warnings, or successes. | ravsamhq | 185 |
 | [winston-logstash](https://github.com/jaakkos/winston-logstash) | Winston transport that sends log entries over TCP to a Logstash server. | jaakkos | 129 |
-| [push-to-registry](https://github.com/redhat-actions/push-to-registry) | GitHub Action that pushes container images to a container image registry. | redhat-actions | 122 |
+| [push-to-registry](https://github.com/redhat-actions/push-to-registry) | GitHub Action that pushes container images to a container image registry. | redhat-actions | 123 |
 | [copybara-action](https://github.com/Olivr/copybara-action) | GitHub Action that transforms and copies code between repositories using Copybara. | Olivr | 120 |
 | [dotenv-action](https://github.com/falti/dotenv-action) | GitHub Action that loads common parameters from a .env file into workflows. | falti | 111 |
 | [pull-request-comment-branch](https://github.com/xt0rted/pull-request-comment-branch) | GitHub Action that retrieves the head ref and SHA of a pull request from a comment event. | xt0rted | 99 |
