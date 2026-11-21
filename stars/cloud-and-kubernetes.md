@@ -6,11 +6,11 @@
 |---|---|---|---:|
 | [kubernetes](https://github.com/kubernetes/kubernetes) | Container orchestration system for automating deployment, scaling, and management of containers. | kubernetes | 129k |
 | [moby](https://github.com/moby/moby) | Open framework for assembling container-based systems, underlying the Docker container platform. | moby | 72.3k |
-| [rclone](https://github.com/rclone/rclone) | Command-line tool for syncing and managing files across many cloud storage providers, like rsync. | rclone | 61.1k |
-| [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Guide to bootstrapping a Kubernetes cluster manually, step by step without scripts. | kelseyhightower | 50.7k |
+| [rclone](https://github.com/rclone/rclone) | Command-line tool for syncing and managing files across many cloud storage providers, like rsync. | rclone | 61.2k |
+| [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Guide to bootstrapping a Kubernetes cluster manually, step by step without scripts. | kelseyhightower | 50.8k |
 | [serverless](https://github.com/serverless/serverless) | Framework for building auto-scaling serverless applications on AWS Lambda and other cloud services. | serverless | 46.9k |
 | [istio](https://github.com/istio/istio) | Service mesh for connecting, securing, controlling, and observing microservices. | istio | 38.5k |
-| [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.1k |
+| [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.2k |
 | [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35k |
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
@@ -90,13 +90,13 @@
 | [lxc](https://github.com/lxc/lxc) | User-space tools and libraries for creating and managing Linux system containers. | lxc | 5.3k |
 | [postgres-operator](https://github.com/zalando/postgres-operator) | Operator that creates and manages PostgreSQL clusters on Kubernetes. | zalando | 5.3k |
 | [docs](https://github.com/knative/docs) | User documentation for Knative, a Kubernetes-based platform for serverless workloads. | knative | 5.1k |
-| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5k |
+| [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) | Open-source adapter for deploying Next.js applications on AWS. | opennextjs | 5.1k |
 | [stern](https://github.com/stern/stern) | Command-line tool for tailing logs from multiple pods and containers in Kubernetes. | stern | 4.9k |
 | [lxd](https://github.com/canonical/lxd) | Manager for system containers and virtual machines with a unified API, built on LXC. | canonical | 4.9k |
 | [krr](https://github.com/robusta-dev/krr) | Tool that generates Kubernetes resource recommendations from Prometheus metrics to reduce costs. | robusta-dev | 4.8k |
 | [azure-cli](https://github.com/Azure/azure-cli) | Command-line interface for managing Azure resources and services. | Azure | 4.7k |
-| [s5cmd](https://github.com/peak/s5cmd) | Parallel tool for running S3 and local filesystem operations. | peak | 4.2k |
 | [crun](https://github.com/containers/crun) | Fast, lightweight OCI runtime and C library for running containers. | containers | 4.2k |
+| [s5cmd](https://github.com/peak/s5cmd) | Parallel tool for running S3 and local filesystem operations. | peak | 4.2k |
 | [kubeadm](https://github.com/kubernetes/kubeadm) | Issue tracker aggregating reports and feature requests for the kubeadm cluster bootstrapping tool. | kubernetes | 4k |
 | [enhancements](https://github.com/kubernetes/enhancements) | Tracks Kubernetes enhancement proposals and their status across releases and SIGs. | kubernetes | 4k |
 | [kube](https://github.com/kube-rs/kube) | Rust client library and controller runtime for interacting with Kubernetes clusters. | kube-rs | 3.9k |
@@ -125,8 +125,8 @@
 | [kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) | Jenkins plugin that runs build agents as dynamically provisioned pods in Kubernetes or Docker. | jenkinsci | 2.3k |
 | [Azurite](https://github.com/Azure/Azurite) | Lightweight local emulator of Azure Storage, simulating most commands with minimal dependencies. | Azure | 2.3k |
 | [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) | Development repository for the Azure SDK for JavaScript, covering Node.js and browser support. | Azure | 2.3k |
-| [javascript](https://github.com/kubernetes-client/javascript) | JavaScript and TypeScript client library for the Kubernetes API. | kubernetes-client | 2.3k |
 | [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Model Context Protocol server for Kubernetes and OpenShift clusters. | containers | 2.3k |
+| [javascript](https://github.com/kubernetes-client/javascript) | JavaScript and TypeScript client library for the Kubernetes API. | kubernetes-client | 2.3k |
 | [ocis](https://github.com/owncloud/ocis) | Go server for ownCloud Infinite Scale, a file sync and sharing platform. | owncloud | 2.2k |
 | [AKS](https://github.com/Azure/AKS) | Issue tracker and resources for Azure Kubernetes Service, Microsoft's managed Kubernetes offering. | Azure | 2.1k |
 | [kubectl-neat](https://github.com/itaysk/kubectl-neat) | kubectl plugin that removes clutter from Kubernetes YAML and JSON output for readability. | itaysk | 2.1k |
@@ -154,7 +154,7 @@
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 486 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 487 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
 | [kube-httpcache](https://github.com/mittwald/kube-httpcache) | Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes. | mittwald | 312 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |

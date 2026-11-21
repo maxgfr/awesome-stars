@@ -1,9 +1,9 @@
 {
-  "contentHash": "8b150f4fcca2",
+  "contentHash": "61737fdd4dde",
   "digest": {
     "language": "en",
-    "text": "This month's stars lean hard toward **AI agents and the tools that connect them**. Claude-BugHunter bundles security skills, while qgis-mcp and mcp-server-mattermost link assistants to GIS data and team chat through the Model Context Protocol. Rig and ag-ui show the same pull toward agent frameworks in Rust and TypeScript.\n\nA second thread is **privacy and self-hosting**, seen in zen-desktop, blocky, and Endurain, plus Mullvad's VPN client. Many picks also favor **native, dependency-free builds**, like office2pdf, which converts Office files without LibreOffice.",
-    "upTo": "2026-11-18T19:33:20Z"
+    "text": "This week's stars lean hard into **mobile gaming and Windows compatibility**, with DroidDeck bringing a SteamOS-style interface to Android, alongside winlator and GameNative running Windows and PC storefronts on phones. Privacy tools follow close behind, from zen-desktop's system-wide ad blocking to hysteria and the Mullvad client.\n\nThe strongest thread is **AI agents as tooling**, seen in qgis-mcp, mcp-server-mattermost, and open-seo, plus **cost control for coding agents** in pxpipe and TokenEconomizer. Developer infrastructure such as sqlc and lefthook rounds out the list.",
+    "upTo": "2026-11-21T14:30:22Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-18T19:33:20Z",
+  "newest": "2026-11-21T14:30:22Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -10923,7 +10923,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTY3ODY0NA==": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "70eb3bdc51d6",
+      "ch": "bb36b2eeadf1",
       "description": "Parser for unified diff output that works in Node.js and browsers.",
       "dh": "b1f50c80976b"
     },
@@ -18945,9 +18945,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMTYyOTc1MQ==": {
       "category": "Testing and Automation",
-      "ch": "cc35389ab1a2",
-      "description": "End-to-end and component testing framework for applications running in a browser.",
-      "dh": "ab1545fb50e7"
+      "ch": "538eb72cc4c6",
+      "description": "Testing framework for end-to-end and component tests of anything that runs in a browser.",
+      "dh": "78c476770836"
     },
     "MDEwOlJlcG9zaXRvcnkzMTc2Mzk2ODU=": {
       "category": "Developer Tools and Editors",
@@ -21663,9 +21663,9 @@
     },
     "R_kgDOGQkv2g": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "ec6f314de757",
-      "description": "Framework for fetching data and exchanging realtime data, with caching and request builders.",
-      "dh": "623fc5cda1b9"
+      "ch": "3ee811b2bd28",
+      "description": "Framework for data fetching and realtime data exchange with caching and Firebase support.",
+      "dh": "8e5c3779d498"
     },
     "R_kgDOGRBhiw": {
       "category": "Backend Frameworks and Servers",
@@ -23853,6 +23853,12 @@
       "description": "Next.js starter template with TypeScript, Tailwind CSS, ESLint, Prettier, and testing tools for large apps.",
       "dh": "25f471446fee"
     },
+    "R_kgDOJ_-WGQ": {
+      "category": "Desktop and Mobile Apps",
+      "ch": "fcc7678ecf2b",
+      "description": "Runs Windows applications on Android using Wine with Box86 and Box64 emulation.",
+      "dh": "7025b885f8cb"
+    },
     "R_kgDOJ_ubjA": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "0f36bc13ed22",
@@ -25023,9 +25029,9 @@
     },
     "R_kgDOLTEsfg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "06d415ff439f",
-      "description": "Open platform for building customer-facing chat agents whose behavior is described in natural language.",
-      "dh": "7af782151df3"
+      "ch": "87edad1a4153",
+      "description": "Framework for building and running reliable customer support and CX agents with LLMs.",
+      "dh": "b6c45454055a"
     },
     "R_kgDOLTw_Xg": {
       "category": "Image and Graphics Processing",
@@ -25680,6 +25686,12 @@
       "ch": "f1e179cf0644",
       "description": "Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui.",
       "dh": "ce7361c0d3ab"
+    },
+    "R_kgDOMy3LMg": {
+      "category": "AI and Machine Learning",
+      "ch": "bff5fc22c006",
+      "description": "Machine learning inference framework in Zig, targeting any model and hardware via XLA and MLIR.",
+      "dh": "272aeb227c7b"
     },
     "R_kgDOMzA5hQ": {
       "category": "AI and Machine Learning",
@@ -26624,6 +26636,12 @@
       "ch": "45574698e364",
       "description": "Open-source copy-paste shadcn components, blocks, and templates with a theme generator.",
       "dh": "916166e3153a"
+    },
+    "R_kgDOOdG9RA": {
+      "category": "Desktop and Mobile Apps",
+      "ch": "6949da3676a3",
+      "description": "Android app for playing PC games with Steam, Epic, GOG and Amazon library integrations.",
+      "dh": "999855558418"
     },
     "R_kgDOOgGNXg": {
       "category": "Developer Tools and Editors",
@@ -28557,6 +28575,12 @@
       "description": "Code review tool pairing deterministic pipelines with an LLM agent for precise line-level comments.",
       "dh": "5196cf13e74f"
     },
+    "R_kgDOSi9aBg": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "448b535c82f1",
+      "description": "Reduces Claude Code token usage by rendering text context as images.",
+      "dh": "ffceac70214d"
+    },
     "R_kgDOSk2dRQ": {
       "category": "LLM Agents and AI Assistants",
       "ch": "b45fe6855529",
@@ -28915,6 +28939,12 @@
       "description": "Jev-compatible API server that pulls and serves open decision models locally or self-hosted.",
       "dh": "d8240d895394"
     },
+    "R_kgDOUplEVg": {
+      "category": "Desktop and Mobile Apps",
+      "ch": "c86012246c06",
+      "description": "Adds the SteamOS experience to Android devices.",
+      "dh": "030d1b691d32"
+    },
     "R_kgDOUtDQyg": {
       "category": "Desktop and Mobile Apps",
       "ch": "0aa22269b5fa",
@@ -28946,10 +28976,10 @@
       "dh": "26c8d1aac192"
     },
     "R_kgDOVKgi0A": {
-      "category": "Audio and Video Processing",
-      "ch": "f9712aca514e",
-      "description": "Gives coding agents audio abilities to hear, review, and produce sound, running on CPU only.",
-      "dh": "4379c998f6ed"
+      "category": "LLM Agents and AI Assistants",
+      "ch": "7086f4546414",
+      "description": "Renders sound effects for coding agents from plain-language requests, CPU-only and open source.",
+      "dh": "4aff4e1796ba"
     },
     "R_kgDOVLtjGg": {
       "category": "Developer Tools and Editors",

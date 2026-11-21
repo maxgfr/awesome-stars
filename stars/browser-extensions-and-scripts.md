@@ -4,9 +4,9 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.5k |
+| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.6k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.7k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.9k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -57,10 +57,10 @@
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
-| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 760 |
+| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 761 |
 | [hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare) | Browser extension that creates random email aliases forwarding to your real inbox via Cloudflare. | webmonch | 682 |
 | [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
-| [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 666 |
+| [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 667 |
 | [lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) | Browser extension wallet for connecting to Lightning nodes and signing Nostr events and transactions. | getAlby | 585 |
 | [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 512 |
 | [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) | Command-line and Node.js tool to upload Chrome extensions to the Chrome Web Store. | fregante | 411 |
@@ -70,9 +70,9 @@
 | [huh-spicetify-extensions](https://github.com/huhridge/huh-spicetify-extensions) | Collection of custom extensions for the Spicetify client to modify the Spotify desktop app. | huhridge | 276 |
 | [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 272 |
 | [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) | Spicetify extension that hides podcast content from the Spotify interface. | theRealPadster | 257 |
-| [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 235 |
-| [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 231 |
-| [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 182 |
+| [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 236 |
+| [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 232 |
+| [syncwatch](https://github.com/Semro/syncwatch) | Browser extension for watching videos synchronized with others in real time. | Semro | 183 |
 | [ghunt_companion](https://github.com/mxrch/ghunt_companion) | Tool that loads the cookies required to use GHunt. | mxrch | 137 |
 | [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 118 |
 | [xpath-finder](https://github.com/trembacz/xpath-finder) | A browser tool that shows the XPath of any element clicked on a web page. | trembacz | 113 |

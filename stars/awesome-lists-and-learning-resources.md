@@ -5,8 +5,8 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 564k |
-| [awesome](https://github.com/sindresorhus/awesome) | Curated index of other awesome lists organized by topic, with guidelines for creating them. | sindresorhus | 540k |
-| [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 500k |
+| [awesome](https://github.com/sindresorhus/awesome) | Curated index of other awesome lists organized by topic, with guidelines for creating them. | sindresorhus | 541k |
+| [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 501k |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Curated list of freely available programming books and learning resources in many languages. | EbookFoundation | 402k |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Guide to designing large-scale systems, with study material for system design interviews. | donnemartin | 379k |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Curated list of free software web applications and network services that can be self-hosted. | awesome-selfhosted | 339k |
@@ -17,22 +17,22 @@
 | [awesome-go](https://github.com/avelino/awesome-go) | Curated list of Go frameworks, libraries, and software. | avelino | 195k |
 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on the JavaScript language. | getify | 185k |
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Curated collection of over 100 open-source AI agent and RAG applications using LLMs. | Shubhamsaboo | 145k |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for software engineers. | yangshun | 143k |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for software engineers. | yangshun | 144k |
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | Lists SaaS, PaaS, and IaaS products with free tiers for DevOps and infrastructure developers. | ripienaar | 143k |
 | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | Collection of short articles teaching practical JavaScript, CSS, and Git concepts for developers. | Chalarangelo | 130k |
-| [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Collection of DESIGN.md files from brand design systems for coding agents to generate matching UIs. | VoltAgent | 128k |
+| [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Collection of DESIGN.md files from brand design systems for coding agents to generate matching UIs. | VoltAgent | 129k |
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Collection of computer science papers for the community to read and discuss at meetups. | papers-we-love | 112k |
 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | Curated list of Node.js best practices covering project structure, error handling, testing, and security. | goldbergyoni | 106k |
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of Model Context Protocol (MCP) servers for AI applications. | punkpeye | 98.3k |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Curated list of Model Context Protocol (MCP) servers for AI applications. | punkpeye | 98.4k |
 | [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Visual explanations of system design concepts to help prepare for software architecture interviews. | ByteByteGoHq | 91.3k |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Interview questions and exercises covering DevOps topics such as Linux, Docker, Kubernetes and AWS. | bregman-arie | 86.9k |
 | [llm-course](https://github.com/mlabonne/llm-course) | Course with roadmaps and Colab notebooks for learning Large Language Models. | mlabonne | 85.2k |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | A curated list of computer science courses that include video lectures, covering algorithms, architecture and related fields. | Developer-Y | 84.9k |
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 80k |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 75.9k |
-| [awesome-react](https://github.com/enaqx/awesome-react) | Curated list of resources covering the React and React Native ecosystem. | enaqx | 75.3k |
+| [awesome-react](https://github.com/enaqx/awesome-react) | Curated list of resources covering the React and React Native ecosystem. | enaqx | 75.4k |
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of machine learning frameworks, libraries, and software. | josephmisiti | 74.9k |
-| [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Curated list of C and C++ frameworks, libraries, resources and tools. | fffaraz | 74.5k |
+| [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Curated list of C and C++ frameworks, libraries, resources and tools. | fffaraz | 74.6k |
 | [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of resources related to Vue.js. | vuejs | 73.5k |
 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Curated list of Node.js packages and learning resources; submissions are temporarily paused. | sindresorhus | 67.6k |
 | [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources, including stock photos, templates, CSS frameworks, and icons. | bradtraversy | 67.4k |
@@ -42,7 +42,7 @@
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Curated list of Flutter libraries, tools, tutorials, and articles. | Solido | 62k |
 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curated list of Rust libraries, tools, and learning resources. | rust-unofficial | 60.7k |
 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.5k |
-| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 54.9k |
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 55k |
 | [awesome-ios](https://github.com/vsouza/awesome-ios) | Curated list of iOS ecosystem libraries and projects in Objective-C and Swift. | vsouza | 54.1k |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Curated, categorized list of over 5,400 skills from the official OpenClaw Skills Registry. | VoltAgent | 53.9k |
 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | Community-maintained list of open-source iOS, macOS, and tvOS apps. | dkhamsing | 53.4k |
@@ -127,7 +127,7 @@
 | [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Book covering 100 common Go mistakes and how to avoid them, with translations. | teivah | 8k |
 | [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) | Curated list of YouTube channels that teach technology topics such as web development and machine learning. | JoseDeFreitas | 8k |
 | [awesome-blender](https://github.com/agmmnn/awesome-blender) | Curated list of Blender add-ons, AI and MCP tools, tutorials, and 3D resources. | agmmnn | 7.7k |
-| [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Curated list of marketing resources for getting early users for SaaS products, apps, and startups. | EdoStra | 7.2k |
+| [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Curated list of marketing resources for getting early users for SaaS products, apps, and startups. | EdoStra | 7.3k |
 | [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) | Curated list of tools and resources for Chrome DevTools and the DevTools Protocol. | ChromeDevTools | 7.2k |
 | [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) | Curated list of test automation frameworks, tools, and libraries for many programming languages. | atinfo | 7.2k |
 | [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) | Curated list of cryptography resources, libraries and links. | sobolevn | 7.2k |
@@ -142,7 +142,7 @@
 | [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) | Curated list of tools for working with databases, including IDEs, management and cross-database utilities. | mgramin | 5.4k |
 | [awesome-uses](https://github.com/wesbos/awesome-uses) | A curated list of /uses pages describing developers' setups, gear, software, and configs. | wesbos | 5.3k |
 | [awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) | Curated list of projects related to eBPF. | qmonnet | 5.2k |
-| [awesome-pwa](https://github.com/hemanth/awesome-pwa) | Curated list of progressive web app resources, tools, and articles. | hemanth | 4.9k |
+| [awesome-pwa](https://github.com/hemanth/awesome-pwa) | Curated list of progressive web app resources, tools, and articles. | hemanth | 5k |
 | [next-learn](https://github.com/vercel/next-learn) | Starter code for the Learn Next.js tutorial. | vercel | 4.8k |
 | [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) | A curated list of ESLint plugins, configs, and related tools. | dustinspecker | 4.8k |
 | [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) | Community-curated list of IPFS projects, apps, tools, and pinning services. | ipfs | 4.6k |

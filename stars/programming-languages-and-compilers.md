@@ -11,7 +11,7 @@
 | [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.4k |
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Google's language-neutral mechanism for serializing structured data, with compiler and runtime libraries. | protocolbuffers | 72.2k |
 | [swift](https://github.com/swiftlang/swift) | Source code for the Swift programming language, including its compiler and standard library. | swiftlang | 70.6k |
-| [php-src](https://github.com/php/php-src) | The source code of the PHP interpreter, which runs the PHP scripting language. | php | 41.8k |
+| [php-src](https://github.com/php/php-src) | The source code of the PHP interpreter, which runs the PHP scripting language. | php | 41.9k |
 | [llvm-project](https://github.com/llvm/llvm-project) | Collection of modular, reusable compiler and toolchain technologies. | llvm | 41.5k |
 | [modular](https://github.com/modular/modular) | Modular AI platform including the MAX inference framework and the Mojo programming language. | modular | 30.2k |
 | [emscripten](https://github.com/emscripten-core/emscripten) | LLVM-based compiler toolchain that compiles C and C++ code to WebAssembly. | emscripten-core | 27.8k |
@@ -26,20 +26,20 @@
 | [nix](https://github.com/NixOS/nix) | Purely functional package manager for declarative, reproducible software installation and configuration. | NixOS | 18.1k |
 | [assemblyscript](https://github.com/AssemblyScript/assemblyscript) | TypeScript-like language that compiles to WebAssembly, with a compiler and standard library. | AssemblyScript | 18k |
 | [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for microcontrollers, WebAssembly, and command-line tools, based on LLVM. | tinygo-org | 17.9k |
-| [pyo3](https://github.com/PyO3/pyo3) | Rust bindings for the Python interpreter, enabling Rust code to call and be called from Python. | PyO3 | 16.3k |
+| [pyo3](https://github.com/PyO3/pyo3) | Rust bindings for the Python interpreter, enabling Rust code to call and be called from Python. | PyO3 | 16.4k |
 | [pyright](https://github.com/microsoft/pyright) | Static type checker for Python. | microsoft | 15.8k |
 | [pyodide](https://github.com/pyodide/pyodide) | Python distribution for the browser and Node.js, compiled to WebAssembly. | pyodide | 14.9k |
 | [quicktype](https://github.com/glideapps/quicktype) | Tool that generates typed models and converters from JSON, JSON Schema, and GraphQL for many languages. | glideapps | 13.9k |
 | [gopherjs](https://github.com/gopherjs/gopherjs) | Compiler that translates Go code to JavaScript so Go programs can run in a browser. | gopherjs | 13.2k |
 | [acorn](https://github.com/acornjs/acorn) | Small, fast JavaScript parser that produces ESTree-compatible abstract syntax trees. | acornjs | 11.5k |
-| [hermes](https://github.com/meta/hermes) | JavaScript engine optimized for running React Native applications. | meta | 11.4k |
+| [hermes](https://github.com/meta/hermes) | JavaScript engine optimized for running React Native applications. | meta | 11.5k |
 | [gcc](https://github.com/gcc-mirror/gcc) |  | gcc-mirror | 11.4k |
 | [sdk](https://github.com/dart-lang/sdk) | Software development kit for the Dart language, including the VM, compilers, and core libraries. | dart-lang | 11.4k |
 | [lean4](https://github.com/leanprover/lean4) | Programming language and interactive theorem prover for writing verified mathematics and software. | leanprover | 10.1k |
 | [jerryscript](https://github.com/jerryscript-project/jerryscript) | Ultra-lightweight JavaScript engine intended for running on resource-constrained IoT devices. | jerryscript-project | 7.4k |
 | [rustup](https://github.com/rust-lang/rustup) | Installer and version manager for the Rust toolchain, including compilers, tools, and targets. | rust-lang | 7.1k |
-| [brython](https://github.com/brython-dev/brython) | Implementation of Python 3 that runs in the browser, allowing Python scripts to execute client-side. | brython-dev | 6.6k |
 | [scriptc](https://github.com/vercel-labs/scriptc) | Compiler that translates TypeScript to native code. | vercel-labs | 6.6k |
+| [brython](https://github.com/brython-dev/brython) | Implementation of Python 3 that runs in the browser, allowing Python scripts to execute client-side. | brython-dev | 6.6k |
 | [mquickjs](https://github.com/bellard/mquickjs) | Public repository of the Micro QuickJS JavaScript engine. | bellard | 6.2k |
 | [uniffi-rs](https://github.com/mozilla/uniffi-rs) | Generator that produces foreign-language bindings for Rust crates across multiple languages. | mozilla | 5.2k |
 | [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Specification and documentation for Dhall, a language for maintainable configuration files. | dhall-lang | 4.5k |

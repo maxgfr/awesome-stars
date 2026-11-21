@@ -3,8 +3,57 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-18T19:33:20Z</updated>
+  <updated>2026-11-21T14:30:22Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>Droid-Deck/DroidDeck</title>
+    <link href="https://github.com/Droid-Deck/DroidDeck"/>
+    <id>https://github.com/Droid-Deck/DroidDeck</id>
+    <updated>2026-11-21T14:30:22Z</updated>
+    <author><name>Droid-Deck</name></author>
+    <summary>Adds the SteamOS experience to Android devices. · Kotlin</summary>
+  </entry>
+  <entry>
+    <title>brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator"/>
+    <id>https://github.com/brunodev85/winlator</id>
+    <updated>2026-11-21T14:29:39Z</updated>
+    <author><name>brunodev85</name></author>
+    <summary>Runs Windows applications on Android using Wine with Box86 and Box64 emulation. · C</summary>
+  </entry>
+  <entry>
+    <title>utkarshdalal/GameNative</title>
+    <link href="https://github.com/utkarshdalal/GameNative"/>
+    <id>https://github.com/utkarshdalal/GameNative</id>
+    <updated>2026-11-21T13:28:23Z</updated>
+    <author><name>utkarshdalal</name></author>
+    <summary>Android app for playing PC games with Steam, Epic, GOG and Amazon library integrations. · Kotlin · gaming, mobile-gaming, pc-gaming, steam</summary>
+    <category term="gaming"/>
+    <category term="mobile-gaming"/>
+    <category term="pc-gaming"/>
+    <category term="steam"/>
+  </entry>
+  <entry>
+    <title>zml/zml</title>
+    <link href="https://github.com/zml/zml"/>
+    <id>https://github.com/zml/zml</id>
+    <updated>2026-11-21T12:38:45Z</updated>
+    <author><name>zml</name></author>
+    <summary>Machine learning inference framework in Zig, targeting any model and hardware via XLA and MLIR. · Zig · ai, bazel, hpc, inference, xla</summary>
+    <category term="ai"/>
+    <category term="bazel"/>
+    <category term="hpc"/>
+    <category term="inference"/>
+    <category term="xla"/>
+  </entry>
+  <entry>
+    <title>teamchong/pxpipe</title>
+    <link href="https://github.com/teamchong/pxpipe"/>
+    <id>https://github.com/teamchong/pxpipe</id>
+    <updated>2026-11-21T10:27:13Z</updated>
+    <author><name>teamchong</name></author>
+    <summary>Reduces Claude Code token usage by rendering text context as images. · TypeScript</summary>
+  </entry>
   <entry>
     <title>elementalsouls/Claude-BugHunter</title>
     <link href="https://github.com/elementalsouls/Claude-BugHunter"/>
@@ -526,69 +575,5 @@
     <category term="google-authenticator"/>
     <category term="json"/>
     <category term="mfa"/>
-  </entry>
-  <entry>
-    <title>JosefNemec/Playnite</title>
-    <link href="https://github.com/JosefNemec/Playnite"/>
-    <id>https://github.com/JosefNemec/Playnite</id>
-    <updated>2026-11-02T17:49:50Z</updated>
-    <author><name>JosefNemec</name></author>
-    <summary>Video game library manager that unifies games from many third-party launchers and emulators. · C# · csharp, gaming, launcher, wpf</summary>
-    <category term="csharp"/>
-    <category term="gaming"/>
-    <category term="launcher"/>
-    <category term="wpf"/>
-  </entry>
-  <entry>
-    <title>vercel-labs/agent-desktop</title>
-    <link href="https://github.com/vercel-labs/agent-desktop"/>
-    <id>https://github.com/vercel-labs/agent-desktop</id>
-    <updated>2026-11-02T08:42:36Z</updated>
-    <author><name>vercel-labs</name></author>
-    <summary>Command-line tool that lets AI agents use a computer through accessibility APIs. · Rust · accessibility, accessibility-api, ai-agents, automation, cli</summary>
-    <category term="accessibility"/>
-    <category term="accessibility-api"/>
-    <category term="ai-agents"/>
-    <category term="automation"/>
-    <category term="cli"/>
-  </entry>
-  <entry>
-    <title>kubb-labs/kubb</title>
-    <link href="https://github.com/kubb-labs/kubb"/>
-    <id>https://github.com/kubb-labs/kubb</id>
-    <updated>2026-11-01T21:15:26Z</updated>
-    <author><name>kubb-labs</name></author>
-    <summary>Generates TypeScript types, API clients, hooks, validators, and mocks from OpenAPI and other specs. · TypeScript · axios, claude, codegen, faker, kubb</summary>
-    <category term="axios"/>
-    <category term="claude"/>
-    <category term="codegen"/>
-    <category term="faker"/>
-    <category term="kubb"/>
-  </entry>
-  <entry>
-    <title>luiscarlosjayk/tiza</title>
-    <link href="https://github.com/luiscarlosjayk/tiza"/>
-    <id>https://github.com/luiscarlosjayk/tiza</id>
-    <updated>2026-11-01T21:13:00Z</updated>
-    <author><name>luiscarlosjayk</name></author>
-    <summary>Terminal tool for drawing annotations over code to explain, debug, and teach. · Rust · annotations, code-explanation, developer-tools, mcp, ratatui</summary>
-    <category term="annotations"/>
-    <category term="code-explanation"/>
-    <category term="developer-tools"/>
-    <category term="mcp"/>
-    <category term="ratatui"/>
-  </entry>
-  <entry>
-    <title>daijro/camoufox</title>
-    <link href="https://github.com/daijro/camoufox"/>
-    <id>https://github.com/daijro/camoufox</id>
-    <updated>2026-10-30T14:51:46Z</updated>
-    <author><name>daijro</name></author>
-    <summary>Anti-detect Firefox-based browser for automation with customized browser fingerprints. · C · antidetect, antidetect-browser, fingerprint, firefox, networking</summary>
-    <category term="antidetect"/>
-    <category term="antidetect-browser"/>
-    <category term="fingerprint"/>
-    <category term="firefox"/>
-    <category term="networking"/>
   </entry>
 </feed>

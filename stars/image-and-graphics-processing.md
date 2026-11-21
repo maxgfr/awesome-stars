@@ -8,7 +8,7 @@
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 119k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.7k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 80.7k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 80.9k |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.3k |
 | [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.6k |
 | [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 53k |
@@ -19,8 +19,8 @@
 | [glide](https://github.com/bumptech/glide) | Android image loading and caching library focused on smooth scrolling performance. | bumptech | 35k |
 | [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
 | [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.9k |
+| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 28.1k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 28k |
-| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 27.9k |
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | JavaScript framework and engine for building 3D games and rendering in web browsers. | BabylonJS | 26.4k |
 | [rembg](https://github.com/danielgatis/rembg) | Python tool that removes the background from images using deep learning models. | danielgatis | 25.6k |
 | [Iosevka](https://github.com/be5invis/Iosevka) | Open source monospaced typeface for coding, generated from code with configurable options. | be5invis | 23.3k |
@@ -28,8 +28,8 @@
 | [blender](https://github.com/blender/blender) | Official mirror of Blender, a 3D creation suite for modeling, animation and rendering. | blender | 22.3k |
 | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 17.9k |
 | [engine](https://github.com/playcanvas/engine) | Open-source web graphics engine built on WebGPU and WebGL2, with Gaussian splatting support. | playcanvas | 17.3k |
-| [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI tool for upscaling images, videos and GIFs and interpolating video frames with AI models. | AaronFeng753 | 17.2k |
-| [lightcraft](https://github.com/storytold/lightcraft) | Open-source non-destructive photo editor for raw images, written from scratch in pure Rust. | storytold | 16.2k |
+| [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI tool for upscaling images, videos and GIFs and interpolating video frames with AI models. | AaronFeng753 | 17.3k |
+| [lightcraft](https://github.com/storytold/lightcraft) | Open-source non-destructive photo editor for raw images, written from scratch in pure Rust. | storytold | 16.3k |
 | [ddddocr](https://github.com/sml2h3/ddddocr) | Python OCR library for recognizing captcha images. | sml2h3 | 15k |
 | [image](https://github.com/Intervention/image) | PHP library for image processing with GD and Imagick drivers. | Intervention | 14.4k |
 | [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library fork for opening, manipulating, and saving many image file formats. | python-pillow | 14k |
@@ -53,8 +53,8 @@
 | [kcc](https://github.com/ciromattia/kcc) 🆕 | Converter that turns comic and manga archives into ebook formats for Kindle and other e-readers. | ciromattia | 6.1k |
 | [image](https://github.com/image-rs/image) | Rust library for encoding and decoding image files in multiple formats. | image-rs | 5.9k |
 | [perfect-freehand](https://github.com/steveruizok/perfect-freehand) | Library for drawing smooth, pressure-sensitive freehand strokes on HTML canvas. | steveruizok | 5.8k |
+| [designcraft](https://github.com/storytold/designcraft) | Open-source page and layout design editor written from scratch in pure Rust. | storytold | 5.4k |
 | [svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Online editor for creating and manipulating SVG path data. | Yqnn | 5.3k |
-| [designcraft](https://github.com/storytold/designcraft) | Open-source page and layout design editor written from scratch in pure Rust. | storytold | 5.3k |
 | [watermark-removal](https://github.com/zuruoke/watermark-removal) | Machine learning image inpainting model that removes watermarks, aiming for output indistinguishable from the ground truth. | zuruoke | 5.2k |
 | [freeze](https://github.com/charmbracelet/freeze) | Command-line tool that generates images of source code and terminal output. | charmbracelet | 4.9k |
 | [imageflow](https://github.com/imazen/imageflow) | High-performance image processing library and tools for web servers, including an image server and command-line tool. | imazen | 4.5k |
@@ -63,7 +63,7 @@
 | [TypeGPU](https://github.com/software-mansion/TypeGPU) | TypeScript toolkit for WebGPU that offers typed GPU programming and writing shaders in TypeScript. | software-mansion | 3.3k |
 | [odiff](https://github.com/dmtrKovalenko/odiff) | SIMD-optimized image comparison library with a Node.js API for pixel-perfect diffs. | dmtrKovalenko | 3.3k |
 | [takumi](https://github.com/kane50613/takumi) | Layout engine rendering JSX, HTML and CSS to images, SVG, PDFs or paint trees without a browser. | kane50613 | 3.2k |
-| [library](https://github.com/zxing-js/library) | Multi-format 1D and 2D barcode decoding and encoding library for the JavaScript ecosystem. | zxing-js | 2.9k |
+| [library](https://github.com/zxing-js/library) | Multi-format 1D and 2D barcode decoding and encoding library for the JavaScript ecosystem. | zxing-js | 3k |
 | [tileserver-gl](https://github.com/maptiler/tileserver-gl) | Server-side map tile renderer for GL styles, serving MapLibre, Leaflet and OpenLayers clients. | maptiler | 2.9k |
 | [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) | Library that renders HTML into a browser canvas element. | cburgmer | 2.6k |
 | [bwip-js](https://github.com/metafloor/bwip-js) | Barcode writer library for generating barcodes in pure JavaScript. | metafloor | 2.4k |
@@ -75,7 +75,7 @@
 | [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) | Node.js module that converts images into ASCII art. | IonicaBizau | 1.7k |
 | [barcode](https://github.com/milon/barcode) | PHP package for generating barcodes, with Laravel integration. | milon | 1.5k |
 | [withoutbg-python](https://github.com/withoutbg/withoutbg-python) | Python SDK for local and cloud background removal from images. | withoutbg | 1.3k |
-| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 878 |
+| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 879 |
 | [looks-same](https://github.com/gemini-testing/looks-same) | Node.js library for comparing images and detecting visual differences, used with Testplane. | gemini-testing | 828 |
 | [uqr](https://github.com/unjs/uqr) 🆕 | Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. | unjs | 795 |
 | [dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) | Library that generates PNG and JPEG images from DOM nodes using HTML5 canvas. | IDisposable | 683 |

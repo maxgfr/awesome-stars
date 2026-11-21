@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41k |
-| [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.7k |
+| [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.8k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.1k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.7k |
 | [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
@@ -32,7 +32,7 @@
 | [json](https://github.com/serde-rs/json) | Strongly typed JSON library for Rust, built on the serde serialization framework. | serde-rs | 5.7k |
 | [nalgebra](https://github.com/dimforge/nalgebra) | Linear algebra library for Rust providing vectors, matrices, and related numerical operations. | dimforge | 4.8k |
 | [regex](https://github.com/rust-lang/regex) | Rust regex library using finite automata, guaranteeing linear-time matching on all inputs. | rust-lang | 4.1k |
-| [parking_lot](https://github.com/Amanieu/parking_lot) | Compact, efficient synchronization primitives for Rust, plus an API for building custom ones. | Amanieu | 3.4k |
+| [parking_lot](https://github.com/Amanieu/parking_lot) | Compact, efficient synchronization primitives for Rust, plus an API for building custom ones. | Amanieu | 3.5k |
 | [libc](https://github.com/rust-lang/libc) | Raw Rust bindings to platform C library APIs. | rust-lang | 2.6k |
 | [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) | Rust SDK for building Matrix client-server applications. | matrix-org | 2.4k |
 | [lopdf](https://github.com/J-F-Liu/lopdf) | Rust library for manipulating PDF documents. | J-F-Liu | 2.3k |
@@ -40,7 +40,7 @@
 | [ureq](https://github.com/algesten/ureq) | Simple, safe HTTP client library for Rust. | algesten | 2.2k |
 | [rust-toolchain](https://github.com/dtolnay/rust-toolchain) | GitHub Action for installing a Rust toolchain. | dtolnay | 1.6k |
 | [slotmap](https://github.com/orlp/slotmap) | Rust slot map data structure that provides stable keys for inserting and removing items. | orlp | 1.4k |
-| [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 969 |
+| [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 971 |
 | [envsubst](https://github.com/a8m/envsubst) | Go library and command for substituting environment variables in text, following envsubst syntax. | a8m | 913 |
 | [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 673 |
 | [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 624 |

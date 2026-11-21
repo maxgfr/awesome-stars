@@ -5,12 +5,12 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [frp](https://github.com/fatedier/frp) | Fast reverse proxy that exposes a local server behind a NAT or firewall to the internet. | fatedier | 111k |
-| [syncthing](https://github.com/syncthing/syncthing) | Open source continuous file synchronization tool that works peer to peer between devices. | syncthing | 90.6k |
-| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62.1k |
+| [syncthing](https://github.com/syncthing/syncthing) | Open source continuous file synchronization tool that works peer to peer between devices. | syncthing | 90.7k |
+| [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62.2k |
 | [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
-| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 45.9k |
-| [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.6k |
+| [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 46k |
+| [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.7k |
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.6k |
 | [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 43.2k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.8k |
@@ -30,7 +30,7 @@
 | [webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API for peer-to-peer audio and video. | pion | 16.9k |
 | [openvpn-install](https://github.com/angristan/openvpn-install) | Shell script that sets up an OpenVPN server on Debian, Ubuntu, Fedora, CentOS, and Arch Linux. | angristan | 16.2k |
 | [gluetun](https://github.com/passteque/gluetun) | Thin Docker container running a Go VPN client for many providers, with OpenVPN or WireGuard. | passteque | 16.2k |
-| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Desktop and mobile client for Amnezia VPN, supporting protocols such as OpenVPN, IKEv2, and Shadowsocks. | amnezia-vpn | 16k |
+| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Desktop and mobile client for Amnezia VPN, supporting protocols such as OpenVPN, IKEv2, and Shadowsocks. | amnezia-vpn | 16.1k |
 | [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Bridge that connects Zigbee devices to MQTT without proprietary Zigbee hubs. | Koenkk | 15.8k |
 | [openvpn](https://github.com/OpenVPN/openvpn) | Open source VPN daemon for creating secure point-to-point or site-to-site network connections. | OpenVPN | 14.9k |
 | [samples](https://github.com/webrtc/samples) | Collection of WebRTC demos and sample code for browser-based real-time communication. | webrtc | 14.6k |
@@ -38,7 +38,7 @@
 | [peerjs](https://github.com/peers/peerjs) | Library that simplifies peer-to-peer data and media connections in browsers using WebRTC. | peers | 13.5k |
 | [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | Firmware suite of WiFi and Bluetooth offensive and defensive tools for the ESP32 microcontroller. | justcallmekoko | 13.2k |
 | [iroh](https://github.com/n0-computer/iroh) | Library adding QUIC and NAT traversal so apps connect by public key instead of IP address. | n0-computer | 13.1k |
-| [gping](https://github.com/orf/gping) | Command-line ping tool that graphs response times over time. | orf | 12.7k |
+| [gping](https://github.com/orf/gping) | Command-line ping tool that graphs response times over time. | orf | 12.8k |
 | [scapy](https://github.com/secdev/scapy) | Python library and interactive program for packet manipulation, sniffing, and network analysis. | secdev | 12.7k |
 | [bore](https://github.com/ekzhang/bore) | Command-line tool that creates tunnels to expose a local port on a remote server. | ekzhang | 11.6k |
 | [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) | Rust port of the Shadowsocks encrypted proxy, with SOCKS4, SOCKS5, and HTTP proxy support. | shadowsocks | 11k |
@@ -48,11 +48,11 @@
 | [flannel](https://github.com/flannel-io/flannel) | Network fabric for containers that provides a layer 3 network for Kubernetes clusters. | flannel-io | 9.6k |
 | [janus-gateway](https://github.com/meetecho/janus-gateway) | WebRTC server gateway for real-time media communication, extended with application plugins. | meetecho | 9.2k |
 | [MQTT.js](https://github.com/mqttjs/MQTT.js) | MQTT client library for Node.js and browsers, used for publishing and subscribing to MQTT brokers. | mqttjs | 9.1k |
-| [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Network management and troubleshooting tool with DNS lookup, IP scanning, ICMP and LLDP support. | BornToBeRoot | 8.9k |
+| [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Network management and troubleshooting tool with DNS lookup, IP scanning, ICMP and LLDP support. | BornToBeRoot | 9k |
 | [trippy](https://github.com/fujiapple852/trippy) | Command-line network diagnostic tool for tracing routes and probing hosts using ICMP and DNS. | fujiapple852 | 8.2k |
 | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | Suite of tools for auditing WiFi network security, covering monitoring, testing and key cracking. | aircrack-ng | 7.9k |
 | [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) 🆕 | Desktop and mobile client app for Mullvad VPN, supporting WireGuard and OpenVPN connections. | mullvad | 7.8k |
-| [undici](https://github.com/nodejs/undici) | HTTP/1.1 client written from scratch for Node.js. | nodejs | 7.7k |
+| [undici](https://github.com/nodejs/undici) | HTTP/1.1 client written from scratch for Node.js. | nodejs | 7.8k |
 | [arkime](https://github.com/arkime/arkime) | Open source system for large-scale full packet capture, indexing, and searching network traffic. | arkime | 7.6k |
 | [blocky](https://github.com/0xERR0R/blocky) 🆕 | Lightweight DNS proxy that blocks ads on a local network, with DNS-over-HTTPS and other features. | 0xERR0R | 7.1k |
 | [haproxy](https://github.com/haproxy/haproxy) | Development branch of the HAProxy load balancer and proxy, mirrored from git.haproxy.org. | haproxy | 7k |
@@ -97,7 +97,7 @@
 | [stanza](https://github.com/legastero/stanza) | XMPP library for JavaScript with a JSON API for building messaging clients. | legastero | 1.2k |
 | [proxy-agents](https://github.com/TooTallNate/proxy-agents) | Monorepo of Node.js HTTP and HTTPS proxy agent packages, including PAC support. | TooTallNate | 1.2k |
 | [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
-| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 762 |
+| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 764 |
 | [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 741 |
 | [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 737 |
 | [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |

@@ -7,7 +7,7 @@
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | Web scraping framework for everything from single requests to full-scale crawls. | D4Vinci | 105k |
 | [playwright](https://github.com/microsoft/playwright) | Framework for web testing and automation across Chromium, Firefox and WebKit with a single API. | microsoft | 101k |
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
-| [cypress](https://github.com/cypress-io/cypress) | End-to-end and component testing framework for applications running in a browser. | cypress-io | 51k |
+| [cypress](https://github.com/cypress-io/cypress) | Testing framework for end-to-end and component tests of anything that runs in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
 | [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.3k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
@@ -25,7 +25,7 @@
 | [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.8k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.9k |
 | [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.4k |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.5k |
 | [docker-android](https://github.com/budtmo/docker-android) | Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents. | budtmo | 16.2k |
@@ -98,7 +98,7 @@
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [testing-playground](https://github.com/testing-library/testing-playground) | A DOM testing playground that encourages good testing practices and accessibility. | testing-library | 814 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 770 |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 737 |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 738 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 694 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 649 |

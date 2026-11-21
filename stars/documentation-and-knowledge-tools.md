@@ -4,18 +4,18 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 197k |
+| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 198k |
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.2k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.3k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 75.8k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 76.3k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.6k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.3k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.3k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.6k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.4k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.5k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.5k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.3k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47k |
@@ -25,10 +25,10 @@
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.7k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.6k |
-| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 32.9k |
+| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 33k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
-| [wiki](https://github.com/requarks/wiki) | Open-source wiki application for documentation, supporting Markdown and Git-based storage. | requarks | 29.3k |
+| [wiki](https://github.com/requarks/wiki) | Open-source wiki application for documentation, supporting Markdown and Git-based storage. | requarks | 29.4k |
 | [gitbook](https://github.com/GitbookIO/gitbook) | Open source frontend for rendering GitBook documentation sites from Markdown content. | GitbookIO | 29.1k |
 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Renders interactive API documentation from OpenAPI specifications in the browser. | swagger-api | 29.1k |
 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Self-hosted web archiver that saves URLs, bookmarks, and browser history as HTML, PDFs, and media. | ArchiveBox | 29.1k |
@@ -83,7 +83,7 @@
 | [cryptpad](https://github.com/cryptpad/cryptpad) | Open-source collaborative office suite with end-to-end encryption for editing documents and other files. | cryptpad | 8.1k |
 | [semver](https://github.com/semver/semver) | Specification defining semantic versioning rules for numbering software releases. | semver | 7.9k |
 | [hedgedoc](https://github.com/hedgedoc/hedgedoc) | Collaborative real-time markdown editor for writing and sharing documents with diagrams. | hedgedoc | 7.5k |
-| [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | Self-hosted server for collaborative online editing of documents, spreadsheets and presentations. | ONLYOFFICE | 7.1k |
+| [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | Self-hosted server for collaborative online editing of documents, spreadsheets and presentations. | ONLYOFFICE | 7.2k |
 | [pdf-craft](https://github.com/oomol-lab/pdf-craft) | Converts PDFs of scanned books into other formats such as ebooks, using OCR models. | oomol-lab | 6.8k |
 | [yn](https://github.com/purocean/yn) | Extensible Markdown editor with version control, AI copilot, mind maps, and encryption. | purocean | 6.8k |
 | [discord-api-docs](https://github.com/discord/discord-api-docs) | Official documentation for the Discord developer platform and its API. | discord | 6.5k |

@@ -5,18 +5,18 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.7k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.8k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
-| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.5k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.5k |
+| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.6k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
-| [yabai](https://github.com/asmvik/yabai) | Tiling window manager for macOS that arranges windows using binary space partitioning. | asmvik | 29.8k |
+| [yabai](https://github.com/asmvik/yabai) | Tiling window manager for macOS that arranges windows using binary space partitioning. | asmvik | 29.9k |
 | [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 28.8k |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3-like tiling window manager for macOS. | nikitabobko | 23.9k |
-| [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.2k |
+| [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.3k |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS that stores and retrieves clipboard history. | p0deje | 22.4k |
 | [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | macOS audio utility that pauses music automatically, sets per-app volumes, and records system audio. | kyleneideck | 19.4k |
@@ -28,18 +28,18 @@
 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | Default Homebrew tap containing open-source formulae built from source for macOS and Linux package management. | Homebrew | 15.7k |
 | [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.5k |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Source-available macOS app cleaner for removing apps and leftover files. | alienator88 | 15.2k |
-| [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.8k |
+| [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.9k |
 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.4k |
 | [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Utility that improves third-party mouse behavior on macOS, such as button mapping and scroll inversion. | noah-nuebling | 11.3k |
 | [FineTune](https://github.com/ronitsingh10/FineTune) | macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. | ronitsingh10 | 10.2k |
-| [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 9.9k |
+| [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 10k |
 | [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Lightweight native macOS launcher for everyday productivity tasks. | abue-ammar | 9.7k |
 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | macOS menu bar app that sets battery charge limits to prolong battery lifespan and monitors battery status. | AppHouseKitchen | 9.3k |
-| [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.1k |
+| [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.2k |
 | [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.7k |
 | [Applite](https://github.com/milanvarady/Applite) | Native macOS app store for software not on the App Store, backed by Homebrew Cask. | milanvarady | 7.2k |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | macOS menu bar utility that prevents the Mac from going to sleep. | newmarcel | 7.1k |
-| [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7.1k |
+| [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7k |
 | [eqMac](https://github.com/bitgapp/eqMac) | macOS system-wide audio equalizer and volume mixer app. | bitgapp | 6.8k |
 | [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | macOS app that re-signs apps and packages them as IPA files ready for installation on iOS devices. | DanTheMan827 | 6.3k |
 | [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Tool that exports iMessage data and runs iMessage diagnostics. | ReagentX | 5.8k |
@@ -66,8 +66,8 @@
 | [MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) | Plugin for macOS Mail that blocks email trackers, read receipts, and spy pixels. | apparition47 | 1.1k |
 | [XQuartz](https://github.com/XQuartz/XQuartz) | X11 server and client libraries for macOS, providing X Window System support. | XQuartz | 1.1k |
 | [homebrew-brew](https://github.com/mongodb/homebrew-brew) | Homebrew tap providing official MongoDB software formulas for macOS. | mongodb | 957 |
-| [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) | Rust crates for Apple platform tasks such as code signing, notarization, and Mach-O parsing. | indygreg | 894 |
-| [Trimmy](https://github.com/steipete/Trimmy) | Clipboard tool that flattens multi-line shell snippets so they paste and run as one command. | steipete | 753 |
+| [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) | Rust crates for Apple platform tasks such as code signing, notarization, and Mach-O parsing. | indygreg | 895 |
+| [Trimmy](https://github.com/steipete/Trimmy) | Clipboard tool that flattens multi-line shell snippets so they paste and run as one command. | steipete | 755 |
 | [osx-sign](https://github.com/electron/osx-sign) | Library for codesigning Electron macOS apps with entitlements support. | electron | 635 |
 | [notarize](https://github.com/electron/notarize) | Library for notarizing Electron macOS apps with Apple's notarization service. | electron | 194 |
 | [apple-code-sign-action](https://github.com/indygreg/apple-code-sign-action) | GitHub Action that signs and notarizes Apple applications using open source tools. | indygreg | 60 |
