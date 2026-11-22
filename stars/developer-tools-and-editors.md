@@ -11,9 +11,9 @@
 | [spec-kit](https://github.com/github/spec-kit) | Toolkit for spec-driven development and other processes with AI coding assistants. | github | 151k |
 | [terminal](https://github.com/microsoft/terminal) | Windows Terminal application and the Windows console host, developed in one repository. | microsoft | 105k |
 | [neovim](https://github.com/neovim/neovim) | Vim fork focused on extensibility and usability, with a Lua and API-driven plugin system. | neovim | 104k |
-| [nvm](https://github.com/nvm-sh/nvm) | POSIX-compliant bash script for installing and switching between multiple Node.js versions. | nvm-sh | 96.3k |
+| [nvm](https://github.com/nvm-sh/nvm) | POSIX-compliant bash script for installing and switching between multiple Node.js versions. | nvm-sh | 96.4k |
 | [zed](https://github.com/zed-industries/zed) | High-performance collaborative code editor written in Rust, built on the GPUI framework. | zed-industries | 95.5k |
-| [uv](https://github.com/astral-sh/uv) | Fast Python package and project manager in Rust for managing dependencies and environments. | astral-sh | 92.5k |
+| [uv](https://github.com/astral-sh/uv) | Fast Python package and project manager in Rust for managing dependencies and environments. | astral-sh | 92.6k |
 | [fzf](https://github.com/junegunn/fzf) | Command-line fuzzy finder for interactively filtering lists of items in the terminal. | junegunn | 84.3k |
 | [lazygit](https://github.com/jesseduffield/lazygit) | Terminal UI that provides a simple interface for common git commands. | jesseduffield | 84k |
 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-source platform for testing REST, GraphQL, and other APIs via web, desktop, and CLI. | hoppscotch | 80.9k |
@@ -22,32 +22,32 @@
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Command-line tool that recursively searches directories for a regex pattern, respecting gitignore rules. | BurntSushi | 70.1k |
 | [alacritty](https://github.com/alacritty/alacritty) | Cross-platform, GPU-accelerated OpenGL terminal emulator. | alacritty | 66.3k |
 | [git](https://github.com/git/git) | Mirror of the Git version control system source code; contributions go through the mailing list. | git | 64.5k |
-| [ghostty](https://github.com/ghostty-org/ghostty) | Fast, cross-platform terminal emulator using platform-native UI and GPU acceleration. | ghostty-org | 64.3k |
+| [ghostty](https://github.com/ghostty-org/ghostty) | Fast, cross-platform terminal emulator using platform-native UI and GPU acceleration. | ghostty-org | 64.4k |
 | [marktext](https://github.com/marktext/marktext) | Markdown editor for Linux, macOS, and Windows with focus mode and LaTeX support. | marktext | 64.3k |
 | [bat](https://github.com/sharkdp/bat) | cat clone with syntax highlighting and Git integration for viewing files in the terminal. | sharkdp | 61.4k |
-| [starship](https://github.com/starship/starship) | Minimal, fast, and customizable cross-shell prompt that displays relevant context for any shell. | starship | 60.8k |
+| [starship](https://github.com/starship/starship) | Minimal, fast, and customizable cross-shell prompt that displays relevant context for any shell. | starship | 60.9k |
 | [gitea](https://github.com/go-gitea/gitea) | Self-hosted development platform offering Git hosting, code review, package registry and CI/CD. | go-gitea | 59.2k |
-| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection. | ChromeDevTools | 58.7k |
-| [rich](https://github.com/Textualize/rich) | Python library for rendering rich text, tables, progress bars, and markdown in the terminal. | Textualize | 57.8k |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection. | ChromeDevTools | 58.8k |
+| [rich](https://github.com/Textualize/rich) | Python library for rendering rich text, tables, progress bars, and markdown in the terminal. | Textualize | 57.9k |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | Cross-platform command-line shell and scripting language for Windows, Linux, and macOS. | PowerShell | 56.3k |
 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | Zsh theme with a configurable, fast prompt and instant prompt support. | romkatv | 55.4k |
 | [dive](https://github.com/wagoodman/dive) | Command-line tool with a terminal UI for exploring the layers of a Docker image. | wagoodman | 54.8k |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | Terminal UI for managing Docker containers, images, volumes, and logs. | jesseduffield | 53.4k |
 | [prettier](https://github.com/prettier/prettier) | Opinionated code formatter supporting JavaScript, TypeScript, CSS, GraphQL, and other languages. | prettier | 52.4k |
-| [ruff](https://github.com/astral-sh/ruff) | Extremely fast Python linter and code formatter written in Rust. | astral-sh | 51.3k |
-| [tmux](https://github.com/tmux/tmux) | Source code for tmux, a terminal multiplexer that runs multiple terminal sessions in one window. | tmux | 50.6k |
+| [ruff](https://github.com/astral-sh/ruff) | Extremely fast Python linter and code formatter written in Rust. | astral-sh | 51.4k |
+| [tmux](https://github.com/tmux/tmux) | Source code for tmux, a terminal multiplexer that runs multiple terminal sessions in one window. | tmux | 50.5k |
 | [bruno](https://github.com/usebruno/bruno) | Open source IDE for exploring and testing APIs, as a lightweight alternative to Postman. | usebruno | 48.5k |
 | [gogs](https://github.com/gogs/gogs) | Self-hosted Git service that is painless to set up, written in Go. | gogs | 48k |
-| [cli](https://github.com/cli/cli) | GitHub's official command-line tool for working with pull requests, issues, and repositories. | cli | 47.1k |
+| [cli](https://github.com/cli/cli) | GitHub's official command-line tool for working with pull requests, issues, and repositories. | cli | 47.2k |
 | [monaco-editor](https://github.com/microsoft/monaco-editor) | Browser-based code editor component, the editor engine behind VS Code. | microsoft | 47k |
 | [helix](https://github.com/helix-editor/helix) | Modal terminal text editor written in Rust, inspired by Kakoune and Vim. | helix-editor | 47k |
 | [bubbletea](https://github.com/charmbracelet/bubbletea) | Go framework for building terminal user interfaces using the Elm architecture. | charmbracelet | 45.8k |
 | [pyenv](https://github.com/pyenv/pyenv) | Shell tool for managing multiple Python versions on one system. | pyenv | 45.2k |
-| [fd](https://github.com/sharkdp/fd) | Fast and user-friendly command-line alternative to the find utility for searching files by name. | sharkdp | 45.1k |
+| [fd](https://github.com/sharkdp/fd) | Fast and user-friendly command-line alternative to the find utility for searching files by name. | sharkdp | 45.2k |
 | [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | Visualization app that turns JSON, YAML, XML, and CSV data into interactive graphs. | AykutSarac | 44.6k |
 | [yazi](https://github.com/sxyazi/yazi) | Terminal file manager written in Rust, built on async I/O for fast file browsing and management. | sxyazi | 43.6k |
 | [black](https://github.com/psf/black) | Uncompromising Python code formatter that rewrites code into a consistent style. | psf | 42.2k |
-| [vim](https://github.com/vim/vim) | Official Vim text editor repository, a cross-platform modal text editor. | vim | 41.3k |
+| [vim](https://github.com/vim/vim) | Official Vim text editor repository, a cross-platform modal text editor. | vim | 41.4k |
 | [it-tools](https://github.com/CorentinTh/it-tools) | Collection of online tools for developers, such as converters and productivity utilities. | CorentinTh | 41.3k |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Low-code platform for building admin panels, internal tools, and dashboards connected to databases and APIs. | appsmithorg | 41.3k |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | Open-source low-code platform for building internal tools, dashboards, and business applications. | ToolJet | 41.3k |
@@ -59,8 +59,8 @@
 | [lapce](https://github.com/lapce/lapce) | Fast code editor written in Rust with a focus on performance and built-in Vim-style editing. | lapce | 39.1k |
 | [just](https://github.com/casey/just) | Command runner for project-specific commands, configured through a justfile. | casey | 36.8k |
 | [mise](https://github.com/jdx/mise) | Development tool manager that also handles environment variables and runs tasks. | jdx | 36.4k |
-| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh that suggest commands from history as you type. | zsh-users | 36.2k |
 | [jq](https://github.com/jqlang/jq) | Command-line processor for filtering, transforming, and querying JSON data. | jqlang | 36.2k |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh that suggest commands from history as you type. | zsh-users | 36.2k |
 | [vim-plug](https://github.com/junegunn/vim-plug) | Minimalist plugin manager for Vim. | junegunn | 35.8k |
 | [btop](https://github.com/aristocratos/btop) | Resource monitor for the terminal showing CPU, memory, disk, network and process usage. | aristocratos | 35.5k |
 | [husky](https://github.com/typicode/husky) | Tool for managing Git hooks in a project, such as pre-commit scripts. | typicode | 35.4k |
@@ -72,7 +72,7 @@
 | [delta](https://github.com/dandavison/delta) | Syntax-highlighting pager for git, diff, blame and grep output. | dandavison | 32.8k |
 | [jj](https://github.com/jj-vcs/jj) | Git-compatible version control system that aims to be both simple and powerful. | jj-vcs | 32.6k |
 | [atuin](https://github.com/atuinsh/atuin) | Shell history replacement that stores, syncs, and searches command history for bash, zsh, and fish. | atuinsh | 32.6k |
-| [cli](https://github.com/googleworkspace/cli) | Command-line interface for Google Drive, Gmail, Calendar, Sheets and other Workspace APIs. | googleworkspace | 32.4k |
+| [cli](https://github.com/googleworkspace/cli) | Command-line interface for Google Drive, Gmail, Calendar, Sheets and other Workspace APIs. | googleworkspace | 32.5k |
 | [tqdm](https://github.com/tqdm/tqdm) | Fast, extensible progress bar for Python and CLI, with GUI, Jupyter, and Discord integrations. | tqdm | 31.4k |
 | [micro](https://github.com/micro-editor/micro) | Modern, intuitive terminal-based text editor written in Go. | micro-editor | 29.9k |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | Command-line benchmarking tool for comparing and measuring the runtime of commands. | sharkdp | 29.3k |
@@ -98,8 +98,8 @@
 | [dracula-theme](https://github.com/dracula/dracula-theme) | Dark color theme available for many code editors, terminals and other applications. | dracula | 23.6k |
 | [github1s](https://github.com/conwnet/github1s) | Lets users read GitHub code in VS Code in the browser without cloning the repository. | conwnet | 23.3k |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | Open-source code editor for macOS, built with AppKit and Swift. | CodeEditApp | 23.1k |
-| [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish-like syntax highlighting for zsh that colors commands as you type them. | zsh-users | 23.1k |
 | [witr](https://github.com/pranshuparmar/witr) | CLI and TUI that traces any process, port, container, or file back to what started it. | pranshuparmar | 23.1k |
+| [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Fish-like syntax highlighting for zsh that colors commands as you type them. | zsh-users | 23.1k |
 | [gitui](https://github.com/gitui-org/gitui) | Fast terminal UI for Git written in Rust, for viewing and managing repository changes. | gitui-org | 22.7k |
 | [chezmoi](https://github.com/twpayne/chezmoi) | Tool for securely managing dotfiles across multiple machines. | twpayne | 22.3k |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | Git version control client built with Tauri, Rust and Svelte, compatible with Git repositories. | gitbutlerapp | 22k |
@@ -127,7 +127,7 @@
 | [clap](https://github.com/clap-rs/clap) | Full-featured, fast command-line argument parser library for Rust. | clap-rs | 16.9k |
 | [gitmoji](https://github.com/carloscuesta/gitmoji) | Emoji guide for commit messages that maps each emoji to the type of change it describes. | carloscuesta | 16.8k |
 | [ast-grep](https://github.com/ast-grep/ast-grep) | Command-line tool for structural code search, linting, and rewriting, written in Rust. | ast-grep | 16.7k |
-| [pr-agent](https://github.com/The-PR-Agent/pr-agent) | Open-source AI tool that reviews pull requests automatically and works with multiple LLM backends. | The-PR-Agent | 16.5k |
+| [pr-agent](https://github.com/The-PR-Agent/pr-agent) | Open-source AI tool that reviews pull requests automatically and works with multiple LLM backends. | The-PR-Agent | 16.6k |
 | [yq](https://github.com/mikefarah/yq) | Portable command-line processor for YAML, JSON, XML, CSV, TOML, HCL and properties files. | mikefarah | 16.3k |
 | [amplication](https://github.com/amplication/amplication) | Platform that generates code and enforces consistent workflows for large-scale software development. | amplication | 16k |
 | [pre-commit](https://github.com/pre-commit/pre-commit) | Framework for managing and running multi-language pre-commit hooks in Git repositories. | pre-commit | 15.7k |
@@ -188,7 +188,7 @@
 | [jc](https://github.com/kellyjonbrazil/jc) | CLI and Python library that converts command-line tool output and strings to JSON or YAML. | kellyjonbrazil | 8.7k |
 | [mockoon](https://github.com/mockoon/mockoon) | Desktop app for running mock APIs locally without remote deployment or an account. | mockoon | 8.5k |
 | [htop](https://github.com/htop-dev/htop) | Interactive process viewer for Unix-like systems, shown in a terminal. | htop-dev | 8.5k |
-| [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | Command-line client for the App Store Connect API to automate TestFlight, builds and submissions. | rorkai | 8.4k |
+| [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) | Command-line client for the App Store Connect API to automate TestFlight, builds and submissions. | rorkai | 8.5k |
 | [zerobrew](https://github.com/zerobrewhq/zerobrew) | Alternative Homebrew client, claimed to be up to 10x faster. | zerobrewhq | 8.3k |
 | [podman-desktop](https://github.com/podman-desktop/podman-desktop) | Desktop application for developing and managing containers and Kubernetes workloads with Podman. | podman-desktop | 8.2k |
 | [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) | Tool that renders any GraphQL API as an interactive graph for exploring its schema. | APIs-guru | 8.2k |
@@ -214,16 +214,16 @@
 | [webhook.site](https://github.com/webhooksite/webhook.site) | Tool for testing HTTP webhooks by displaying incoming requests instantly. | webhooksite | 6.8k |
 | [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) | Real-time, asynchronous type-ahead completion for Zsh that shows matches as you type. | marlonrichert | 6.8k |
 | [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) | Collection of ready-made hooks for pre-commit that check and fix common file and code issues. | pre-commit | 6.8k |
-| [git-stats](https://github.com/IonicaBizau/git-stats) | Generates local git statistics and GitHub-style contribution calendars from repositories. | IonicaBizau | 6.6k |
 | [jscpd](https://github.com/kucherenko/jscpd) | Copy-paste detector for source code across 220+ languages, with reporters and an MCP server. | kucherenko | 6.6k |
+| [git-stats](https://github.com/IonicaBizau/git-stats) | Generates local git statistics and GitHub-style contribution calendars from repositories. | IonicaBizau | 6.6k |
 | [pastel](https://github.com/sharkdp/pastel) | Command-line tool for generating, analyzing, converting, and manipulating colors. | sharkdp | 6.6k |
 | [vale](https://github.com/vale-cli/vale) | Markup-aware linter for prose that checks text against configurable style rules. | vale-cli | 6.4k |
 | [openvscode-server](https://github.com/gitpod-io/openvscode-server) | Runs upstream VS Code on a remote machine, accessible from any device through a web browser. | gitpod-io | 6.2k |
 | [maildev](https://github.com/maildev/maildev) | SMTP server with a web interface for viewing and testing emails during development. | maildev | 6.2k |
 | [xxh](https://github.com/xxh/xxh) | Brings a preferred shell such as xonsh, fish or zsh to remote hosts over SSH. | xxh | 6.1k |
 | [jira-cli](https://github.com/ankitpokhrel/jira-cli) 🆕 | Interactive command-line client for Jira issues. | ankitpokhrel | 6.1k |
-| [vscode-restclient](https://github.com/Huachao/vscode-restclient) | Visual Studio Code extension for sending HTTP and REST API requests from .http files. | Huachao | 6.1k |
 | [jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) | Open-source Flash SWF decompiler and editor for extracting and editing ActionScript, images, sounds, and other resources. | jindrapetrik | 6.1k |
+| [vscode-restclient](https://github.com/Huachao/vscode-restclient) | Visual Studio Code extension for sending HTTP and REST API requests from .http files. | Huachao | 6.1k |
 | [postman-app-support](https://github.com/postmanlabs/postman-app-support) | Support and issue tracking for Postman, an API platform for building and testing APIs. | postmanlabs | 6k |
 | [dotenvx](https://github.com/dotenvx/dotenvx) | Command-line tool for managing dotenv configuration files with end-to-end encryption of secrets. | dotenvx | 5.9k |
 | [themer](https://github.com/mjswensen/themer) | Tool that generates color themes for editors, terminals, and other apps from a set of colors. | mjswensen | 5.9k |
@@ -234,8 +234,8 @@
 | [indicatif](https://github.com/console-rs/indicatif) | Rust library for reporting progress in command-line applications with progress bars and spinners. | console-rs | 5.2k |
 | [vscode-icons](https://github.com/vscode-icons/vscode-icons) | Icon theme extension that adds file and folder icons to Visual Studio Code. | vscode-icons | 5.2k |
 | [virtualenv](https://github.com/pypa/virtualenv) | Tool for creating isolated virtual Python environments. | pypa | 5.1k |
-| [json-editor](https://github.com/json-editor/json-editor) | Browser-based editor that generates forms from JSON Schema for editing JSON data. | json-editor | 4.9k |
 | [zinit](https://github.com/zdharma-continuum/zinit) | Flexible and fast plugin manager for Zsh, with annexes for extending its functionality. | zdharma-continuum | 4.9k |
+| [json-editor](https://github.com/json-editor/json-editor) | Browser-based editor that generates forms from JSON Schema for editing JSON data. | json-editor | 4.9k |
 | [xplr](https://github.com/sayanarijit/xplr) | Minimal, hackable terminal file explorer written in Rust. | sayanarijit | 4.9k |
 | [vscode-python](https://github.com/microsoft/vscode-python) | Visual Studio Code extension providing Python language support, debugging, and testing. | microsoft | 4.7k |
 | [autopep8](https://github.com/hhatto/autopep8) | Tool that automatically formats Python code to conform to the PEP 8 style guide. | hhatto | 4.7k |
@@ -264,7 +264,7 @@
 | [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) | Visual Studio Code extension for reviewing and managing GitHub pull requests. | microsoft | 2.6k |
 | [kondo](https://github.com/tbillington/kondo) | Command-line and GUI tool that removes build artifacts and dependencies from projects to free disk space. | tbillington | 2.6k |
 | [taplo](https://github.com/tamasfe/taplo) | Rust toolkit for TOML providing a parser, formatter, and analyzer. | tamasfe | 2.4k |
-| [click-to-component](https://github.com/ericclemmons/click-to-component) | Opens React components in VS Code from the browser when Option-clicking them during development. | ericclemmons | 2.3k |
+| [click-to-component](https://github.com/ericclemmons/click-to-component) | Opens React components in VS Code from the browser when Option-clicking them during development. | ericclemmons | 2.4k |
 | [vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) | Visual Studio Code extension for managing bookmarks to navigate code. | alefragnani | 2.2k |
 | [vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) | Visual Studio Code extension with an enhanced markdown preview supporting math and diagrams. | shd101wyy | 2.1k |
 | [zoekt](https://github.com/sourcegraph/zoekt) | Trigram-based code search engine written in Go, for fast searching across large codebases. | sourcegraph | 2.1k |
@@ -285,8 +285,8 @@
 | [python-github-backup](https://github.com/josegonzalez/python-github-backup) | Command-line tool for backing up all repositories and data of a GitHub user or organization. | josegonzalez | 1.6k |
 | [zsh-snap](https://github.com/marlonrichert/zsh-snap) | Plugin manager for Zsh that installs and loads dotfiles, plugins, and git repositories quickly. | marlonrichert | 1.6k |
 | [omnidiff](https://github.com/ivankovic/omnidiff) 🆕 | Fast and accurate diffing tool based on abstract syntax trees, for code review. | ivankovic | 1.5k |
-| [electron-log](https://github.com/megahertz/electron-log) | Logging module for Electron, Node.js, and NW.js applications with no dependencies. | megahertz | 1.5k |
 | [codiff](https://github.com/nkzw-tech/codiff) | Fast local viewer for reviewing diffs. | nkzw-tech | 1.5k |
+| [electron-log](https://github.com/megahertz/electron-log) | Logging module for Electron, Node.js, and NW.js applications with no dependencies. | megahertz | 1.5k |
 | [pullfrog](https://github.com/pullfrog/pullfrog) | Open-source, model-agnostic GitHub bot that runs in GitHub Actions and uses your own API keys. | pullfrog | 1.5k |
 | [superhtml](https://github.com/kristoff-it/superhtml) | HTML validator, formatter, language server, and templating library written in Zig. | kristoff-it | 1.4k |
 | [stargazer](https://github.com/pomber/stargazer) | Generates a video celebrating a GitHub repository's stargazers when it reaches a star milestone. | pomber | 1.4k |
@@ -311,7 +311,7 @@
 | [pog](https://github.com/JanLunge/pog) | Tool for flashing and configuring KMK keyboard firmware. | JanLunge | 540 |
 | [marked-terminal](https://github.com/mikaelbr/marked-terminal) | Renderer for the marked Markdown parser that outputs formatted Markdown to the terminal. | mikaelbr | 505 |
 | [tiged](https://github.com/tiged/tiged) | Community-driven fork of degit, a tool for copying git repositories without their history. | tiged | 484 |
-| [biome-vscode](https://github.com/biomejs/biome-vscode) | Visual Studio Code extension that integrates the Biome formatter and linter. | biomejs | 432 |
+| [biome-vscode](https://github.com/biomejs/biome-vscode) | Visual Studio Code extension that integrates the Biome formatter and linter. | biomejs | 433 |
 | [sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) |  | SonarSource | 403 |
 | [vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) | Visual Studio Code extension that restyles the built-in Markdown preview to resemble GitHub's styling. | mjbvz | 372 |
 | [vscode-stylelint](https://github.com/stylelint/vscode-stylelint) | Official Visual Studio Code extension that integrates the Stylelint CSS linter into the editor. | stylelint | 343 |

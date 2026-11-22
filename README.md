@@ -2,20 +2,25 @@
 
 > My GitHub stars, sorted and rebuilt every day by [starsmith](https://github.com/maxgfr/starsmith). Want the same for your stars? It takes one GitHub Action.
 
-![Total](https://img.shields.io/badge/Total-4850-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--21-blue.svg)
+![Total](https://img.shields.io/badge/Total-4853-green.svg) ![Updated](https://img.shields.io/badge/Updated-2026--11--22-blue.svg)
 
-**[🔎 Search all 4,850 stars](https://maxgfr.github.io/awesome-stars/)**
+**[🔎 Search all 4,853 stars](https://maxgfr.github.io/awesome-stars/)**
 
 ## ✨ Digest
 
-This week's stars lean hard into **mobile gaming and Windows compatibility**, with DroidDeck bringing a SteamOS-style interface to Android, alongside winlator and GameNative running Windows and PC storefronts on phones. Privacy tools follow close behind, from zen-desktop's system-wide ad blocking to hysteria and the Mullvad client.
+This week's stars lean heavily on **AI agents and their tooling**. Projects like mcp-gsc and qgis-mcp connect assistants to SEO data and GIS software, while pxpipe and TokenEconomizer target the cost of running coding agents.
 
-The strongest thread is **AI agents as tooling**, seen in qgis-mcp, mcp-server-mattermost, and open-seo, plus **cost control for coding agents** in pxpipe and TokenEconomizer. Developer infrastructure such as sqlc and lefthook rounds out the list.
+A second thread is **privacy and access**, from Mullvad's VPN client and hysteria's censorship-resistant proxy to zen-desktop and blocky. **Gaming on mobile devices** also draws attention, with Winlator, Delta, and GameNative leading the way.
 
-<sub>Written by AI from the 87 repositories starred in the last 30 days.</sub>
+<sub>Written by AI from the 82 repositories starred in the last 30 days.</sub>
 
 ## 🆕 Recently starred
 
+- `2026-11-22` [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher) — Displays IMSI numbers of nearby cellphones, using gr-gsm and HackRF hardware.
+- `2026-11-22` [ptrkrysik/gr-gsm](https://github.com/ptrkrysik/gr-gsm) — Gnuradio blocks and tools for receiving GSM transmissions.
+- `2026-11-22` [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) — Autonomous AI penetration testing system for security assessments, distributed as a Docker setup.
+- `2026-11-22` [triton-lang/triton](https://github.com/triton-lang/triton) — Development repository for the Triton language and compiler.
+- `2026-11-22` [rileytestut/Delta](https://github.com/rileytestut/Delta) — All-in-one classic video game emulator for non-jailbroken iOS devices.
 - `2026-11-21` [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) — Adds the SteamOS experience to Android devices.
 - `2026-11-21` [brunodev85/winlator](https://github.com/brunodev85/winlator) — Runs Windows applications on Android using Wine with Box86 and Box64 emulation.
 - `2026-11-21` [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) — Android app for playing PC games with Steam, Epic, GOG and Amazon library integrations.
@@ -26,36 +31,31 @@ The strongest thread is **AI agents as tooling**, seen in qgis-mcp, mcp-server-m
 - `2026-11-18` [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) — System-wide ad blocker and privacy guard for Windows, macOS, and Linux.
 - `2026-11-18` [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) — Rust framework for building modular, scalable LLM applications and AI agents.
 - `2026-11-18` [developer0hye/office2pdf](https://github.com/developer0hye/office2pdf) — Rust library and CLI converting DOCX, XLSX, and PPTX files to PDF without LibreOffice or Chromium.
-- `2026-11-17` [cloud-ru-tech/mcp-server-mattermost](https://github.com/cloud-ru-tech/mcp-server-mattermost) — MCP server that gives AI assistants access to Mattermost channels, messages, and files.
-- `2026-11-17` [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) — Interactive command-line client for Jira issues.
-- `2026-11-17` [nkarasiak/qgis-mcp](https://github.com/nkarasiak/qgis-mcp) — Connects QGIS to AI agents through the Model Context Protocol (MCP).
-- `2026-11-17` [vercel-labs/ui](https://github.com/vercel-labs/ui) — Library of accessible UI behaviors that AI agents can use to build user interfaces.
-- `2026-11-17` [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — Local-first desktop app that runs persistent AI agents like Codex and Claude in separate workspaces.
 
 ## 📊 Stats
 
-**4850** repositories · **77** languages · **53** archived · starred since 2017-02-02
+**4853** repositories · **77** languages · **53** archived · starred since 2017-02-02
 
 ```mermaid
 pie showData title Top languages
-    "TypeScript" : 1614
-    "JavaScript" : 766
-    "Python" : 618
-    "Go" : 379
+    "TypeScript" : 1612
+    "JavaScript" : 767
+    "Python" : 619
+    "Go" : 381
     "Rust" : 322
-    "C++" : 154
+    "C++" : 155
     "C" : 109
     "Java" : 105
     "Shell" : 101
-    "Swift" : 73
-    "Other languages" : 609
+    "Swift" : 74
+    "Other languages" : 608
 ```
 
 ```mermaid
 xychart-beta
     title "Stars per year"
     x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-    bar [60, 132, 102, 490, 983, 841, 651, 441, 429, 721]
+    bar [60, 132, 102, 490, 983, 839, 651, 441, 429, 726]
 ```
 
 ## Contents
@@ -68,18 +68,18 @@ xychart-beta
 - [Cloud and Kubernetes (162)](stars/cloud-and-kubernetes.md)
 - [Cryptography and Blockchain (157)](stars/cryptography-and-blockchain.md)
 - [Databases and Data Tools (252)](stars/databases-and-data-tools.md)
-- [Desktop and Mobile Apps (240)](stars/desktop-and-mobile-apps.md)
+- [Desktop and Mobile Apps (241)](stars/desktop-and-mobile-apps.md)
 - [Developer Tools and Editors (328)](stars/developer-tools-and-editors.md)
 - [DevOps and Infrastructure (264)](stars/devops-and-infrastructure.md)
 - [Documentation and Knowledge Tools (145)](stars/documentation-and-knowledge-tools.md)
 - [Frontend UI Libraries (554)](stars/frontend-ui-libraries.md)
 - [Image and Graphics Processing (82)](stars/image-and-graphics-processing.md)
-- [JavaScript and TypeScript Tooling (529)](stars/javascript-and-typescript-tooling.md)
+- [JavaScript and TypeScript Tooling (527)](stars/javascript-and-typescript-tooling.md)
 - [LLM Agents and AI Assistants (335)](stars/llm-agents-and-ai-assistants.md)
 - [Mac Utilities (67)](stars/mac-utilities.md)
-- [Networking and Wireless (109)](stars/networking-and-wireless.md)
-- [Programming Languages and Compilers (49)](stars/programming-languages-and-compilers.md)
-- [Security and Penetration Testing (244)](stars/security-and-penetration-testing.md)
+- [Networking and Wireless (111)](stars/networking-and-wireless.md)
+- [Programming Languages and Compilers (50)](stars/programming-languages-and-compilers.md)
+- [Security and Penetration Testing (245)](stars/security-and-penetration-testing.md)
 - [Systems Programming in Go and Rust (40)](stars/systems-programming-in-go-and-rust.md)
 - [Testing and Automation (110)](stars/testing-and-automation.md)
 - [Others (360)](stars/others.md)
@@ -88,7 +88,7 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [firecrawl](https://github.com/firecrawl/firecrawl) | API for searching, scraping and crawling web data and accessing 550+ data providers for AI agents. | firecrawl | 206k |
+| [firecrawl](https://github.com/firecrawl/firecrawl) | API for searching, scraping and crawling web data and accessing 550+ data providers for AI agents. | firecrawl | 207k |
 | [tensorflow](https://github.com/tensorflow/tensorflow) | Open source machine learning framework for building and training distributed deep neural networks. | tensorflow | 202k |
 | [ollama](https://github.com/ollama/ollama) | Tool for running open large language models such as DeepSeek, Gemma, GLM, and Qwen locally. | ollama | 188k |
 | [transformers](https://github.com/huggingface/transformers) | Python framework providing model definitions for machine learning models across text, vision, audio, and multimodal tasks. | huggingface | 169k |
@@ -102,7 +102,7 @@ xychart-beta
 |---|---|---|---:|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Command-line tool for downloading audio and video from YouTube and many other sites. | yt-dlp | 210k |
 | [scrcpy](https://github.com/Genymobile/scrcpy) | Command-line tool to display and control Android devices from a computer over USB or TCP/IP. | Genymobile | 155k |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channel playlists from around the world. | iptv-org | 144k |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channel playlists from around the world. | iptv-org | 145k |
 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program for downloading videos from YouTube.com and other video sites. | ytdl-org | 142k |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Local voice cloning, dubbing, dictation, transcription, and audiobook creation in 646 languages. | debpalash | 116k |
 
@@ -112,7 +112,7 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 564k |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 565k |
 | [awesome](https://github.com/sindresorhus/awesome) | Curated index of other awesome lists organized by topic, with guidelines for creating them. | sindresorhus | 541k |
 | [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 501k |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Curated list of freely available programming books and learning resources in many languages. | EbookFoundation | 402k |
@@ -127,7 +127,7 @@ xychart-beta
 | [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 124k |
 | [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with automatic JSON Schema validation. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.6k |
-| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
+| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.5k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79.4k |
 
 **[→ All 218 repositories](stars/backend-frameworks-and-servers.md)**
@@ -138,7 +138,7 @@ xychart-beta
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.6k |
 | [markdown-here](https://github.com/adam-p/markdown-here) | Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending. | adam-p | 60.2k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 36.9k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
 
@@ -161,10 +161,10 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Staging tree of Bitcoin Core, the reference implementation of the Bitcoin peer-to-peer network. | bitcoin | 90.7k |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 57.1k |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 57.2k |
 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol, including the geth node client. | ethereum | 51.5k |
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
-| [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 44.9k |
+| [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 45k |
 
 **[→ All 157 repositories](stars/cryptography-and-blockchain.md)**
 
@@ -173,8 +173,8 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [supabase](https://github.com/supabase/supabase) | Open source platform built on Postgres, offering databases, authentication, storage, and AI tooling for apps. | supabase | 115k |
-| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.7k |
-| [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.6k |
+| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and open source distributed, RESTful search and analytics engine. | elastic | 78.8k |
+| [redis](https://github.com/redis/redis) | In-memory data structure store used as a cache, database, and vector query engine. | redis | 77.7k |
 | [superset](https://github.com/apache/superset) | Data visualization and exploration platform for business intelligence and analytics dashboards. | apache | 75.6k |
 | [nocodb](https://github.com/nocodb/nocodb) | Self-hostable alternative to Airtable that turns databases into spreadsheets with automatic REST APIs. | nocodb | 65.6k |
 
@@ -190,7 +190,7 @@ xychart-beta
 | [react-native](https://github.com/react/react-native) | Framework for building native mobile applications for iOS and Android using React. | react | 127k |
 | [electron](https://github.com/electron/electron) | Framework for building cross-platform desktop applications using JavaScript, HTML, and CSS. | electron | 124k |
 
-**[→ All 240 repositories](stars/desktop-and-mobile-apps.md)**
+**[→ All 241 repositories](stars/desktop-and-mobile-apps.md)**
 
 ## Developer Tools and Editors
 
@@ -208,11 +208,11 @@ xychart-beta
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.7k |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.8k |
 | [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.6k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.8k |
-| [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.6k |
+| [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.7k |
 
 **[→ All 264 repositories](stars/devops-and-infrastructure.md)**
 
@@ -224,7 +224,7 @@ xychart-beta
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.2k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.5k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.3k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.4k |
 
 **[→ All 145 repositories](stars/documentation-and-knowledge-tools.md)**
 
@@ -248,7 +248,7 @@ xychart-beta
 | [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 119k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.7k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 80.9k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 81k |
 
 **[→ All 82 repositories](stars/image-and-graphics-processing.md)**
 
@@ -262,7 +262,7 @@ xychart-beta
 | [vite](https://github.com/vitejs/vite) | Frontend build tool with a fast dev server and hot module replacement. | vitejs | 84k |
 | [webpack](https://github.com/webpack/webpack) | Module bundler that packs JavaScript and other assets into bundles, with code splitting and loaders. | webpack | 66k |
 
-**[→ All 529 repositories](stars/javascript-and-typescript-tooling.md)**
+**[→ All 527 repositories](stars/javascript-and-typescript-tooling.md)**
 
 ## LLM Agents and AI Assistants
 
@@ -271,8 +271,8 @@ xychart-beta
 | [openclaw](https://github.com/openclaw/openclaw) | Personal AI assistant that carries out tasks on any operating system and messaging platform. | openclaw | 395k |
 | [skills](https://github.com/mattpocock/skills) | Collection of agent skills for software engineers, taken from the author's .agents directory. | mattpocock | 330k |
 | [superpowers](https://github.com/obra/superpowers) | Skills framework and software development methodology for AI coding agents. | obra | 324k |
-| [ECC](https://github.com/affaan-m/ECC) | Agent harness of skills, memory and security tools for Claude Code, Codex, Cursor and others. | affaan-m | 308k |
-| [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness for DeepSeek, built on Cordis, where everything is a plugin. | deepseek-ai | 285k |
+| [ECC](https://github.com/affaan-m/ECC) | Agent harness of skills, memory and security tools for Claude Code, Codex, Cursor and others. | affaan-m | 309k |
+| [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Plugin-based agent harness for DeepSeek, built on Cordis, where everything is a plugin. | deepseek-ai | 286k |
 
 **[→ All 335 repositories](stars/llm-agents-and-ai-assistants.md)**
 
@@ -281,7 +281,7 @@ xychart-beta
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.8k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.9k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
@@ -298,7 +298,7 @@ xychart-beta
 | [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
 
-**[→ All 109 repositories](stars/networking-and-wireless.md)**
+**[→ All 111 repositories](stars/networking-and-wireless.md)**
 
 ## Programming Languages and Compilers
 
@@ -308,21 +308,21 @@ xychart-beta
 | [rust](https://github.com/rust-lang/rust) | Source code for the Rust programming language, including its compiler and standard library. | rust-lang | 122k |
 | [TypeScript](https://github.com/microsoft/TypeScript) | Typed superset of JavaScript that compiles to plain JavaScript, with a static type checker. | microsoft | 112k |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Collection of design patterns implemented in Java, with explanations and code snippets. | iluwatar | 94.9k |
-| [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.4k |
+| [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.5k |
 
-**[→ All 49 repositories](stars/programming-languages-and-compilers.md)**
+**[→ All 50 repositories](stars/programming-languages-and-compilers.md)**
 
 ## Security and Penetration Testing
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 473k |
-| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 200k |
-| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 115k |
+| [rea](https://github.com/morluto/rea) | Agent-based tool for reverse engineering applications, from app behavior down to native binaries. | morluto | 474k |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source script for activating Windows and Office using HWID, Ohook, TSforge and KMS methods. | massgravel | 201k |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Command-line tool that searches for a username across many social networks to find matching accounts. | sherlock-project | 116k |
 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for disassembly, decompilation, and software analysis. | NationalSecurityAgency | 101k |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.8k |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Reference list of payloads, bypass techniques, and cheatsheets for web application security testing. | swisskyrepo | 82.9k |
 
-**[→ All 244 repositories](stars/security-and-penetration-testing.md)**
+**[→ All 245 repositories](stars/security-and-penetration-testing.md)**
 
 ## Systems Programming in Go and Rust
 
@@ -355,7 +355,7 @@ xychart-beta
 | [linux](https://github.com/torvalds/linux) | Source tree of the Linux kernel, an open-source operating system kernel. | torvalds | 256k |
 | [godot](https://github.com/godotengine/godot) | Open-source multi-platform engine for building 2D and 3D games. | godotengine | 121k |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Web application for editing, converting and processing PDF files, self-hosted via Docker. | Stirling-Tools | 97.2k |
-| [core](https://github.com/home-assistant/core) | Open source home automation platform focused on local control and privacy for IoT devices. | home-assistant | 92.4k |
+| [core](https://github.com/home-assistant/core) | Open source home automation platform focused on local control and privacy for IoT devices. | home-assistant | 92.5k |
 | [realworld](https://github.com/realworld-apps/realworld) | Fullstack demo application implementing the same Medium.com-style blog across many frontend and backend stacks. | realworld-apps | 84.4k |
 
 **[→ All 360 repositories](stars/others.md)**
@@ -388,4 +388,4 @@ For AI categories, descriptions and a digest, add `group-by: ai-category`, `ai: 
 `ai-provider` and an `ai-api-key` secret. Every option is in the
 [starsmith README](https://github.com/maxgfr/starsmith#options).
 
-<sub>Generated by [starsmith](https://github.com/maxgfr/starsmith) · 2026-11-21</sub>
+<sub>Generated by [starsmith](https://github.com/maxgfr/starsmith) · 2026-11-22</sub>

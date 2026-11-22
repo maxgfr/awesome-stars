@@ -9,20 +9,20 @@
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
 | [cypress](https://github.com/cypress-io/cypress) | Testing framework for end-to-end and component tests of anything that runs in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
-| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.3k |
+| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.4k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
-| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.5k |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.6k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.5k |
 | [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.5k |
 | [mocha](https://github.com/mochajs/mocha) | Feature-rich JavaScript test framework for running tests in Node.js and browsers. | mochajs | 22.9k |
-| [appium](https://github.com/appium/appium) | Cross-platform automation framework for all app types, built on the W3C WebDriver protocol. | appium | 22.2k |
+| [appium](https://github.com/appium/appium) | Cross-platform automation framework for all app types, built on the W3C WebDriver protocol. | appium | 22.3k |
 | [enzyme](https://github.com/enzymejs/enzyme) | JavaScript testing utilities for React components, used with assertion libraries like Chai. | enzymejs | 19.8k |
 | [react-testing-library](https://github.com/testing-library/react-testing-library) | Utilities for testing React DOM components in a way that resembles user interaction. | testing-library | 19.7k |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.3k |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.4k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
 | [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 17.9k |
@@ -37,7 +37,7 @@
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 14k |
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
-| [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.4k |
+| [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.5k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
 | [mailpit](https://github.com/axllent/mailpit) | Email and SMTP testing tool that provides a web interface and API for developers. | axllent | 11k |
 | [super-linter](https://github.com/super-linter/super-linter) | Combines multiple linters into one GitHub Action or standalone tool for code quality checks. | super-linter | 10.7k |
@@ -98,7 +98,7 @@
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [testing-playground](https://github.com/testing-library/testing-playground) | A DOM testing playground that encourages good testing practices and accessibility. | testing-library | 814 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 770 |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 738 |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 739 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 694 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 649 |
@@ -108,7 +108,7 @@
 | [jest-coverage-report-action](https://github.com/ArtiomTr/jest-coverage-report-action) | GitHub Action that reports Jest code coverage as annotations and comments on pull requests. | ArtiomTr | 544 |
 | [jest-native](https://github.com/testing-library/jest-native) | Custom Jest matchers for testing the state of React Native components. | testing-library | 435 |
 | [next-router-mock](https://github.com/scottrippey/next-router-mock) | Mock implementation of the Next.js router for testing components and code that depend on it. | scottrippey | 423 |
-| [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 302 |
+| [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 303 |
 | [vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) | GitHub Action that reports Vitest test coverage results on pull requests. | davelosert | 280 |
 | [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) 🆕 | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 171 |
 | [semantic-prs](https://github.com/Ezard/semantic-prs) | GitHub app that checks that pull requests follow the Conventional Commits specification. | Ezard | 148 |

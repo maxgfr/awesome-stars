@@ -1,9 +1,9 @@
 {
-  "contentHash": "61737fdd4dde",
+  "contentHash": "33e274ddb422",
   "digest": {
     "language": "en",
-    "text": "This week's stars lean hard into **mobile gaming and Windows compatibility**, with DroidDeck bringing a SteamOS-style interface to Android, alongside winlator and GameNative running Windows and PC storefronts on phones. Privacy tools follow close behind, from zen-desktop's system-wide ad blocking to hysteria and the Mullvad client.\n\nThe strongest thread is **AI agents as tooling**, seen in qgis-mcp, mcp-server-mattermost, and open-seo, plus **cost control for coding agents** in pxpipe and TokenEconomizer. Developer infrastructure such as sqlc and lefthook rounds out the list.",
-    "upTo": "2026-11-21T14:30:22Z"
+    "text": "This week's stars lean heavily on **AI agents and their tooling**. Projects like mcp-gsc and qgis-mcp connect assistants to SEO data and GIS software, while pxpipe and TokenEconomizer target the cost of running coding agents.\n\nA second thread is **privacy and access**, from Mullvad's VPN client and hysteria's censorship-resistant proxy to zen-desktop and blocky. **Gaming on mobile devices** also draws attention, with Winlator, Delta, and GameNative leading the way.",
+    "upTo": "2026-11-22T18:23:48Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-21T14:30:22Z",
+  "newest": "2026-11-22T18:23:48Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -7073,7 +7073,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMDU2NzE5Nw==": {
       "category": "DevOps and Infrastructure",
-      "ch": "f0b140600fd5",
+      "ch": "3ccb9bb8cf60",
       "description": "Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku.",
       "dh": "86a9ce16263f"
     },
@@ -11947,6 +11947,12 @@
       "description": "High-performance, memory-bound cache library for Go.",
       "dh": "5356a36e9d7f"
     },
+    "MDEwOlJlcG9zaXRvcnkxNzAzODYzNw==": {
+      "category": "Networking and Wireless",
+      "ch": "c3e83278c406",
+      "description": "Gnuradio blocks and tools for receiving GSM transmissions.",
+      "dh": "bb7e338296bb"
+    },
     "MDEwOlJlcG9zaXRvcnkxNzE0NzU1OQ==": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "071f7b997f13",
@@ -15575,6 +15581,12 @@
       "description": "JavaScript library that renders diffs as colorized HTML, including Git-style output.",
       "dh": "5dc352f2535d"
     },
+    "MDEwOlJlcG9zaXRvcnkyMzQ5NjU0Mg==": {
+      "category": "Programming Languages and Compilers",
+      "ch": "64815deb2663",
+      "description": "Development repository for the Triton language and compiler.",
+      "dh": "455a10a5535c"
+    },
     "MDEwOlJlcG9zaXRvcnkyMzQ5NzIxMjQ=": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "be7e701234f0",
@@ -19003,6 +19015,12 @@
       "description": "Utilities for parsing, normalizing, and manipulating URLs in JavaScript.",
       "dh": "f8ca38036d61"
     },
+    "MDEwOlJlcG9zaXRvcnkzMTg4MzEyMg==": {
+      "category": "Desktop and Mobile Apps",
+      "ch": "62c4265619e5",
+      "description": "All-in-one classic video game emulator for non-jailbroken iOS devices.",
+      "dh": "accce3858658"
+    },
     "MDEwOlJlcG9zaXRvcnkzMTg4NTQzOTg=": {
       "category": "Frontend UI Libraries",
       "ch": "c7bf875522f0",
@@ -19763,7 +19781,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMzk0MzE1Mw==": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "72ccaa93f3da",
+      "ch": "fec720729c28",
       "description": "Modular CSS minifier built on the PostCSS ecosystem, used to optimise stylesheets for production.",
       "dh": "883d680fcb93"
     },
@@ -20646,6 +20664,12 @@
       "ch": "39c25ad4fdd8",
       "description": "Java-based DAST tool for finding security vulnerabilities in web applications during testing.",
       "dh": "a54831d16c40"
+    },
+    "MDEwOlJlcG9zaXRvcnkzNjgzMDIxMQ==": {
+      "category": "Networking and Wireless",
+      "ch": "8229bad7a4c8",
+      "description": "Displays IMSI numbers of nearby cellphones, using gr-gsm and HackRF hardware.",
+      "dh": "adb304fad5f8"
     },
     "MDEwOlJlcG9zaXRvcnkzNjgzNjQ3NQ==": {
       "category": "Developer Tools and Editors",
@@ -21663,7 +21687,7 @@
     },
     "R_kgDOGQkv2g": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "3ee811b2bd28",
+      "ch": "bc1948352490",
       "description": "Framework for data fetching and realtime data exchange with caching and Firebase support.",
       "dh": "8e5c3779d498"
     },
@@ -22189,12 +22213,6 @@
       "description": "Low-code platform with an API-first approach for building collaborative apps, as an Airtable alternative.",
       "dh": "95545b46feb5"
     },
-    "R_kgDOH25_CA": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "aa5bec9330fa",
-      "description": "Monorepo starter using the T3 Stack with Expo React Native, Next.js, Tailwind CSS, and TanStack.",
-      "dh": "8c1af1cb9bfa"
-    },
     "R_kgDOH3RdSQ": {
       "category": "Other",
       "ch": "9c2dffbae49c",
@@ -22494,12 +22512,6 @@
       "ch": "d44f06d89a6e",
       "description": "Tested JavaScript snippets for measuring and debugging web performance in DevTools or via AI agents.",
       "dh": "617bf37f2c56"
-    },
-    "R_kgDOHY3dKQ": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "e1f62cf344e9",
-      "description": "Interactive CLI that scaffolds a full-stack, typesafe Next.js app with a choice of optional tooling.",
-      "dh": "e1b5795d18fb"
     },
     "R_kgDOHYneGw": {
       "category": "Security and Penetration Testing",
@@ -22863,7 +22875,7 @@
     },
     "R_kgDOI78thQ": {
       "category": "Desktop and Mobile Apps",
-      "ch": "175c8660c9ca",
+      "ch": "b2108c114aec",
       "description": "Desktop operating system based on Fedora, aimed at gaming and everyday use on PCs and handhelds.",
       "dh": "f564d838edfa"
     },
@@ -25599,9 +25611,9 @@
     },
     "R_kgDOMiBTuA": {
       "category": "Frontend UI Libraries",
-      "ch": "cdf587e20067",
-      "description": "Collection of UI components, effects, and ready-to-use blocks for building front-end interfaces.",
-      "dh": "dec36341415b"
+      "ch": "018a3dcfd985",
+      "description": "Front-end library of UI components, effects, design tools and blocks for building web interfaces.",
+      "dh": "14de5db51fa4"
     },
     "R_kgDOMn-6Tg": {
       "category": "AI and Machine Learning",
@@ -26693,9 +26705,9 @@
     },
     "R_kgDOOrdi6Q": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "83e1b20943e9",
-      "description": "TypeScript framework for building MCP servers.",
-      "dh": "4823831e0261"
+      "ch": "c8eeb548189b",
+      "description": "TypeScript framework for building MCP servers and tools for AI agents.",
+      "dh": "1da857781866"
     },
     "R_kgDOOsp_sg": {
       "category": "Awesome Lists and Learning Resources",
@@ -27511,9 +27523,9 @@
     },
     "R_kgDOQ__jdA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "f3665837a0e1",
-      "description": "Agent skill that researches a topic across Reddit, X, YouTube, Hacker News, and the web, then summarizes it.",
-      "dh": "11756e8a7b65"
+      "ch": "6522de3589d6",
+      "description": "AI agent skill that researches a topic across Reddit, X, YouTube, HN, Polymarket and the web.",
+      "dh": "3f2c2a9def4c"
     },
     "R_kgDOQ_dWmw": {
       "category": "LLM Agents and AI Assistants",
@@ -28697,9 +28709,9 @@
     },
     "R_kgDOTIqiAg": {
       "category": "Mac Utilities",
-      "ch": "9eacf874dd1d",
-      "description": "Lightweight native macOS launcher for everyday productivity tasks.",
-      "dh": "faff0525ab13"
+      "ch": "8c08300766d1",
+      "description": "Native macOS app launcher with a clipboard manager for quick access to apps and productivity tools.",
+      "dh": "1debafe0d663"
     },
     "R_kgDOTKgHjQ": {
       "category": "AI and Machine Learning",
@@ -28865,9 +28877,9 @@
     },
     "R_kgDOU6bksw": {
       "category": "Other",
-      "ch": "16062ced253b",
-      "description": "Rust rewrite of Minecraft Java Edition 26.3, checked against vanilla with differential tests.",
-      "dh": "f773f4fb77a7"
+      "ch": "9ad9b81b70f3",
+      "description": "Reimplementation of Minecraft 26.3 in Rust as a game engine for Linux.",
+      "dh": "c0ce4016e6b6"
     },
     "R_kgDOU80rLw": {
       "category": "Desktop and Mobile Apps",
@@ -28962,6 +28974,12 @@
       "ch": "3cc55985d707",
       "description": "Agent skill that generates interactive isometric SVG illustrations of machines and systems.",
       "dh": "8cbf0f73e448"
+    },
+    "R_kgDOVBmRqg": {
+      "category": "Security and Penetration Testing",
+      "ch": "f7fd8de9c7e2",
+      "description": "Autonomous AI penetration testing system for security assessments, distributed as a Docker setup.",
+      "dh": "5ce8244b06c4"
     },
     "R_kgDOVDuGdA": {
       "category": "Other",
@@ -29069,6 +29087,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "version": 1
 }

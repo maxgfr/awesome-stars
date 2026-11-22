@@ -5,16 +5,16 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.8k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.9k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.6k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.8k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
 | [yabai](https://github.com/asmvik/yabai) | Tiling window manager for macOS that arranges windows using binary space partitioning. | asmvik | 29.9k |
-| [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 28.8k |
+| [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 28.9k |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3-like tiling window manager for macOS. | nikitabobko | 23.9k |
 | [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.3k |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS that stores and retrieves clipboard history. | p0deje | 22.4k |
@@ -26,14 +26,14 @@
 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows-style alt-tab window switcher for macOS that shows window previews. | lwouis | 16.6k |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS, inspired by xmonad. | ianyh | 16.3k |
 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | Default Homebrew tap containing open-source formulae built from source for macOS and Linux package management. | Homebrew | 15.7k |
-| [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.5k |
+| [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.6k |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Source-available macOS app cleaner for removing apps and leftover files. | alienator88 | 15.2k |
 | [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.9k |
 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.4k |
 | [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Utility that improves third-party mouse behavior on macOS, such as button mapping and scroll inversion. | noah-nuebling | 11.3k |
 | [FineTune](https://github.com/ronitsingh10/FineTune) | macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. | ronitsingh10 | 10.2k |
 | [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 10k |
-| [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Lightweight native macOS launcher for everyday productivity tasks. | abue-ammar | 9.7k |
+| [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Native macOS app launcher with a clipboard manager for quick access to apps and productivity tools. | abue-ammar | 9.7k |
 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | macOS menu bar app that sets battery charge limits to prolong battery lifespan and monitors battery status. | AppHouseKitchen | 9.3k |
 | [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.2k |
 | [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.7k |

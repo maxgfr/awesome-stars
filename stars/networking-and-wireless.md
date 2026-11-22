@@ -14,7 +14,7 @@
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.6k |
 | [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 43.2k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.8k |
-| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.4k |
+| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.5k |
 | [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.7k |
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android client for the Shadowsocks encrypted proxy protocol. | shadowsocks | 36.8k |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
@@ -66,6 +66,7 @@
 | [tribler](https://github.com/Tribler/tribler) | Privacy-focused BitTorrent client with peer-to-peer content discovery and search. | Tribler | 5.4k |
 | [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Web interface for setting up a wireless router on Debian-based devices using hostapd and dnsmasq. | RaspAP | 5.2k |
 | [keepalived](https://github.com/acassen/keepalived) | Routing software providing high availability and load balancing through VRRP and health checks. | acassen | 4.7k |
+| [IMSI-catcher](https://github.com/Oros42/IMSI-catcher) 🆕 | Displays IMSI numbers of nearby cellphones, using gr-gsm and HackRF hardware. | Oros42 | 4.6k |
 | [zen-desktop](https://github.com/irbis-sh/zen-desktop) 🆕 | System-wide ad blocker and privacy guard for Windows, macOS, and Linux. | irbis-sh | 4.4k |
 | [guacamole-server](https://github.com/apache/guacamole-server) | Proxy daemon guacd and C library libguac implementing the Guacamole remote desktop protocol. | apache | 4.1k |
 | [instant.io](https://github.com/webtorrent/instant.io) | Streaming file transfer over WebTorrent, letting users share and stream torrents in the browser. | webtorrent | 3.6k |
@@ -91,16 +92,17 @@
 | [guacamole-client](https://github.com/apache/guacamole-client) | Web application and JavaScript client for the Apache Guacamole remote desktop gateway. | apache | 1.8k |
 | [dnsglobe](https://github.com/514-labs/dnsglobe) | Terminal UI that checks DNS record propagation across 34 public resolvers on a world map. | 514-labs | 1.7k |
 | [briefing](https://github.com/holtwick/briefing) | End-to-end encrypted video group chat application built with WebRTC. | holtwick | 1.6k |
+| [gr-gsm](https://github.com/ptrkrysik/gr-gsm) 🆕 | Gnuradio blocks and tools for receiving GSM transmissions. | ptrkrysik | 1.5k |
 | [geckos.io](https://github.com/geckosio/geckos.io) | Real-time client/server communication over UDP using WebRTC and Node.js. | geckosio | 1.5k |
 | [untun](https://github.com/unjs/untun) | Tool that exposes a local HTTP or HTTPS server to the internet via Cloudflare Quick Tunnels. | unjs | 1.4k |
-| [hyperswarm](https://github.com/holepunchto/hyperswarm) | Distributed networking stack for connecting peers in JavaScript, with peer discovery and connections. | holepunchto | 1.3k |
+| [hyperswarm](https://github.com/holepunchto/hyperswarm) | Distributed networking stack for connecting peers in JavaScript, with peer discovery and connections. | holepunchto | 1.4k |
 | [stanza](https://github.com/legastero/stanza) | XMPP library for JavaScript with a JSON API for building messaging clients. | legastero | 1.2k |
 | [proxy-agents](https://github.com/TooTallNate/proxy-agents) | Monorepo of Node.js HTTP and HTTPS proxy agent packages, including PAC support. | TooTallNate | 1.2k |
 | [ssh2-sftp-client](https://github.com/theophilusx/ssh2-sftp-client) | Node.js client for SFTP file operations over SSH2. | theophilusx | 926 |
-| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 764 |
+| [transitous](https://github.com/public-transport/transitous) 🆕 | Free public transport routing service built on GTFS transit data. | public-transport | 765 |
 | [pcap](https://github.com/rust-pcap/pcap) | Rust library for working with pcap packet capture files and network interfaces. | rust-pcap | 741 |
 | [basic-ftp](https://github.com/patrickjuchli/basic-ftp) | FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support. | patrickjuchli | 737 |
-| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 599 |
+| [proxy-scraper](https://github.com/sunny9577/proxy-scraper) | Proxy scraper built with Protractor that publishes a proxy list updated every three hours. | sunny9577 | 600 |
 | [BTorrent](https://github.com/DiegoRBaquero/BTorrent) | Full-featured WebTorrent client that runs in the browser. | DiegoRBaquero | 583 |
 | [WebRTC-Example](https://github.com/shanet/WebRTC-Example) | Minimal example application demonstrating peer-to-peer video communication with WebRTC. | shanet | 462 |
 | [wifitui](https://github.com/shazow/wifitui) | Terminal user interface for managing WiFi connections through NetworkManager. | shazow | 355 |

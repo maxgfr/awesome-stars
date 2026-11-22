@@ -43,4 +43,4 @@
 | [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 971 |
 | [envsubst](https://github.com/a8m/envsubst) | Go library and command for substituting environment variables in text, following envsubst syntax. | a8m | 913 |
 | [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 673 |
-| [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 624 |
+| [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 625 |

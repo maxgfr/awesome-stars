@@ -4,12 +4,12 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 564k |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Curated list of tutorials for recreating well-known technologies from scratch. | codecrafters-io | 565k |
 | [awesome](https://github.com/sindresorhus/awesome) | Curated index of other awesome lists organized by topic, with guidelines for creating them. | sindresorhus | 541k |
 | [public-apis](https://github.com/public-apis/public-apis) | Community-maintained list of free public APIs across many categories for developers. | public-apis | 501k |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Curated list of freely available programming books and learning resources in many languages. | EbookFoundation | 402k |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Guide to designing large-scale systems, with study material for system design interviews. | donnemartin | 379k |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Curated list of free software web applications and network services that can be self-hosted. | awesome-selfhosted | 339k |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Curated list of free software web applications and network services that can be self-hosted. | awesome-selfhosted | 340k |
 | [awesome-python](https://github.com/vinta/awesome-python) | Curated list of Python tools, libraries, and frameworks organized by use case. | vinta | 336k |
 | [Python](https://github.com/TheAlgorithms/Python) | Collection of algorithms implemented in Python for education and competitive programming. | TheAlgorithms | 226k |
 | [computer-science](https://github.com/ossu/computer-science) | Curated path to a free self-taught computer science education, with courses and curriculum. | ossu | 211k |
@@ -28,8 +28,8 @@
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Interview questions and exercises covering DevOps topics such as Linux, Docker, Kubernetes and AWS. | bregman-arie | 86.9k |
 | [llm-course](https://github.com/mlabonne/llm-course) | Course with roadmaps and Colab notebooks for learning Large Language Models. | mlabonne | 85.2k |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | A curated list of computer science courses that include video lectures, covering algorithms, architecture and related fields. | Developer-Y | 84.9k |
-| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 80k |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 75.9k |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows. | ComposioHQ | 80.1k |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Curated list of patterns for building scalable, reliable, and performant large-scale systems. | binhnguyennus | 76k |
 | [awesome-react](https://github.com/enaqx/awesome-react) | Curated list of resources covering the React and React Native ecosystem. | enaqx | 75.4k |
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Curated list of machine learning frameworks, libraries, and software. | josephmisiti | 74.9k |
 | [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Curated list of C and C++ frameworks, libraries, resources and tools. | fffaraz | 74.6k |
@@ -41,14 +41,14 @@
 | [rustlings](https://github.com/rust-lang/rustlings) | Small guided exercises for learning to read and write Rust code. | rust-lang | 64.8k |
 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | Curated list of Flutter libraries, tools, tutorials, and articles. | Solido | 62k |
 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Curated list of Rust libraries, tools, and learning resources. | rust-unofficial | 60.7k |
-| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.5k |
-| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 55k |
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated list of resources such as skills, workflows, and tools for Claude Code. | hesreallyhim | 58.6k |
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes demonstrating effective ways to use Claude. | anthropics | 55.1k |
 | [awesome-ios](https://github.com/vsouza/awesome-ios) | Curated list of iOS ecosystem libraries and projects in Objective-C and Swift. | vsouza | 54.1k |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Curated, categorized list of over 5,400 skills from the official OpenClaw Skills Registry. | VoltAgent | 53.9k |
 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | Community-maintained list of open-source iOS, macOS, and tvOS apps. | dkhamsing | 53.4k |
 | [professional-programming](https://github.com/charlax/professional-programming) | Curated learning resources on computer science and engineering concepts for software engineers. | charlax | 51.7k |
 | [awesome-java](https://github.com/akullpp/awesome-java) | Curated list of frameworks, libraries and software for the Java programming language. | akullpp | 49.6k |
-| [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated list of React components and libraries organized by category. | brillout | 48.9k |
+| [awesome-react-components](https://github.com/brillout/awesome-react-components) | Curated list of React components and libraries organized by category. | brillout | 49k |
 | [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with an online judge for practicing the type system. | type-challenges | 48.6k |
 | [react](https://github.com/typescript-cheatsheets/react) | Cheatsheet guide for React developers learning to use TypeScript with components, hooks, and typing patterns. | typescript-cheatsheets | 47.1k |
 | [system-design](https://github.com/karanpratapsingh/system-design) | Learning material on designing systems at scale and preparing for system design interviews. | karanpratapsingh | 47k |
@@ -74,13 +74,13 @@
 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | Collection of laws, theories, principles, and patterns relevant to software developers and technologists. | dwmkerr | 27.4k |
 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Curated collection of over 100 specialized subagents for Claude Code across many development tasks. | VoltAgent | 26.7k |
 | [awesome-swift](https://github.com/matteocrippa/awesome-swift) | Curated list of Swift libraries and resources for iOS and Linux development. | matteocrippa | 26.4k |
-| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 25.3k |
+| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Curated list of plugins for DeepSeek Harness (dsh). | awesome-dsh-plugin | 25.4k |
 | [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Curated guide to self-hosting applications, LLMs, VPNs, and automation on local or private servers. | mikeroyal | 23.6k |
 | [awesome-readme](https://github.com/matiassingers/awesome-readme) | Curated list of awesome README examples and resources. | matiassingers | 21.8k |
 | [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Curated list of awesome Neovim plugins and resources. | rockerBOO | 21.6k |
 | [awesome-tuis](https://github.com/rothgar/awesome-tuis) | Curated list of projects that provide terminal user interfaces. | rothgar | 21.1k |
 | [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | Curated list of open source libraries for deploying, monitoring, versioning, and scaling machine learning. | EthicalML | 21.1k |
-| [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | Curated list of resources, libraries, and tools related to shadcn/ui. | birobirobiro | 20.8k |
+| [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | Curated list of resources, libraries, and tools related to shadcn/ui. | birobirobiro | 20.9k |
 | [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Curated list of open-source alternatives to well-known SaaS products. | RunaCapital | 19.9k |
 | [GoBooks](https://github.com/dariubs/GoBooks) | Curated list of books about the Go programming language. | dariubs | 19.8k |
 | [awesome-nlp](https://github.com/keon/awesome-nlp) | A curated list of resources for natural language processing. | keon | 19.2k |
@@ -90,7 +90,7 @@
 | [awesome-vite](https://github.com/vitejs/awesome-vite) | A curated list of resources, plugins and tools related to the Vite.js build tool. | vitejs | 17.3k |
 | [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) | Collection of software tools and apps recommended by Hacker News users. | cjbarber | 17.2k |
 | [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) | Curated list of PyTorch models, implementations, libraries and tutorials for deep learning. | bharathgs | 16.8k |
-| [public-api-lists](https://github.com/public-api-lists/public-api-lists) | Searchable, community-maintained curated list of free public APIs with a free JSON API. | public-api-lists | 16.4k |
+| [public-api-lists](https://github.com/public-api-lists/public-api-lists) | Searchable, community-maintained curated list of free public APIs with a free JSON API. | public-api-lists | 16.5k |
 | [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | Curated list of Kubernetes resources, including books, cloud providers, and deployment guides. | ramitsurana | 16.1k |
 | [opensource.guide](https://github.com/github/opensource.guide) | Community guides on best practices for creators of open source projects. | github | 15.8k |
 | [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | Curated list of creative coding resources covering generative art, data visualization, and interaction design. | terkelg | 15.6k |
@@ -108,7 +108,7 @@
 | [awesome-android](https://github.com/JStumpp/awesome-android) | Curated list of Android libraries, tools, and learning resources. | JStumpp | 12.5k |
 | [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | Collection of study materials for data structures, algorithms, and FAANG-style interview questions. | AkashSingh3031 | 12.3k |
 | [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) | Curated list of PostgreSQL software, libraries, tools and learning resources. | dhamaniasad | 12.2k |
-| [android-foss](https://github.com/offa/android-foss) | Curated list of free and open source software apps for Android, focused on privacy. | offa | 11.7k |
+| [android-foss](https://github.com/offa/android-foss) | Curated list of free and open source software apps for Android, focused on privacy. | offa | 11.8k |
 | [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) | Curated list of books, videos, and articles about building apps with Next.js. | unicodeveloper | 11.1k |
 | [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | Curated handbook listing tools, resources, and references for DeFi and DApp development. | OffcierCia | 10.9k |
 | [awesome-honeypots](https://github.com/paralax/awesome-honeypots) | Curated list of honeypot resources, including tools, research, and projects. | paralax | 10.7k |
@@ -171,11 +171,11 @@
 | [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) | Curated list of resources for Game Boy Advance development, including tools, documentation, and emulators. | gbadev-org | 1.4k |
 | [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | Curated list of SEO tools for keyword research, analysis, and optimization. | serpapi | 1.2k |
 | [cryptozombie-lessons](https://github.com/CryptozombiesHQ/cryptozombie-lessons) | Lesson content for the cryptozombies.io site, teaching smart contract development. | CryptozombiesHQ | 1.1k |
-| [ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) | Complete guide to modding iOS devices, from stock firmware to jailbreaking. | cfw-guide | 783 |
+| [ios.cfw.guide](https://github.com/cfw-guide/ios.cfw.guide) | Complete guide to modding iOS devices, from stock firmware to jailbreaking. | cfw-guide | 784 |
 | [awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) | Curated list of tools for building a freelance career in France. | etnbrd | 687 |
 | [list-of-tech-migrations](https://github.com/kokizzu/list-of-tech-migrations) | Curated list of publicly documented technology migrations between tools, languages, and platforms. | kokizzu | 550 |
-| [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) | Curated list of Stylelint plugins, configs, and other related tools. | stylelint | 531 |
-| [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) | Curated list of resources and tools related to LNURL on the Lightning Network. | lnurl | 395 |
+| [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) | Curated list of Stylelint plugins, configs, and other related tools. | stylelint | 532 |
+| [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) | Curated list of resources and tools related to LNURL on the Lightning Network. | lnurl | 396 |
 | [awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) | Curated guide to backlink, link building, and search ranking tactics and educational resources. | thospfuller | 285 |
 | [react-native-newsletter](https://github.com/ReactNativeNews/react-native-newsletter) | A newsletter about React Native. | ReactNativeNews | 181 |
 

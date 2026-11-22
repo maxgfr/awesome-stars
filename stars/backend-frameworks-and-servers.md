@@ -7,34 +7,34 @@
 | [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 124k |
 | [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with automatic JSON Schema validation. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.6k |
-| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
+| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.5k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79.4k |
-| [nest](https://github.com/nestjs/nest) | TypeScript framework for building scalable server-side applications on Node.js. | nestjs | 77.1k |
+| [nest](https://github.com/nestjs/nest) | TypeScript framework for building scalable server-side applications on Node.js. | nestjs | 77.2k |
 | [json-server](https://github.com/typicode/json-server) | Tool that creates a fake REST API from a JSON file, for use in frontend development and mocking. | typicode | 75.8k |
-| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.3k |
+| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.4k |
 | [strapi](https://github.com/strapi/strapi) | Open-source headless CMS built with JavaScript and TypeScript for creating customizable content APIs. | strapi | 73.5k |
-| [express](https://github.com/expressjs/express) | Minimal, unopinionated web framework for Node.js for building servers and APIs. | expressjs | 69.7k |
+| [express](https://github.com/expressjs/express) | Minimal, unopinionated web framework for Node.js for building servers and APIs. | expressjs | 69.8k |
 | [socket.io](https://github.com/socketio/socket.io) | Library for bidirectional, low-latency real-time communication between clients and servers across platforms. | socketio | 63.3k |
 | [pocketbase](https://github.com/pocketbase/pocketbase) 🗄️ | Open-source realtime backend delivered as a single file, providing a database, authentication, and APIs. | pocketbase | 61.6k |
-| [appwrite](https://github.com/appwrite/appwrite) | Self-hostable backend platform providing auth, databases, storage, functions, messaging, and realtime APIs. | appwrite | 58.5k |
-| [requests](https://github.com/psf/requests) | Python HTTP library for sending requests with a simple, human-friendly API. | psf | 54.7k |
-| [mastodon](https://github.com/mastodon/mastodon) | Self-hosted, federated microblogging server that interoperates with the fediverse via ActivityPub. | mastodon | 50.6k |
-| [payload](https://github.com/payloadcms/payload) | Open-source Next.js framework with a TypeScript backend and admin panel, usable as a headless CMS. | payloadcms | 45.9k |
+| [appwrite](https://github.com/appwrite/appwrite) | Self-hostable backend platform providing auth, databases, storage, functions, messaging, and realtime APIs. | appwrite | 58.6k |
+| [requests](https://github.com/psf/requests) | Python HTTP library for sending requests with a simple, human-friendly API. | psf | 54.8k |
+| [mastodon](https://github.com/mastodon/mastodon) | Self-hosted, federated microblogging server that interoperates with the fediverse via ActivityPub. | mastodon | 50.7k |
+| [payload](https://github.com/payloadcms/payload) | Open-source Next.js framework with a TypeScript backend and admin panel, usable as a headless CMS. | payloadcms | 46k |
 | [grpc](https://github.com/grpc/grpc) | C++ implementation of gRPC, a high-performance remote procedure call framework with multi-language bindings. | grpc | 45.5k |
 | [kong](https://github.com/Kong/kong) | An API and AI gateway for managing, securing, and routing API and AI traffic. | Kong | 44.4k |
-| [trpc](https://github.com/trpc/trpc) | End-to-end typesafe API library for TypeScript, commonly used with Next.js and React. | trpc | 40.8k |
+| [trpc](https://github.com/trpc/trpc) | End-to-end typesafe API library for TypeScript, commonly used with Next.js and React. | trpc | 40.9k |
 | [novu](https://github.com/novuhq/novu) | Open-source communication infrastructure for notifications across email, in-app inbox and other channels. | novuhq | 40.4k |
 | [fiber](https://github.com/gofiber/fiber) | Web framework for Go with an Express-like API, built on fasthttp for high performance. | gofiber | 40.3k |
 | [directus](https://github.com/directus/directus) | Open-source backend that turns a database into a headless CMS with instant REST and GraphQL APIs. | directus | 38.6k |
 | [fastify](https://github.com/fastify/fastify) | Fast, low-overhead web framework for Node.js for building HTTP APIs and servers. | fastify | 37.5k |
 | [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.4k |
-| [koa](https://github.com/koajs/koa) | Expressive middleware framework for Node.js built on ES2017 async functions. | koajs | 35.7k |
 | [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.7k |
+| [koa](https://github.com/koajs/koa) | Expressive middleware framework for Node.js built on ES2017 async functions. | koajs | 35.7k |
 | [hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate for Node.js web applications, aimed at hackathons, with OAuth2 and other starter features. | sahat | 35.3k |
 | [framework](https://github.com/laravel/framework) | PHP web framework with an expressive, elegant syntax for building web applications. | laravel | 35k |
 | [remix](https://github.com/remix-run/remix) | Full-stack web framework built on standard web APIs. | remix-run | 33.5k |
 | [hono](https://github.com/honojs/hono) | Web framework built on Web Standards for running on Cloudflare Workers, Deno, Bun, and AWS Lambda. | honojs | 33k |
-| [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 32.7k |
+| [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 32.9k |
 | [symfony](https://github.com/symfony/symfony) | Full-stack PHP framework and set of reusable components for building web applications and APIs. | symfony | 31.5k |
 | [better-auth](https://github.com/better-auth/better-auth) | Comprehensive authentication framework for TypeScript with OAuth, OIDC, and SSO support. | better-auth | 30.8k |
 | [celery](https://github.com/celery/celery) | Distributed Python task queue for running asynchronous and scheduled jobs across worker processes. | celery | 29.3k |
@@ -62,7 +62,7 @@
 | [iii](https://github.com/iii-hq/iii) | Engine for composing, extending, observing, and reacting to services in real time. | iii-hq | 18.9k |
 | [postal](https://github.com/postalserver/postal) | Open source mail delivery platform for sending and receiving email, with SMTP support. | postalserver | 17k |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client and server framework for asyncio in Python. | aio-libs | 16.6k |
-| [hyper](https://github.com/hyperium/hyper) | Fast and correct HTTP library for Rust, supporting both client and server implementations. | hyperium | 16.4k |
+| [hyper](https://github.com/hyperium/hyper) | Fast and correct HTTP library for Rust, supporting both client and server implementations. | hyperium | 16.5k |
 | [bull](https://github.com/OptimalBits/bull) | Queue package for NodeJS that handles distributed jobs and messages with priorities. | OptimalBits | 16.3k |
 | [saas-starter](https://github.com/nextjs/saas-starter) | Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui. | nextjs | 16.3k |
 | [server](https://github.com/gotify/server) | Server for sending and receiving real-time messages over WebSocket, with a web UI. | gotify | 16.2k |
@@ -88,10 +88,10 @@
 | [encore](https://github.com/encoredev/encore) | Backend framework that provisions cloud infrastructure from local development to production. | encoredev | 12.7k |
 | [multer](https://github.com/expressjs/multer) | Node.js middleware for handling multipart/form-data requests, such as file uploads. | expressjs | 12.1k |
 | [jwt-auth](https://github.com/tymondesigns/jwt-auth) | JSON Web Token authentication package for Laravel and Lumen applications. | tymondesigns | 11.5k |
-| [misskey](https://github.com/misskey-dev/misskey) | Free, federated microblogging platform that supports the ActivityPub protocol. | misskey-dev | 11.4k |
 | [nitro](https://github.com/nitrojs/nitro) | Server toolkit for building web servers and deploying them to many hosting platforms. | nitrojs | 11.4k |
-| [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) | Node.js middleware that proxies HTTP requests for Express, Connect, Next.js, and other frameworks. | chimurai | 11.1k |
+| [misskey](https://github.com/misskey-dev/misskey) | Free, federated microblogging platform that supports the ActivityPub protocol. | misskey-dev | 11.4k |
 | [uvicorn](https://github.com/Kludex/uvicorn) | ASGI web server for Python used to run asynchronous web applications over HTTP. | Kludex | 11.1k |
+| [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) | Node.js middleware that proxies HTTP requests for Express, Connect, Next.js, and other frameworks. | chimurai | 11.1k |
 | [centrifugo](https://github.com/centrifugal/centrifugo) | Self-hosted, language-agnostic real-time messaging server, an alternative to Pusher and Ably. | centrifugal | 11k |
 | [tyk](https://github.com/TykTechnologies/tyk) | Open source API and AI gateway supporting REST, GraphQL, TCP, gRPC, and MCP. | TykTechnologies | 10.9k |
 | [gunicorn](https://github.com/benoitc/gunicorn) | WSGI HTTP server for UNIX that serves Python web applications. | benoitc | 10.7k |
@@ -146,7 +146,7 @@
 | [bknd](https://github.com/bknd-io/bknd) | Lightweight backend-as-a-service alternative to Firebase and Supabase that runs on many platforms. | bknd-io | 3.8k |
 | [fast-json-stringify](https://github.com/fastify/fast-json-stringify) | Fast JSON serializer that generates stringify functions from a JSON Schema to shape output. | fastify | 3.7k |
 | [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) | Atomic and non-atomic counters and rate limiting tools for limiting resource access at scale. | animir | 3.6k |
-| [deepkit](https://github.com/marcj/deepkit) | Modular TypeScript framework with dependency injection, aimed at high-performance enterprise applications. | marcj | 3.5k |
+| [deepkit](https://github.com/marcj/deepkit) | Modular TypeScript framework with dependency injection, aimed at high-performance enterprise applications. | marcj | 3.6k |
 | [bull-board](https://github.com/felixmosh/bull-board) | Web UI for inspecting and managing background job queues built with BullMQ and Redis. | felixmosh | 3.5k |
 | [graphql-mesh](https://github.com/ardatan/graphql-mesh) | Framework that builds a unified GraphQL gateway over REST, OpenAPI, SOAP, gRPC and other APIs. | ardatan | 3.5k |
 | [passport](https://github.com/laravel/passport) | OAuth2 server implementation for Laravel applications. | laravel | 3.4k |

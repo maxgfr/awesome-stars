@@ -30,7 +30,7 @@
 | [apisix](https://github.com/apache/apisix) | Cloud-native API gateway and AI gateway for managing API traffic. | apache | 17.4k |
 | [argo-workflows](https://github.com/argoproj/argo-workflows) | Workflow engine for orchestrating batch and parallel jobs on Kubernetes. | argoproj | 17.1k |
 | [kops](https://github.com/kubernetes/kops) | Tool for creating, upgrading, and managing production-grade Kubernetes clusters. | kubernetes | 16.7k |
-| [vercel](https://github.com/vercel/vercel) | CLI and platform for deploying and previewing web projects, mainly frontend and JAMstack apps. | vercel | 16.6k |
+| [vercel](https://github.com/vercel/vercel) | CLI and platform for deploying and previewing web projects, mainly frontend and JAMstack apps. | vercel | 16.7k |
 | [skaffold](https://github.com/GoogleContainerTools/skaffold) | Command-line tool for continuous development and repeatable building and deployment of Kubernetes applications. | GoogleContainerTools | 15.9k |
 | [kind](https://github.com/kubernetes-sigs/kind) | Tool for running local Kubernetes clusters using Docker containers as nodes, mainly for testing. | kubernetes-sigs | 15.6k |
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) | Collection of Azure Resource Manager and Bicep templates for deploying common Azure resources. | Azure | 14.9k |
@@ -148,10 +148,10 @@
 | [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 775 |
 | [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 757 |
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 747 |
-| [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 667 |
+| [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 669 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 593 |
-| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 568 |
+| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 571 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
 | [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 487 |

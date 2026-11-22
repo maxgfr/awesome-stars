@@ -3,8 +3,58 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-21T14:30:22Z</updated>
+  <updated>2026-11-22T18:23:48Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>Oros42/IMSI-catcher</title>
+    <link href="https://github.com/Oros42/IMSI-catcher"/>
+    <id>https://github.com/Oros42/IMSI-catcher</id>
+    <updated>2026-11-22T18:23:48Z</updated>
+    <author><name>Oros42</name></author>
+    <summary>Displays IMSI numbers of nearby cellphones, using gr-gsm and HackRF hardware. · Python · cellphones, frequency, gr-gsm, gsm, hackrf</summary>
+    <category term="cellphones"/>
+    <category term="frequency"/>
+    <category term="gr-gsm"/>
+    <category term="gsm"/>
+    <category term="hackrf"/>
+  </entry>
+  <entry>
+    <title>ptrkrysik/gr-gsm</title>
+    <link href="https://github.com/ptrkrysik/gr-gsm"/>
+    <id>https://github.com/ptrkrysik/gr-gsm</id>
+    <updated>2026-11-22T18:23:40Z</updated>
+    <author><name>ptrkrysik</name></author>
+    <summary>Gnuradio blocks and tools for receiving GSM transmissions. · C++</summary>
+  </entry>
+  <entry>
+    <title>BaaRai/ARTEX</title>
+    <link href="https://github.com/BaaRai/ARTEX"/>
+    <id>https://github.com/BaaRai/ARTEX</id>
+    <updated>2026-11-22T10:59:28Z</updated>
+    <author><name>BaaRai</name></author>
+    <summary>Autonomous AI penetration testing system for security assessments, distributed as a Docker setup. · Go · ai, ai-agents, autonomous-agents, bug-bounty, docker</summary>
+    <category term="ai"/>
+    <category term="ai-agents"/>
+    <category term="autonomous-agents"/>
+    <category term="bug-bounty"/>
+    <category term="docker"/>
+  </entry>
+  <entry>
+    <title>triton-lang/triton</title>
+    <link href="https://github.com/triton-lang/triton"/>
+    <id>https://github.com/triton-lang/triton</id>
+    <updated>2026-11-22T10:55:15Z</updated>
+    <author><name>triton-lang</name></author>
+    <summary>Development repository for the Triton language and compiler. · MLIR</summary>
+  </entry>
+  <entry>
+    <title>rileytestut/Delta</title>
+    <link href="https://github.com/rileytestut/Delta"/>
+    <id>https://github.com/rileytestut/Delta</id>
+    <updated>2026-11-22T10:46:14Z</updated>
+    <author><name>rileytestut</name></author>
+    <summary>All-in-one classic video game emulator for non-jailbroken iOS devices. · Swift</summary>
+  </entry>
   <entry>
     <title>Droid-Deck/DroidDeck</title>
     <link href="https://github.com/Droid-Deck/DroidDeck"/>
@@ -515,65 +565,5 @@
     <category term="macos"/>
     <category term="shell"/>
     <category term="swift"/>
-  </entry>
-  <entry>
-    <title>ivankovic/omnidiff</title>
-    <link href="https://github.com/ivankovic/omnidiff"/>
-    <id>https://github.com/ivankovic/omnidiff</id>
-    <updated>2026-11-04T11:40:31Z</updated>
-    <author><name>ivankovic</name></author>
-    <summary>Fast and accurate diffing tool based on abstract syntax trees, for code review. · Rust · ast-diff, ast-diff-tool, ast-differencing, code-quality, code-review</summary>
-    <category term="ast-diff"/>
-    <category term="ast-diff-tool"/>
-    <category term="ast-differencing"/>
-    <category term="code-quality"/>
-    <category term="code-review"/>
-  </entry>
-  <entry>
-    <title>kgoedecke/doop</title>
-    <link href="https://github.com/kgoedecke/doop"/>
-    <id>https://github.com/kgoedecke/doop</id>
-    <updated>2026-11-04T10:42:31Z</updated>
-    <author><name>kgoedecke</name></author>
-    <summary>Multiplayer design canvas where humans and AI agents design together, with built-in MCP support. · TypeScript · ai-agents, canvas, claude, claude-code, claude-design</summary>
-    <category term="ai-agents"/>
-    <category term="canvas"/>
-    <category term="claude"/>
-    <category term="claude-code"/>
-    <category term="claude-design"/>
-  </entry>
-  <entry>
-    <title>storytold/craft-anything</title>
-    <link href="https://github.com/storytold/craft-anything"/>
-    <id>https://github.com/storytold/craft-anything</id>
-    <updated>2026-11-04T09:11:17Z</updated>
-    <author><name>storytold</name></author>
-    <summary>Learning resource for understanding how software works and building your own. · Rust</summary>
-  </entry>
-  <entry>
-    <title>akuity/kargo</title>
-    <link href="https://github.com/akuity/kargo"/>
-    <id>https://github.com/akuity/kargo</id>
-    <updated>2026-11-03T13:21:52Z</updated>
-    <author><name>akuity</name></author>
-    <summary>Orchestrator for promoting application changes through stages in Argo CD GitOps delivery. · Go · argocd, cd, delivery, gitops, hacktoberfest</summary>
-    <category term="argocd"/>
-    <category term="cd"/>
-    <category term="delivery"/>
-    <category term="gitops"/>
-    <category term="hacktoberfest"/>
-  </entry>
-  <entry>
-    <title>scito/extract_otp_secrets</title>
-    <link href="https://github.com/scito/extract_otp_secrets"/>
-    <id>https://github.com/scito/extract_otp_secrets</id>
-    <updated>2026-11-03T13:03:45Z</updated>
-    <author><name>scito</name></author>
-    <summary>Extracts OTP secrets from QR codes exported by two-factor authentication apps into CSV or JSON. · Python · 2fa, csv, google-authenticator, json, mfa</summary>
-    <category term="2fa"/>
-    <category term="csv"/>
-    <category term="google-authenticator"/>
-    <category term="json"/>
-    <category term="mfa"/>
   </entry>
 </feed>
