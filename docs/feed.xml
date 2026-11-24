@@ -3,8 +3,60 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-22T18:23:48Z</updated>
+  <updated>2026-11-23T16:59:24Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>devthefuture-org/quotadeck</title>
+    <link href="https://github.com/devthefuture-org/quotadeck"/>
+    <id>https://github.com/devthefuture-org/quotadeck</id>
+    <updated>2026-11-23T16:59:24Z</updated>
+    <author><name>devthefuture-org</name></author>
+    <summary>Local-first desktop dashboard that tracks Claude, Codex, and Z.ai quota windows on Linux. · Go · cinnamon, claude, codex, linux, quota-dashboard</summary>
+    <category term="cinnamon"/>
+    <category term="claude"/>
+    <category term="codex"/>
+    <category term="linux"/>
+    <category term="quota-dashboard"/>
+  </entry>
+  <entry>
+    <title>kaelzhang/node-ignore</title>
+    <link href="https://github.com/kaelzhang/node-ignore"/>
+    <id>https://github.com/kaelzhang/node-ignore</id>
+    <updated>2026-11-23T14:48:02Z</updated>
+    <author><name>kaelzhang</name></author>
+    <summary>Manager and filter for .gitignore rules, used by ESLint, Prettier and other JavaScript tools. · JavaScript · gitignore, ignore-files, ignore-patterns, ignore-rules, javascript</summary>
+    <category term="gitignore"/>
+    <category term="ignore-files"/>
+    <category term="ignore-patterns"/>
+    <category term="ignore-rules"/>
+    <category term="javascript"/>
+  </entry>
+  <entry>
+    <title>micromatch/picomatch</title>
+    <link href="https://github.com/micromatch/picomatch"/>
+    <id>https://github.com/micromatch/picomatch</id>
+    <updated>2026-11-23T14:45:44Z</updated>
+    <author><name>micromatch</name></author>
+    <summary>Dependency-free JavaScript glob matcher with Bash-style braces, extglobs, and POSIX brackets. · JavaScript · fast-glob, fdir, find, glob, glob-pattern</summary>
+    <category term="fast-glob"/>
+    <category term="fdir"/>
+    <category term="find"/>
+    <category term="glob"/>
+    <category term="glob-pattern"/>
+  </entry>
+  <entry>
+    <title>femboyisp/yip</title>
+    <link href="https://github.com/femboyisp/yip"/>
+    <id>https://github.com/femboyisp/yip</id>
+    <updated>2026-11-23T14:18:48Z</updated>
+    <author><name>femboyisp</name></author>
+    <summary>Low-latency Rust mesh VPN with Reed-Solomon FEC, post-quantum crypto, and anti-DPI obfuscation. · Rust · af-xdp, censorship-resistance, dpi-evasion, ebpf, fec</summary>
+    <category term="af-xdp"/>
+    <category term="censorship-resistance"/>
+    <category term="dpi-evasion"/>
+    <category term="ebpf"/>
+    <category term="fec"/>
+  </entry>
   <entry>
     <title>Oros42/IMSI-catcher</title>
     <link href="https://github.com/Oros42/IMSI-catcher"/>
@@ -110,7 +162,7 @@
     <id>https://github.com/elementalsouls/Claude-BugHunter</id>
     <updated>2026-11-18T19:33:20Z</updated>
     <author><name>elementalsouls</name></author>
-    <summary>Claude Code skills and slash commands for bug bounty hunting and external red-team security work. · Python · ai-security, anthropic, application-security, bug-bounty, bugbounty</summary>
+    <summary>Claude Code skill bundle with 84 skills and 15 slash commands for bug hunting and red-team work. · Python · ai-security, anthropic, application-security, bug-bounty, bugbounty</summary>
     <category term="ai-security"/>
     <category term="anthropic"/>
     <category term="application-security"/>
@@ -518,52 +570,5 @@
     <updated>2026-11-05T12:46:11Z</updated>
     <author><name>brandonmcconnell</name></author>
     <summary>Browser extension that hides test files when reviewing pull requests on GitHub. · TypeScript</summary>
-  </entry>
-  <entry>
-    <title>evilmartians/lefthook</title>
-    <link href="https://github.com/evilmartians/lefthook"/>
-    <id>https://github.com/evilmartians/lefthook</id>
-    <updated>2026-11-04T18:44:22Z</updated>
-    <author><name>evilmartians</name></author>
-    <summary>Fast Git hooks manager for projects of any type. · Go · git, go, golang, hacktoberfest, hooks</summary>
-    <category term="git"/>
-    <category term="go"/>
-    <category term="golang"/>
-    <category term="hacktoberfest"/>
-    <category term="hooks"/>
-  </entry>
-  <entry>
-    <title>microsoft/TokenEconomizer</title>
-    <link href="https://github.com/microsoft/TokenEconomizer"/>
-    <id>https://github.com/microsoft/TokenEconomizer</id>
-    <updated>2026-11-04T16:19:29Z</updated>
-    <author><name>microsoft</name></author>
-    <summary>Black-box cost control for coding agents that uses past experience to reduce token spend. · Python · agentic-ai, agentic-coding, ai-coding, ai-coding-assistant, anthropic</summary>
-    <category term="agentic-ai"/>
-    <category term="agentic-coding"/>
-    <category term="ai-coding"/>
-    <category term="ai-coding-assistant"/>
-    <category term="anthropic"/>
-  </entry>
-  <entry>
-    <title>kyutai-labs/pocket-tts</title>
-    <link href="https://github.com/kyutai-labs/pocket-tts"/>
-    <id>https://github.com/kyutai-labs/pocket-tts</id>
-    <updated>2026-11-04T16:06:02Z</updated>
-    <author><name>kyutai-labs</name></author>
-    <summary>Text-to-speech model small enough to run on a CPU. · Python</summary>
-  </entry>
-  <entry>
-    <title>govijr/terminal-mac</title>
-    <link href="https://github.com/govijr/terminal-mac"/>
-    <id>https://github.com/govijr/terminal-mac</id>
-    <updated>2026-11-04T16:01:25Z</updated>
-    <author><name>govijr</name></author>
-    <summary>Renders the macOS graphical environment inside a terminal window. · Swift · cli, gui, macos, shell, swift</summary>
-    <category term="cli"/>
-    <category term="gui"/>
-    <category term="macos"/>
-    <category term="shell"/>
-    <category term="swift"/>
   </entry>
 </feed>

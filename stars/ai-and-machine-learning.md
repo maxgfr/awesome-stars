@@ -4,7 +4,7 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [firecrawl](https://github.com/firecrawl/firecrawl) | API for searching, scraping and crawling web data and accessing 550+ data providers for AI agents. | firecrawl | 207k |
+| [firecrawl](https://github.com/firecrawl/firecrawl) | API for searching, scraping and crawling web data and accessing 550+ data providers for AI agents. | firecrawl | 208k |
 | [tensorflow](https://github.com/tensorflow/tensorflow) | Open source machine learning framework for building and training distributed deep neural networks. | tensorflow | 202k |
 | [ollama](https://github.com/ollama/ollama) | Tool for running open large language models such as DeepSeek, Gemma, GLM, and Qwen locally. | ollama | 188k |
 | [transformers](https://github.com/huggingface/transformers) | Python framework providing model definitions for machine learning models across text, vision, audio, and multimodal tasks. | huggingface | 169k |
@@ -13,49 +13,49 @@
 | [whisper](https://github.com/openai/whisper) | Speech recognition model trained on large-scale weakly supervised audio data for transcription. | openai | 113k |
 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Step-by-step PyTorch code for implementing and training a GPT-style LLM from scratch. | rasbt | 109k |
 | [pytorch](https://github.com/pytorch/pytorch) | Python library for tensor computation and deep neural networks with GPU acceleration. | pytorch | 106k |
-| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Real-time face swapping and one-click video deepfakes from a single image. | hacksider | 98.7k |
+| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Real-time face swapping and one-click video deepfakes from a single image. | hacksider | 98.8k |
 | [vllm](https://github.com/vllm-project/vllm) | Inference and serving engine for large language models focused on high throughput and memory efficiency. | vllm-project | 97.4k |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Lightweight OCR toolkit that converts PDF and image documents into structured data for LLMs in 100+ languages. | PaddlePaddle | 93k |
-| [MinerU](https://github.com/opendatalab/MinerU) | Tool that converts PDFs and Office documents into LLM-ready markdown and JSON for agent workflows. | opendatalab | 84.1k |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Lightweight OCR toolkit that converts PDF and image documents into structured data for LLMs in 100+ languages. | PaddlePaddle | 93.1k |
+| [MinerU](https://github.com/opendatalab/MinerU) | Tool that converts PDFs and Office documents into LLM-ready markdown and JSON for agent workflows. | opendatalab | 84.2k |
 | [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Converts a screenshot into clean HTML, Tailwind, React, or Vue code. | abi | 81.4k |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Guides, papers, lessons, and notebooks on prompt engineering, context engineering, RAG, and AI agents. | dair-ai | 80.3k |
-| [unsloth](https://github.com/unslothai/unsloth) | Local web UI for running and training LLMs and diffusion models, supporting GGUF and MLX formats. | unslothai | 80k |
+| [unsloth](https://github.com/unslothai/unsloth) | Local web UI for running and training LLMs and diffusion models, supporting GGUF and MLX formats. | unslothai | 80.1k |
 | [models](https://github.com/tensorflow/models) | Collection of machine learning models and example code built with TensorFlow. | tensorflow | 77.6k |
 | [tesseract](https://github.com/tesseract-ocr/tesseract) | Open source OCR engine that recognizes text in images using LSTM-based neural networks. | tesseract-ocr | 77.6k |
 | [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API, including ChatGPT and GPT-4. | openai | 77.4k |
 | [LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Framework for efficient fine-tuning of over 100 large language and vision-language models. | hiyouga | 76.2k |
-| [OpenBB](https://github.com/openbq-org/OpenBB) | Open data platform for financial, economic and crypto data used by analysts, quants and AI agents. | openbq-org | 75.6k |
+| [OpenBB](https://github.com/openbq-org/OpenBB) | Open data platform for financial, economic and crypto data used by analysts, quants and AI agents. | openbq-org | 75.7k |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | Python library providing machine learning algorithms and tools for data analysis and statistics. | scikit-learn | 68.3k |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Experimental AI system that simulates a team of hedge fund agents for trading decisions. | virattt | 64.8k |
-| [keras](https://github.com/keras-team/keras) | Python deep learning API for building and training neural networks in a user-friendly way. | keras-team | 64.5k |
+| [keras](https://github.com/keras-team/keras) | Python deep learning API for building and training neural networks in a user-friendly way. | keras-team | 64.4k |
 | [openpilot](https://github.com/commaai/openpilot) | Open source operating system for robotics that adds driver assistance to 300+ supported cars. | commaai | 64.2k |
-| [litellm](https://github.com/BerriAI/litellm) | AI gateway with a Rust core and Python SDK for calling 100+ LLM APIs in OpenAI format. | BerriAI | 63.7k |
+| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | Few-shot voice cloning and text-to-speech framework that trains a TTS model from about one minute of voice data. | bilibili | 64.2k |
+| [litellm](https://github.com/BerriAI/litellm) | AI gateway with a Rust core and Python SDK for calling 100+ LLM APIs in OpenAI format. | BerriAI | 63.8k |
 | [ultralytics](https://github.com/ultralytics/ultralytics) | Framework for YOLO models for detection, segmentation, classification, pose, and tracking. | ultralytics | 63.7k |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor) | AI tutoring system for personalized, interactive learning, with a command-line interface. | HKUDS | 61.6k |
-| [twenty](https://github.com/twentyhq/twenty) | Open-source CRM platform designed for AI, offering an alternative to Salesforce. | twentyhq | 61.3k |
-| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Toolkit that clones a voice from a short sample to generate speech in real time. | CorentinJ | 60.3k |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | AI tutoring system for personalized, interactive learning, with a command-line interface. | HKUDS | 62k |
+| [twenty](https://github.com/twentyhq/twenty) | Open-source CRM platform designed for AI, offering an alternative to Salesforce. | twentyhq | 61.4k |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Toolkit that clones a voice from a short sample to generate speech in real time. | CorentinJ | 60.2k |
 | [faceswap](https://github.com/deepfakes/faceswap) | Open-source software for creating deepfakes using deep learning face-swapping models. | deepfakes | 57.6k |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Image generation software focused on prompt-based text-to-image generation. | lllyasviel | 54k |
+| [colibri](https://github.com/JustVugg/colibri) | C inference engine for frontier MoE models that tiers experts across GPU, RAM, and NVMe. | JustVugg | 53.2k |
 | [llama_index](https://github.com/run-llama/llama_index) | Framework and data platform for building LLM applications with document ingestion, indexing, and agents. | run-llama | 53k |
-| [colibri](https://github.com/JustVugg/colibri) | C inference engine for frontier MoE models that tiers experts across GPU, RAM, and NVMe. | JustVugg | 52.9k |
 | [qlib](https://github.com/microsoft/qlib) | AI-oriented quantitative investment platform supporting machine learning for research and production. | microsoft | 50.5k |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted engine for running LLM, vision, voice, image, and video models locally with an API. | mudler | 50.5k |
 | [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | Course teaching how to develop, deploy, and iterate on production-grade machine learning applications. | GokuMohandas | 50.1k |
 | [textgen](https://github.com/oobabooga/textgen) | Desktop app for running local LLMs with text and vision models and an OpenAI-compatible API. | oobabooga | 47.7k |
 | [gradio](https://github.com/gradio-app/gradio) | Python library for building and sharing machine learning web applications with a user interface. | gradio-app | 44.1k |
 | [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | Deep learning optimization library for efficient, scalable distributed training and inference. | deepspeedai | 43.4k |
-| [airllm](https://github.com/lyogavin/airllm) | Inference library for LLMs of up to 2.8T parameters on a single 4GB GPU. | lyogavin | 43k |
-| [heretic](https://github.com/p-e-w/heretic) | Training-free tool that removes censorship from language models and reduces sycophancy. | p-e-w | 42.6k |
-| [artcraft](https://github.com/storytold/artcraft) | Crafting engine for artists, designers, and filmmakers, with 3D graphics and AI image and video generation. | storytold | 42k |
+| [airllm](https://github.com/lyogavin/airllm) | Inference library for LLMs of up to 2.8T parameters on a single 4GB GPU. | lyogavin | 43.2k |
+| [heretic](https://github.com/p-e-w/heretic) | Training-free tool that removes censorship from language models and reduces sycophancy. | p-e-w | 42.9k |
+| [artcraft](https://github.com/storytold/artcraft) | Crafting engine for artists, designers, and filmmakers, with 3D graphics and AI image and video generation. | storytold | 42.1k |
 | [faiss](https://github.com/facebookresearch/faiss) | Library for efficient similarity search and clustering of dense vectors. | facebookresearch | 41.9k |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Framework making large AI models cheaper, faster and more accessible via distributed training. | hpcaitech | 41.4k |
 | [LightRAG](https://github.com/HKUDS/LightRAG) | Retrieval-augmented generation framework using knowledge graphs for fast, simple querying. | HKUDS | 40.8k |
 | [quivr](https://github.com/The-Vibe-Company/quivr) | Engine that turns content streams into search and monitoring, with durable ingestion and alerts. | The-Vibe-Company | 39.7k |
-| [FastChat](https://github.com/lm-sys/FastChat) | Open platform for training, serving, and evaluating large language models, including Vicuna. | lm-sys | 39.6k |
+| [FastChat](https://github.com/lm-sys/FastChat) | Open platform for training, serving, and evaluating large language models, including Vicuna. | lm-sys | 39.5k |
+| [llmfit](https://github.com/AlexsJones/llmfit) | Command-line tool that finds which LLM models and providers run on your hardware. | AlexsJones | 39.3k |
 | [google-research](https://github.com/google-research/google-research) | Collection of machine learning and AI research code and projects published by Google Research. | google-research | 39.3k |
-| [llmfit](https://github.com/AlexsJones/llmfit) | Command-line tool that finds which LLM models and providers run on your hardware. | AlexsJones | 39.2k |
-| [tesseract.js](https://github.com/naptha/tesseract.js) | Pure JavaScript OCR library for more than 100 languages, running in browsers via WebAssembly. | naptha | 38.8k |
-| [frigate](https://github.com/blakeblackshear/frigate) | Network video recorder with local real-time object detection for IP cameras. | blakeblackshear | 37.8k |
+| [tesseract.js](https://github.com/naptha/tesseract.js) | Pure JavaScript OCR library for more than 100 languages, running in browsers via WebAssembly. | naptha | 38.9k |
+| [frigate](https://github.com/blakeblackshear/frigate) | Network video recorder with local real-time object detection for IP cameras. | blakeblackshear | 37.9k |
 | [mediapipe](https://github.com/google-ai-edge/mediapipe) | Cross-platform framework for customizable machine learning pipelines on live and streaming media. | google-ai-edge | 37.8k |
 | [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | PyTorch library of image encoders and backbones, with pretrained weights and training scripts. | huggingface | 37.3k |
 | [jax](https://github.com/jax-ml/jax) | Library for autodiff, vectorization and JIT compilation of Python and NumPy programs. | jax-ml | 36.7k |
@@ -65,36 +65,30 @@
 | [spaCy](https://github.com/explosion/spaCy) | Industrial-strength natural language processing library for Python. | explosion | 34.1k |
 | [netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models. | lutzroeder | 33.7k |
 | [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python library for AI-based web scraping and structured data extraction from websites. | ScrapeGraphAI | 32.9k |
-| [9router](https://github.com/decolua/9router) | Gateway routing coding tools like Claude Code and Cursor to many model providers with auto-fallback. | decolua | 32.7k |
+| [9router](https://github.com/decolua/9router) | Gateway routing coding tools like Claude Code and Cursor to many model providers with auto-fallback. | decolua | 32.8k |
 | [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | Framework for pretraining and finetuning deep learning models on one or many GPUs. | Lightning-AI | 31.5k |
 | [facefusion](https://github.com/facefusion/facefusion) | Face manipulation platform for face swapping and lip sync in images and videos. | facefusion | 30.8k |
 | [insightface](https://github.com/deepinsight/insightface) | Face analysis toolkit for 2D and 3D face detection, alignment, recognition, and age estimation. | deepinsight | 30.3k |
 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR library supporting more than 80 languages and popular writing scripts. | JaidedAI | 30.2k |
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-source project for training and running efficient text-to-video generation models. | hpcaitech | 29.9k |
 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | AI tool for building and tailoring resumes and cover letters, running locally with many LLMs. | srbhr | 29.4k |
-| [mlx](https://github.com/ml-explore/mlx) | Array framework for machine learning on Apple silicon, with a NumPy-like API. | ml-explore | 29.2k |
+| [mlx](https://github.com/ml-explore/mlx) | Array framework for machine learning on Apple silicon, with a NumPy-like API. | ml-explore | 29.3k |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Creative engine using AI image and video generation models to create and edit visual media. | invoke-ai | 29.1k |
 | [xgboost](https://github.com/dmlc/xgboost) | Scalable, distributed gradient boosting library for Python, R, Java, Scala, and C. | dmlc | 29k |
 | [mlflow](https://github.com/mlflow/mlflow) | Open source platform for debugging, evaluating, and monitoring AI agents, LLMs, and ML models. | mlflow | 28.9k |
 | [label-studio](https://github.com/HumanSignal/label-studio) | Multi-type data labeling and annotation tool with a standardized output format. | HumanSignal | 28.7k |
-| [ai](https://github.com/vercel/ai) | TypeScript toolkit for building AI-powered applications and agents with support for many model providers. | vercel | 28.1k |
+| [ai](https://github.com/vercel/ai) | TypeScript toolkit for building AI-powered applications and agents with support for many model providers. | vercel | 28.2k |
 | [Qwen3](https://github.com/QwenLM/Qwen3) | Series of large language models developed by the Qwen team at Alibaba Cloud. | QwenLM | 27.8k |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative models released by Stability AI. | Stability-AI | 27.3k |
 | [haystack](https://github.com/deepset-ai/haystack) | Open-source framework for building production-ready LLM applications with modular pipelines and agent workflows. | deepset-ai | 27.1k |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Speech transcription library using CTranslate2 for faster inference of Whisper models. | SYSTRAN | 27k |
 | [llamafile](https://github.com/mozilla-ai/llamafile) | Tool that packages LLMs into a single executable file that runs locally across platforms. | mozilla-ai | 26.7k |
 | [open-r1](https://github.com/huggingface/open-r1) | Fully open reproduction of the DeepSeek-R1 reasoning model and its training pipeline. | huggingface | 26.5k |
-| [toon](https://github.com/toon-format/toon) | Token-Oriented Object Notation, a compact human-readable JSON serialization format for LLM prompts. | toon-format | 25.6k |
-| [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | PyTorch implementation of unpaired and paired image-to-image translation using CycleGAN and pix2pix. | junyanz | 25.3k |
-| [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | Library for conversational data analysis over SQL, CSV, and Parquet sources using LLMs. | sinaptik-ai | 24k |
-| [omlx](https://github.com/jundot/omlx) | LLM inference server for Apple Silicon offering continuous batching and SSD caching. | jundot | 23.8k |
+| [toon](https://github.com/toon-format/toon) | Token-Oriented Object Notation, a compact human-readable JSON serialization format for LLM prompts. | toon-format | 25.7k |
+| [omlx](https://github.com/jundot/omlx) | LLM inference server for Apple Silicon offering continuous batching and SSD caching. | jundot | 23.9k |
 | [deepface](https://github.com/serengil/deepface) | Lightweight Python library for face recognition and analysis of age, gender, emotion, and race. | serengil | 23.7k |
-| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Deployment engine for running large language models on many platforms using ML compilation. | mlc-ai | 23.5k |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawls a website to generate knowledge files for building a custom GPT from a URL. | BuilderIO | 22.4k |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Deployment engine for running large language models on many platforms using ML compilation. | mlc-ai | 23.4k |
 | [datasets](https://github.com/huggingface/datasets) | Python library for loading and processing ready-to-use datasets for AI models. | huggingface | 22.2k |
-| [darknet](https://github.com/AlexeyAB/darknet) | Neural network framework for object detection with YOLOv4 and Scaled-YOLOv4 on Windows and Linux. | AlexeyAB | 22.1k |
 | [peft](https://github.com/huggingface/peft) | Library for parameter-efficient fine-tuning of pretrained models such as LoRA adapters. | huggingface | 21.9k |
-| [serve](https://github.com/jina-ai/serve) | Framework for building and deploying multimodal AI services on cloud-native infrastructure. | jina-ai | 21.9k |
 | [onnx](https://github.com/onnx/onnx) | Open standard format for representing machine learning models to enable interoperability between frameworks. | onnx | 21.7k |
 | [rasa](https://github.com/RasaHQ/rasa) | Open source machine learning framework for building text and voice chatbots and assistants. | RasaHQ | 21.4k |
 | [candle](https://github.com/huggingface/candle) | Minimalist machine learning framework for Rust, focused on performance and simple deployment. | huggingface | 21.4k |
@@ -111,37 +105,31 @@
 | [Speech](https://github.com/NVIDIA-NeMo/Speech) | Scalable framework for speech AI, including automatic speech recognition and text-to-speech. | NVIDIA-NeMo | 18.8k |
 | [ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) | Python tools for running Stable Diffusion with Core ML on Apple Silicon hardware. | apple-aiml-research | 18k |
 | [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free, self-hosted machine translation API that works offline and is easy to set up. | LibreTranslate | 17.8k |
-| [gensim](https://github.com/piskvorky/gensim) | Python library for topic modelling, document similarity and information retrieval on text collections. | piskvorky | 16.5k |
-| [transformers.js](https://github.com/huggingface/transformers.js) | Runs Hugging Face Transformers machine learning models directly in the browser with JavaScript. | huggingface | 16.4k |
+| [transformers.js](https://github.com/huggingface/transformers.js) | Runs Hugging Face Transformers machine learning models directly in the browser with JavaScript. | huggingface | 16.5k |
 | [ragas](https://github.com/vibrantlabsai/ragas) | Library for evaluating LLM applications, including RAG pipelines. | vibrantlabsai | 16.4k |
 | [burn](https://github.com/tracel-ai/burn) | Deep learning framework and tensor library focused on flexibility, efficiency, and portability. | tracel-ai | 16.3k |
 | [kubeflow](https://github.com/kubeflow/kubeflow) | Cloud-native platform for running machine learning and AI workloads on Kubernetes. | kubeflow | 16k |
 | [tfjs-models](https://github.com/tensorflow/tfjs-models) | Pretrained models for use with TensorFlow.js. | tensorflow | 14.8k |
-| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Research framework for generating consistent, controllable image-to-video character animations. | HumanAIGC | 14.8k |
 | [nltk](https://github.com/nltk/nltk) | Python platform for natural language processing with libraries, datasets and educational resources. | nltk | 14.8k |
-| [csm](https://github.com/SesameAILabs/csm) | Speech generation model that produces conversational speech from text. | SesameAILabs | 14.8k |
 | [flair](https://github.com/flairNLP/flair) | Framework for state-of-the-art natural language processing tasks such as named entity recognition. | flairNLP | 14.4k |
 | [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) | JVM toolkit for training and deploying deep learning models, with Keras and ONNX model import. | deeplearning4j | 14.3k |
 | [seaborn](https://github.com/mwaskom/seaborn) | Python library for statistical data visualization built on top of matplotlib and pandas. | mwaskom | 14.1k |
 | [tvm](https://github.com/apache/tvm) | Open machine learning compiler framework for deploying deep learning models on diverse hardware. | apache | 13.9k |
 | [txtai](https://github.com/neuml/txtai) | All-in-one AI framework for semantic search, LLM orchestration, and language model workflows. | neuml | 13.7k |
 | [YuE](https://github.com/multimodal-art-projection/YuE) | Music generation model for full-length songs with symbolic planning, zero-shot covers, and music editing. | multimodal-art-projection | 13.7k |
-| [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | Code for a deep learning model that generates lip-synced speech videos for faces in the wild. | Rudrabha | 13.3k |
 | [llm](https://github.com/simonw/llm) | Command-line tool for accessing large language models from OpenAI and other providers. | simonw | 12.8k |
 | [axolotl](https://github.com/axolotl-ai-cloud/axolotl) | Tool for fine-tuning large language models. | axolotl-ai-cloud | 12.7k |
 | [chandra](https://github.com/datalab-to/chandra) 🆕 | OCR model for complex documents, handling tables, forms, handwriting, and full page layout. | datalab-to | 12.7k |
 | [OpenLLM](https://github.com/bentoml/OpenLLM) | Tool for running open-source LLMs as OpenAI-compatible API endpoints. | bentoml | 12.6k |
 | [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Toolkit for retrieval, embedding models, and retrieval-augmented LLMs. | FlagOpen | 12.4k |
-| [zerox](https://github.com/getomni-ai/zerox) | OCR and document extraction library that uses vision models. | getomni-ai | 12.2k |
+| [WanGP](https://github.com/deepbeepmeep/WanGP) | Python AI video generator for GPUs with limited memory, supporting models such as Wan and LTX Video. | deepbeepmeep | 12.2k |
 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | Open-source effort to reproduce the Sora text-to-video model. | PKU-YuanGroup | 12.2k |
 | [sentencepiece](https://github.com/google/sentencepiece) | Unsupervised text tokenizer and detokenizer for neural network text processing. | google | 12.2k |
 | [compromise](https://github.com/spencermountain/compromise) | JavaScript natural language processing library for part-of-speech tagging and entity recognition in English. | spencermountain | 12.2k |
-| [WanGP](https://github.com/deepbeepmeep/WanGP) | Python AI video generator for GPUs with limited memory, supporting models such as Wan and LTX Video. | deepbeepmeep | 12.1k |
 | [ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models. | ludwig-ai | 11.8k |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Python library for statistical modeling and econometrics, including forecasting and GLMs. | statsmodels | 11.8k |
 | [moshi](https://github.com/kyutai-labs/moshi) | Speech-text foundation model and full-duplex spoken dialogue framework using the Mimi streaming audio codec. | kyutai-labs | 11.6k |
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | Official repository for LTX-Video, a DiT model for text-to-video and image-to-video generation. | Lightricks | 11.5k |
-| [yolov10](https://github.com/THU-MIG/yolov10) | Real-time end-to-end object detection model, YOLOv10, published at NeurIPS 2024. | THU-MIG | 11.3k |
 | [tokenizers](https://github.com/huggingface/tokenizers) | High-performance tokenizers for NLP research and production, implemented in Rust with bindings. | huggingface | 11.3k |
 | [openai-node](https://github.com/openai/openai-node) | Official JavaScript and TypeScript library for accessing the OpenAI API. | openai | 11.3k |
 | [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | Pixel-native search and RAG approach that replaces web parsing with image-based retrieval. | StarTrail-org | 11k |
@@ -150,7 +138,6 @@
 | [easydiffusion](https://github.com/easydiffusion/easydiffusion) | Browser UI for generating AI images from text and image prompts on a PC without technical setup. | easydiffusion | 10.5k |
 | [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | Low-latency speech-to-text library with voice activity detection and wake word activation. | KoljaB | 10.3k |
 | [moondream](https://github.com/m87-labs/moondream) | Small vision language model for answering questions about and describing images. | m87-labs | 10.2k |
-| [tpot](https://github.com/EpistasisLab/tpot) | Python tool that uses genetic programming to automatically optimize machine learning pipelines. | EpistasisLab | 10.1k |
 | [accelerate](https://github.com/huggingface/accelerate) | Library for launching and training PyTorch models across devices with mixed precision and distributed setups. | huggingface | 10k |
 | [gorse](https://github.com/gorse-io/gorse) | Recommender system engine in Go with collaborative filtering, LLM rankers, and multimodal content. | gorse-io | 9.9k |
 | [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | High-speed serving engine for running large language models on local hardware. | Tiiny-AI | 9.9k |
@@ -176,11 +163,9 @@
 | [models.dev](https://github.com/anomalyco/models.dev) | Open source database of AI models with their metadata. | anomalyco | 7.7k |
 | [GLM-OCR](https://github.com/zai-org/GLM-OCR) 🆕 | Multimodal OCR model for accurate, fast, and comprehensive text recognition from images. | zai-org | 7.6k |
 | [vespa](https://github.com/vespa-engine/vespa) | Open-source AI search platform for search, recommendation, and retrieval-augmented generation. | vespa-engine | 7.2k |
-| [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) | Curated list of pretrained machine learning models in Core ML format for iOS 11 and later. | likedan | 7.1k |
 | [superagent](https://github.com/superagent-ai/superagent) | Safety layer for AI apps that protects against prompt injection, data leaks, and harmful outputs. | superagent-ai | 6.9k |
 | [tfjs-examples](https://github.com/tensorflow/tfjs-examples) | Example projects built with TensorFlow.js. | tensorflow | 6.8k |
 | [argos-translate](https://github.com/argosopentech/argos-translate) | Offline machine translation library written in Python, using open-source language models. | argosopentech | 6.7k |
-| [s1](https://github.com/simplescaling/s1) | Simple method for test-time scaling of language model reasoning performance. | simplescaling | 6.7k |
 | [doctr](https://github.com/mindee/doctr) | Deep learning library for OCR, text detection, and document layout analysis. | mindee | 6.4k |
 | [serving](https://github.com/tensorflow/serving) | High-performance serving system for deploying machine learning models in production. | tensorflow | 6.4k |
 | [Parsr](https://github.com/axa-group/Parsr) | Converts PDFs, documents, and images into enriched structured data. | axa-group | 6.2k |
@@ -212,30 +197,24 @@
 | [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) | Node.js bindings for llama.cpp for running AI models locally, with JSON schema enforcement on output. | withcatai | 2.2k |
 | [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | TypeScript SDK for accessing Anthropic's Claude API models. | anthropics | 2.2k |
 | [xgrammar](https://github.com/mlc-ai/xgrammar) | Fast, portable engine for structured generation that constrains large language model outputs. | mlc-ai | 2k |
-| [tokencost](https://github.com/AgentOps-AI/tokencost) | Python tool that estimates token costs for over 400 LLMs, for cost analytics and observability. | AgentOps-AI | 2k |
 | [ocrs](https://github.com/robertknight/ocrs) | Rust library and CLI for optical character recognition, extracting text from images. | robertknight | 1.9k |
 | [lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) | TypeScript SDK for interacting with LM Studio to run and manage local LLMs. | lmstudio-ai | 1.8k |
 | [js-genai](https://github.com/googleapis/js-genai) | TypeScript and JavaScript SDK for Gemini and Vertex AI. | googleapis | 1.7k |
 | [nativ](https://github.com/Neywa-Labs/nativ) | Local AI app for macOS that runs open models on Apple Silicon with no data leaving the Mac. | Neywa-Labs | 1.6k |
 | [ollaya](https://github.com/ollaya-dev/ollaya) | Jev-compatible API server that pulls and serves open decision models locally or self-hosted. | ollaya-dev | 1.5k |
 | [node-sdk](https://github.com/watson-developer-cloud/node-sdk) | Node.js library for accessing IBM Watson services such as language translation and conversation. | watson-developer-cloud | 1.5k |
-| [AndroidTensorFlowMachineLearningExample](https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample) | Android example app showing how to run TensorFlow machine learning models on Android devices. | amitshekhariitbhu | 1.4k |
 | [wllama](https://github.com/ngxson/wllama) | WebAssembly binding for llama.cpp that runs LLM inference in the browser. | ngxson | 1.4k |
 | [text](https://github.com/tensorflow/text) | Library of text processing ops that make text a first-class citizen in TensorFlow. | tensorflow | 1.3k |
 | [react-native-fast-tflite](https://github.com/margelo/react-native-fast-tflite) | Fast TensorFlow Lite library for React Native with GPU acceleration, used for on-device machine learning. | margelo | 1.2k |
-| [keras-hub](https://github.com/keras-team/keras-hub) | Hub of pretrained models for Keras 3 covering computer vision and large language models. | keras-team | 998 |
-| [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) | Swift SDK for adding IBM Watson cognitive services such as speech to Swift applications. | watson-developer-cloud | 868 |
+| [keras-hub](https://github.com/keras-team/keras-hub) | Hub of pretrained models for Keras 3 covering computer vision and large language models. | keras-team | 999 |
 | [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) | Fast JavaScript BPE tokenizer and decoder for OpenAI GPT models, ported from tiktoken. | niieani | 862 |
 | [aws-lex-web-ui](https://github.com/aws-samples/aws-lex-web-ui) | Sample web interface for chatting with an Amazon Lex chatbot. | aws-samples | 816 |
 | [client-python](https://github.com/mistralai/client-python) | Python client library for accessing the Mistral AI platform. | mistralai | 778 |
-| [ranx](https://github.com/AmenRa/ranx) | Python library for ranking evaluation, comparison, and fusion in information retrieval. | AmenRa | 706 |
 | [java-sdk](https://github.com/watson-developer-cloud/java-sdk) | Java SDK for accessing IBM Watson services from Java applications. | watson-developer-cloud | 598 |
 | [DeepSeek-OCR-WebUI](https://github.com/neosun100/DeepSeek-OCR-WebUI) | Self-hosted web UI and API for DeepSeek-OCR-2 document parsing on GPU, Apple Silicon or CPU. | neosun100 | 447 |
 | [mlx-rs](https://github.com/oxiglade/mlx-rs) | Unofficial Rust bindings to Apple's MLX machine learning framework. | oxiglade | 394 |
-| [rten](https://github.com/robertknight/rten) | ONNX neural network inference engine written in Rust. | robertknight | 372 |
+| [rten](https://github.com/robertknight/rten) | ONNX neural network inference engine written in Rust. | robertknight | 374 |
 | [tokenlens](https://github.com/xn1cklas/tokenlens) | TypeScript utilities with typed AI model metadata for checking context fit, cost, and token budget. | xn1cklas | 269 |
-| [openai-edge](https://github.com/dan-kwiat/openai-edge) |  | dan-kwiat | 250 |
-| [web-content-extractor](https://github.com/wrtnlabs/web-content-extractor) | LLM-free library that extracts main content from HTML strings using text density analysis. | wrtnlabs | 247 |
 | [OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) | Open-source unified API for running and managing self-hosted LLMs. | etalab-ia | 220 |
 | [hnswlib-node](https://github.com/yoshoku/hnswlib-node) | Node.js bindings for Hnswlib, a library for approximate nearest neighbor search. | yoshoku | 139 |
 | [text2num](https://github.com/allo-media/text2num) | Rust library that converts number words in several languages into their digit representation. | allo-media | 120 |

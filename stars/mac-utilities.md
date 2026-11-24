@@ -5,11 +5,11 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 75.9k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 76k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.8k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.9k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
@@ -21,7 +21,6 @@
 | [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | macOS audio utility that pauses music automatically, sets per-app volumes, and records system audio. | kyleneideck | 19.4k |
 | [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | Curated list of Quick Look plugins that add useful previews for developer file formats on macOS. | sindresorhus | 18.8k |
-| [OpenEmu](https://github.com/OpenEmu/OpenEmu) | Retro video game emulation frontend for macOS supporting multiple console emulators. | OpenEmu | 17.9k |
 | [vphone-cli](https://github.com/Lakr233/vphone-cli) | Command-line tool for running a virtual iPhone on an Apple Silicon Mac. | Lakr233 | 16.8k |
 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows-style alt-tab window switcher for macOS that shows window previews. | lwouis | 16.6k |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS, inspired by xmonad. | ianyh | 16.3k |
@@ -29,17 +28,17 @@
 | [hidden](https://github.com/consolelabs/hidden) | Lightweight macOS utility that hides menu bar icons. | consolelabs | 15.6k |
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Source-available macOS app cleaner for removing apps and leftover files. | alienator88 | 15.2k |
 | [Thaw](https://github.com/thaw-app/Thaw) | Open-source menu bar manager for macOS. | thaw-app | 12.9k |
-| [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.4k |
+| [boring.notch](https://github.com/TheBoredTeam/boring.notch) | macOS app that turns the MacBook notch into a customizable, interactive display area. | TheBoredTeam | 11.5k |
 | [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Utility that improves third-party mouse behavior on macOS, such as button mapping and scroll inversion. | noah-nuebling | 11.3k |
-| [FineTune](https://github.com/ronitsingh10/FineTune) | macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. | ronitsingh10 | 10.2k |
+| [FineTune](https://github.com/ronitsingh10/FineTune) | macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. | ronitsingh10 | 10.3k |
 | [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 10k |
-| [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Native macOS app launcher with a clipboard manager for quick access to apps and productivity tools. | abue-ammar | 9.7k |
+| [tinycast](https://github.com/abue-ammar/tinycast) 🆕 | Lightweight native macOS launcher for apps and productivity tasks, with a clipboard manager. | abue-ammar | 9.8k |
 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | macOS menu bar app that sets battery charge limits to prolong battery lifespan and monitors battery status. | AppHouseKitchen | 9.3k |
 | [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.2k |
 | [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.7k |
 | [Applite](https://github.com/milanvarady/Applite) | Native macOS app store for software not on the App Store, backed by Homebrew Cask. | milanvarady | 7.2k |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | macOS menu bar utility that prevents the Mac from going to sleep. | newmarcel | 7.1k |
-| [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7k |
+| [Proxyman](https://github.com/ProxymanApp/Proxyman) | HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android. | ProxymanApp | 7.1k |
 | [eqMac](https://github.com/bitgapp/eqMac) | macOS system-wide audio equalizer and volume mixer app. | bitgapp | 6.8k |
 | [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | macOS app that re-signs apps and packages them as IPA files ready for installation on iOS devices. | DanTheMan827 | 6.3k |
 | [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Tool that exports iMessage data and runs iMessage diagnostics. | ReagentX | 5.8k |
@@ -53,7 +52,6 @@
 | [quill](https://github.com/humanitas-labs/quill) | Minimalist macOS app for recording and transcribing audio. | humanitas-labs | 4k |
 | [Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) | Utility for macOS that sets scroll direction separately for each input device. | pilotmoon | 3.7k |
 | [Snapzy](https://github.com/duongductrong/Snapzy) | Native macOS app for screenshots and screen recording, an open-source alternative to CleanShot X. | duongductrong | 3.6k |
-| [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) | OpenCore-based configuration for running native macOS on AMD hardware. | AMD-OSX | 3.1k |
 | [terminal-mac](https://github.com/govijr/terminal-mac) 🆕 | Renders the macOS graphical environment inside a terminal window. | govijr | 2.9k |
 | [AutoRaise](https://github.com/sbmpost/AutoRaise) | macOS utility that raises and focuses a window when the mouse hovers over it. | sbmpost | 2.9k |
 | [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) | Swift package for adding user-customizable global keyboard shortcuts to macOS apps. | sindresorhus | 2.7k |

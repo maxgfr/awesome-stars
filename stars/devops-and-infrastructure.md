@@ -6,28 +6,26 @@
 |---|---|---|---:|
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.8k |
 | [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.6k |
-| [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78k |
+| [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78.1k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.8k |
-| [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.7k |
+| [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.6k |
 | [prometheus](https://github.com/prometheus/prometheus) | Monitoring system and time series database that collects metrics and evaluates alerting rules. | prometheus | 67.8k |
 | [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.4k |
 | [traefik](https://github.com/traefik/traefik) | A cloud native application proxy and load balancer that integrates with container platforms. | traefik | 65.7k |
 | [windows](https://github.com/dockur/windows) | Docker container that runs Windows in a virtual machine. | dockur | 54.3k |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Runs macOS virtual machines inside Docker containers using KVM, with X11 forwarding. | sickcodes | 53k |
 | [container](https://github.com/apple/container) | Command-line tool for running Linux containers in lightweight virtual machines on Apple silicon Macs. | apple | 52k |
 | [terraform](https://github.com/hashicorp/terraform) | Infrastructure-as-code tool for building and changing infrastructure from declarative config files. | hashicorp | 50.3k |
 | [sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring platform. | getsentry | 45.9k |
 | [pm2](https://github.com/Unitech/pm2) | Process manager for Node.js, Bun, and TypeScript applications, with load balancing and monitoring. | Unitech | 43.3k |
 | [diagrams](https://github.com/mingrammer/diagrams) | Python library for drawing cloud system architecture diagrams as code using Graphviz. | mingrammer | 42.8k |
 | [fastlane](https://github.com/fastlane/fastlane) | Tool that automates building, testing, and releasing iOS and Android apps. | fastlane | 42.5k |
-| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39.1k |
+| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39k |
 | [harness](https://github.com/harness/harness) | Platform for source control, CI/CD pipelines, hosted dev environments, and artifact registries. | harness | 39k |
 | [portainer](https://github.com/portainer/portainer) | Management UI for deploying and operating Docker and Kubernetes environments. | portainer | 38.9k |
-| [dokploy](https://github.com/Dokploy/dokploy) | Self-hostable deployment platform and open source alternative to Vercel, Netlify, and Heroku. | Dokploy | 38.6k |
+| [dokploy](https://github.com/Dokploy/dokploy) | Self-hostable deployment platform and open source alternative to Vercel, Netlify, and Heroku. | Dokploy | 38.7k |
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | Open-source personal cloud system with a simple web interface for managing home server apps. | IceWhaleTech | 37.7k |
 | [restic](https://github.com/restic/restic) | Fast, secure and efficient backup program with deduplication and encrypted repositories. | restic | 37.4k |
-| [manifesto](https://github.com/opentofu/manifesto) 🗄️ | Manifesto expressing concern over HashiCorp's Terraform license change and calling for an open-source license. | opentofu | 35.6k |
-| [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container with a web interface for managing Nginx proxy hosts and SSL certificates. | NginxProxyManager | 34.8k |
+| [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container with a web interface for managing Nginx proxy hosts and SSL certificates. | NginxProxyManager | 34.9k |
 | [glances](https://github.com/nicolargo/glances) | Cross-platform system monitoring tool for Linux, BSD, macOS, and Windows with a REST API. | nicolargo | 34k |
 | [podman](https://github.com/podman-container-tools/podman) | Daemonless tool for developing, managing, and running OCI containers and pods on Linux. | podman-container-tools | 33.4k |
 | [signoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform for collecting logs, metrics and traces. | SigNoz | 32.7k |
@@ -53,7 +51,7 @@
 | [vector](https://github.com/vectordotdev/vector) | High-performance observability data pipeline for collecting, transforming and routing logs and metrics. | vectordotdev | 22.9k |
 | [macos](https://github.com/dockur/macos) | Docker container that runs macOS in a virtual machine. | dockur | 21.8k |
 | [containerd](https://github.com/containerd/containerd) | Open-source container runtime that manages container lifecycle, images, and storage on a host. | containerd | 21.5k |
-| [goaccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer, usable in a terminal or through a browser. | allinurl | 21.1k |
+| [goaccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer, usable in a terminal or through a browser. | allinurl | 21.2k |
 | [teleport](https://github.com/gravitational/teleport) | Access platform for securely connecting to servers, databases and clusters, with audit logging. | gravitational | 21.1k |
 | [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | Docker image that automatically configures an Nginx reverse proxy for containers as they start and stop. | nginx-proxy | 19.9k |
 | [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready, fullstack mail server in a container, built from Postfix, Dovecot and Rspamd. | docker-mailserver | 19.8k |
@@ -81,8 +79,8 @@
 | [thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long-term storage, a CNCF incubating project. | thanos-io | 14.3k |
 | [qemu](https://github.com/qemu/qemu) | Mirror of the QEMU machine emulator and virtualizer, where pull requests are disabled. | qemu | 14.1k |
 | [node_exporter](https://github.com/prometheus/node_exporter) | Prometheus exporter that collects hardware and operating system metrics from Unix-like machines. | prometheus | 14k |
-| [distributions](https://github.com/nodesource/distributions) | Binary distributions of Node.js packages for Linux from NodeSource. | nodesource | 13.9k |
 | [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite with webmail, groupware, and spam and virus filtering. | mailcow | 13.9k |
+| [distributions](https://github.com/nodesource/distributions) | Binary distributions of Node.js packages for Linux from NodeSource. | nodesource | 13.9k |
 | [fluentd](https://github.com/fluent/fluentd) | Open source data collector that unifies log collection and forwarding across systems, under CNCF. | fluent | 13.6k |
 | [runner-images](https://github.com/actions/runner-images) | Virtual machine images for GitHub Actions hosted runners, listing preinstalled software. | actions | 13.6k |
 | [capistrano](https://github.com/capistrano/capistrano) | Deployment automation tool built on Ruby, Rake, and SSH for running tasks on remote servers. | capistrano | 13k |
@@ -130,7 +128,7 @@
 | [official-images](https://github.com/docker-library/official-images) | Source of truth for the Docker Official Images program, containing image definitions and metadata. | docker-library | 7k |
 | [runner](https://github.com/actions/runner) | Runner application for executing jobs in GitHub Actions workflows. | actions | 6.4k |
 | [podman-compose](https://github.com/containers/podman-compose) | Script that runs docker-compose.yml files using Podman and rootless containers. | containers | 6.3k |
-| [ssh-action](https://github.com/appleboy/ssh-action) | GitHub Action for running remote SSH commands on a server from a workflow. | appleboy | 6.2k |
+| [ssh-action](https://github.com/appleboy/ssh-action) | GitHub Action for running remote SSH commands on a server from a workflow. | appleboy | 6.3k |
 | [cli](https://github.com/docker/cli) | Command-line interface for Docker, the client for the Docker Engine. | docker | 6.1k |
 | [graphite-web](https://github.com/graphite-project/graphite-web) | Scalable real-time graphing web application that renders time series metrics from Graphite. | graphite-project | 6.1k |
 | [toolkit](https://github.com/actions/toolkit) | Set of TypeScript packages for building GitHub Actions, covering core, logging, and API access. | actions | 5.9k |
@@ -141,8 +139,8 @@
 | [build-push-action](https://github.com/docker/build-push-action) | GitHub Action that builds and pushes Docker images using Buildx. | docker | 5.4k |
 | [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for deploying static site files to GitHub Pages, compatible with common site generators. | peaceiris | 5.4k |
 | [dockerize](https://github.com/jwilder/dockerize) | Utility that simplifies running applications in Docker containers, such as waiting for services. | jwilder | 5.2k |
-| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Community-maintained receivers, exporters, and processors that extend the OpenTelemetry Collector. | open-telemetry | 5.1k |
+| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [setup-node](https://github.com/actions/setup-node) | GitHub Action that installs a specified version of Node.js in a workflow. | actions | 5k |
 | [varlock](https://github.com/dmno-dev/varlock) | Schema-driven .env file tool that lets AI agents use configuration while keeping secrets protected. | dmno-dev | 5k |
 | [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | Toolkit for building and running containers that use NVIDIA GPUs. | NVIDIA | 4.6k |
@@ -164,7 +162,6 @@
 | [github-stats](https://github.com/jstrieb/github-stats) | Generates GitHub statistics images for profile READMEs, including stats from private repositories. | jstrieb | 3.6k |
 | [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) | JavaScript client for OpenTelemetry, providing APIs and SDKs for tracing, metrics, and telemetry. | open-telemetry | 3.5k |
 | [docker-nginx](https://github.com/nginx/docker-nginx) | Official Dockerfiles for building NGINX container images. | nginx | 3.5k |
-| [mc](https://github.com/minio/mc) 🗄️ | Command-line utilities for managing object storage, modeled on Unix commands like ls and cp. | minio | 3.5k |
 | [client_js](https://github.com/prometheus/client_js) | Prometheus client library for Node.js for defining and exposing application metrics. | prometheus | 3.5k |
 | [paths-filter](https://github.com/dorny/paths-filter) | GitHub Action that runs jobs conditionally based on files changed in a pull request or commits. | dorny | 3.4k |
 | [gh-pages](https://github.com/tschaub/gh-pages) | Utility that publishes files to a gh-pages branch on GitHub. | tschaub | 3.3k |
@@ -176,7 +173,7 @@
 | [create-pull-request](https://github.com/peter-evans/create-pull-request) | GitHub Action that creates a pull request for changes made to the repository in the workflow workspace. | peter-evans | 2.9k |
 | [compose-spec](https://github.com/compose-spec/compose-spec) | Specification defining the Compose file format for describing multi-container applications. | compose-spec | 2.7k |
 | [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) | GitHub Action that commits and pushes changed files back to the repository. | stefanzweifel | 2.6k |
-| [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) | Docker image that runs self-hosted GitHub Actions runners with Docker-in-Docker support. | myoung34 | 2.5k |
+| [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) | Docker image that runs self-hosted GitHub Actions runners with Docker-in-Docker support. | myoung34 | 2.6k |
 | [for-mac](https://github.com/docker/for-mac) | Issue tracker for reporting bugs in Docker Desktop for macOS. | docker | 2.5k |
 | [labeler](https://github.com/actions/labeler) | A GitHub Action that automatically labels pull requests. | actions | 2.5k |
 | [auto](https://github.com/intuit/auto) | Tool that generates releases from semantic version labels on pull requests. | intuit | 2.5k |
@@ -208,10 +205,9 @@
 | [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) | Tool that automates releases using semantic versioning and commit message conventions. | python-semantic-release | 1.1k |
 | [upload-google-play](https://github.com/r0adkll/upload-google-play) | GitHub Action that uploads Android APK or AAB files to the Google Play Console. | r0adkll | 1.1k |
 | [expo-github-action](https://github.com/expo/expo-github-action) | GitHub Action for automating Expo EAS builds and updates in continuous integration workflows. | expo | 1k |
-| [cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) | GitHub Action that cancels previously running workflows when new commits are pushed. | styfle | 985 |
+| [cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) | GitHub Action that cancels previously running workflows when new commits are pushed. | styfle | 986 |
 | [opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) | OpenTelemetry instrumentation libraries for JavaScript modules to collect traces and metrics. | open-telemetry | 947 |
 | [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) | GitHub Action that creates or updates a comment on an issue or pull request. | peter-evans | 937 |
-| [github-tag-action](https://github.com/anothrNick/github-tag-action) | GitHub Action that creates a version tag in a repository when a pull request is merged. | anothrNick | 880 |
 | [action-download-artifact](https://github.com/dawidd6/action-download-artifact) | GitHub Action that downloads workflow artifacts matching given criteria such as commit or workflow. | dawidd6 | 833 |
 | [update-electron-app](https://github.com/electron/update-electron-app) | Drop-in module that adds auto-update capability to Electron apps. | electron | 827 |
 | [semantic-release-action](https://github.com/cycjimmy/semantic-release-action) | GitHub Action that runs semantic-release to automate versioning and package publishing. | cycjimmy | 708 |
@@ -224,16 +220,14 @@
 | [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 607 |
 | [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action that installs QEMU static binaries to enable multi-platform builds in workflows. | docker | 602 |
 | [asdf-direnv](https://github.com/asdf-community/asdf-direnv) | asdf plugin that installs and manages direnv versions for per-directory environment variables. | asdf-community | 572 |
-| [deployment](https://github.com/coredns/deployment) | Scripts, utilities, and example configurations for deploying CoreDNS. | coredns | 572 |
 | [install-action](https://github.com/taiki-e/install-action) | GitHub Action that installs development tools, mainly from GitHub Releases. | taiki-e | 559 |
 | [action-release](https://github.com/getsentry/action-release) | GitHub Action for creating Sentry releases from workflows, including tagging production deployments. | getsentry | 496 |
 | [docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) | Dockerfiles for running NGINX as a non-root user, based on Alpine and Debian images. | nginx | 485 |
 | [action-discord](https://github.com/Ilshidur/action-discord) | GitHub Action that sends messages to a Discord channel through a webhook. | Ilshidur | 463 |
 | [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 454 |
-| [delete-package-versions](https://github.com/actions/delete-package-versions) |  | actions | 446 |
-| [commit-analyzer](https://github.com/semantic-release/commit-analyzer) | semantic-release plugin that determines the next release type from conventional commits. | semantic-release | 446 |
+| [commit-analyzer](https://github.com/semantic-release/commit-analyzer) | semantic-release plugin that determines the next release type from conventional commits. | semantic-release | 447 |
 | [mise-action](https://github.com/jdx/mise-action) 🆕 |  | jdx | 408 |
-| [wait-on-check-action](https://github.com/lewagon/wait-on-check-action) | GitHub Action that waits until a job in another workflow completes successfully. | lewagon | 400 |
+| [wait-on-check-action](https://github.com/lewagon/wait-on-check-action) | GitHub Action that waits until a job in another workflow completes successfully. | lewagon | 401 |
 | [ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) | GitHub Action that imports a GPG key into the runner for signing commits. | crazy-max | 382 |
 | [release-notes-generator](https://github.com/semantic-release/release-notes-generator) | semantic-release plugin that generates release notes from conventional commits. | semantic-release | 368 |
 | [github-slug-action](https://github.com/rlespinasse/github-slug-action) | GitHub Action that exposes slugified forms of GitHub environment variables to workflow steps. | rlespinasse | 359 |
@@ -256,7 +250,6 @@
 | [push-to-registry](https://github.com/redhat-actions/push-to-registry) | GitHub Action that pushes container images to a container image registry. | redhat-actions | 123 |
 | [copybara-action](https://github.com/Olivr/copybara-action) | GitHub Action that transforms and copies code between repositories using Copybara. | Olivr | 120 |
 | [dotenv-action](https://github.com/falti/dotenv-action) | GitHub Action that loads common parameters from a .env file into workflows. | falti | 111 |
-| [pull-request-comment-branch](https://github.com/xt0rted/pull-request-comment-branch) | GitHub Action that retrieves the head ref and SHA of a pull request from a comment event. | xt0rted | 99 |
 | [download-provisioning-profiles](https://github.com/Apple-Actions/download-provisioning-profiles) | GitHub Action that downloads provisioning profiles from Apple App Store Connect. | Apple-Actions | 98 |
 | [url-health-check-action](https://github.com/Jtalk/url-health-check-action) | GitHub Action that runs cURL-based health checks on URLs, with built-in retries. | Jtalk | 85 |
 | [github-actions](https://github.com/fastlane/github-actions) |  | fastlane | 78 |
@@ -269,4 +262,4 @@
 | [actions-clever-cloud](https://github.com/47ng/actions-clever-cloud) | GitHub Action for deploying applications to Clever Cloud. | 47ng | 45 |
 | [actions](https://github.com/stephansama/actions) | A collection of open source GitHub Actions published by stephansama. | stephansama | 4 |
 
-**Legend:** 🗄️ archived · 🆕 starred in the last 30 days
+**Legend:** 🆕 starred in the last 30 days

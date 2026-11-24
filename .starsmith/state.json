@@ -1,9 +1,9 @@
 {
-  "contentHash": "33e274ddb422",
+  "contentHash": "c2d18cc40e49",
   "digest": {
     "language": "en",
-    "text": "This week's stars lean heavily on **AI agents and their tooling**. Projects like mcp-gsc and qgis-mcp connect assistants to SEO data and GIS software, while pxpipe and TokenEconomizer target the cost of running coding agents.\n\nA second thread is **privacy and access**, from Mullvad's VPN client and hysteria's censorship-resistant proxy to zen-desktop and blocky. **Gaming on mobile devices** also draws attention, with Winlator, Delta, and GameNative leading the way.",
-    "upTo": "2026-11-22T18:23:48Z"
+    "text": "Agents dominate this batch, with **AI tooling for coding and data work** leading the way. mcp-server-mattermost and qgis-mcp bring assistants into chat and GIS, while TokenEconomizer and pxpipe target the cost of running them. Close behind is **local-first, privacy-focused software**, from quotadeck's desktop quota dashboard to Hysteria and yip's censorship-resistant networking.\n\nMobile gaming is another strong thread, with **Android emulation and PC gaming on handhelds** showing up in Winlator, Delta, and GameNative, alongside DroidDeck's SteamOS-style interface. Security research and ad-blocking round things out, with Claude-BugHunter and blocky.",
+    "upTo": "2026-11-23T16:59:24Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-22T18:23:48Z",
+  "newest": "2026-11-23T16:59:24Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -156,18 +156,6 @@
       "ch": "1b42976f6f11",
       "description": "Tool for managing encrypted secrets in files, with support for AWS, Azure, GCP, and PGP keys.",
       "dh": "044cb7e63285"
-    },
-    "MDEwOlJlcG9zaXRvcnk0MDYwMzg2MDU=": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "d06b69bf37da",
-      "description": "Tool that loads the cookies required to use GHunt.",
-      "dh": "11fbc47a73a1"
-    },
-    "MDEwOlJlcG9zaXRvcnk0MDYyMTA1Mjg=": {
-      "category": "Databases and Data Tools",
-      "ch": "2ac13adc853e",
-      "description": "Object mapping library for Redis in Node.js, written in TypeScript.",
-      "dh": "47f8aab21bb5"
     },
     "MDEwOlJlcG9zaXRvcnk0MDYyMTIzMQ==": {
       "category": "Awesome Lists and Learning Resources",
@@ -529,12 +517,6 @@
       "description": "Tool that generates a graph of a GitHub repository's star history over time.",
       "dh": "63b9c134c064"
     },
-    "MDEwOlJlcG9zaXRvcnk0MjkzNDI2Mg==": {
-      "category": "AI and Machine Learning",
-      "ch": "504b20c4ec33",
-      "description": "Swift SDK for adding IBM Watson cognitive services such as speech to Swift applications.",
-      "dh": "fe0e24d009fe"
-    },
     "MDEwOlJlcG9zaXRvcnk0MzE1NjgxOA==": {
       "category": "Developer Tools and Editors",
       "ch": "815ae8076f40",
@@ -552,12 +534,6 @@
       "ch": "d964748d4e28",
       "description": "Installer and version manager for the Rust toolchain, including compilers, tools, and targets.",
       "dh": "fded4fafd3fa"
-    },
-    "MDEwOlJlcG9zaXRvcnk0MzExNzk2": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "d62549eba1ef",
-      "description": "Browser extension for Chrome, Firefox, and Thunderbird that renders Markdown in emails before sending.",
-      "dh": "49ef078230f1"
     },
     "MDEwOlJlcG9zaXRvcnk0MzI0MzMwMw==": {
       "category": "Desktop and Mobile Apps",
@@ -703,12 +679,6 @@
       "description": "Customizable Google Places autocomplete input component for React Native apps on iOS and Android.",
       "dh": "4143af5f9bee"
     },
-    "MDEwOlJlcG9zaXRvcnk0NDI2NDY2Ng==": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "94d738446f9c",
-      "description": "Community-curated list of IPFS projects, apps, tools, and pinning services.",
-      "dh": "d1124a7e391e"
-    },
     "MDEwOlJlcG9zaXRvcnk0NDMxNTE2Nw==": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "34c1a33aee3e",
@@ -817,12 +787,6 @@
       "description": "Curated list of MQTT brokers, clients, tools, and resources for the Internet of Things.",
       "dh": "59a10b394bd6"
     },
-    "MDEwOlJlcG9zaXRvcnk0NTA0OTE4Ng==": {
-      "category": "Frontend UI Libraries",
-      "ch": "a48a997f9569",
-      "description": "React Native component for animated circular progress indicators rendered with ReactART.",
-      "dh": "b226b28b3426"
-    },
     "MDEwOlJlcG9zaXRvcnk0NTA1MDA4OA==": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "618f8cc92b02",
@@ -919,23 +883,11 @@
       "description": "C++ library and command-line tool for structural, content-preserving transformation of PDF files.",
       "dh": "9a7322aff497"
     },
-    "MDEwOlJlcG9zaXRvcnk0NTM5Mzg2": {
-      "category": "Testing and Automation",
-      "ch": "320c50d7e047",
-      "description": "Library for monkey-patching modules in Node.js unit tests to inject mocks.",
-      "dh": "00bdb2aaab61"
-    },
     "MDEwOlJlcG9zaXRvcnk0NTMwNzU0OA==": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "8a808fb6ca40",
       "description": "Curated links to free stock photo, video, illustration, and icon font websites.",
       "dh": "55311f159565"
-    },
-    "MDEwOlJlcG9zaXRvcnk0NTQ5NTY3OQ==": {
-      "category": "AI and Machine Learning",
-      "ch": "73f0814c0794",
-      "description": "Python tool that uses genetic programming to automatically optimize machine learning pipelines.",
-      "dh": "f3ee6499fb74"
     },
     "MDEwOlJlcG9zaXRvcnk0NTQyMDgzOA==": {
       "category": "Documentation and Knowledge Tools",
@@ -1020,12 +972,6 @@
       "ch": "d8f4402bfb78",
       "description": "Linux distribution for routers and embedded devices, mirrored from the official OpenWrt git tree.",
       "dh": "7b0659f17a9a"
-    },
-    "MDEwOlJlcG9zaXRvcnk0NTk0MjI3NA==": {
-      "category": "Testing and Automation",
-      "ch": "f901f5da0899",
-      "description": "JavaScript testing utilities for React components, used with assertion libraries like Chai.",
-      "dh": "52490c6a7e4f"
     },
     "MDEwOlJlcG9zaXRvcnk0NTkzNjg5NQ==": {
       "category": "Frontend UI Libraries",
@@ -1159,12 +1105,6 @@
       "description": "Collection of Angular and Ionic wrappers for Cordova plugins that provide access to native device features, with TypeScript support.",
       "dh": "a090cee68f4a"
     },
-    "MDEwOlJlcG9zaXRvcnk0Njk2NTk1": {
-      "category": "Networking and Wireless",
-      "ch": "714b050a6c53",
-      "description": "Tool that exposes a local server to the public internet through a tunnel.",
-      "dh": "345d63275c6b"
-    },
     "MDEwOlJlcG9zaXRvcnk0Njk5ODI1Mg==": {
       "category": "Networking and Wireless",
       "ch": "1d9e2ef40552",
@@ -1254,12 +1194,6 @@
       "ch": "7090efbe803c",
       "description": "Node.js logging library ported from log4js, offering configurable appenders and log levels.",
       "dh": "af67c9a5bcd9"
-    },
-    "MDEwOlJlcG9zaXRvcnk0NzU3ODY2": {
-      "category": "Cryptography and Blockchain",
-      "ch": "ed09882cb349",
-      "description": "JavaScript implementation of the SipHash-2-4 hash function.",
-      "dh": "bd59a2bc621f"
     },
     "MDEwOlJlcG9zaXRvcnk0NzU4OTY1": {
       "category": "Cryptography and Blockchain",
@@ -1423,12 +1357,6 @@
       "description": "Command-line weather service that displays forecasts as ASCII art in the terminal via curl.",
       "dh": "3cf9346eca42"
     },
-    "MDEwOlJlcG9zaXRvcnk0ODYyNjMzNQ==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "e1260e890714",
-      "description": "webpack-based tooling for scaffolding and developing Vue.js applications.",
-      "dh": "6adc56a35a44"
-    },
     "MDEwOlJlcG9zaXRvcnk0ODc2NDY1Mg==": {
       "category": "Frontend UI Libraries",
       "ch": "bb4e7e97b472",
@@ -1459,23 +1387,11 @@
       "description": "Distributed transactional key-value database built on the Raft consensus protocol, originally for TiDB.",
       "dh": "2a0481714592"
     },
-    "MDEwOlJlcG9zaXRvcnk0ODk5Mjg=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "40a31ecb79fd",
-      "description": "OAuth wrapper for Node.js, for handling OAuth authentication requests.",
-      "dh": "22e8b61c3ca2"
-    },
     "MDEwOlJlcG9zaXRvcnk0ODkzODkwOA==": {
       "category": "Frontend UI Libraries",
       "ch": "b47ac59222e9",
       "description": "React components for building interactive canvas graphics and editors with Konva and JSX.",
       "dh": "b4e328c09007"
-    },
-    "MDEwOlJlcG9zaXRvcnk0OTA2ODI0Mw==": {
-      "category": "Image and Graphics Processing",
-      "ch": "9f890e08a55d",
-      "description": "Android image cropping library that provides a simple UI for cropping photos with animation.",
-      "dh": "4f91b9e89973"
     },
     "MDEwOlJlcG9zaXRvcnk0OTAxNDc5NQ==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -1620,12 +1536,6 @@
       "ch": "c931439de14b",
       "description": "Flexbox-based CSS framework for building responsive, modern web layouts.",
       "dh": "ef72bade179d"
-    },
-    "MDEwOlJlcG9zaXRvcnk1MDIxMzY2Nw==": {
-      "category": "Frontend UI Libraries",
-      "ch": "994e57307337",
-      "description": "Input mask library for React, Angular, Ember, Vue, and plain JavaScript.",
-      "dh": "5dff6e56d50a"
     },
     "MDEwOlJlcG9zaXRvcnk1MDM5MjM1Mw==": {
       "category": "Other",
@@ -1939,12 +1849,6 @@
       "description": "Node.js framework built on Express for writing server applications with TypeScript or ES6.",
       "dh": "d835dda61bc2"
     },
-    "MDEwOlJlcG9zaXRvcnk1MjM5MTg1": {
-      "category": "Frontend UI Libraries",
-      "ch": "e558ce8db151",
-      "description": "Modern WYSIWYG rich text editor designed for compatibility and extensibility.",
-      "dh": "4a0a2c13f23d"
-    },
     "MDEwOlJlcG9zaXRvcnk1MjM5MjI4Ng==": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "6975db44df00",
@@ -2119,12 +2023,6 @@
       "description": "Curated list of tools and resources for Chrome DevTools and the DevTools Protocol.",
       "dh": "26858b26f54f"
     },
-    "MDEwOlJlcG9zaXRvcnk1MzQxODk1": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "e3846c5af6e8",
-      "description": "Python library for building news feeds, activity streams and notification systems on Cassandra or Redis.",
-      "dh": "eb10ac600a7e"
-    },
     "MDEwOlJlcG9zaXRvcnk1MzU0ODg2Nw==": {
       "category": "Databases and Data Tools",
       "ch": "e4bd41b812cf",
@@ -2265,7 +2163,7 @@
     },
     "MDEwOlJlcG9zaXRvcnk1NDY1NzMyOA==": {
       "category": "Desktop and Mobile Apps",
-      "ch": "bde31187da45",
+      "ch": "78885d142d7a",
       "description": "Unified API for requesting and checking app permissions in React Native on iOS, Android and Windows.",
       "dh": "583728f097ac"
     },
@@ -2389,12 +2287,6 @@
       "description": "JavaScript libraries for service worker caching and offline support in progressive web apps.",
       "dh": "0b42f5f3c7ae"
     },
-    "MDEwOlJlcG9zaXRvcnk1NTU5NDY1MA==": {
-      "category": "Cryptography and Blockchain",
-      "ch": "2fdc967988ab",
-      "description": "Step-by-step guide to creating a GPG key with Keybase and using it to sign Git commits on GitHub.",
-      "dh": "094e20ab3496"
-    },
     "MDEwOlJlcG9zaXRvcnk1NTUwNTUy": {
       "category": "Backend Frameworks and Servers",
       "ch": "87313b9a099c",
@@ -2503,12 +2395,6 @@
       "description": "Customizable React notification system built on Redux for displaying and managing notifications.",
       "dh": "0a987ed83cec"
     },
-    "MDEwOlJlcG9zaXRvcnk1NjY3ODUxOQ==": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "99ba2fed70ba",
-      "description": "React Native library for receiving VoIP push notifications on iOS.",
-      "dh": "6acc71b292b1"
-    },
     "MDEwOlJlcG9zaXRvcnk1Njc2MDYzMw==": {
       "category": "Backend Frameworks and Servers",
       "ch": "5a0d2b22d883",
@@ -2562,12 +2448,6 @@
       "ch": "c23a621f0e3c",
       "description": "Command-line tool for serving static files and directory listings over HTTP.",
       "dh": "89a0f2340223"
-    },
-    "MDEwOlJlcG9zaXRvcnk1NzI0MjIz": {
-      "category": "Developer Tools and Editors",
-      "ch": "9c9fb600cf9e",
-      "description": "Command-line tool that flattens JSON into greppable lines so it can be searched with grep.",
-      "dh": "76099447c820"
     },
     "MDEwOlJlcG9zaXRvcnk1NzI0OTkw": {
       "category": "Other",
@@ -2881,12 +2761,6 @@
       "description": "MongoDB object modeling library for Node.js, providing schemas, validation, and query building.",
       "dh": "200bbdbb8fb8"
     },
-    "MDEwOlJlcG9zaXRvcnk1OTgzNDM=": {
-      "category": "Frontend UI Libraries",
-      "ch": "c9c415afa0ef",
-      "description": "Library for typing and rendering math formulas in web apps.",
-      "dh": "cb2b09ea0830"
-    },
     "MDEwOlJlcG9zaXRvcnk1OTk2OTU=": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "aee974396a69",
@@ -2959,12 +2833,6 @@
       "description": "Suite of React UI components for building web applications with TypeScript support.",
       "dh": "b8e5bc924f6a"
     },
-    "MDEwOlJlcG9zaXRvcnk2MDQw": {
-      "category": "Databases and Data Tools",
-      "ch": "af096682fa1f",
-      "description": "Simple, fast work queue service for distributing background jobs among producers and consumers.",
-      "dh": "b19e9360c35b"
-    },
     "MDEwOlJlcG9zaXRvcnk2MDQxMzAx": {
       "category": "Desktop and Mobile Apps",
       "ch": "e2fd5bd77b17",
@@ -2988,12 +2856,6 @@
       "ch": "a3f02c598237",
       "description": "Utilities, React components, and web components for building Microsoft-style web applications.",
       "dh": "5609de9b205a"
-    },
-    "MDEwOlJlcG9zaXRvcnk2MDY5MTkzNg==": {
-      "category": "Developer Tools and Editors",
-      "ch": "ceba518f6171",
-      "description": "Installs Chrome DevTools extensions into Electron applications.",
-      "dh": "4fa53994b3ae"
     },
     "MDEwOlJlcG9zaXRvcnk2MDYzMDg0NA==": {
       "category": "Developer Tools and Editors",
@@ -3073,23 +2935,11 @@
       "description": "Streaming interface for generating zip and tar archives in Node.js.",
       "dh": "b74295a1ec9a"
     },
-    "MDEwOlJlcG9zaXRvcnk2MTMxNzI2MQ==": {
-      "category": "Other",
-      "ch": "d872a1dc3e4e",
-      "description": "Website of the Géo API, a French API for geographic data such as municipalities and postal codes.",
-      "dh": "068971adfbed"
-    },
     "MDEwOlJlcG9zaXRvcnk2MTQxMjAyMg==": {
       "category": "Frontend UI Libraries",
       "ch": "57fa02c1ab43",
       "description": "Framework for building customizable rich text editors, currently in beta.",
       "dh": "ef4ad0f073b2"
-    },
-    "MDEwOlJlcG9zaXRvcnk2MTU1MjQ5": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "ea5cc14e4def",
-      "description": "Markdown syntax reference for writing README files on GitHub.",
-      "dh": "4aa2d655dbe7"
     },
     "MDEwOlJlcG9zaXRvcnk2MTU3Nzk4NQ==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -3102,12 +2952,6 @@
       "ch": "878d32ce3a1b",
       "description": "Golang framework for building Matrix clients, bots and appservices.",
       "dh": "40ba0a0a42ba"
-    },
-    "MDEwOlJlcG9zaXRvcnk2MTg0ODU5NQ==": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "d936f9830231",
-      "description": "Examples, explanations, and resources for learning RxJS observables and reactive programming.",
-      "dh": "13fa8505b994"
     },
     "MDEwOlJlcG9zaXRvcnk2MTg5MzM5OQ==": {
       "category": "Awesome Lists and Learning Resources",
@@ -3144,12 +2988,6 @@
       "ch": "8da52b2930a9",
       "description": "OAuth 2 and OpenID Connect client library for JavaScript runtimes.",
       "dh": "30c08b795c84"
-    },
-    "MDEwOlJlcG9zaXRvcnk2MjE2MzU3Ng==": {
-      "category": "Cryptography and Blockchain",
-      "ch": "533c76f9ba84",
-      "description": "Guide to security best practices for writing smart contracts.",
-      "dh": "ad3a47b96abd"
     },
     "MDEwOlJlcG9zaXRvcnk2MjExNzgxMg==": {
       "category": "DevOps and Infrastructure",
@@ -3204,12 +3042,6 @@
       "ch": "80646398374d",
       "description": "Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ.",
       "dh": "9f4ec8b2429d"
-    },
-    "MDEwOlJlcG9zaXRvcnk2MjgxMjI2MQ==": {
-      "category": "Cloud and Kubernetes",
-      "ch": "f46bc199cd52",
-      "description": "Guide to bootstrapping a Kubernetes cluster manually, step by step without scripts.",
-      "dh": "aac43ba487f8"
     },
     "MDEwOlJlcG9zaXRvcnk2MjkyMTU1Mw==": {
       "category": "Cloud and Kubernetes",
@@ -3312,12 +3144,6 @@
       "ch": "404253b5d2d3",
       "description": "React Native library for communicating with Bluetooth Low Energy devices.",
       "dh": "2a5e81436cad"
-    },
-    "MDEwOlJlcG9zaXRvcnk2NDMzMTAxMw==": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "6323321ca576",
-      "description": "Curated list of Ant Design resources and related projects, open to community contributions.",
-      "dh": "881e102589db"
     },
     "MDEwOlJlcG9zaXRvcnk2NDMzNDkzOA==": {
       "category": "Backend Frameworks and Servers",
@@ -3565,12 +3391,6 @@
       "description": "Library that parses HTML strings into React elements for rendering in React applications.",
       "dh": "56fe5071367e"
     },
-    "MDEwOlJlcG9zaXRvcnk2NjEzNzQz": {
-      "category": "Frontend UI Libraries",
-      "ch": "4bd89319a561",
-      "description": "JavaScript library for gapless grid layouts whose items can be dragged.",
-      "dh": "c0eeaadf8192"
-    },
     "MDEwOlJlcG9zaXRvcnk2NjQ3NDcyOQ==": {
       "category": "Security and Penetration Testing",
       "ch": "5fb1c61a159c",
@@ -3625,23 +3445,11 @@
       "description": "Docker image running Nginx with the RTMP module for live video streaming.",
       "dh": "f6e2e6507174"
     },
-    "MDEwOlJlcG9zaXRvcnk2NzEwMTQ0Nw==": {
-      "category": "Frontend UI Libraries",
-      "ch": "456b11281313",
-      "description": "Cross-platform React Native component for entering credit card details to accept payments.",
-      "dh": "e263ec85bd66"
-    },
     "MDEwOlJlcG9zaXRvcnk2NzExMTQ0Ng==": {
       "category": "Other",
       "ch": "4d6146f8eb16",
       "description": "Chat, video, and audio calling app for Nextcloud with support for screen sharing.",
       "dh": "0b372647bc0f"
-    },
-    "MDEwOlJlcG9zaXRvcnk2NzM3NDE0OA==": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "4cab9041c05c",
-      "description": "Chrome extension for highlighting text on web pages and saving highlights for later.",
-      "dh": "ad101c4976cb"
     },
     "MDEwOlJlcG9zaXRvcnk2NzMxNDMy": {
       "category": "Developer Tools and Editors",
@@ -3720,12 +3528,6 @@
       "ch": "ea1e1bcab229",
       "description": "Monitoring system and time series database that collects metrics and evaluates alerting rules.",
       "dh": "9715dc7db006"
-    },
-    "MDEwOlJlcG9zaXRvcnk2ODMxOTgyMQ==": {
-      "category": "Databases and Data Tools",
-      "ch": "678fed9b47cb",
-      "description": "Query execution layer that converts GraphQL queries into SQL, with query planning and batched data fetching.",
-      "dh": "de656189f0ca"
     },
     "MDEwOlJlcG9zaXRvcnk2ODQ2NTM2MA==": {
       "category": "Testing and Automation",
@@ -3840,12 +3642,6 @@
       "ch": "29bfbe461c14",
       "description": "Example app demonstrating all NativeBase UI components on iOS and Android.",
       "dh": "244a21b03026"
-    },
-    "MDEwOlJlcG9zaXRvcnk2OTE5MzA4MQ==": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "f9f055644a19",
-      "description": "Guide explaining how to contribute to open source projects.",
-      "dh": "47c2ba9099e5"
     },
     "MDEwOlJlcG9zaXRvcnk2OTI5MDU5MQ==": {
       "category": "Other",
@@ -4373,12 +4169,6 @@
       "description": "Open-source platform for building and deploying GPT and LLM-powered conversational agents.",
       "dh": "697047a8e655"
     },
-    "MDEwOlJlcG9zaXRvcnk3MzkwOTMzMw==": {
-      "category": "Cloud and Kubernetes",
-      "ch": "72257ba5bca8",
-      "description": "Parallel tool for running S3 and local filesystem operations.",
-      "dh": "38e9dc4f5f2e"
-    },
     "MDEwOlJlcG9zaXRvcnk3NDE3NTgwNQ==": {
       "category": "Cloud and Kubernetes",
       "ch": "abfacf562246",
@@ -4463,12 +4253,6 @@
       "description": "Standalone test spies, stubs, and mocks for JavaScript.",
       "dh": "2313b56223f5"
     },
-    "MDEwOlJlcG9zaXRvcnk3NDc4MTg2Ng==": {
-      "category": "Security and Penetration Testing",
-      "ch": "4e125c49e45c",
-      "description": "Basic keylogger that records keystrokes on Windows, Linux, and macOS for hacking and pentesting use.",
-      "dh": "f03c0fbb4ef7"
-    },
     "MDEwOlJlcG9zaXRvcnk3NDk2MjUxNQ==": {
       "category": "Security and Penetration Testing",
       "ch": "82c247f77a8c",
@@ -4526,12 +4310,6 @@
       "ch": "44a8026deaed",
       "description": "Curated list of books, videos, and articles about building apps with Next.js.",
       "dh": "11fde42e92a3"
-    },
-    "MDEwOlJlcG9zaXRvcnk3NTM4ODk2NQ==": {
-      "category": "AI and Machine Learning",
-      "ch": "4d3d31ed1cd7",
-      "description": "Neural network framework for object detection with YOLOv4 and Scaled-YOLOv4 on Windows and Linux.",
-      "dh": "342d5bac6d70"
     },
     "MDEwOlJlcG9zaXRvcnk3NTMwNTcw": {
       "category": "Testing and Automation",
@@ -4845,12 +4623,6 @@
       "description": "Scalable open-source game backend server with multiplayer, matchmaking, leaderboards, and chat.",
       "dh": "233b1178c259"
     },
-    "MDEwOlJlcG9zaXRvcnk3ODgxNjM4Mw==": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "cdec913c6231",
-      "description": "Firefox and Chrome extension that automatically deletes cookies and site data when tabs close or domains change.",
-      "dh": "bcc9bb65ae4c"
-    },
     "MDEwOlJlcG9zaXRvcnk3ODgxOTE5MA==": {
       "category": "Developer Tools and Editors",
       "ch": "d6129763756e",
@@ -5133,12 +4905,6 @@
       "description": "Cross-platform C library implementing the protocols used to communicate with iOS devices.",
       "dh": "9a8a8549bd2b"
     },
-    "MDEwOlJlcG9zaXRvcnk4MTgwODQ4": {
-      "category": "Other",
-      "ch": "6c1717bf6cdb",
-      "description": "Command-line tool for listing, installing, and removing apps on iOS devices.",
-      "dh": "66b525e912ec"
-    },
     "MDEwOlJlcG9zaXRvcnk4MjA3NDYxMQ==": {
       "category": "Frontend UI Libraries",
       "ch": "278c655679ab",
@@ -5199,12 +4965,6 @@
       "description": "Command-line music library manager that tags audio files using MusicBrainz metadata.",
       "dh": "6607b03d65dc"
     },
-    "MDEwOlJlcG9zaXRvcnk4Mjg1MzE3NA==": {
-      "category": "DevOps and Infrastructure",
-      "ch": "602ad644cc13",
-      "description": "Scripts, utilities, and example configurations for deploying CoreDNS.",
-      "dh": "7aa032685662"
-    },
     "MDEwOlJlcG9zaXRvcnk4MjgxMDg0": {
       "category": "Other",
       "ch": "97dcab96fa1a",
@@ -5253,12 +5013,6 @@
       "description": "Curated list of PyTorch models, implementations, libraries and tutorials for deep learning.",
       "dh": "4184c7c83046"
     },
-    "MDEwOlJlcG9zaXRvcnk4MzUzOTA4Mw==": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "33ed42f7abea",
-      "description": "Android app that uses the camera and image recognition to show how to say objects in other languages.",
-      "dh": "443ded528061"
-    },
     "MDEwOlJlcG9zaXRvcnk4MzY3ODQxNg==": {
       "category": "Databases and Data Tools",
       "ch": "be1facc5259e",
@@ -5282,12 +5036,6 @@
       "ch": "b0dc53bf4028",
       "description": "Behavior-driven testing framework for JavaScript that runs in browsers and Node.js.",
       "dh": "8eb41e772ab3"
-    },
-    "MDEwOlJlcG9zaXRvcnk4NDAzMDE2NA==": {
-      "category": "AI and Machine Learning",
-      "ch": "99a313523a93",
-      "description": "Android example app showing how to run TensorFlow machine learning models on Android devices.",
-      "dh": "c3adc8879616"
     },
     "MDEwOlJlcG9zaXRvcnk4NDE4MzU=": {
       "category": "Documentation and Knowledge Tools",
@@ -5324,12 +5072,6 @@
       "ch": "2d8aa83d5196",
       "description": "Python library providing machine learning algorithms and tools for data analysis and statistics.",
       "dh": "eb5d06639c98"
-    },
-    "MDEwOlJlcG9zaXRvcnk4NDU3NTM3Mg==": {
-      "category": "Security and Penetration Testing",
-      "ch": "4e95d30b1966",
-      "description": "Proof-of-concept tool performing ARP spoofing MitM attacks to extract cleartext RDP credentials.",
-      "dh": "3b8b7f6ea210"
     },
     "MDEwOlJlcG9zaXRvcnk4NDY4NjYxNA==": {
       "category": "Frontend UI Libraries",
@@ -5517,12 +5259,6 @@
       "description": "TypeScript compiler in watch mode with an onSuccess callback that runs after each successful build.",
       "dh": "3bec3824b05a"
     },
-    "MDEwOlJlcG9zaXRvcnk4NjUwODY4MQ==": {
-      "category": "Security and Penetration Testing",
-      "ch": "0994ad017c17",
-      "description": "Tool that dumps the login password of the current Linux user from memory, for post-exploitation.",
-      "dh": "0ec283dbc0cc"
-    },
     "MDEwOlJlcG9zaXRvcnk4Njc3NDk0Mw==": {
       "category": "Security and Penetration Testing",
       "ch": "96edbaa9d19c",
@@ -5552,12 +5288,6 @@
       "ch": "ca388e339f1b",
       "description": "Ruby system for creating agents that monitor websites and feeds and act on your behalf.",
       "dh": "543858928f38"
-    },
-    "MDEwOlJlcG9zaXRvcnk4NzIxNzQ0Mg==": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "43e1c2e24f9d",
-      "description": "Desktop application for managing Instagram direct messages, built with Electron.",
-      "dh": "f5436b4473e7"
     },
     "MDEwOlJlcG9zaXRvcnk4NzIyODA5MA==": {
       "category": "Cloud and Kubernetes",
@@ -5685,12 +5415,6 @@
       "description": "Minimal Docker base images for language runtimes, containing no operating system packages, built with Bazel.",
       "dh": "a078688fa1cf"
     },
-    "MDEwOlJlcG9zaXRvcnk4ODYxMjk0NQ==": {
-      "category": "AI and Machine Learning",
-      "ch": "01a70ef46132",
-      "description": "PyTorch implementation of unpaired and paired image-to-image translation using CycleGAN and pix2pix.",
-      "dh": "48fcc80a0c82"
-    },
     "MDEwOlJlcG9zaXRvcnk4ODYyNTkz": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "60ee20f74b6a",
@@ -5781,12 +5505,6 @@
       "description": "Network management and troubleshooting tool with DNS lookup, IP scanning, ICMP and LLDP support.",
       "dh": "343aba85742a"
     },
-    "MDEwOlJlcG9zaXRvcnk4OTYwNzg4Ng==": {
-      "category": "Developer Tools and Editors",
-      "ch": "4707452ee05d",
-      "description": "Tool that generates code snippets for Visual Studio Code, Sublime Text, and Atom editors.",
-      "dh": "12f6835189d7"
-    },
     "MDEwOlJlcG9zaXRvcnk4OTc0ODU2MA==": {
       "category": "Cloud and Kubernetes",
       "ch": "1c4653b3f2f1",
@@ -5798,12 +5516,6 @@
       "ch": "768bcb9db0f5",
       "description": "Ebook reader application for e-ink and mobile devices supporting PDF, DjVu, EPUB, and other formats.",
       "dh": "b14c935b8f1c"
-    },
-    "MDEwOlJlcG9zaXRvcnk4OTk1Njg0OA==": {
-      "category": "Testing and Automation",
-      "ch": "547a17a16ef5",
-      "description": "Code coverage tool for Solidity smart contracts.",
-      "dh": "1298e09f17bd"
     },
     "MDEwOlJlcG9zaXRvcnk5MDAxMzA1NQ==": {
       "category": "Frontend UI Libraries",
@@ -5852,12 +5564,6 @@
       "ch": "373995f7b825",
       "description": "Curated list of Flutter libraries, tools, tutorials, and articles.",
       "dh": "2ece0fdbb39d"
-    },
-    "MDEwOlJlcG9zaXRvcnk5MDY2OTg0Ng==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "eada72ebeeed",
-      "description": "Tool that creates and applies patch files to fix broken node_modules dependencies.",
-      "dh": "902c29d93a3e"
     },
     "MDEwOlJlcG9zaXRvcnk5MDY4MDk2MA==": {
       "category": "Frontend UI Libraries",
@@ -6127,12 +5833,6 @@
       "description": "CSS preprocessor language and compiler adding variables, nesting, and mixins to stylesheets.",
       "dh": "ca47fd2d1fc4"
     },
-    "MDEwOlJlcG9zaXRvcnk5MzA4MzY3OQ==": {
-      "category": "Frontend UI Libraries",
-      "ch": "98c5e5acf54a",
-      "description": "React components wrapping CodeMirror for integration into React applications.",
-      "dh": "ae3bc49af386"
-    },
     "MDEwOlJlcG9zaXRvcnk5MzE2MzA3Mw==": {
       "category": "DevOps and Infrastructure",
       "ch": "e81a77906039",
@@ -6247,12 +5947,6 @@
       "description": "Portable C interface to kernel packet capture mechanisms, with BPF filtering support.",
       "dh": "515e997e52f5"
     },
-    "MDEwOlJlcG9zaXRvcnk5NDM2NzY3Nw==": {
-      "category": "Frontend UI Libraries",
-      "ch": "b2b2859147c3",
-      "description": "Library for building forms in React with state, validation, and submission handling.",
-      "dh": "59e35b8e4be4"
-    },
     "MDEwOlJlcG9zaXRvcnk5NDMxNDk=": {
       "category": "Frontend UI Libraries",
       "ch": "a05e7a15159d",
@@ -6264,12 +5958,6 @@
       "ch": "1c6320689ef6",
       "description": "Web-based converter that transforms code between formats such as CSS, JSX, Flow, GraphQL and Go.",
       "dh": "ee1cb3ca7309"
-    },
-    "MDEwOlJlcG9zaXRvcnk5NDQwMjM4": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "2a8896b02dc1",
-      "description": "Converts strings between camelCase, PascalCase, snake_case, CONSTANT_CASE and other naming styles.",
-      "dh": "e6faeea8a171"
     },
     "MDEwOlJlcG9zaXRvcnk5NDU4OTY1Nw==": {
       "category": "Desktop and Mobile Apps",
@@ -6313,12 +6001,6 @@
       "description": "Searchable, filterable directory of React Native libraries for finding packages by category.",
       "dh": "827019404f30"
     },
-    "MDEwOlJlcG9zaXRvcnk5NTE5NjgxOA==": {
-      "category": "Frontend UI Libraries",
-      "ch": "3fa475fcbb49",
-      "description": "Library for code splitting React components and loading them dynamically, with server-side rendering support.",
-      "dh": "20265360ad8e"
-    },
     "MDEwOlJlcG9zaXRvcnk5NTI0MDU3": {
       "category": "DevOps and Infrastructure",
       "ch": "917f641d18ea",
@@ -6337,12 +6019,6 @@
       "description": "Python search plugins that add torrent search engines to the qBittorrent search feature.",
       "dh": "a6ce78f4f56b"
     },
-    "MDEwOlJlcG9zaXRvcnk5NTQxOTk4Mg==": {
-      "category": "Security and Penetration Testing",
-      "ch": "2f8cc131949b",
-      "description": "Python XSS scanner with WAF detection, payload generation, and brute-force and exploit features.",
-      "dh": "848591bd4462"
-    },
     "MDEwOlJlcG9zaXRvcnk5NTU5ODQ3OQ==": {
       "category": "Developer Tools and Editors",
       "ch": "2cc5c33e0177",
@@ -6354,12 +6030,6 @@
       "ch": "153ff3455a24",
       "description": "Open-source search database for full-text, vector, and hybrid search with real-time indexing.",
       "dh": "71d4d156bc70"
-    },
-    "MDEwOlJlcG9zaXRvcnk5NTc5NDI3Ng==": {
-      "category": "Frontend UI Libraries",
-      "ch": "d16d39a24763",
-      "description": "JavaScript framework for building conversational chat user interfaces.",
-      "dh": "993f8d5251fa"
     },
     "MDEwOlJlcG9zaXRvcnk5NTc5NzE3NA==": {
       "category": "Frontend UI Libraries",
@@ -6522,18 +6192,6 @@
       "ch": "72e35f67bbd3",
       "description": "macOS system-wide audio equalizer and volume mixer app.",
       "dh": "bcce5df9b4b1"
-    },
-    "MDEwOlJlcG9zaXRvcnk5ODAxNDgyMg==": {
-      "category": "Cryptography and Blockchain",
-      "ch": "d58bb9c4add7",
-      "description": "JavaScript library for constructing Merkle trees and verifying Merkle proofs.",
-      "dh": "aa0e894fccf0"
-    },
-    "MDEwOlJlcG9zaXRvcnk5ODAyOTU5Mg==": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "3667f0232dfd",
-      "description": "Interactive tutorial and reference for learning regular expressions.",
-      "dh": "6543d61c57b8"
     },
     "MDEwOlJlcG9zaXRvcnk5ODE1NA==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -6721,12 +6379,6 @@
       "description": "Monorepo build system with task caching and CI optimization for JavaScript, TypeScript, and other projects.",
       "dh": "b2ffc917a4a0"
     },
-    "MDEwOlJlcG9zaXRvcnkxMDAxNjE4MzA=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "44193105d875",
-      "description": "Kubernetes log viewer that tails logs from multiple pods and containers at once.",
-      "dh": "da4176fc2540"
-    },
     "MDEwOlJlcG9zaXRvcnkxMDAyNjM1ODE=": {
       "category": "Cryptography and Blockchain",
       "ch": "f668cf43dc83",
@@ -6744,12 +6396,6 @@
       "ch": "4a6c4ea3c7fa",
       "description": "semantic-release plugin that generates release notes from conventional commits.",
       "dh": "af1f86ff1c67"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMDAzODQwNA==": {
-      "category": "Other",
-      "ch": "bf3ef5262dd0",
-      "description": "Library for generating PDF documents on both server and client sides in JavaScript.",
-      "dh": "b89c03e8fb57"
     },
     "MDEwOlJlcG9zaXRvcnkxMDAzODU4Mzg=": {
       "category": "Cryptography and Blockchain",
@@ -6808,12 +6454,6 @@
       "ch": "6a055de004dd",
       "description": "Process manager for Node.js, Bun, and TypeScript applications, with load balancing and monitoring.",
       "dh": "b7cb3f82a160"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMDEwNTI0NTU=": {
-      "category": "AI and Machine Learning",
-      "ch": "d340f08bf184",
-      "description": "Curated list of pretrained machine learning models in Core ML format for iOS 11 and later.",
-      "dh": "55ab06a94fec"
     },
     "MDEwOlJlcG9zaXRvcnkxMDExMzAzMA==": {
       "category": "Desktop and Mobile Apps",
@@ -6898,12 +6538,6 @@
       "ch": "96daa2faba84",
       "description": "React component for rendering git diffs in a web interface.",
       "dh": "3ee2a9e8687c"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMDIyMTYxNjE=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "5a4bda37b4c7",
-      "description": "Universal WHATWG Fetch API implementation for Node.js, browsers and React Native.",
-      "dh": "b0423b39e560"
     },
     "MDEwOlJlcG9zaXRvcnkxMDIyNjAwOTM=": {
       "category": "Security and Penetration Testing",
@@ -7076,12 +6710,6 @@
       "ch": "3ccb9bb8cf60",
       "description": "Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku.",
       "dh": "86a9ce16263f"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMDU2Nzc2ODc=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "2491026f3eb3",
-      "description": "Fast alternative to Babel for compiling TypeScript, JSX, and ES modules for modern runtimes.",
-      "dh": "b8fb6392054e"
     },
     "MDEwOlJlcG9zaXRvcnkxMDU4MDg3Njc=": {
       "category": "Cloud and Kubernetes",
@@ -7334,12 +6962,6 @@
       "ch": "f9ae367055e0",
       "description": "Automation platform for configuring, deploying, and managing infrastructure as code at any scale.",
       "dh": "ff795dec2e19"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMDgyODczMw==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "49e973b67ce7",
-      "description": "Random generator helper library for JavaScript producing numbers, strings, and other random data.",
-      "dh": "366095706c85"
     },
     "MDEwOlJlcG9zaXRvcnkxMDgyOTYyNjk=": {
       "category": "Cloud and Kubernetes",
@@ -7701,12 +7323,6 @@
       "description": "Cloud-native platform for running machine learning and AI workloads on Kubernetes.",
       "dh": "4b36b67c6960"
     },
-    "MDEwOlJlcG9zaXRvcnkxMTI2NDgyODk=": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "2b8d1bac0381",
-      "description": "A browser tool that shows the XPath of any element clicked on a web page.",
-      "dh": "72f963374658"
-    },
     "MDEwOlJlcG9zaXRvcnkxMTI2NzUwOQ==": {
       "category": "Image and Graphics Processing",
       "ch": "33037254efe6",
@@ -7748,12 +7364,6 @@
       "ch": "fcb5518415e4",
       "description": "Library for sending push notifications to many platforms through one unified interface.",
       "dh": "5dc645964d03"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMTIwMjc4OTI=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "0f08df6d2c6d",
-      "description": "TodoMVC sample app for Flutter that demonstrates Redux-based architecture.",
-      "dh": "963f4a5a80d7"
     },
     "MDEwOlJlcG9zaXRvcnkxMTIwNTE5OTQ=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -8019,12 +7629,6 @@
       "description": "FTP client for Node.js with FTPS, IPv6 passive mode, and async/await support.",
       "dh": "f646faada77e"
     },
-    "MDEwOlJlcG9zaXRvcnkxMTU5NTI2MTA=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "da6ea58960f2",
-      "description": "Curated list of developers who stream programming on platforms such as Twitch.",
-      "dh": "77291ba31dab"
-    },
     "MDEwOlJlcG9zaXRvcnkxMTUwMTIyODA=": {
       "category": "Image and Graphics Processing",
       "ch": "363018baf3ca",
@@ -8169,12 +7773,6 @@
       "description": "Go implementation of the Ethereum proof-of-stake consensus client.",
       "dh": "5a2767430879"
     },
-    "MDEwOlJlcG9zaXRvcnkxMTcyNTA2MjU=": {
-      "category": "Security and Penetration Testing",
-      "ch": "a16356054a11",
-      "description": "Tool that finds origin servers behind Cloudflare using Censys Internet scan data for pentesting.",
-      "dh": "ca3968bd178d"
-    },
     "MDEwOlJlcG9zaXRvcnkxMTczNTIy": {
       "category": "Developer Tools and Editors",
       "ch": "898f1b8c9535",
@@ -8198,12 +7796,6 @@
       "ch": "5f03678f4540",
       "description": "Cross-platform rewrite of GNU coreutils utilities in Rust.",
       "dh": "b50c6553f121"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMTg1Mjc5": {
-      "category": "Mac Utilities",
-      "ch": "a27ebd88bfd3",
-      "description": "Retro video game emulation frontend for macOS supporting multiple console emulators.",
-      "dh": "7a019fc5f373"
     },
     "MDEwOlJlcG9zaXRvcnkxMTg1NTE5NQ==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -8409,12 +8001,6 @@
       "description": "Declarative continuous delivery tool for deploying applications to Kubernetes.",
       "dh": "823cb8cfaea0"
     },
-    "MDEwOlJlcG9zaXRvcnkxMjAwNDgzMDk=": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "55178075d530",
-      "description": "Browser extension for watching videos synchronized with others in real time.",
-      "dh": "519c50ff2209"
-    },
     "MDEwOlJlcG9zaXRvcnkxMjAxNDk5NzQ=": {
       "category": "AI and Machine Learning",
       "ch": "152f64995c6d",
@@ -8451,12 +8037,6 @@
       "description": "Read-only mirror of the FreeFileSync source code for folder comparison and file synchronization.",
       "dh": "f41967c17492"
     },
-    "MDEwOlJlcG9zaXRvcnkxMjE1ODU2NjU=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "8b26b3f56237",
-      "description": "Strictly typed utility functions for working with TypeScript enums.",
-      "dh": "18a7994b2a05"
-    },
     "MDEwOlJlcG9zaXRvcnkxMjE3NjE0": {
       "category": "Desktop and Mobile Apps",
       "ch": "7608bec8dc81",
@@ -8481,12 +8061,6 @@
       "description": "Shell extension that loads and unloads environment variables automatically based on the current directory.",
       "dh": "463776d9af00"
     },
-    "MDEwOlJlcG9zaXRvcnkxMjE5NDg3NDg=": {
-      "category": "Frontend UI Libraries",
-      "ch": "a509b566c3b1",
-      "description": "Android library for giving custom shapes to any view, compatible with Material Design 2.",
-      "dh": "876aed270b10"
-    },
     "MDEwOlJlcG9zaXRvcnkxMjE5NzQw": {
       "category": "Browser Extensions and Scripts",
       "ch": "e56c419e4461",
@@ -8499,12 +8073,6 @@
       "description": "Tool that builds, tests, and publishes Rust-generated WebAssembly packages to npm.",
       "dh": "29134e7dd682"
     },
-    "MDEwOlJlcG9zaXRvcnkxMjEyOTE3NTg=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "0444a424d26c",
-      "description": "Course files, code examples, and exercises for a Udemy Complete Python 3 Bootcamp course.",
-      "dh": "92e6d570b088"
-    },
     "MDEwOlJlcG9zaXRvcnkxMjEyOTIy": {
       "category": "Security and Penetration Testing",
       "ch": "e91887fe41ef",
@@ -8516,12 +8084,6 @@
       "ch": "0bee4f9ffd24",
       "description": "JavaScript syntax highlighter with automatic language detection and no dependencies.",
       "dh": "091cbb6f148b"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMjEzNDQ2NjA=": {
-      "category": "Security and Penetration Testing",
-      "ch": "546f4edec192",
-      "description": "React Native SSL pinning and cookie handling via OkHttp on Android and AFNetworking on iOS.",
-      "dh": "97fb0e31b1f5"
     },
     "MDEwOlJlcG9zaXRvcnkxMjI0NzUzNA==": {
       "category": "Databases and Data Tools",
@@ -8546,12 +8108,6 @@
       "ch": "fe9dc2473ebc",
       "description": "Mail server setup that deploys a complete SMTP and email stack on a single box.",
       "dh": "0b3a56330183"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMjI3Mjg5MjU=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "bbd6e25b15c7",
-      "description": "Lightweight, user-friendly interactive command-line prompts for Node.js.",
-      "dh": "715902212b9f"
     },
     "MDEwOlJlcG9zaXRvcnkxMjI3MzQ1Njk=": {
       "category": "Audio and Video Processing",
@@ -8833,6 +8389,12 @@
       "description": "OneDrive client for Linux that syncs files with Microsoft OneDrive and Office 365 accounts.",
       "dh": "33918399c8b2"
     },
+    "MDEwOlJlcG9zaXRvcnkxMjUxOTI0NQ==": {
+      "category": "JavaScript and TypeScript Tooling",
+      "ch": "405e1c916e24",
+      "description": "Manager and filter for .gitignore rules, used by ESLint, Prettier and other JavaScript tools.",
+      "dh": "5279bcc96a26"
+    },
     "MDEwOlJlcG9zaXRvcnkxMjUyNjYzMjg=": {
       "category": "Developer Tools and Editors",
       "ch": "2ddc276175ca",
@@ -9007,12 +8569,6 @@
       "description": "Configurable logging library for Node.js and the command line with custom types and scopes.",
       "dh": "e9da86912894"
     },
-    "MDEwOlJlcG9zaXRvcnkxMjg2NzAyMTc=": {
-      "category": "Frontend UI Libraries",
-      "ch": "bf2837a04c82",
-      "description": "Customizable date, time, and datetime picker for React Native on Android and iOS.",
-      "dh": "9509de0e2416"
-    },
     "MDEwOlJlcG9zaXRvcnkxMjg3MzM1NjI=": {
       "category": "Cryptography and Blockchain",
       "ch": "0dc0875df35a",
@@ -9114,12 +8670,6 @@
       "ch": "742b049e4c30",
       "description": "Collection of example projects showing how to use the Actix Web ecosystem in Rust.",
       "dh": "bff0b9ac9c9f"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMjkzNDUxOTI=": {
-      "category": "Cryptography and Blockchain",
-      "ch": "042011074cc8",
-      "description": "Dataset of profile information for blockchain coins and tokens, aimed at wallet use.",
-      "dh": "dec177917994"
     },
     "MDEwOlJlcG9zaXRvcnkxMjkzNjU0MDc=": {
       "category": "Other",
@@ -9277,12 +8827,6 @@
       "description": "Time series database for storing and querying metrics, events, and real-time analytics data.",
       "dh": "93b77ec0fb21"
     },
-    "MDEwOlJlcG9zaXRvcnkxMzEzNzE3NzM=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "433411f51b4a",
-      "description": "Study guide covering Go programming language fundamentals and computer systems concepts.",
-      "dh": "c1bb1c3641bd"
-    },
     "MDEwOlJlcG9zaXRvcnkxMzEzODUwODA=": {
       "category": "Desktop and Mobile Apps",
       "ch": "1f286c4a918a",
@@ -9427,18 +8971,6 @@
       "description": "Curated list of freely available programming books and learning resources in many languages.",
       "dh": "afc6f9026021"
     },
-    "MDEwOlJlcG9zaXRvcnkxMzQ5Nzc1": {
-      "category": "AI and Machine Learning",
-      "ch": "26d5a57c6d56",
-      "description": "Python library for topic modelling, document similarity and information retrieval on text collections.",
-      "dh": "79f815aaca2d"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMzQ5ODQ5MTI=": {
-      "category": "Other",
-      "ch": "9d0e37015ca1",
-      "description": "Open-source consent manager for websites that helps meet privacy laws such as GDPR and CCPA.",
-      "dh": "3246044d4ae5"
-    },
     "MDEwOlJlcG9zaXRvcnkxMzQ5OTIwMzU=": {
       "category": "DevOps and Infrastructure",
       "ch": "1eeca8cbd45f",
@@ -9493,12 +9025,6 @@
       "description": "JavaScript UI component for displaying and interacting with audio waveforms in web applications.",
       "dh": "b1d58f24a71d"
     },
-    "MDEwOlJlcG9zaXRvcnkxMzU2MzMxNTg=": {
-      "category": "Testing and Automation",
-      "ch": "b1b2c7d14a0d",
-      "description": "Library for recording, replaying and stubbing HTTP interactions in browser and Node.js tests.",
-      "dh": "d4471977316f"
-    },
     "MDEwOlJlcG9zaXRvcnkxMzU3MTk5": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "4d7e3e25b2dd",
@@ -9522,12 +9048,6 @@
       "ch": "483352a25cfd",
       "description": "Streaming BitTorrent client for the web and Node.js.",
       "dh": "c053319f94c3"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMzU5NTI0MzY=": {
-      "category": "Other",
-      "ch": "8de253ca0873",
-      "description": "Transportation planning and traffic simulation software for designing cities friendlier to walking and transit.",
-      "dh": "5530adc7d665"
     },
     "MDEwOlJlcG9zaXRvcnkxMzUyMDExNDU=": {
       "category": "Programming Languages and Compilers",
@@ -9601,12 +9121,6 @@
       "description": "Web version of the Stremio media streaming application, written in JavaScript.",
       "dh": "974e7c1c317f"
     },
-    "MDEwOlJlcG9zaXRvcnkxMzYwNDc0MzM=": {
-      "category": "Frontend UI Libraries",
-      "ch": "948c907a83c4",
-      "description": "Official React wrapper for fullPage.js, for building full-screen scrolling single-page websites.",
-      "dh": "d20ccce12659"
-    },
     "MDEwOlJlcG9zaXRvcnkxMzYxNDgzMTU=": {
       "category": "Other",
       "ch": "712cebf80ebf",
@@ -9636,12 +9150,6 @@
       "ch": "720f525a87f0",
       "description": "Platform that generates full-stack Spring Boot web apps and microservice architectures.",
       "dh": "432938941c3e"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMzc2Njg1NDU=": {
-      "category": "Frontend UI Libraries",
-      "ch": "1ac4f28bc0f6",
-      "description": "Open-source React Native framework with minimalist UI components for building Android and iOS apps.",
-      "dh": "63e2939847db"
     },
     "MDEwOlJlcG9zaXRvcnkxMzc3MjQ0ODA=": {
       "category": "Databases and Data Tools",
@@ -9714,12 +9222,6 @@
       "ch": "5c09452da965",
       "description": "Collection of published security audit reports for smart contracts on many blockchains.",
       "dh": "8433b56a9ebb"
-    },
-    "MDEwOlJlcG9zaXRvcnkxMzg4NjQ3Ng==": {
-      "category": "Developer Tools and Editors",
-      "ch": "6cea84fc4728",
-      "description": "Fish-like autosuggestions for zsh that suggest commands from history as you type.",
-      "dh": "d384e00c1fe1"
     },
     "MDEwOlJlcG9zaXRvcnkxMzg5NDI4NDE=": {
       "category": "Other",
@@ -10015,12 +9517,6 @@
       "description": "HTTP and HTTPS debugging proxy for capturing traffic from macOS, iOS, and Android.",
       "dh": "54cb3118f4f5"
     },
-    "MDEwOlJlcG9zaXRvcnkxNDI5MTA0MA==": {
-      "category": "Frontend UI Libraries",
-      "ch": "aed95bf4f625",
-      "description": "Community repository for Web Components specifications and explainers.",
-      "dh": "a74a6cf4ca2d"
-    },
     "MDEwOlJlcG9zaXRvcnkxNDIwMDUz": {
       "category": "Backend Frameworks and Servers",
       "ch": "9bd21172ea72",
@@ -10050,12 +9546,6 @@
       "ch": "d1548beb6567",
       "description": "Native screen primitives for React Native navigation, used by react-navigation.",
       "dh": "c937c23a3cac"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNDM0Mzk4MQ==": {
-      "category": "Networking and Wireless",
-      "ch": "2bfee0369b0d",
-      "description": "Node wrapper for ngrok that exposes a local server to the internet through a secure tunnel.",
-      "dh": "30b4c8cdd9f0"
     },
     "MDEwOlJlcG9zaXRvcnkxNDM1NzY2OQ==": {
       "category": "Desktop and Mobile Apps",
@@ -10201,12 +9691,6 @@
       "description": "Flexible JSON and YAML linter for enforcing style guides on OpenAPI, Arazzo, and AsyncAPI documents.",
       "dh": "d9a0de51e986"
     },
-    "MDEwOlJlcG9zaXRvcnkxNDQ5NDM2Mw==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "20695437dbcc",
-      "description": "JavaScript implementation of the Node.js Buffer API for handling binary data in browsers.",
-      "dh": "8d5f45dd052a"
-    },
     "MDEwOlJlcG9zaXRvcnkxNDQ5OTUyNzU=": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "3ab61b67f8d5",
@@ -10267,12 +9751,6 @@
       "description": "JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications.",
       "dh": "635120032682"
     },
-    "MDEwOlJlcG9zaXRvcnkxNDUwNTA1NDQ=": {
-      "category": "Developer Tools and Editors",
-      "ch": "fe01aa6b6792",
-      "description": "Community-driven IDE layer for Neovim with preconfigured LSP, formatting, and linting support.",
-      "dh": "a0e36cd8d4ed"
-    },
     "MDEwOlJlcG9zaXRvcnkxNDUxMzUy": {
       "category": "Testing and Automation",
       "ch": "d9e33f3f95c3",
@@ -10297,12 +9775,6 @@
       "description": "Development repository for the CodeMirror code editor project.",
       "dh": "30273824b747"
     },
-    "MDEwOlJlcG9zaXRvcnkxNDY0NzQ4MDU=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "a812fa2519e1",
-      "description": "Tool for checking TypeScript type definitions against test files.",
-      "dh": "36cab3085c9f"
-    },
     "MDEwOlJlcG9zaXRvcnkxNDY1MzE2MTk=": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "e4e05b04835f",
@@ -10320,12 +9792,6 @@
       "ch": "9b3f2688c88a",
       "description": "Python keyboard firmware for custom mechanical keyboards running on CircuitPython microcontrollers.",
       "dh": "3f5e1887db9c"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNDY3MjgyNzY=": {
-      "category": "Cryptography and Blockchain",
-      "ch": "ee21b38ff15c",
-      "description": "JavaScript SDK for communicating with the BNB Beacon Chain.",
-      "dh": "f27441ad0432"
     },
     "MDEwOlJlcG9zaXRvcnkxNDY4NDIxMDE=": {
       "category": "DevOps and Infrastructure",
@@ -10380,12 +9846,6 @@
       "ch": "c0c62842324b",
       "description": "Static analyzer for Solidity and Vyper smart contracts.",
       "dh": "38c54658d982"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNDc1OTQ1Ng==": {
-      "category": "Other",
-      "ch": "19d90690a05f",
-      "description": "Python tool for downloading periodic reports, filings, and forms of all companies from EDGAR.",
-      "dh": "f23c44c2e154"
     },
     "MDEwOlJlcG9zaXRvcnkxNDc3ODE3MjI=": {
       "category": "Desktop and Mobile Apps",
@@ -10524,12 +9984,6 @@
       "ch": "877a9748086f",
       "description": "Main-line development repository of the Java Development Kit (JDK).",
       "dh": "93a7a687b8e9"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNDkxNDQ2NjI=": {
-      "category": "Databases and Data Tools",
-      "ch": "86c3095bcdf8",
-      "description": "Small full-text search engine for browsers and Node.js with fuzzy and prefix search.",
-      "dh": "4c0f5eb6f83b"
     },
     "MDEwOlJlcG9zaXRvcnkxNDkyMDE5NzU=": {
       "category": "Networking and Wireless",
@@ -10753,12 +10207,6 @@
       "description": "Import and export tools for moving Elasticsearch and OpenSearch data for backup and migration.",
       "dh": "f1295e214b2a"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTMyMzY2NDQ=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "81db5fd4a768",
-      "description": "Controller that runs Varnish HTTP caches as a reverse proxy in Kubernetes.",
-      "dh": "7f67d28c150a"
-    },
     "MDEwOlJlcG9zaXRvcnkxNTMzMzQ3MQ==": {
       "category": "Image and Graphics Processing",
       "ch": "e3459ed807f9",
@@ -10836,12 +10284,6 @@
       "ch": "75c427f643fa",
       "description": "JavaScript library that computes differences between text strings and produces patch and diff output.",
       "dh": "5274a11a79a7"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNTQyNjA3NzE=": {
-      "category": "Cryptography and Blockchain",
-      "ch": "96231a3435fe",
-      "description": "Wrapper around the keccak library for computing 256-bit Keccak hashes in JavaScript.",
-      "dh": "4c440906b665"
     },
     "MDEwOlJlcG9zaXRvcnkxNTQyODQ4MA==": {
       "category": "Frontend UI Libraries",
@@ -10951,12 +10393,6 @@
       "description": "MQTT client library for Node.js and browsers, used for publishing and subscribing to MQTT brokers.",
       "dh": "7088fb2f7648"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTY5OTk0MTc=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "7e6313a4d2f4",
-      "description": "Collection of projects from the Can it be done in React Native YouTube series.",
-      "dh": "c1d7298fa4f4"
-    },
     "MDEwOlJlcG9zaXRvcnkxNTYwMTg=": {
       "category": "Databases and Data Tools",
       "ch": "36818a29f3e5",
@@ -10975,11 +10411,11 @@
       "description": "Course teaching how to develop, deploy, and iterate on production-grade machine learning applications.",
       "dh": "2cdacea16c95"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTYyODMzNTk=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "98a1309959b9",
-      "description": "Curated list of quantitative and algorithmic trading resources focused on machine learning.",
-      "dh": "7e5d1ef0a442"
+    "MDEwOlJlcG9zaXRvcnkxNTYyMTE4OTU=": {
+      "category": "JavaScript and TypeScript Tooling",
+      "ch": "32a63f21a60d",
+      "description": "Dependency-free JavaScript glob matcher with Bash-style braces, extglobs, and POSIX brackets.",
+      "dh": "910a114f3ed7"
     },
     "MDEwOlJlcG9zaXRvcnkxNTYzNDk4MQ==": {
       "category": "Other",
@@ -11053,12 +10489,6 @@
       "description": "Desktop application for downloading YouTube videos and playlists as MP4 or MP3 files.",
       "dh": "e48b4bca9c1d"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTc4NjgwNDg=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "2a35068a2283",
-      "description": "Playground for learning and experimenting with Kubernetes setups and configurations.",
-      "dh": "cfa77c2600a1"
-    },
     "MDEwOlJlcG9zaXRvcnkxNTc5NjU5Mw==": {
       "category": "Developer Tools and Editors",
       "ch": "30c009af07af",
@@ -11119,12 +10549,6 @@
       "description": "Prefetches in-viewport links during idle time to speed up subsequent page loads.",
       "dh": "9e38283f3233"
     },
-    "MDEwOlJlcG9zaXRvcnkxNTg4ODI0MzM=": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "e32f885089f6",
-      "description": "Admin panel framework for Node.js applications with automatically generated interfaces.",
-      "dh": "025d176db5e1"
-    },
     "MDEwOlJlcG9zaXRvcnkxNTg5OTIzNjc=": {
       "category": "Frontend UI Libraries",
       "ch": "6528250aab10",
@@ -11148,12 +10572,6 @@
       "ch": "d411cf05ee70",
       "description": "Browser extension that solves reCAPTCHA challenges using speech recognition.",
       "dh": "bc134f839bf5"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNTgwODUx": {
-      "category": "Frontend UI Libraries",
-      "ch": "80424fa45a56",
-      "description": "Modular, framework-independent JavaScript image gallery and lightbox for mobile and desktop.",
-      "dh": "437b99df7a39"
     },
     "MDEwOlJlcG9zaXRvcnkxNTgwOTg2MzY=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -11269,12 +10687,6 @@
       "description": "Official React component for FullCalendar, the drag-and-drop event calendar library.",
       "dh": "83a94a4e9a56"
     },
-    "MDEwOlJlcG9zaXRvcnkxNjAzMDgyMTE=": {
-      "category": "Frontend UI Libraries",
-      "ch": "322383c8ce61",
-      "description": "React integration for Google reCAPTCHA v3, used to add invisible bot protection to forms.",
-      "dh": "f1f7b0780441"
-    },
     "MDEwOlJlcG9zaXRvcnkxNjE0NDEw": {
       "category": "Audio and Video Processing",
       "ch": "535c8d2c9853",
@@ -11371,23 +10783,11 @@
       "description": "Metadata for EVM-compatible blockchain chains, including chain IDs, names, and RPC details.",
       "dh": "0f83ca1d09d2"
     },
-    "MDEwOlJlcG9zaXRvcnkxNjI2NTE3Mg==": {
-      "category": "Other",
-      "ch": "585e89dfbbac",
-      "description": "JavaScript-accessible list of disposable email domains for filtering temporary addresses.",
-      "dh": "7536cc630f82"
-    },
     "MDEwOlJlcG9zaXRvcnkxNjI3MjMxMDQ=": {
       "category": "Security and Penetration Testing",
       "ch": "b4cc5ff1c597",
       "description": "Concise collection of OWASP cheat sheets with best-practice guidance on application security topics.",
       "dh": "3bb7f86c1ec4"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNjI5OTE1Ng==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "3fa73254d9ae",
-      "description": "Parser for YAML front matter in files, used by many static site generators and CMSs.",
-      "dh": "4f646d3d241c"
     },
     "MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=": {
       "category": "Security and Penetration Testing",
@@ -11473,12 +10873,6 @@
       "description": "Vocabulary and supporting software for Schema.org structured data, covering JSON-LD and RDF.",
       "dh": "c0534cae20a2"
     },
-    "MDEwOlJlcG9zaXRvcnkxNjMwMDU5MTA=": {
-      "category": "Frontend UI Libraries",
-      "ch": "fef0fe5b07e4",
-      "description": "Drag-and-drop library for reordering React lists and tables with accessibility support.",
-      "dh": "97779521872d"
-    },
     "MDEwOlJlcG9zaXRvcnkxNjMzNDYwNTQ=": {
       "category": "AI and Machine Learning",
       "ch": "13bbd82845f6",
@@ -11502,12 +10896,6 @@
       "ch": "b815005eb655",
       "description": "JavaScript WYSIWYG HTML editor for adding rich text editing to web applications.",
       "dh": "03b86c8407df"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNjQ3MjEwNDU=": {
-      "category": "Frontend UI Libraries",
-      "ch": "3f260797ff84",
-      "description": "Website with a collection of server-safe React hooks, documented with examples and articles.",
-      "dh": "171953e4ac82"
     },
     "MDEwOlJlcG9zaXRvcnkxNjQ5NDg1ODI=": {
       "category": "Browser Extensions and Scripts",
@@ -11623,12 +11011,6 @@
       "description": "Toolkit for building rich text editors in React on top of ProseMirror.",
       "dh": "683ea0afabd9"
     },
-    "MDEwOlJlcG9zaXRvcnkxNjY5MDM5NjU=": {
-      "category": "Cryptography and Blockchain",
-      "ch": "7df792fd32e4",
-      "description": "Python client for the Kraken WebSockets API, used to stream cryptocurrency market data.",
-      "dh": "6d56229963f4"
-    },
     "MDEwOlJlcG9zaXRvcnkxNjYwMjQzMw==": {
       "category": "Image and Graphics Processing",
       "ch": "4b371f6a7e9e",
@@ -11647,12 +11029,6 @@
       "description": "Platform for source control, CI/CD pipelines, hosted dev environments, and artifact registries.",
       "dh": "da900e9e752c"
     },
-    "MDEwOlJlcG9zaXRvcnkxNjYyMzA2OQ==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "681154d86021",
-      "description": "Command-line tool for capturing screenshots of websites at multiple resolutions.",
-      "dh": "e35c60f3bad3"
-    },
     "MDEwOlJlcG9zaXRvcnkxNjYyNTI4OTg=": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "f3641f53a060",
@@ -11664,12 +11040,6 @@
       "ch": "05b4c4793021",
       "description": "Portable PDF rendering engine written in JavaScript for displaying PDFs in browsers.",
       "dh": "5da1897eebce"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNjc0NDYxNjI=": {
-      "category": "Security and Penetration Testing",
-      "ch": "ecf501754f26",
-      "description": "Small script that removes script tags and other XSS vectors from SVG files.",
-      "dh": "cc0951bc0f32"
     },
     "MDEwOlJlcG9zaXRvcnkxNjc1MjYyMA==": {
       "category": "Developer Tools and Editors",
@@ -11700,12 +11070,6 @@
       "ch": "edc22e9de999",
       "description": "Modern replacement for ps that lists and inspects running processes with more detail.",
       "dh": "872867b755ff"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNjcyMjkwMA==": {
-      "category": "Networking and Wireless",
-      "ch": "8b7ddfce912f",
-      "description": "Peer-to-peer hypermedia protocol for distributing and addressing content across networks.",
-      "dh": "238b8eba2bc6"
     },
     "MDEwOlJlcG9zaXRvcnkxNjczMzQ2Ng==": {
       "category": "Security and Penetration Testing",
@@ -11802,12 +11166,6 @@
       "ch": "65ae9a928da8",
       "description": "React Native native module for accessing photos and videos in the device camera roll.",
       "dh": "eac617dc8149"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNjk2MjUzMzg=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "6093f1f078e8",
-      "description": "Node.js package that captures screenshots of websites using Puppeteer.",
-      "dh": "11a3443939ae"
     },
     "MDEwOlJlcG9zaXRvcnkxNjk3MDQ3OTk=": {
       "category": "Frontend UI Libraries",
@@ -11911,12 +11269,6 @@
       "description": "Framework for building next-generation web apps using micro frontends.",
       "dh": "a90b4b0f5c55"
     },
-    "MDEwOlJlcG9zaXRvcnkxNzAwMTY3Mg==": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "42bb7b9a91ba",
-      "description": "Converts HTML documents into Markdown-formatted plain text.",
-      "dh": "eef7d97da58c"
-    },
     "MDEwOlJlcG9zaXRvcnkxNzAwOTY4NA==": {
       "category": "Other",
       "ch": "6cc68b5e0ef7",
@@ -11995,23 +11347,11 @@
       "description": "Full-featured HTML framework for building iOS and Android apps with Cordova.",
       "dh": "4b120916c0f6"
     },
-    "MDEwOlJlcG9zaXRvcnkxNzEzOTMzMjc=": {
-      "category": "Frontend UI Libraries",
-      "ch": "35479ea9d34b",
-      "description": "Lightweight rich text editor component for React Native, built with JavaScript and HTML.",
-      "dh": "08ab1c75f89a"
-    },
     "MDEwOlJlcG9zaXRvcnkxNzI1MjE5MjY=": {
       "category": "Frontend UI Libraries",
       "ch": "ba7bd4c39ff7",
       "description": "React renderer for Three.js that lets 3D scenes be built with React components.",
       "dh": "9755750e93b3"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNzI3MTE5MTE=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "04bca180df79",
-      "description": "Node.js daemon that offloads heavy processing work to a background service, extracted from eslint_d.",
-      "dh": "b88cd14ce623"
     },
     "MDEwOlJlcG9zaXRvcnkxNzI3MTQ5MTk=": {
       "category": "Databases and Data Tools",
@@ -12043,12 +11383,6 @@
       "description": "Minimalistic wrapper around IndexedDB for storing and querying data in browser applications.",
       "dh": "d466bbc39203"
     },
-    "MDEwOlJlcG9zaXRvcnkxNzIxMTYzMTk=": {
-      "category": "Testing and Automation",
-      "ch": "70ff6c5baa67",
-      "description": "A client-side server for building, testing, and sharing JavaScript applications.",
-      "dh": "7c69a452fe35"
-    },
     "MDEwOlJlcG9zaXRvcnkxNzIyNDcwOTk=": {
       "category": "Frontend UI Libraries",
       "ch": "e512f5d36ff1",
@@ -12072,12 +11406,6 @@
       "ch": "e3343ebdb554",
       "description": "GitHub Action that deploys a project to GitHub Pages by pushing built code to a configured branch.",
       "dh": "52a3c658d32d"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNzM0NzU2OTk=": {
-      "category": "Other",
-      "ch": "c8f72da917bb",
-      "description": "Stock analysis examples in Excel, MATLAB, Power BI, Python, R and Tableau.",
-      "dh": "cc4d2e55fe17"
     },
     "MDEwOlJlcG9zaXRvcnkxNzM0OTI3Mw==": {
       "category": "Browser Extensions and Scripts",
@@ -12299,23 +11627,11 @@
       "description": "Ad-blocking engine written in Rust, used by Brave to block ads and trackers.",
       "dh": "b28a9c2f749c"
     },
-    "MDEwOlJlcG9zaXRvcnkxNzYzNjAyNTI=": {
-      "category": "Mac Utilities",
-      "ch": "96d7f8d4d351",
-      "description": "OpenCore-based configuration for running native macOS on AMD hardware.",
-      "dh": "ca0ee82746b0"
-    },
     "MDEwOlJlcG9zaXRvcnkxNzYzNjgxMDA=": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "487f202dad79",
       "description": "Curated collection of dynamic pinned gists for GitHub profiles.",
       "dh": "e382f9fae288"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNzYzNzk2NjI=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "d65644354666",
-      "description": "Scanner that inspects live Kubernetes clusters and reports misconfigured or unused resources.",
-      "dh": "c708ca132b21"
     },
     "MDEwOlJlcG9zaXRvcnkxNzc0MzM1NjQ=": {
       "category": "Backend Frameworks and Servers",
@@ -12455,12 +11771,6 @@
       "description": "Dockerfile for running a LanguageTool grammar-checking server in a container.",
       "dh": "f496d0ddbc5a"
     },
-    "MDEwOlJlcG9zaXRvcnkxNzk0MTkxOTA=": {
-      "category": "Testing and Automation",
-      "ch": "f859376dfbb4",
-      "description": "Custom Jest matchers for testing the state of React Native components.",
-      "dh": "1fa02bb8f36a"
-    },
     "MDEwOlJlcG9zaXRvcnkxNzk0OTI4NjE=": {
       "category": "Backend Frameworks and Servers",
       "ch": "67e1421d5b0e",
@@ -12472,12 +11782,6 @@
       "ch": "868b1b48fece",
       "description": "Framework for writing portable Node.js functions that run as functions-as-a-service on Google Cloud.",
       "dh": "9c814b9ef087"
-    },
-    "MDEwOlJlcG9zaXRvcnkxNzk2NzIwMA==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "b1173c479851",
-      "description": "Estimates reading time for text, modeled on Medium's reading time estimates.",
-      "dh": "8c33037c627d"
     },
     "MDEwOlJlcG9zaXRvcnkxNzk4ODQxOTM=": {
       "category": "Security and Penetration Testing",
@@ -12581,12 +11885,6 @@
       "description": "GitHub Action that compresses JPEG, PNG, WebP and AVIF images in pull requests.",
       "dh": "0f89f1095d6d"
     },
-    "MDEwOlJlcG9zaXRvcnkxODE5MjQ1": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "c20f1530121d",
-      "description": "Specification defining semantic versioning rules for numbering software releases.",
-      "dh": "867f2654ea88"
-    },
     "MDEwOlJlcG9zaXRvcnkxODE5Mzk3OA==": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "556f641d49f0",
@@ -12628,12 +11926,6 @@
       "ch": "e2648e4886c0",
       "description": "Simple, robust BitTorrent tracker with client and server implementations for Node and browsers.",
       "dh": "d095c5939a93"
-    },
-    "MDEwOlJlcG9zaXRvcnkxODI0MDk1Nzk=": {
-      "category": "Other",
-      "ch": "80278e02ff7d",
-      "description": "Game Boy emulator that runs in the terminal, with ASCII rendering and cloud gaming support.",
-      "dh": "bb2e450187c1"
     },
     "MDEwOlJlcG9zaXRvcnkxODI1MDI4NTA=": {
       "category": "Desktop and Mobile Apps",
@@ -12851,12 +12143,6 @@
       "description": "URL shortener that encodes short links as sequences of invisible Unicode spaces.",
       "dh": "018ccf80b2aa"
     },
-    "MDEwOlJlcG9zaXRvcnkxODY5OTYwODI=": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "cca5de4b39c4",
-      "description": "Browser extension that exports a LinkedIn profile page as a JSON Resume file.",
-      "dh": "41b51c99f154"
-    },
     "MDEwOlJlcG9zaXRvcnkxODYwMjQyOTg=": {
       "category": "Developer Tools and Editors",
       "ch": "2b0bd0891b3e",
@@ -12899,12 +12185,6 @@
       "description": "Simple, modern file encryption tool and Go library with small explicit keys and UNIX-style composability.",
       "dh": "14fa1c993827"
     },
-    "MDEwOlJlcG9zaXRvcnkxODc1NTA2NA==": {
-      "category": "Image and Graphics Processing",
-      "ch": "6b2cc4c79cf8",
-      "description": "Node.js module that converts images into ASCII art.",
-      "dh": "0da897d10da9"
-    },
     "MDEwOlJlcG9zaXRvcnkxODc2MjAxNTc=": {
       "category": "Cryptography and Blockchain",
       "ch": "6ba0e4b81c36",
@@ -12946,12 +12226,6 @@
       "ch": "6dd1be7403af",
       "description": "One-time password library for Node.js and browsers, supporting HOTP and TOTP for two-factor authentication.",
       "dh": "49242ac5fe06"
-    },
-    "MDEwOlJlcG9zaXRvcnkxODczNzc4Ng==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "83a0f79c39eb",
-      "description": "JavaScript formula parser for evaluating mathematical expressions.",
-      "dh": "970502f8e9c1"
     },
     "MDEwOlJlcG9zaXRvcnkxODg0MzgxOTE=": {
       "category": "Frontend UI Libraries",
@@ -13109,12 +12383,6 @@
       "description": "Simple, zero-configuration command-line HTTP server for serving static files.",
       "dh": "fb0283755562"
     },
-    "MDEwOlJlcG9zaXRvcnkxOTA5Mjg0MjY=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "e25482ca92e1",
-      "description": "Large utility type library for TypeScript to aid type manipulation and type safety.",
-      "dh": "a3d3481f2b0a"
-    },
     "MDEwOlJlcG9zaXRvcnkxOTA5MzgzMDM=": {
       "category": "Databases and Data Tools",
       "ch": "e0868973b36b",
@@ -13237,12 +12505,6 @@
       "description": "Minimal, fast JavaScript implementation of Ed25519 digital signatures.",
       "dh": "36be86101222"
     },
-    "MDEwOlJlcG9zaXRvcnkxOTIwMzc2": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "9514d24490d3",
-      "description": "Parser and generator for CSS color strings, converting between formats such as hex, rgb, and hsl.",
-      "dh": "311ea39b726a"
-    },
     "MDEwOlJlcG9zaXRvcnkxOTIwNTg5Ng==": {
       "category": "DevOps and Infrastructure",
       "ch": "85da6171dd78",
@@ -13344,12 +12606,6 @@
       "ch": "8007ff943c69",
       "description": "Fair-code workflow automation platform with native AI capabilities and 400+ integrations.",
       "dh": "a4fc315de654"
-    },
-    "MDEwOlJlcG9zaXRvcnkxOTMyMTkzNTY=": {
-      "category": "Frontend UI Libraries",
-      "ch": "3ca21738ef48",
-      "description": "Library for getting, setting and removing cookies on both client and server in Next.js.",
-      "dh": "04d4c257fbcc"
     },
     "MDEwOlJlcG9zaXRvcnkxOTQ1MTMyNjY=": {
       "category": "Developer Tools and Editors",
@@ -13507,23 +12763,11 @@
       "description": "Open-source Flash SWF decompiler and editor for extracting and editing ActionScript, images, sounds, and other resources.",
       "dh": "dcdc39369187"
     },
-    "MDEwOlJlcG9zaXRvcnkxOTY2MTMyNDE=": {
-      "category": "Cryptography and Blockchain",
-      "ch": "0b6fcbded686",
-      "description": "Automated bot that trades cryptocurrencies on Binance.",
-      "dh": "d403a948d524"
-    },
     "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=": {
       "category": "Desktop and Mobile Apps",
       "ch": "e21ca461a910",
       "description": "Framework for building small, fast, secure desktop and mobile apps with a web frontend.",
       "dh": "7420d4577fb8"
-    },
-    "MDEwOlJlcG9zaXRvcnkxOTY5NDg5MzI=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "91b21c1af45d",
-      "description": "Framework for writing Kubernetes operators in Node.js.",
-      "dh": "4d7ef5719f10"
     },
     "MDEwOlJlcG9zaXRvcnkxOTY5NjAwNg==": {
       "category": "Image and Graphics Processing",
@@ -13663,12 +12907,6 @@
       "description": "DAP-compatible JavaScript debugger used in VS Code and other tools for debugging Node.js and browser code.",
       "dh": "dd09131aa5ca"
     },
-    "MDEwOlJlcG9zaXRvcnkxOTg5MDE5NzQ=": {
-      "category": "Testing and Automation",
-      "ch": "2e2158568f19",
-      "description": "Examples demonstrating unit, integration, and end-to-end testing of NestJS applications.",
-      "dh": "785b50afbf0e"
-    },
     "MDEwOlJlcG9zaXRvcnkxOTg5Nzg3OA==": {
       "category": "DevOps and Infrastructure",
       "ch": "69c67aa6b093",
@@ -13678,12 +12916,6 @@
     "MDEwOlJlcG9zaXRvcnkxOTg5ODIxNjg=": {
       "category": "Other",
       "ch": "16b5177b38b2"
-    },
-    "MDEwOlJlcG9zaXRvcnkxOTgyMjY1OTU=": {
-      "category": "Cloud and Kubernetes",
-      "ch": "f8a855949784",
-      "description": "kubectl plugin that removes clutter from Kubernetes YAML and JSON output for readability.",
-      "dh": "6304628048d1"
     },
     "MDEwOlJlcG9zaXRvcnkxOTgyNzMxMjg=": {
       "category": "Cloud and Kubernetes",
@@ -13853,12 +13085,6 @@
       "description": "Documentation generator that builds API reference docs from TypeScript projects.",
       "dh": "aea329855fb6"
     },
-    "MDEwOlJlcG9zaXRvcnkyMDEzNTYzNzA=": {
-      "category": "Testing and Automation",
-      "ch": "cbc4fcda5aab",
-      "description": "Self-hosted, free alternative to the Cypress Dashboard for recording and viewing test runs.",
-      "dh": "ecd5483c130c"
-    },
     "MDEwOlJlcG9zaXRvcnkyMDI0MDkyMDI=": {
       "category": "Desktop and Mobile Apps",
       "ch": "e09aff90a80b",
@@ -13894,12 +13120,6 @@
       "ch": "dddd364782fa",
       "description": "React component library for building accessible web applications with a CSS-in-JS styling API.",
       "dh": "1cca035db0f4"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMDI5MTQ5MTI=": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "0406cae79d31",
-      "description": "Example project combining TypeORM, Express, Angular 8 SSR, and NestJS in one codebase.",
-      "dh": "e05fdc1a701a"
     },
     "MDEwOlJlcG9zaXRvcnkyMDI5NDA5NzM=": {
       "category": "Frontend UI Libraries",
@@ -14052,12 +13272,6 @@
       "ch": "163dc7c1fc7a",
       "description": "Python library and command-line utility for pretty-printing tabular data.",
       "dh": "d43cef7a8d28"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMDUwMjQyOTg=": {
-      "category": "DevOps and Infrastructure",
-      "ch": "e51bd61da47f",
-      "description": "GitHub Action that creates a version tag in a repository when a pull request is merged.",
-      "dh": "0eed0e436df3"
     },
     "MDEwOlJlcG9zaXRvcnkyMDUwNDI0NTU=": {
       "category": "Systems Programming in Go and Rust",
@@ -14419,12 +13633,6 @@
       "description": "Popular HTML, CSS and JavaScript framework for building responsive, mobile-first websites.",
       "dh": "7b99be6dd13d"
     },
-    "MDEwOlJlcG9zaXRvcnkyMTI2MzkwNzE=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "7af3177d59b3",
-      "description": "Interview questions and exercises covering DevOps topics such as Linux, Docker, Kubernetes and AWS.",
-      "dh": "256a67de740a"
-    },
     "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "f9cc8d697502",
@@ -14682,12 +13890,6 @@
       "ch": "dfe215a8d09a",
       "description": "Network fabric for containers that provides a layer 3 network for Kubernetes clusters.",
       "dh": "7845d1356c1c"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMTcxNDY3Nw==": {
-      "category": "Audio and Video Processing",
-      "ch": "72a7e9c1417d",
-      "description": "Library that brings the Processing approach to sound and audio, using Web Audio with p5.js.",
-      "dh": "c1e3ce434c62"
     },
     "MDEwOlJlcG9zaXRvcnkyMTcyMDc2OTA=": {
       "category": "Networking and Wireless",
@@ -15329,12 +14531,6 @@
       "description": "Binary distributions of Node.js packages for Linux from NodeSource.",
       "dh": "3e0317a9c77c"
     },
-    "MDEwOlJlcG9zaXRvcnkyMjkzOTM2MTU=": {
-      "category": "Frontend UI Libraries",
-      "ch": "c99da10e10da",
-      "description": "React component that renders an interactive terminal in a web application.",
-      "dh": "1657d9480549"
-    },
     "MDEwOlJlcG9zaXRvcnkyMzA1OTU4OTE=": {
       "category": "Databases and Data Tools",
       "ch": "b836feb2126e",
@@ -15496,18 +14692,6 @@
       "ch": "8e6801712827",
       "description": "Java plugin that lets users query Elasticsearch using SQL syntax.",
       "dh": "cd2e859836be"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMzI4ODg1MDQ=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "de4c42964aaa",
-      "description": "Library of type-safe lenses, prisms and other optics for reading and updating immutable TypeScript data.",
-      "dh": "40e5548ee5c5"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMzIyODY1MA==": {
-      "category": "Image and Graphics Processing",
-      "ch": "af32031c66db",
-      "description": "Node.js library for comparing images and detecting visual differences, used with Testplane.",
-      "dh": "355d1b540466"
     },
     "MDEwOlJlcG9zaXRvcnkyMzM0NzIxOTk=": {
       "category": "Security and Penetration Testing",
@@ -15677,10 +14861,6 @@
       "description": "Command-line and GUI tool that removes build artifacts and dependencies from projects to free disk space.",
       "dh": "06dc5fc4f4c0"
     },
-    "MDEwOlJlcG9zaXRvcnkyMzY2ODkzMTQ=": {
-      "category": "Other",
-      "ch": "0c88915d8704"
-    },
     "MDEwOlJlcG9zaXRvcnkyMzY3MDg0NDI=": {
       "category": "DevOps and Infrastructure",
       "ch": "0cf062b3795e",
@@ -15746,10 +14926,6 @@
       "ch": "31d7b12918b8",
       "description": "GitHub Action for deploying applications to Clever Cloud.",
       "dh": "00be6be906d1"
-    },
-    "MDEwOlJlcG9zaXRvcnkyMzcwMTIyNzQ=": {
-      "category": "DevOps and Infrastructure",
-      "ch": "21d9d5ac460f"
     },
     "MDEwOlJlcG9zaXRvcnkyMzcwNTgzMg==": {
       "category": "Cryptography and Blockchain",
@@ -15833,12 +15009,6 @@
       "description": "GitHub Action that downloads workflow artifacts matching given criteria such as commit or workflow.",
       "dh": "486846d12545"
     },
-    "MDEwOlJlcG9zaXRvcnkyMzkzMzQ0ODk=": {
-      "category": "DevOps and Infrastructure",
-      "ch": "07fc7efa8037",
-      "description": "GitHub Action that retrieves the head ref and SHA of a pull request from a comment event.",
-      "dh": "787f4e30ad33"
-    },
     "MDEwOlJlcG9zaXRvcnkyMzkzODk0NDk=": {
       "category": "Other",
       "ch": "6b4a00a06bdf",
@@ -15880,12 +15050,6 @@
       "ch": "d93c392df1c5",
       "description": "Open-source JavaScript cookie consent manager for GDPR with Google Consent Mode v2 support.",
       "dh": "ee3bce72cc86"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNDAzMTUwNDY=": {
-      "category": "AI and Machine Learning",
-      "ch": "8f18ebdfb113",
-      "description": "Framework for building and deploying multimodal AI services on cloud-native infrastructure.",
-      "dh": "4488ebc235ef"
     },
     "MDEwOlJlcG9zaXRvcnkyNDAzNDU2Nw==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -16127,12 +15291,6 @@
       "description": "Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename.",
       "dh": "91918c0fc8f8"
     },
-    "MDEwOlJlcG9zaXRvcnkyNDcwODA1NjE=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "086d18fb971e",
-      "description": "Fast directory crawler and globbing library for Node.js that lists files quickly.",
-      "dh": "166c62d46f56"
-    },
     "MDEwOlJlcG9zaXRvcnkyNDcxODA0": {
       "category": "Other",
       "ch": "2b41b9a87300",
@@ -16163,12 +15321,6 @@
       "description": "Modular JavaScript library of functions for manipulating and formatting dates.",
       "dh": "6f7897132ad5"
     },
-    "MDEwOlJlcG9zaXRvcnkyNDg1MTk1OTU=": {
-      "category": "Frontend UI Libraries",
-      "ch": "04f14e2d50f8",
-      "description": "A React hook for playing sound effects in web applications.",
-      "dh": "271b169d13a0"
-    },
     "MDEwOlJlcG9zaXRvcnkyNDg1NTA2ODA=": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "38166cbaac81",
@@ -16183,9 +15335,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNDg2OTcyODM=": {
       "category": "Cryptography and Blockchain",
-      "ch": "86bba2a691d8",
-      "description": "Browser-based IDE and Solidity compiler for building and debugging Ethereum contracts.",
-      "dh": "d7b0fe486a75"
+      "ch": "626aaad59005",
+      "description": "Browser-based platform for building and debugging Ethereum contracts in Solidity, Noir, and Circom.",
+      "dh": "31d2d757ee0c"
     },
     "MDEwOlJlcG9zaXRvcnkyNDg3ODg3NQ==": {
       "category": "Awesome Lists and Learning Resources",
@@ -16229,12 +15381,6 @@
       "description": "Webpack loader that transpiles JavaScript files with Babel.",
       "dh": "cdd17d40fc29"
     },
-    "MDEwOlJlcG9zaXRvcnkyNDk4NDIwMzg=": {
-      "category": "Networking and Wireless",
-      "ch": "9f8652c55652",
-      "description": "Automated Wi-Fi cracking tool for macOS.",
-      "dh": "a9e64ff526ca"
-    },
     "MDEwOlJlcG9zaXRvcnkyNDk4NTQzMDg=": {
       "category": "Other",
       "ch": "4d4070c1538f",
@@ -16270,12 +15416,6 @@
       "ch": "605f526e9bff",
       "description": "Library for training transformer language models using reinforcement learning methods.",
       "dh": "0ea643e62918"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNTA2MDgzNzg=": {
-      "category": "Other",
-      "ch": "baae1fdf3051",
-      "description": "Documentation and support material for the activities of SocialGouv startups.",
-      "dh": "4bf9c7e73c47"
     },
     "MDEwOlJlcG9zaXRvcnkyNTA2MjQyODM=": {
       "category": "Developer Tools and Editors",
@@ -16431,12 +15571,6 @@
       "description": "Fast and efficient worker thread pool implementation for Node.js.",
       "dh": "195f6266c575"
     },
-    "MDEwOlJlcG9zaXRvcnkyNTQyNzgxNw==": {
-      "category": "Frontend UI Libraries",
-      "ch": "1bdabb637c70",
-      "description": "Drag and drop library for React built on HTML5 or touch backends.",
-      "dh": "d29aee7e2813"
-    },
     "MDEwOlJlcG9zaXRvcnkyNTQzMTYzNA==": {
       "category": "Mac Utilities",
       "ch": "c83561b439c5",
@@ -16490,12 +15624,6 @@
       "ch": "08f491d0b5c1",
       "description": "Programming language for writing law specifications in a literate style, with legislative texts.",
       "dh": "ab5a0c329f26"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNTY2OTg5ODY=": {
-      "category": "Other",
-      "ch": "93aa94fe7ff1",
-      "description": "Fork of p7zip adding extra codecs and improvements to the 7-Zip archiver.",
-      "dh": "cbc05d5d85de"
     },
     "MDEwOlJlcG9zaXRvcnkyNTY3NzAwMjc=": {
       "category": "Security and Penetration Testing",
@@ -16695,12 +15823,6 @@
       "description": "Library for performing efficient edits on strings and generating source maps.",
       "dh": "a29d73a0fe48"
     },
-    "MDEwOlJlcG9zaXRvcnkyNjE1Mzg4NjU=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "6b61064bea8f",
-      "description": "Curated guide to backlink, link building, and search ranking tactics and educational resources.",
-      "dh": "b51075f0b76c"
-    },
     "MDEwOlJlcG9zaXRvcnkyNjE3ODc3NTg=": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "8fcc7f168591",
@@ -16730,12 +15852,6 @@
       "ch": "479db0d4c7f7",
       "description": "Desktop platform for graph visualization, exploration and analysis with OpenGL rendering.",
       "dh": "ea73a54a3f90"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNjI1Nzk3MzE=": {
-      "category": "Frontend UI Libraries",
-      "ch": "cf41f74b7bc6",
-      "description": "Example project showing how to use NextAuth.js with Next.js for authentication.",
-      "dh": "11a449d26918"
     },
     "MDEwOlJlcG9zaXRvcnkyNjI1ODc0NzA=": {
       "category": "Image and Graphics Processing",
@@ -16833,12 +15949,6 @@
       "description": "JavaScript library providing dataframes and tools for manipulating and analyzing structured data.",
       "dh": "691049a7b724"
     },
-    "MDEwOlJlcG9zaXRvcnkyNjM3NTQwNzk=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "220a2b47233b",
-      "description": "Project starter for publishing TypeScript modules to npm, with preconfigured tooling and CI setup.",
-      "dh": "80a8b3413fb4"
-    },
     "MDEwOlJlcG9zaXRvcnkyNjM5MjM5Njg=": {
       "category": "Testing and Automation",
       "ch": "b0e7d40a439e"
@@ -16903,12 +16013,6 @@
       "description": "Multi-model database for documents, graphs and key-value data, queried with an SQL-like language.",
       "dh": "daa941b24c5f"
     },
-    "MDEwOlJlcG9zaXRvcnkyNjQ5Mjg5NTY=": {
-      "category": "Testing and Automation",
-      "ch": "738509e2c1dc",
-      "description": "A DOM testing playground that encourages good testing practices and accessibility.",
-      "dh": "5221537525f1"
-    },
     "MDEwOlJlcG9zaXRvcnkyNjQ5NDcxNjU=": {
       "category": "Documentation and Knowledge Tools",
       "ch": "e86bb07bc347",
@@ -16947,7 +16051,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyNjU1MjI4ODI=": {
       "category": "Frontend UI Libraries",
-      "ch": "b0b61364bfdd",
+      "ch": "d932fcdff60a",
       "description": "React Native component that cuts click-through holes in an overlay, useful for tutorial overlays.",
       "dh": "0b09f823fcb9"
     },
@@ -17059,12 +16163,6 @@
       "description": "Go tool for brute-forcing directories, files, DNS subdomains and virtual hosts during penetration tests.",
       "dh": "5e0f2fc8ef69"
     },
-    "MDEwOlJlcG9zaXRvcnkyNjc0Mjk1MTY=": {
-      "category": "Developer Tools and Editors",
-      "ch": "3cf7977bdb2f",
-      "description": "Tool for designing user interfaces with code, bridging design and development.",
-      "dh": "34f261ea03a9"
-    },
     "MDEwOlJlcG9zaXRvcnkyNjc1NjMzOTg=": {
       "category": "Other",
       "ch": "5ba2543eb888",
@@ -17088,12 +16186,6 @@
       "ch": "4108058578a9",
       "description": "Collection of JSON schema files for validating and describing configuration and data files.",
       "dh": "dff68b590e96"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNjcwNDYzOQ==": {
-      "category": "Frontend UI Libraries",
-      "ch": "6c9f1f3c613e",
-      "description": "Carousel component for React built on the slick slider.",
-      "dh": "de801801f202"
     },
     "MDEwOlJlcG9zaXRvcnkyNjcwNTQyNDc=": {
       "category": "Security and Penetration Testing",
@@ -17125,12 +16217,6 @@
       "description": "GitHub Action that runs Trivy to scan Docker container images for vulnerabilities.",
       "dh": "dd1d2a04fe2a"
     },
-    "MDEwOlJlcG9zaXRvcnkyNjg4OTI5NTY=": {
-      "category": "AI and Machine Learning",
-      "ch": "eab623b8f43b",
-      "description": "Python library for ranking evaluation, comparison, and fusion in information retrieval.",
-      "dh": "ca18974c6ebc"
-    },
     "MDEwOlJlcG9zaXRvcnkyNjgxNjM2MDk=": {
       "category": "Databases and Data Tools",
       "ch": "1c962d9ab8b6",
@@ -17148,12 +16234,6 @@
       "ch": "f54c7eaff184",
       "description": "Library that trims font metrics so CSS line heights and text edges align precisely.",
       "dh": "838fddd79911"
-    },
-    "MDEwOlJlcG9zaXRvcnkyNjkzMzYxNDg=": {
-      "category": "DevOps and Infrastructure",
-      "ch": "6512f91a8d7e",
-      "description": "Runs macOS virtual machines inside Docker containers using KVM, with X11 forwarding.",
-      "dh": "8c101497b3f3"
     },
     "MDEwOlJlcG9zaXRvcnkyNzA1MzA4NTA=": {
       "category": "Other",
@@ -17495,12 +16575,6 @@
       "description": "Extensible fuzzy finder for Neovim to find, filter, preview and pick files and other items.",
       "dh": "8bb3f93ee270"
     },
-    "MDEwOlJlcG9zaXRvcnkyNzk4NDg3NDg=": {
-      "category": "Developer Tools and Editors",
-      "ch": "a4fbe54cbe59",
-      "description": "Web tool that generates GitHub profile README files with visitor counts and GitHub stats.",
-      "dh": "d93285b85d63"
-    },
     "MDEwOlJlcG9zaXRvcnkyNzk5MDg2ODk=": {
       "category": "Security and Penetration Testing",
       "ch": "bda81b028d31",
@@ -17574,8 +16648,8 @@
       "dh": "6317e5479f13"
     },
     "MDEwOlJlcG9zaXRvcnkyODAzOTYwODA=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "f393b0fc5909",
+      "category": "Frontend UI Libraries",
+      "ch": "908767d0221d",
       "description": "React Native module for integrating Queue-it's virtual waiting room into React Native applications.",
       "dh": "bd18fa63ac3f"
     },
@@ -17614,12 +16688,6 @@
       "ch": "ab28279934e4",
       "description": "Fast, clean, responsive Hugo theme for blogs with a grayscale design.",
       "dh": "74862308feaa"
-    },
-    "MDEwOlJlcG9zaXRvcnkyODEzMTkxOA==": {
-      "category": "Image and Graphics Processing",
-      "ch": "71a5994bf143",
-      "description": "Web-based graphical interface for optimizing SVG files with SVGO.",
-      "dh": "585d58f75c0b"
     },
     "MDEwOlJlcG9zaXRvcnkyODI0NjQ3Mg==": {
       "category": "Audio and Video Processing",
@@ -17740,12 +16808,6 @@
       "ch": "d500b9f5bcd9",
       "description": "Tool that packages Node.js applications into a single standalone executable.",
       "dh": "a29bf08a32b1"
-    },
-    "MDEwOlJlcG9zaXRvcnkyODU3NzQxMTM=": {
-      "category": "AI and Machine Learning",
-      "ch": "3ebc597d4994",
-      "description": "Code for a deep learning model that generates lip-synced speech videos for faces in the wild.",
-      "dh": "a21be94b1d31"
     },
     "MDEwOlJlcG9zaXRvcnkyODU4MTcxOTA=": {
       "category": "Networking and Wireless",
@@ -18123,12 +17185,6 @@
       "description": "BDD and TDD assertion library for Node.js and the browser, usable with any test framework.",
       "dh": "063d64795ac9"
     },
-    "MDEwOlJlcG9zaXRvcnkyOTMyOTg4NA==": {
-      "category": "DevOps and Infrastructure",
-      "ch": "3a6c37917736",
-      "description": "Command-line utilities for managing object storage, modeled on Unix commands like ls and cp.",
-      "dh": "ec0c320a2d8b"
-    },
     "MDEwOlJlcG9zaXRvcnkyOTQ1NjYyNA==": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "8f459d704556",
@@ -18291,12 +17347,6 @@
       "description": "Community-maintained list of open-source iOS, macOS, and tvOS apps.",
       "dh": "ee88850b0d4a"
     },
-    "MDEwOlJlcG9zaXRvcnkyOTg5MTE4OA==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "28c5f4062a85",
-      "description": "JavaScript style guide with a linter and automatic code fixer, requiring no configuration.",
-      "dh": "8f093302ac17"
-    },
     "MDEwOlJlcG9zaXRvcnkyOTk0NTE3": {
       "category": "Frontend UI Libraries",
       "ch": "2e5606a6d0ee",
@@ -18308,12 +17358,6 @@
       "ch": "12b1dac2f249",
       "description": "Offline password cracker supporting hundreds of hash and cipher types across CPUs and GPUs.",
       "dh": "ca10f5c6ef79"
-    },
-    "MDEwOlJlcG9zaXRvcnkyOTk3Nzg2MA==": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "40b64ee2b038",
-      "description": "Curated list of test automation frameworks, tools, and libraries for many programming languages.",
-      "dh": "e4f31b27b5a0"
     },
     "MDEwOlJlcG9zaXRvcnkyOTk4MzI4NjA=": {
       "category": "Audio and Video Processing",
@@ -18332,12 +17376,6 @@
       "ch": "ef105d895c5c",
       "description": "Signal private messaging application for Android.",
       "dh": "fb98a65e09b1"
-    },
-    "MDEwOlJlcG9zaXRvcnkyOTkwODM4NDk=": {
-      "category": "Other",
-      "ch": "e6be696a3b9c",
-      "description": "Python library implementing trading technical indicators for financial analysis and machine learning.",
-      "dh": "9bdc96415eac"
     },
     "MDEwOlJlcG9zaXRvcnkyOTkyNDQzMw==": {
       "category": "Desktop and Mobile Apps",
@@ -18483,12 +17521,6 @@
       "description": "Command-line tool that runs multiple commands concurrently in a single terminal.",
       "dh": "2d326e78e6cb"
     },
-    "MDEwOlJlcG9zaXRvcnkzMDM4NDI3NzY=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "58b44e53f64c",
-      "description": "Runtime reflection system for TypeScript, providing type metadata for dependency injection.",
-      "dh": "bfe97b8f5eec"
-    },
     "MDEwOlJlcG9zaXRvcnkzMDMxMDUzNjM=": {
       "category": "Frontend UI Libraries",
       "ch": "443107e3c967",
@@ -18497,9 +17529,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzMDQ0NTMwNDg=": {
       "category": "Networking and Wireless",
-      "ch": "acfe0f2fd816",
-      "description": "Free cross-platform VPN written in C# for .NET, designed to be fast and hard to detect.",
-      "dh": "9309a90a299b"
+      "ch": "6e481628fbc7",
+      "description": "Open-source C# on .NET VPN with engine, apps, and server that resists deep packet inspection.",
+      "dh": "dbf5532e1954"
     },
     "MDEwOlJlcG9zaXRvcnkzMDQ2NTc0NDk=": {
       "category": "Other",
@@ -18519,23 +17551,11 @@
       "description": "Responsive React carousel component with swipe, autoplay, and keyboard navigation support.",
       "dh": "3ceb6a682c87"
     },
-    "MDEwOlJlcG9zaXRvcnkzMDQ5MDkxMDY=": {
-      "category": "Frontend UI Libraries",
-      "ch": "5b8bc9685614",
-      "description": "Animation library for React Native and web, built on Reanimated 3.",
-      "dh": "bfedd6dca59a"
-    },
     "MDEwOlJlcG9zaXRvcnkzMDQ5ODEzNDA=": {
       "category": "Other",
       "ch": "5efc7d5a3150",
       "description": "Free open source ERP and CRM software for accounting, invoicing, and customer management, built with Node.js and React.",
       "dh": "44a497458d76"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMDQzMDQ4": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "cd59d68fe2f2",
-      "description": "Node.js client for the NATS cloud-native messaging system.",
-      "dh": "841c901bce2d"
     },
     "MDEwOlJlcG9zaXRvcnkzMDU3OTM3OTg=": {
       "category": "Cloud and Kubernetes",
@@ -18560,12 +17580,6 @@
       "ch": "4995a0fdf648",
       "description": "Offline search plugin for Docusaurus v2 and v3 sites that works without an external service.",
       "dh": "39134910cbd1"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMDUzODYzMA==": {
-      "category": "Developer Tools and Editors",
-      "ch": "e01cdd3a66ab",
-      "description": "Generates local git statistics and GitHub-style contribution calendars from repositories.",
-      "dh": "324160c0762e"
     },
     "MDEwOlJlcG9zaXRvcnkzMDY3MDE5OTY=": {
       "category": "Cloud and Kubernetes",
@@ -18687,12 +17701,6 @@
       "description": "JSON-RPC 2.0 and 1.0 client and server library for Node.js.",
       "dh": "d46577389027"
     },
-    "MDEwOlJlcG9zaXRvcnkzMDgwMjQwNzg=": {
-      "category": "Frontend UI Libraries",
-      "ch": "a4ffe11c6850",
-      "description": "React library for building workflow editors, flowcharts, and diagrams.",
-      "dh": "c7143b99fb7c"
-    },
     "MDEwOlJlcG9zaXRvcnkzMDgyODg1MA==": {
       "category": "Systems Programming in Go and Rust",
       "ch": "2592721c0234",
@@ -18711,12 +17719,6 @@
       "description": "Free, privacy-friendly browser extension for screen recording with annotation tools.",
       "dh": "d0e711fdb76e"
     },
-    "MDEwOlJlcG9zaXRvcnkzMTA0MjY2NTY=": {
-      "category": "Other",
-      "ch": "0375f27b1083",
-      "description": "Open-source issue management and help desk system, an alternative to Zendesk and Jira.",
-      "dh": "fab44415c8cf"
-    },
     "MDEwOlJlcG9zaXRvcnkzMTA0NTY2NzA=": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "4f17ebf31cb0",
@@ -18726,12 +17728,6 @@
     "MDEwOlJlcG9zaXRvcnkzMTA2ODY2MTk=": {
       "category": "Frontend UI Libraries",
       "ch": "2b35304f1f77"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMTA5MTI3ODM=": {
-      "category": "Frontend UI Libraries",
-      "ch": "3f67a3b9a6da",
-      "description": "React-first GUI library of components for building controls that adjust application values during development.",
-      "dh": "39b88fc95bf1"
     },
     "MDEwOlJlcG9zaXRvcnkzMTAwMTIx": {
       "category": "Desktop and Mobile Apps",
@@ -18961,23 +17957,11 @@
       "description": "Testing framework for end-to-end and component tests of anything that runs in a browser.",
       "dh": "78c476770836"
     },
-    "MDEwOlJlcG9zaXRvcnkzMTc2Mzk2ODU=": {
-      "category": "Developer Tools and Editors",
-      "ch": "39fb885b0e92",
-      "description": "Desktop automation tool for writing and running scripts to automate everyday tasks.",
-      "dh": "f9f53ee36119"
-    },
     "MDEwOlJlcG9zaXRvcnkzMTc2ODUxNA==": {
       "category": "Backend Frameworks and Servers",
       "ch": "abceeacc7ad0",
       "description": "Barebone MQTT broker that runs on any stream server, built for Node.js.",
       "dh": "eae0e212cb73"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMTc4NTk5MTA=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "8f49ca2e751c",
-      "description": "Boilerplate for production-ready React and TypeScript frontend projects, with testing and tooling.",
-      "dh": "51e07d8970d7"
     },
     "MDEwOlJlcG9zaXRvcnkzMTc5MTQ4Mg==": {
       "category": "Systems Programming in Go and Rust",
@@ -19069,12 +18053,6 @@
       "description": "Rust library for working with pcap packet capture files and network interfaces.",
       "dh": "8b9c2172c1ab"
     },
-    "MDEwOlJlcG9zaXRvcnkzMTkzNjYwMA==": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "3526a0407614",
-      "description": "Documentation generator for modern JavaScript that extracts API docs from source comments.",
-      "dh": "61266bb6029d"
-    },
     "MDEwOlJlcG9zaXRvcnkzMjA0NjM3MDM=": {
       "category": "Databases and Data Tools",
       "ch": "96c2e7b1c98a",
@@ -19116,12 +18094,6 @@
       "ch": "00297b5ffaf3",
       "description": "Lightweight DOM implementation for server-side rendering using triple-linked lists.",
       "dh": "f2fa061cf0c9"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMjI0MTg4NTc=": {
-      "category": "Frontend UI Libraries",
-      "ch": "a470484ea221",
-      "description": "Library that applies Tailwind CSS class names to React Native components with a simple API.",
-      "dh": "6de3c9c8da17"
     },
     "MDEwOlJlcG9zaXRvcnkzMjI0NjgyOA==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -19219,12 +18191,6 @@
       "description": "Content blocker for Safari on iOS and macOS that hides distracting page elements.",
       "dh": "5a2609adcd19"
     },
-    "MDEwOlJlcG9zaXRvcnkzMjMyMjQ4MzY=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "df595ea80663",
-      "description": "Starter template for building iOS, Android and progressive web apps with Next.js, Ionic and Capacitor.",
-      "dh": "495276b74806"
-    },
     "MDEwOlJlcG9zaXRvcnkzMjQ3NDQwMzQ=": {
       "category": "Browser Extensions and Scripts",
       "ch": "bb703e9ef6b5",
@@ -19242,12 +18208,6 @@
       "ch": "fe760a21667c",
       "description": "Lists SaaS, PaaS, and IaaS products with free tiers for DevOps and infrastructure developers.",
       "dh": "3710136b6ead"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMjQwMDI4NzA=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "470e18b1559f",
-      "description": "Modern, typed functional utility library for JavaScript and TypeScript.",
-      "dh": "a64ec0431817"
     },
     "MDEwOlJlcG9zaXRvcnkzMjQwMjUzNjE=": {
       "category": "Developer Tools and Editors",
@@ -19272,12 +18232,6 @@
       "ch": "d16bc8f916d0",
       "description": "Command-line interface for managing Scaleway cloud resources.",
       "dh": "261c71c55744"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMjU3NzQzMjE=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "7bdacbcbac5a",
-      "description": "Community-maintained list of plugins for the esbuild JavaScript bundler.",
-      "dh": "ce6ff49c2bfd"
     },
     "MDEwOlJlcG9zaXRvcnkzMjU4OTE2NzI=": {
       "category": "Cryptography and Blockchain",
@@ -19308,12 +18262,6 @@
       "ch": "4b0b3b52c326",
       "description": "OCR toolkits for many languages, built on ONNX Runtime, OpenVINO, MNN, PaddlePaddle or PyTorch.",
       "dh": "d5c32010cc13"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMjY3MjgxMDY=": {
-      "category": "Frontend UI Libraries",
-      "ch": "631c1a040775",
-      "description": "Accessible color palette system for designing user interfaces.",
-      "dh": "53ebbcd9d7fa"
     },
     "MDEwOlJlcG9zaXRvcnkzMjY3NTUzNzE=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -19405,18 +18353,6 @@
       "description": "Next.js and Tailwind CSS starter template for a technical blog with MDX support.",
       "dh": "2327447ba3c8"
     },
-    "MDEwOlJlcG9zaXRvcnkzMjgyMzc2MjU=": {
-      "category": "Testing and Automation",
-      "ch": "ab020e17c98d",
-      "description": "Mock implementation of the Next.js router for testing components and code that depend on it.",
-      "dh": "ba8a938329f9"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMjgzNTg1ODY=": {
-      "category": "Testing and Automation",
-      "ch": "679164613e3d",
-      "description": "GitHub Action that reports Jest code coverage as annotations and comments on pull requests.",
-      "dh": "e21578bafb2f"
-    },
     "MDEwOlJlcG9zaXRvcnkzMjk0NDI5OA==": {
       "category": "Other",
       "ch": "e58656c3bc92",
@@ -19499,35 +18435,17 @@
       "description": "React framework for building internal tools, admin panels, dashboards, and B2B applications.",
       "dh": "5a264df09097"
     },
-    "MDEwOlJlcG9zaXRvcnkzMzI0Njc2": {
-      "category": "Other",
-      "ch": "097c196d432c",
-      "description": "Node.js connector for the Shopify API, sponsored by MONEI.",
-      "dh": "e829e410acb0"
-    },
     "MDEwOlJlcG9zaXRvcnkzMzI2MzExOA==": {
       "category": "Browser Extensions and Scripts",
       "ch": "6a0df7b0496f",
       "description": "Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use.",
       "dh": "1a15e5371f8e"
     },
-    "MDEwOlJlcG9zaXRvcnkzMzI3NTc2MzQ=": {
-      "category": "Security and Penetration Testing",
-      "ch": "84601fd3e296",
-      "description": "Browser fingerprinting proof of concept that identifies browsers through favicon behavior.",
-      "dh": "2e4c4df80ab0"
-    },
     "MDEwOlJlcG9zaXRvcnkzMzI3OTgzMjE=": {
       "category": "Programming Languages and Compilers",
       "ch": "eadbc653331e",
       "description": "Deductive verifier for Rust that lets developers write contracts and prove code correct.",
       "dh": "0d07d69624a9"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMzI4NDg4NjY=": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "8720d1e1c9b8",
-      "description": "Curated list of publicly documented technology migrations between tools, languages, and platforms.",
-      "dh": "c405b3cd7209"
     },
     "MDEwOlJlcG9zaXRvcnkzMzI4NTcy": {
       "category": "JavaScript and TypeScript Tooling",
@@ -19577,12 +18495,6 @@
       "description": "Tool for detecting website changes and sending alerts on content updates, price drops, and restocks.",
       "dh": "2a3ff346ec05"
     },
-    "MDEwOlJlcG9zaXRvcnkzMzM1NDA5OQ==": {
-      "category": "Networking and Wireless",
-      "ch": "d5e0387a299b",
-      "description": "Platform-independent C library for communicating with Near Field Communication (NFC) devices.",
-      "dh": "90945b6190cf"
-    },
     "MDEwOlJlcG9zaXRvcnkzMzM4NTA4MzI=": {
       "category": "Databases and Data Tools",
       "ch": "0efa7ba248b5",
@@ -19594,12 +18506,6 @@
       "ch": "4323da4cfd9a",
       "description": "Toolkit for building headless Next.js front ends for Drupal sites with SSG, SSR, and ISR.",
       "dh": "0b9bdcad0f0d"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMzMzOTY2MA==": {
-      "category": "Programming Languages and Compilers",
-      "ch": "a0e02deb4e18",
-      "description": "Ultra-lightweight JavaScript engine intended for running on resource-constrained IoT devices.",
-      "dh": "3f3313fc690f"
     },
     "MDEwOlJlcG9zaXRvcnkzMzQ0MDQ2Nw==": {
       "category": "Other",
@@ -19636,12 +18542,6 @@
       "ch": "bdaa10a05bcb",
       "description": "React component for displaying tooltips on elements.",
       "dh": "55931ba10462"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMzU2ODIxNA==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "c8fefe689f9b",
-      "description": "Lightweight inversion of control container for TypeScript and JavaScript, now moved to a monorepo.",
-      "dh": "b00252f537dc"
     },
     "MDEwOlJlcG9zaXRvcnkzMzU3MzQxNzk=": {
       "category": "Documentation and Knowledge Tools",
@@ -19694,12 +18594,6 @@
       "ch": "dfc8a41f9e3d",
       "description": "Open-source user-mode debugger for Windows, geared toward reverse engineering and malware analysis.",
       "dh": "c788474876e9"
-    },
-    "MDEwOlJlcG9zaXRvcnkzMzcwNTQ0NDM=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "c90b0e3a8c2b",
-      "description": "Ad-free Android app with added features, written in Java.",
-      "dh": "60d7d9b607a6"
     },
     "MDEwOlJlcG9zaXRvcnkzMzcyMDgxMjY=": {
       "category": "Other",
@@ -20013,12 +18907,6 @@
       "description": "Plugin-driven WYSIWYG markdown editor framework built on ProseMirror.",
       "dh": "ee40b1bb8a82"
     },
-    "MDEwOlJlcG9zaXRvcnkzNDU5NjUzMjU=": {
-      "category": "Security and Penetration Testing",
-      "ch": "7b9895db00fe",
-      "description": "Backend of a privacy-focused CAPTCHA system for mitigating bots and DDoS attacks, written in Rust.",
-      "dh": "0892ab01185c"
-    },
     "MDEwOlJlcG9zaXRvcnkzNDUyMzc3MDA=": {
       "category": "Cryptography and Blockchain",
       "ch": "c554db348e10",
@@ -20036,12 +18924,6 @@
       "ch": "960440d84f77",
       "description": "Neovim framework with defaults and a UI for configuring and extending Neovim.",
       "dh": "377984ea4499"
-    },
-    "MDEwOlJlcG9zaXRvcnkzNDY0ODA5Nw==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "8c169663d49c",
-      "description": "Lightweight library for setting terminal text colors and styles in Node.js and browser consoles.",
-      "dh": "751cbbe67556"
     },
     "MDEwOlJlcG9zaXRvcnkzNDYxMjQyNzk=": {
       "category": "AI and Machine Learning",
@@ -20127,12 +19009,6 @@
       "description": "Streaming torrent application for Mac, Windows, and Linux, built with Electron.",
       "dh": "6628972aeb71"
     },
-    "MDEwOlJlcG9zaXRvcnkzNTAxNzIzOA==": {
-      "category": "Documentation and Knowledge Tools",
-      "ch": "098de67197eb",
-      "description": "Open source, self-hostable real-time collaborative Markdown note editor compatible with HackMD.",
-      "dh": "e652dd940ba8"
-    },
     "MDEwOlJlcG9zaXRvcnkzNTAzNjAxODQ=": {
       "category": "Other",
       "ch": "a8a369f19155",
@@ -20175,23 +19051,11 @@
       "description": "Commenting system for websites that stores comments in GitHub Discussions.",
       "dh": "b463609e95e0"
     },
-    "MDEwOlJlcG9zaXRvcnkzNTExMjQ4OA==": {
-      "category": "Frontend UI Libraries",
-      "ch": "1e6a4a2867f3",
-      "description": "React component for rendering TeX math expressions using the KaTeX library.",
-      "dh": "27a6c50413a0"
-    },
     "MDEwOlJlcG9zaXRvcnkzNTEyMDAzOQ==": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "8f6584fe8976",
       "description": "Collection of remark plugins that lint Markdown files to check code style.",
       "dh": "a38523c452b5"
-    },
-    "MDEwOlJlcG9zaXRvcnkzNTEyMDIwOQ==": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "a122248cc084",
-      "description": "Utility that reports what is keeping a Node.js process alive so it does not exit.",
-      "dh": "96f4c4d3aef0"
     },
     "MDEwOlJlcG9zaXRvcnkzNTI0MzY2NzA=": {
       "category": "Developer Tools and Editors",
@@ -20205,23 +19069,11 @@
       "description": "Helm chart for deploying the Jitsi video conferencing platform to Kubernetes.",
       "dh": "96000a7497e8"
     },
-    "MDEwOlJlcG9zaXRvcnkzNTI3NjY1MDI=": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "6a915961c574",
-      "description": "Collection of TypeScript utility types and functions for type-safe code, usable in Deno and Node.js.",
-      "dh": "1d6a2e99c8e5"
-    },
     "MDEwOlJlcG9zaXRvcnkzNTI4NjEzNTA=": {
       "category": "Frontend UI Libraries",
       "ch": "7c502017d67a",
       "description": "Meta-framework for building web applications with Solid.js, including file-system routing.",
       "dh": "53d7b4dcebef"
-    },
-    "MDEwOlJlcG9zaXRvcnkzNTI5MzA4OQ==": {
-      "category": "Cloud and Kubernetes",
-      "ch": "8c373c817301",
-      "description": "Tutorial for building and deploying a complete Node.js application on Google Cloud Platform.",
-      "dh": "90f1ee853387"
     },
     "MDEwOlJlcG9zaXRvcnkzNTI5MzMxNDA=": {
       "category": "Developer Tools and Editors",
@@ -20282,12 +19134,6 @@
       "ch": "46b783f8c46f",
       "description": "Tool for exporting and backing up Spotify playlists through the Spotify Web API.",
       "dh": "3c92b05e11d3"
-    },
-    "MDEwOlJlcG9zaXRvcnkzNTc1MjY0ODM=": {
-      "category": "Other",
-      "ch": "23f44ba0a9ae",
-      "description": "JavaScript library for interacting with the Vinted marketplace API.",
-      "dh": "aeb83ac77891"
     },
     "MDEwOlJlcG9zaXRvcnkzNTc2ODE=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -20713,12 +19559,6 @@
       "description": "Slides and code samples for training and workshops on Docker, containers, and Kubernetes.",
       "dh": "b6c61887b972"
     },
-    "MDEwOlJlcG9zaXRvcnkzNzAzNTA2Nw==": {
-      "category": "Other",
-      "ch": "3c3de80e4472",
-      "description": "JavaScript library for connecting to the Twitch chat messaging interface.",
-      "dh": "717277983eaf"
-    },
     "MDEwOlJlcG9zaXRvcnkzNzE4ODEzODA=": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "a5ea534d1070",
@@ -20899,12 +19739,6 @@
       "description": "Cross-platform command-line tool for killing processes by name, PID, or port.",
       "dh": "a65bdb5c79f9"
     },
-    "MDEwOlJlcG9zaXRvcnkzNzc4NzQzMw==": {
-      "category": "Developer Tools and Editors",
-      "ch": "a55bdf0a94e7",
-      "description": "Cross-platform command-line tool for interactively killing processes.",
-      "dh": "74cfa5be681a"
-    },
     "MDEwOlJlcG9zaXRvcnkzNzc5NjY5Ng==": {
       "category": "Testing and Automation",
       "ch": "d02903138ead",
@@ -20977,12 +19811,6 @@
       "description": "Official NGINX Open Source repository, a web server, reverse proxy, and load balancer.",
       "dh": "da7145f286d0"
     },
-    "MDEwOlJlcG9zaXRvcnkzNzkyNjAyOQ==": {
-      "category": "Developer Tools and Editors",
-      "ch": "434c8822b6f7",
-      "description": "Tool that checks links and anchors in individual web pages or entire websites.",
-      "dh": "eedc07960f3f"
-    },
     "MDEwOlJlcG9zaXRvcnkzNzkzNjUwMDA=": {
       "category": "Browser Extensions and Scripts",
       "ch": "3234b66af4f7",
@@ -20994,12 +19822,6 @@
       "ch": "950a726d9c6f",
       "description": "Open-source platform for monitoring, observability, incident management and on-call.",
       "dh": "6c355b01f41c"
-    },
-    "MDEwOlJlcG9zaXRvcnkzODAwNzg4NTI=": {
-      "category": "Other",
-      "ch": "2f3870f286f0",
-      "description": "Python library for scraping YouTube channels, playlists, and search results.",
-      "dh": "fd6e3ebc873e"
     },
     "MDEwOlJlcG9zaXRvcnkzODE2MjM4": {
       "category": "Other",
@@ -21036,12 +19858,6 @@
       "ch": "9d7d067d027f",
       "description": "Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker.",
       "dh": "30899c4d7e03"
-    },
-    "MDEwOlJlcG9zaXRvcnkzODI2OTU1OA==": {
-      "category": "Frontend UI Libraries",
-      "ch": "8b5187c9d70d",
-      "description": "React component that adds a parallax scrolling effect to background images and content.",
-      "dh": "1c669881657e"
     },
     "MDEwOlJlcG9zaXRvcnkzODIxNjc3OA==": {
       "category": "Other",
@@ -21216,12 +20032,6 @@
       "ch": "cbe5b8665f1e",
       "description": "Open-source UI component library and front-end framework built on Tailwind CSS.",
       "dh": "5fca8a3123be"
-    },
-    "MDEwOlJlcG9zaXRvcnkzOTE2MDE1MA==": {
-      "category": "Security and Penetration Testing",
-      "ch": "7d6d6a659fdc",
-      "description": "Tool that prevents committing secrets and credentials into git repositories.",
-      "dh": "7bcf8889c654"
     },
     "MDEwOlJlcG9zaXRvcnkzOTEyMDkwMzM=": {
       "category": "Developer Tools and Editors",
@@ -21499,12 +20309,6 @@
       "description": "Linter that checks npm package configuration for packaging errors.",
       "dh": "af003d1180f4"
     },
-    "R_kgDOG4pb-g": {
-      "category": "Other",
-      "ch": "ab285ca7e977",
-      "description": "Weekly-updated list of free email domain providers for checking whether an address is a company email.",
-      "dh": "ed52a036c46d"
-    },
     "R_kgDOG6Tr-w": {
       "category": "AI and Machine Learning",
       "ch": "3631263b421b",
@@ -21516,12 +20320,6 @@
       "ch": "0df0a22222b5",
       "description": "React component library implementing Flowbite UI components styled with Tailwind CSS.",
       "dh": "63b454fab5d3"
-    },
-    "R_kgDOG7S2VQ": {
-      "category": "Developer Tools and Editors",
-      "ch": "27eada39d5e1",
-      "description": "Web-based JSON viewer for browsing, searching, and navigating JSON files.",
-      "dh": "1ce359d8029a"
     },
     "R_kgDOG7pjVQ": {
       "category": "Frontend UI Libraries",
@@ -21552,12 +20350,6 @@
       "ch": "4de3ae8f81b8",
       "description": "Open-source accounting software with double-entry bookkeeping, inventory, and financial reporting.",
       "dh": "1ed60a367571"
-    },
-    "R_kgDOGH6e2A": {
-      "category": "Frontend UI Libraries",
-      "ch": "051ff48fd0ef",
-      "description": "Web editor for BitTorrent magnet links, built with React, Next.js, and Chakra UI.",
-      "dh": "e8cb764e70d3"
     },
     "R_kgDOGHCIeg": {
       "category": "Backend Frameworks and Servers",
@@ -21654,12 +20446,6 @@
       "ch": "a0231ee4c8a1",
       "description": "TypeScript client for the Polymarket CLOB API.",
       "dh": "75a5038cf437"
-    },
-    "R_kgDOGPkHOw": {
-      "category": "Cryptography and Blockchain",
-      "ch": "947921a34d8b",
-      "description": "Library for Sign-In with Ethereum, a standard for authenticating users with Ethereum accounts.",
-      "dh": "fb72fe9c1f6a"
     },
     "R_kgDOGPndOA": {
       "category": "Programming Languages and Compilers",
@@ -21799,23 +20585,11 @@
       "description": "Enables edge-to-edge display in React Native and controls the status and navigation bars.",
       "dh": "349a702df14d"
     },
-    "R_kgDOGYKjqA": {
-      "category": "Other",
-      "ch": "5aa1e14fc262",
-      "description": "Lists ISO 639 language codes with their names translated into many languages.",
-      "dh": "fb9ebfec704f"
-    },
     "R_kgDOGYPxVA": {
       "category": "Browser Extensions and Scripts",
       "ch": "b2d1c9a4a793",
       "description": "Chrome and Firefox extension that restores YouTube dislike counts on videos.",
       "dh": "9574d92d07f0"
-    },
-    "R_kgDOGYXa9Q": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "5579d67c0894",
-      "description": "Curated list of open-source alternatives to well-known SaaS products.",
-      "dh": "e9290f5c2a38"
     },
     "R_kgDOGZ1BSg": {
       "category": "LLM Agents and AI Assistants",
@@ -21834,12 +20608,6 @@
       "ch": "e675f439639e",
       "description": "VS Code extension for running and debugging Vitest tests within the editor.",
       "dh": "db97584c5e12"
-    },
-    "R_kgDOG_xk1A": {
-      "category": "Developer Tools and Editors",
-      "ch": "8e588fe66c2d",
-      "description": "Opens React components in VS Code from the browser when Option-clicking them during development.",
-      "dh": "4b7ddeaec0c2"
     },
     "R_kgDOGa-pkA": {
       "category": "Cryptography and Blockchain",
@@ -21895,12 +20663,6 @@
       "description": "Official Docker-based installation method for Nextcloud with built-in backup and restore.",
       "dh": "aa470283d9bd"
     },
-    "R_kgDOGe2Rcw": {
-      "category": "Testing and Automation",
-      "ch": "e88f9d346a77",
-      "description": "Tool for detecting memory leaks in web applications.",
-      "dh": "e8137551c458"
-    },
     "R_kgDOGeGmsQ": {
       "category": "Databases and Data Tools",
       "ch": "3683e7e50761",
@@ -21943,12 +20705,6 @@
       "description": "Lightweight Rust reverse proxy for exposing services behind NAT, an alternative to frp and ngrok.",
       "dh": "a49a3acd13cc"
     },
-    "R_kgDOGhGCZQ": {
-      "category": "Frontend UI Libraries",
-      "ch": "f8076977e0e2",
-      "description": "daisyUI styled components implemented as React components for building user interfaces.",
-      "dh": "1a68c047fc10"
-    },
     "R_kgDOGhOAhQ": {
       "category": "Cryptography and Blockchain",
       "ch": "b4239f7d4265",
@@ -21984,12 +20740,6 @@
       "ch": "d69971b0052e",
       "description": "Minimal Node.js worker thread pool implementation, around 38KB in size.",
       "dh": "e0240a8465b0"
-    },
-    "R_kgDOGikv8Q": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "c7fea7c00ad7",
-      "description": "Collection of custom extensions for the Spicetify client to modify the Spotify desktop app.",
-      "dh": "2d94ab973e0a"
     },
     "R_kgDOGj1JVw": {
       "category": "Frontend UI Libraries",
@@ -22111,12 +20861,6 @@
       "description": "Noise suppression nodes for the Web Audio API.",
       "dh": "bfc0144017f4"
     },
-    "R_kgDOGv3k-w": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "b4d8a7ad9df1",
-      "description": "Dependency injection library for Node.js using native async_hooks to provide contextual instances.",
-      "dh": "de5f83105f50"
-    },
     "R_kgDOGvUVTg": {
       "category": "Backend Frameworks and Servers",
       "ch": "fceb073bbb9b",
@@ -22164,12 +20908,6 @@
       "ch": "0af9c12f59e4",
       "description": "Cache of the official CVE List in CVE JSON 5 format.",
       "dh": "ad09e72eca40"
-    },
-    "R_kgDOGzH0SQ": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "751e558dd4a7",
-      "description": "Curated guide to self-hosting applications, LLMs, VPNs, and automation on local or private servers.",
-      "dh": "c4b0e5af5766"
     },
     "R_kgDOGzZ-YA": {
       "category": "Frontend UI Libraries",
@@ -22603,12 +21341,6 @@
       "description": "Open source HR and payroll software for managing employees, attendance and exits, built on Frappe.",
       "dh": "33e06e6f3073"
     },
-    "R_kgDOHhOSZA": {
-      "category": "Security and Penetration Testing",
-      "ch": "8ad27eea4f0d",
-      "description": "OSINT-based fuzzing tool that enumerates directories, files, subdomains and parameters via Google.",
-      "dh": "2ce7321f7f5a"
-    },
     "R_kgDOHkA8Bw": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "9c5a57cd4f35",
@@ -22645,12 +21377,6 @@
       "description": "Blob storage and Edge Config libraries for Vercel serverless and edge applications.",
       "dh": "cfe712b1b090"
     },
-    "R_kgDOHoCSdw": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "608839796fab",
-      "description": "Curated list of resources, libraries, and tools related to the Bun JavaScript runtime.",
-      "dh": "0f4625b78f19"
-    },
     "R_kgDOHoONpQ": {
       "category": "JavaScript and TypeScript Tooling",
       "ch": "310d1ca03d64",
@@ -22674,12 +21400,6 @@
       "ch": "bfaa7e296017",
       "description": "Orchestrator for promoting application changes through stages in Argo CD GitOps delivery.",
       "dh": "9e245988f59b"
-    },
-    "R_kgDOHqkPCg": {
-      "category": "Frontend UI Libraries",
-      "ch": "9ee4fd664adb",
-      "description": "Unstyled React command menu component for building fast, accessible combobox and command palette interfaces.",
-      "dh": "a24397d93a3e"
     },
     "R_kgDOHqyb3g": {
       "category": "JavaScript and TypeScript Tooling",
@@ -23059,12 +21779,6 @@
       "description": "Finds unused files, dependencies, and exports in JavaScript and TypeScript projects.",
       "dh": "a592903a50bd"
     },
-    "R_kgDOILyYbQ": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "ad1316235ff8",
-      "description": "Parses command-line argument options.",
-      "dh": "bf8fa8222002"
-    },
     "R_kgDOIMAMIw": {
       "category": "Awesome Lists and Learning Resources",
       "ch": "3ff9da8396a9",
@@ -23167,12 +21881,6 @@
       "description": "Small reactive UI framework for web interfaces, with WASM sandboxes for running untrusted code.",
       "dh": "78472f6d0436"
     },
-    "R_kgDOI_HOyA": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "f88b5d14ab54",
-      "description": "Curated list of large language model resources, including papers, models, and tools.",
-      "dh": "a1b548cc02e5"
-    },
     "R_kgDOI_JY0A": {
       "category": "LLM Agents and AI Assistants",
       "ch": "aec4741e9535",
@@ -23238,12 +21946,6 @@
       "ch": "15bfc74b1c83",
       "description": "React components and hooks for integrating the Google Maps JavaScript API.",
       "dh": "57da2d9ef1f3"
-    },
-    "R_kgDOIgYGww": {
-      "category": "Security and Penetration Testing",
-      "ch": "b04654d21b5f",
-      "description": "Python tool for attacking wireless networks with Kali tools, supporting WEP, WPS, WPA, and WPA2.",
-      "dh": "25a71800ca1b"
     },
     "R_kgDOIgud1w": {
       "category": "Databases and Data Tools",
@@ -23311,12 +22013,6 @@
       "description": "Generates package.json files from yarn.lock to enable Docker layer caching of node_modules.",
       "dh": "42eb0049dd49"
     },
-    "R_kgDOIjgKRQ": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "cda0cbd3cf96",
-      "description": "Curated list of tools, demos, and documentation for ChatGPT and GPT-3.",
-      "dh": "33d92a090797"
-    },
     "R_kgDOIjgkyw": {
       "category": "Backend Frameworks and Servers",
       "ch": "1febd4c65f69",
@@ -23335,12 +22031,6 @@
       "description": "Styling system for building large, complex user interfaces in JavaScript.",
       "dh": "b9e0de775dbf"
     },
-    "R_kgDOIljzbw": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "abfe7afe9298",
-      "description": "Sample Android chatbot app using OpenAI's chat API with Stream Chat SDK for Jetpack Compose.",
-      "dh": "dce1369e845e"
-    },
     "R_kgDOIoAhgw": {
       "category": "Desktop and Mobile Apps",
       "ch": "8d191be6404b",
@@ -23358,12 +22048,6 @@
       "ch": "2644aa08ada8",
       "description": "Desktop app for running local LLMs with text and vision models and an OpenAI-compatible API.",
       "dh": "5e2f6dadf99e"
-    },
-    "R_kgDOIqHL4w": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "e25332782065",
-      "description": "Prebuilt IPA packages of EeveeSpotify with additional quality-of-life enhancements for iOS.",
-      "dh": "870c2c9bec54"
     },
     "R_kgDOIqW1rQ": {
       "category": "Frontend UI Libraries",
@@ -23431,10 +22115,6 @@
       "description": "Nostr client for Android, a decentralized social network protocol.",
       "dh": "5debbdbb54cf"
     },
-    "R_kgDOIxOQ2g": {
-      "category": "AI and Machine Learning",
-      "ch": "777223d56f5e"
-    },
     "R_kgDOIyaF5Q": {
       "category": "Documentation and Knowledge Tools",
       "ch": "2019bd521414",
@@ -23452,12 +22132,6 @@
       "ch": "0d601bc7b8b4",
       "description": "Typed utility-class styling library combining TypeScript safety with Tailwind CSS syntax.",
       "dh": "05b9797db84f"
-    },
-    "R_kgDOIzITkw": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "00077a72907a",
-      "description": "Tool that shows accessibility compliance rates of French websites in Google search results.",
-      "dh": "15f33eca2c53"
     },
     "R_kgDOIzt77A": {
       "category": "Developer Tools and Editors",
@@ -23585,12 +22259,6 @@
       "description": "Runs iOS apps without installing them on the device.",
       "dh": "94d2cf25aa5e"
     },
-    "R_kgDOJ8Ho_w": {
-      "category": "Frontend UI Libraries",
-      "ch": "33d94a3af60c",
-      "description": "Drawer component for React applications.",
-      "dh": "d766062dcbe2"
-    },
     "R_kgDOJ8NLww": {
       "category": "Databases and Data Tools",
       "ch": "ead8cd6d4664",
@@ -23614,12 +22282,6 @@
       "ch": "be9689212ca9",
       "description": "Opinionated toast notification component for React applications.",
       "dh": "73e4b684419a"
-    },
-    "R_kgDOJD_X2A": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "2aeeec70fe97",
-      "description": "Tool that exports cookies.txt files locally, with no data sent to external servers.",
-      "dh": "9eea68c74539"
     },
     "R_kgDOJDkZ-A": {
       "category": "Databases and Data Tools",
@@ -23686,12 +22348,6 @@
       "ch": "d9c4f0870341",
       "description": "C/C++ inference of large language models using the ggml tensor library.",
       "dh": "d50592b3de09"
-    },
-    "R_kgDOJIbW1w": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "6ae9ed705fea",
-      "description": "Typesafe, Zod-validated URL search params, dynamic route params and routing for Next.js.",
-      "dh": "f8fa6b894e3a"
     },
     "R_kgDOJJ8PKA": {
       "category": "Audio and Video Processing",
@@ -23771,12 +22427,6 @@
       "description": "Calibre plugin that translates ebooks into a chosen language, with optional bilingual output.",
       "dh": "64afbf714bea"
     },
-    "R_kgDOJPJM2Q": {
-      "category": "Other",
-      "ch": "07479557821a",
-      "description": "Source code for the X recommendation algorithm.",
-      "dh": "b4691e5748e2"
-    },
     "R_kgDOJQK9zA": {
       "category": "LLM Agents and AI Assistants",
       "ch": "b04a41aaf991",
@@ -23810,12 +22460,6 @@
       "ch": "27747112c5a8",
       "description": "Desktop app that sends one prompt to many AI chatbots at once to compare their answers.",
       "dh": "52452ffefab0"
-    },
-    "R_kgDOJUhI0w": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "60da4a8707f4",
-      "description": "Curated list of training materials, resources, and tools for Android reverse engineering.",
-      "dh": "a5092e27430f"
     },
     "R_kgDOJV2uWg": {
       "category": "Security and Penetration Testing",
@@ -23876,12 +22520,6 @@
       "ch": "0f36bc13ed22",
       "description": "JavaScript and TypeScript library for parsing, formatting, manipulating and localizing dates and times.",
       "dh": "29605569c27a"
-    },
-    "R_kgDOJaA_Jg": {
-      "category": "AI and Machine Learning",
-      "ch": "8b1c460b8df3",
-      "description": "Library for conversational data analysis over SQL, CSV, and Parquet sources using LLMs.",
-      "dh": "cb290d83a198"
     },
     "R_kgDOJaIWWQ": {
       "category": "AI and Machine Learning",
@@ -24121,12 +22759,6 @@
       "description": "Component library for React with theming, designed for fast development, easy maintenance, and accessibility.",
       "dh": "0ece0012ab9e"
     },
-    "R_kgDOJvTCgA": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "adc7c85df642",
-      "description": "AI coding assistant for JetBrains IDEs that helps with code search and development.",
-      "dh": "b13ef1c08f6a"
-    },
     "R_kgDOJwiHTg": {
       "category": "Databases and Data Tools",
       "ch": "bb36d4c3d2c3",
@@ -24175,12 +22807,6 @@
       "description": "Memory layer that gives AI agents and apps persistent context across sessions.",
       "dh": "e78e65be5047"
     },
-    "R_kgDOJygEMA": {
-      "category": "AI and Machine Learning",
-      "ch": "f596f3aeaddf",
-      "description": "Generative models released by Stability AI.",
-      "dh": "70942687635b"
-    },
     "R_kgDOJyxyhQ": {
       "category": "Databases and Data Tools",
       "ch": "fa93f2c43bf3",
@@ -24199,23 +22825,11 @@
       "description": "Framework for building browser extensions with dev server, hot module reloading, and cross-browser builds.",
       "dh": "7d0453d7b7cc"
     },
-    "R_kgDOJzHXrg": {
-      "category": "Image and Graphics Processing",
-      "ch": "9e5f33c927e9",
-      "description": "Removes image backgrounds in the browser with ONNX models, without server-side processing.",
-      "dh": "a42a31eff56e"
-    },
     "R_kgDOK-rdlw": {
       "category": "AI and Machine Learning",
       "ch": "7f4c55d9cb83",
       "description": "Small vision language model for answering questions about and describing images.",
       "dh": "d2cd8b98944b"
-    },
-    "R_kgDOK-wpcg": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "fc6208e4af8c",
-      "description": "Utility functions for combining AbortSignal and AbortController with Promises.",
-      "dh": "b28e69036877"
     },
     "R_kgDOK0nfmg": {
       "category": "Databases and Data Tools",
@@ -24228,12 +22842,6 @@
       "ch": "afdad0fd1dd1",
       "description": "Additional components built on top of shadcn/ui for Next.js and React projects.",
       "dh": "b8c330ea81a9"
-    },
-    "R_kgDOK1BxSQ": {
-      "category": "AI and Machine Learning",
-      "ch": "71df38a9760b",
-      "description": "Python tool that estimates token costs for over 400 LLMs, for cost analytics and observability.",
-      "dh": "29ee06542131"
     },
     "R_kgDOK1KKyQ": {
       "category": "Developer Tools and Editors",
@@ -24311,12 +22919,6 @@
       "description": "Print-friendly, minimalist CV page built with Next.js, React and Tailwind CSS.",
       "dh": "44188b5f473e"
     },
-    "R_kgDOKAE17A": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "4dc131b949e4",
-      "description": "Repository with updated solutions for blocking ads on Twitch.",
-      "dh": "06d22248f465"
-    },
     "R_kgDOKALCgQ": {
       "category": "AI and Machine Learning",
       "ch": "3d623ff84f12",
@@ -24377,12 +22979,6 @@
       "description": "Menu bar manager for macOS that hides and organizes menu bar items.",
       "dh": "ff9787d5e6f5"
     },
-    "R_kgDOKEgQVw": {
-      "category": "Frontend UI Libraries",
-      "ch": "fcda79f2c26d",
-      "description": "React UI component library built on Radix primitives and Tailwind CSS, with accessible components.",
-      "dh": "3b12d8bcaa15"
-    },
     "R_kgDOKEjKfQ": {
       "category": "AI and Machine Learning",
       "ch": "139b10210fd0",
@@ -24394,12 +22990,6 @@
       "ch": "ff9e8c9fd818",
       "description": "Framework for building stateful, resilient LLM agents in Python.",
       "dh": "b68a976737da"
-    },
-    "R_kgDOKFVBpg": {
-      "category": "AI and Machine Learning",
-      "ch": "8e3bfad23e02",
-      "description": "Image generation software focused on prompt-based text-to-image generation.",
-      "dh": "13ca5c324d50"
     },
     "R_kgDOKGJvlQ": {
       "category": "Other",
@@ -24418,12 +23008,6 @@
       "ch": "85d8ce888814",
       "description": "Pure C/C++ inference for diffusion models such as SD, Flux and Wan, built on ggml.",
       "dh": "b261d3aa51a3"
-    },
-    "R_kgDOKGq6Fg": {
-      "category": "DevOps and Infrastructure",
-      "ch": "de5b56aa0476",
-      "description": "Manifesto expressing concern over HashiCorp's Terraform license change and calling for an open-source license.",
-      "dh": "1a179669699a"
     },
     "R_kgDOKGsrlg": {
       "category": "Networking and Wireless",
@@ -24551,12 +23135,6 @@
       "description": "Open-source platform for building enterprise AI agents and RAG knowledge-base chatbots.",
       "dh": "4dd65a86745a"
     },
-    "R_kgDOKTlA-A": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "7848eafbecc6",
-      "description": "Self-hosting cache handler for Next.js ISR and cache, backed by Redis.",
-      "dh": "bdebc65eaf5b"
-    },
     "R_kgDOKUVW0g": {
       "category": "Other",
       "ch": "33fb3c013c9c",
@@ -24574,12 +23152,6 @@
       "ch": "ab4990c686e4",
       "description": "Fast JavaScript and TypeScript bundler written in Rust with a Rollup-compatible API.",
       "dh": "68f0b40483bb"
-    },
-    "R_kgDOKVORZg": {
-      "category": "Awesome Lists and Learning Resources",
-      "ch": "2fd65440fa0d",
-      "description": "Visual explanations of system design concepts to help prepare for software architecture interviews.",
-      "dh": "5f0d5fc3b32e"
     },
     "R_kgDOKWAQIg": {
       "category": "Backend Frameworks and Servers",
@@ -24683,12 +23255,6 @@
       "description": "Toolkit for service workers, offline support, and progressive web apps in Next.js, Nuxt, and others.",
       "dh": "681f3e66b08c"
     },
-    "R_kgDOKijvRQ": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "7509494b5b91",
-      "description": "Formatter that renders date ranges in a compact, readable form.",
-      "dh": "42941d882fa4"
-    },
     "R_kgDOKiqzdw": {
       "category": "LLM Agents and AI Assistants",
       "ch": "9040087609fe",
@@ -24700,12 +23266,6 @@
       "ch": "090135294c4e",
       "description": "Open-source media server with a web interface for anime and manga, with a desktop app.",
       "dh": "5b47c8120629"
-    },
-    "R_kgDOKkqx3g": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "9a6149842c0d",
-      "description": "Open-source AI coding agent for large projects and real-world development tasks, used from the command line.",
-      "dh": "ff3506d1453f"
     },
     "R_kgDOKkt3yw": {
       "category": "Awesome Lists and Learning Resources",
@@ -24748,12 +23308,6 @@
       "ch": "898e687daeb1",
       "description": "Source-available macOS app cleaner for removing apps and leftover files.",
       "dh": "71188e940069"
-    },
-    "R_kgDOKtGaXg": {
-      "category": "AI and Machine Learning",
-      "ch": "e6ea90c80c34",
-      "description": "Crawls a website to generate knowledge files for building a custom GPT from a URL.",
-      "dh": "6eec462d556e"
     },
     "R_kgDOKtc8-A": {
       "category": "AI and Machine Learning",
@@ -24809,12 +23363,6 @@
       "description": "S3-compatible, high-performance object storage that supports migration from MinIO and Ceph.",
       "dh": "206933d32571"
     },
-    "R_kgDOKy8C5g": {
-      "category": "AI and Machine Learning",
-      "ch": "0d9304b266ad",
-      "description": "Research framework for generating consistent, controllable image-to-video character animations.",
-      "dh": "a6f30e29c66f"
-    },
     "R_kgDOKzRn1w": {
       "category": "AI and Machine Learning",
       "ch": "c5442bbd68e0",
@@ -24851,12 +23399,6 @@
       "description": "Self-hosted tool for monitoring server hardware, uptime, response times, and incidents.",
       "dh": "31ee7bf2a341"
     },
-    "R_kgDOL2Seyg": {
-      "category": "Frontend UI Libraries",
-      "ch": "e9f86d3cabec",
-      "description": "Responsive, collapsible sidebar component for Next.js built with shadcn/ui and Tailwind.",
-      "dh": "f37ae79ca6ba"
-    },
     "R_kgDOL3ZXqg": {
       "category": "Other",
       "ch": "6c940126c0ed",
@@ -24880,18 +23422,6 @@
       "ch": "37a907bfee26",
       "description": "Open-source Python web crawler for extracting data from web pages for LLM and AI agent use.",
       "dh": "8cd3eb48c420"
-    },
-    "R_kgDOL5_tVA": {
-      "category": "JavaScript and TypeScript Tooling",
-      "ch": "19da928a42c5",
-      "description": "Unified tool for importing TypeScript modules at runtime.",
-      "dh": "a5adf29693ec"
-    },
-    "R_kgDOL6Sq7w": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "00e011a9e04f",
-      "description": "Self-organizing file system that uses Llama 3 to automatically organize files in folders.",
-      "dh": "3e84bf3c810d"
     },
     "R_kgDOL90GLQ": {
       "category": "Backend Frameworks and Servers",
@@ -24927,12 +23457,6 @@
       "description": "Command-line tool that generates images of source code and terminal output.",
       "dh": "b0903580c856"
     },
-    "R_kgDOLCcQgg": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "b33ee9be642c",
-      "description": "Type-safe API route handlers for Next.js.",
-      "dh": "c6fb1006ea66"
-    },
     "R_kgDOLCrypg": {
       "category": "Documentation and Knowledge Tools",
       "ch": "6745fc9001fb",
@@ -24952,8 +23476,8 @@
       "dh": "73f2003f79d1"
     },
     "R_kgDOLEzKcw": {
-      "category": "Audio and Video Processing",
-      "ch": "b28c36c31df1",
+      "category": "AI and Machine Learning",
+      "ch": "c3206155e684",
       "description": "Few-shot voice cloning and text-to-speech framework that trains a TTS model from about one minute of voice data.",
       "dh": "cae47f9af65c"
     },
@@ -24969,21 +23493,11 @@
       "description": "Self-hosted time-tracking application built with Laravel for tracking work hours.",
       "dh": "d4f94e045f68"
     },
-    "R_kgDOLIBRXA": {
-      "category": "Other",
-      "ch": "958098de413a"
-    },
     "R_kgDOLJ7xVw": {
       "category": "Developer Tools and Editors",
       "ch": "ebabfb20bed8",
       "description": "CLI for scaffolding, sharing, and running multi-step code transformations, with ast-grep support.",
       "dh": "8669001f3716"
-    },
-    "R_kgDOLJvYGw": {
-      "category": "Frontend UI Libraries",
-      "ch": "663912757e65",
-      "description": "Collection of Next.js components built with Tailwind CSS and shadcn/ui for websites.",
-      "dh": "0cb1ae718165"
     },
     "R_kgDOLJyqEQ": {
       "category": "Frontend UI Libraries",
@@ -25147,12 +23661,6 @@
       "description": "AI workspace for working with models, agents and productivity tools in one place.",
       "dh": "84804a680424"
     },
-    "R_kgDOL_gZKg": {
-      "category": "AI and Machine Learning",
-      "ch": "feff492b5f7a",
-      "description": "Real-time end-to-end object detection model, YOLOv10, published at NeurIPS 2024.",
-      "dh": "70a78a1ab202"
-    },
     "R_kgDOLckCYw": {
       "category": "Frontend UI Libraries",
       "ch": "f1872ca15c1a",
@@ -25219,12 +23727,6 @@
       "description": "Distributed key-value database optimized for caching and real-time workloads.",
       "dh": "dae9049c0a28"
     },
-    "R_kgDOLk3bGg": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "e26fa50746e7",
-      "description": "LLM system that researches a topic and generates a cited, full-length report.",
-      "dh": "dd34886f93e6"
-    },
     "R_kgDOLk6wNA": {
       "category": "LLM Agents and AI Assistants",
       "ch": "a0ad35cc6a80",
@@ -25236,12 +23738,6 @@
       "ch": "b89f20601e0f",
       "description": "Native bottom sheet component for React Native on iOS and Android.",
       "dh": "2cda2573e7fc"
-    },
-    "R_kgDOLlgn4A": {
-      "category": "Frontend UI Libraries",
-      "ch": "065dcb9adc2e",
-      "description": "Copy-and-paste React components built with Tailwind CSS for dashboards and modern web applications.",
-      "dh": "20683adcf7dd"
     },
     "R_kgDOLmfWBA": {
       "category": "Desktop and Mobile Apps",
@@ -25483,12 +23979,6 @@
       "description": "Lightweight server monitoring with historical data, Docker stats, and alerts.",
       "dh": "449e4df71dda"
     },
-    "R_kgDOMTqqrA": {
-      "category": "Frontend UI Libraries",
-      "ch": "48d108cb926a",
-      "description": "Ready-to-use file upload dropzone component built with shadcn/ui and react-dropzone.",
-      "dh": "103978f5854a"
-    },
     "R_kgDOMUOeoQ": {
       "category": "LLM Agents and AI Assistants",
       "ch": "2e871ea85e9d",
@@ -25518,12 +24008,6 @@
       "ch": "50712ec3e40a",
       "description": "Tool for natural-language end-to-end testing and AI-driven browser and UI automation.",
       "dh": "7d678c18fc49"
-    },
-    "R_kgDOMZVeDA": {
-      "category": "AI and Machine Learning",
-      "ch": "5d942312475b",
-      "description": "OCR and document extraction library that uses vision models.",
-      "dh": "2281b1ba5caf"
     },
     "R_kgDOM_ZVxw": {
       "category": "Desktop and Mobile Apps",
@@ -25687,18 +24171,6 @@
       "description": "React library for file uploads directly to any S3-compatible storage service with minimal setup.",
       "dh": "070264c64620"
     },
-    "R_kgDOMvCXtg": {
-      "category": "Databases and Data Tools",
-      "ch": "efa149a08d58",
-      "description": "Platform for building dashboards and collaborative notebooks that combine code and business data.",
-      "dh": "562564fe0564"
-    },
-    "R_kgDOMvSnzg": {
-      "category": "Backend Frameworks and Servers",
-      "ch": "f1e179cf0644",
-      "description": "Starter template for SaaS apps using Next.js, Postgres, Stripe, and shadcn/ui.",
-      "dh": "ce7361c0d3ab"
-    },
     "R_kgDOMy3LMg": {
       "category": "AI and Machine Learning",
       "ch": "bff5fc22c006",
@@ -25765,12 +24237,6 @@
       "description": "MCP server that provides Figma layout information to AI coding agents such as Cursor.",
       "dh": "b93b91897ff3"
     },
-    "R_kgDON4yCyA": {
-      "category": "AI and Machine Learning",
-      "ch": "12eb54122599",
-      "description": "LLM-free library that extracts main content from HTML strings using text density analysis.",
-      "dh": "fbd1d32d93cf"
-    },
     "R_kgDON592kg": {
       "category": "Desktop and Mobile Apps",
       "ch": "c709651da726",
@@ -25788,10 +24254,6 @@
       "ch": "148c7fa1fa8e",
       "description": "Self-hosted open-source mail server with newsletter and email marketing tools and no monthly fees.",
       "dh": "8edc8bfb1a57"
-    },
-    "R_kgDON5t4lA": {
-      "category": "Other",
-      "ch": "0a12b0439bf6"
     },
     "R_kgDON6cMVw": {
       "category": "Frontend UI Libraries",
@@ -25873,7 +24335,7 @@
     },
     "R_kgDONK22AQ": {
       "category": "Frontend UI Libraries",
-      "ch": "f70f3283a471",
+      "ch": "949dbeae7691",
       "description": "Collection of React Native animation demos built with Reanimated, Gesture Handler, and Skia.",
       "dh": "ed9bb1c51c4f"
     },
@@ -26013,12 +24475,6 @@
       "description": "MCP server giving AI agents Firecrawl tools to search, scrape, crawl, and map web content.",
       "dh": "839d98c8dc2a"
     },
-    "R_kgDON_8tww": {
-      "category": "AI and Machine Learning",
-      "ch": "6cc865912c2f",
-      "description": "Speech generation model that produces conversational speech from text.",
-      "dh": "de3ac80ce6b2"
-    },
     "R_kgDONa1RRQ": {
       "category": "Desktop and Mobile Apps",
       "ch": "9686ee4a33da",
@@ -26048,16 +24504,6 @@
       "ch": "71e6e2e7a9d4",
       "description": "Turns GitHub repository URLs into interactive architecture diagrams and short explainer videos.",
       "dh": "124a8414cd09"
-    },
-    "R_kgDONdVghA": {
-      "category": "Other",
-      "ch": "731d7c8f511f"
-    },
-    "R_kgDONe5xSw": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "df4ffa112726",
-      "description": "Documentation and best practices for using the Cline AI coding agent.",
-      "dh": "89aad17ed298"
     },
     "R_kgDONfvYSg": {
       "category": "Audio and Video Processing",
@@ -26185,12 +24631,6 @@
       "description": "Open-source drivers, cross-OS sandboxes, and benchmarks for training and evaluating computer-use AI agents.",
       "dh": "548781cbe122"
     },
-    "R_kgDONyoG1Q": {
-      "category": "AI and Machine Learning",
-      "ch": "e42361243914",
-      "description": "Simple method for test-time scaling of language model reasoning performance.",
-      "dh": "2ce312eb8cd9"
-    },
     "R_kgDONz7H2A": {
       "category": "LLM Agents and AI Assistants",
       "ch": "920431f213bb",
@@ -26208,12 +24648,6 @@
       "ch": "85c428e66cdb",
       "description": "Unstyled, composable emoji picker component for React, built on Emojibase data.",
       "dh": "308f684fffd2"
-    },
-    "R_kgDONztmbA": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "5cfc54a2b60e",
-      "description": "Open source AI agent that reasons over large amounts of web data extracted with Firecrawl for deep research.",
-      "dh": "321a466aecbd"
     },
     "R_kgDOO-G1sQ": {
       "category": "Audio and Video Processing",
@@ -26339,7 +24773,7 @@
     },
     "R_kgDOOELNJA": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "c151d6e2d051",
+      "ch": "5dad4619b7a0",
       "description": "Unified toolchain and entry point for web development projects.",
       "dh": "a44184455545"
     },
@@ -26403,23 +24837,11 @@
       "description": "Bridge that gives AI assistants tools to manage assets, control scenes, and edit scripts in Unity.",
       "dh": "4cf0d38c7c7e"
     },
-    "R_kgDOOL3wTA": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "ef9bbe77db08",
-      "description": "Search-powered LLM system for answering questions using web search results.",
-      "dh": "1a8264251d6f"
-    },
     "R_kgDOOL6muA": {
       "category": "LLM Agents and AI Assistants",
       "ch": "0850ad23adaa",
       "description": "Vision-first browser automation agent framework built on Playwright, written in TypeScript.",
       "dh": "327cb7b7acba"
-    },
-    "R_kgDOOL_tsw": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "594355ab94fc",
-      "description": "MCP server connecting Google Ads to Claude and Cursor for natural-language analysis of ad data.",
-      "dh": "959aef8e6503"
     },
     "R_kgDOOM79Dg": {
       "category": "LLM Agents and AI Assistants",
@@ -26499,23 +24921,11 @@
       "description": "MCP server that lets AI agents control iOS and Android apps on simulators, emulators, and real devices.",
       "dh": "793928f4b555"
     },
-    "R_kgDOOQdbbg": {
-      "category": "Browser Extensions and Scripts",
-      "ch": "178e0dee7073",
-      "description": "Browser extension that creates random email aliases forwarding to your real inbox via Cloudflare.",
-      "dh": "cdf4e83cc7e6"
-    },
     "R_kgDOOQnceA": {
       "category": "DevOps and Infrastructure",
       "ch": "25021f2d7fd1",
       "description": "Validates and runs GitHub Actions workflows locally.",
       "dh": "3999b9fbabe5"
-    },
-    "R_kgDOOQt5lg": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "8d8917858efe",
-      "description": "Model Context Protocol server that connects AI assistants to WhatsApp messages.",
-      "dh": "b49c5d33aae4"
     },
     "R_kgDOOSsQKg": {
       "category": "LLM Agents and AI Assistants",
@@ -26558,12 +24968,6 @@
       "ch": "cb806d8dee21",
       "description": "Hosted MCP server connecting Meta Ads (Facebook and Instagram) to AI assistants like Claude and ChatGPT.",
       "dh": "7d205ddac70c"
-    },
-    "R_kgDOOYQPYQ": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "494dd6e997b1",
-      "description": "Tool that generates consistent AI coding assistant rules for multiple editors and CLIs from one source.",
-      "dh": "816befa8a8fa"
     },
     "R_kgDOOYrAVA": {
       "category": "LLM Agents and AI Assistants",
@@ -27523,9 +25927,9 @@
     },
     "R_kgDOQ__jdA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "6522de3589d6",
-      "description": "AI agent skill that researches a topic across Reddit, X, YouTube, HN, Polymarket and the web.",
-      "dh": "3f2c2a9def4c"
+      "ch": "c98427b68c8a",
+      "description": "Agent skill that researches topics across Reddit, X, YouTube, HN, and the web and summarizes them.",
+      "dh": "8f8828c2c1c5"
     },
     "R_kgDOQ_dWmw": {
       "category": "LLM Agents and AI Assistants",
@@ -27591,21 +25995,11 @@
       "description": "Agent orchestration toolkit for Claude and other AI models, with keyword-triggered workflows.",
       "dh": "42a053fa6f15"
     },
-    "R_kgDOQhevbw": {
-      "category": "Networking and Wireless",
-      "ch": "0613e48c54fb"
-    },
     "R_kgDOQiym-Q": {
       "category": "LLM Agents and AI Assistants",
       "ch": "3973e25255b0",
       "description": "Tool for autonomous AI coding across multiple sessions.",
       "dh": "51bce97208b7"
-    },
-    "R_kgDOQkPaFg": {
-      "category": "Security and Penetration Testing",
-      "ch": "364cb612918b",
-      "description": "Proof of concept showing how delivery receipts and timing reveal phone device activity.",
-      "dh": "f33f6c80c8e6"
     },
     "R_kgDOQk_qIw": {
       "category": "LLM Agents and AI Assistants",
@@ -28207,9 +26601,9 @@
     },
     "R_kgDORi26-Q": {
       "category": "Audio and Video Processing",
-      "ch": "80e95689b300",
-      "description": "Open-source AI video editor that turns text descriptions into editable video projects.",
-      "dh": "15eff7c2596f"
+      "ch": "2788746cc534",
+      "description": "AI video editor that renders HTML to MP4, editable with Claude Code, Codex, or its Studio app.",
+      "dh": "1c0bfe2e8793"
     },
     "R_kgDORjyMzw": {
       "category": "LLM Agents and AI Assistants",
@@ -28464,10 +26858,10 @@
       "ch": "7e82a185d78e"
     },
     "R_kgDOSEljpA": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "7deb14d2f04e",
-      "description": "Agent skill producing editorial diagrams as self-contained HTML and SVG for coding agents.",
-      "dh": "140a5923d124"
+      "category": "Documentation and Knowledge Tools",
+      "ch": "5153d80c0df4",
+      "description": "Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams.",
+      "dh": "2a4e64254adb"
     },
     "R_kgDOSFybrw": {
       "category": "LLM Agents and AI Assistants",
@@ -28547,9 +26941,9 @@
     },
     "R_kgDOSUzdDA": {
       "category": "Security and Penetration Testing",
-      "ch": "c5ca5f3e5fc8",
-      "description": "Claude Code skills and slash commands for bug bounty hunting and external red-team security work.",
-      "dh": "0985a22a6753"
+      "ch": "0477219f97ad",
+      "description": "Claude Code skill bundle with 84 skills and 15 slash commands for bug hunting and red-team work.",
+      "dh": "c33d5c4baf72"
     },
     "R_kgDOSVBndA": {
       "category": "Other",
@@ -28707,11 +27101,17 @@
       "description": "CLI that writes and maintains agent-oriented documentation for a codebase.",
       "dh": "7775eaf0d273"
     },
+    "R_kgDOTIEd5Q": {
+      "category": "Networking and Wireless",
+      "ch": "64748f129d26",
+      "description": "Low-latency Rust mesh VPN with Reed-Solomon FEC, post-quantum crypto, and anti-DPI obfuscation.",
+      "dh": "1fc5b9a5e720"
+    },
     "R_kgDOTIqiAg": {
       "category": "Mac Utilities",
-      "ch": "8c08300766d1",
-      "description": "Native macOS app launcher with a clipboard manager for quick access to apps and productivity tools.",
-      "dh": "1debafe0d663"
+      "ch": "e0fe1e731443",
+      "description": "Lightweight native macOS launcher for apps and productivity tasks, with a clipboard manager.",
+      "dh": "4451dc163cd1"
     },
     "R_kgDOTKgHjQ": {
       "category": "AI and Machine Learning",
@@ -28898,6 +27298,12 @@
       "ch": "4da14afc7fa6",
       "description": "C++ barcode scanner built on ZXing for react-native-vision-camera.",
       "dh": "f60d77b04102"
+    },
+    "R_kgDOUIsh7Q": {
+      "category": "Desktop and Mobile Apps",
+      "ch": "e556bc54a401",
+      "description": "Local-first desktop dashboard that tracks Claude, Codex, and Z.ai quota windows on Linux.",
+      "dh": "1017a91021f9"
     },
     "R_kgDOUJd5yg": {
       "category": "JavaScript and TypeScript Tooling",
@@ -29087,6 +27493,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-24",
   "version": 1
 }
