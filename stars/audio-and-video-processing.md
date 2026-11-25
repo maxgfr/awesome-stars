@@ -8,44 +8,45 @@
 | [scrcpy](https://github.com/Genymobile/scrcpy) | Command-line tool to display and control Android devices from a computer over USB or TCP/IP. | Genymobile | 156k |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channel playlists from around the world. | iptv-org | 145k |
 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program for downloading videos from YouTube.com and other video sites. | ytdl-org | 142k |
-| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Local voice cloning, dubbing, dictation, transcription, and audiobook creation in 646 languages. | debpalash | 117k |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Local voice cloning, dubbing, dictation, transcription, and audiobook creation in 646 languages. | debpalash | 118k |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source video editor intended as an alternative to CapCut. | OpenCut-app | 99.3k |
-| [hyperframes](https://github.com/heygen-com/hyperframes) | AI video editor that renders HTML to MP4, editable with Claude Code, Codex, or its Studio app. | heygen-com | 89k |
-| [obs-studio](https://github.com/obsproject/obs-studio) | Free, open source software for live streaming and screen recording on Windows, macOS, and Linux. | obsproject | 80k |
-| [remotion](https://github.com/remotion-dev/remotion) | Library for creating videos programmatically with React. | remotion-dev | 75.2k |
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of the FFmpeg codebase, a library and toolset for converting and streaming audio and video. | FFmpeg | 68k |
+| [hyperframes](https://github.com/heygen-com/hyperframes) | AI video editor that renders HTML to MP4, editable with Claude Code, Codex, or its Studio app. | heygen-com | 89.6k |
+| [obs-studio](https://github.com/obsproject/obs-studio) | Free, open source software for live streaming and screen recording on Windows, macOS, and Linux. | obsproject | 80.1k |
+| [remotion](https://github.com/remotion-dev/remotion) | Library for creating videos programmatically with React. | remotion-dev | 75.5k |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of the FFmpeg codebase, a library and toolset for converting and streaming audio and video. | FFmpeg | 68.1k |
 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | C/C++ port of OpenAI's Whisper speech recognition model for fast inference. | ggml-org | 55.5k |
-| [iina](https://github.com/iina/iina) | Modern video player for macOS based on mpv. | iina | 47.2k |
-| [cobalt](https://github.com/imputnet/cobalt) | Tool for downloading media such as videos, audio, and images from services like Instagram and Reddit. | imputnet | 47k |
+| [iina](https://github.com/iina/iina) | Modern video player for macOS based on mpv. | iina | 47.3k |
+| [cobalt](https://github.com/imputnet/cobalt) | Tool for downloading media such as videos, audio, and images from services like Instagram and Reddit. | imputnet | 47.2k |
 | [lossless-cut](https://github.com/mifi/lossless-cut) | Editor for lossless cutting and trimming of video and audio files, built on FFmpeg. | mifi | 46.4k |
 | [manim](https://github.com/ManimCommunity/manim) | Community-maintained Python framework for programmatically creating mathematical animations and videos. | ManimCommunity | 42.9k |
 | [video.js](https://github.com/videojs/video.js) | HTML and React media player framework for playing video and audio in web applications. | videojs | 40.2k |
 | [ChatTTS](https://github.com/2noise/ChatTTS) | Generative speech model for daily dialogue, with a focus on Chinese language speech. | 2noise | 40k |
 | [mpv](https://github.com/mpv-player/mpv) | Command-line media player for playing audio and video files with scripting and customization support. | mpv-player | 38.3k |
-| [Recordly](https://github.com/webadderallorg/Recordly) | Desktop screen recorder for making polished demo videos without editing skills. | webadderallorg | 37.3k |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Open-source text-to-speech system built on transformer and VQ-GAN models. | fishaudio | 33.8k |
+| [Recordly](https://github.com/webadderallorg/Recordly) | Desktop screen recorder for making polished demo videos without editing skills. | webadderallorg | 37.4k |
+| [fish-speech](https://github.com/fishaudio/fish-speech) | Open-source text-to-speech system built on transformer and VQ-GAN models. | fishaudio | 33.9k |
 | [lux](https://github.com/iawia002/lux) | Command-line tool and Go library for downloading videos from sites such as Bilibili. | iawia002 | 31.9k |
+| [video-use](https://github.com/browser-use/video-use) 🆕 | Tool for editing videos with coding agents. | browser-use | 31.5k |
 | [Seal](https://github.com/JunkFood02/Seal) | Android app for downloading videos and audio using yt-dlp, built with Jetpack Compose and Material Design. | JunkFood02 | 31k |
 | [jitsi-meet](https://github.com/jitsi/jitsi-meet) | Open-source video conferencing app, usable as a standalone app or embedded in web applications. | jitsi | 30.3k |
-| [srs](https://github.com/ossrs/srs) | High-performance real-time media server for streaming via RTMP, WebRTC, HLS, SRT and DASH. | ossrs | 29.4k |
+| [srs](https://github.com/ossrs/srs) | High-performance real-time media server for streaming via RTMP, WebRTC, HLS, SRT and DASH. | ossrs | 29.5k |
 | [spleeter](https://github.com/deezer/spleeter) | Audio source separation library with pretrained models for isolating vocals, drums and bass. | deezer | 28.5k |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | Windows app that records a screen area and edits the result as a GIF or video. | NickeManarin | 28k |
-| [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) | GUI for a vocal remover that uses deep neural networks to separate vocals and instruments. | Anjok07 | 27.3k |
+| [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) | GUI for a vocal remover that uses deep neural networks to separate vocals and instruments. | Anjok07 | 27.4k |
 | [spotify-downloader](https://github.com/spotDL/spotify-downloader) | Downloads Spotify playlists and songs as MP3 files with metadata and album art, sourced from YouTube. | spotDL | 26.9k |
-| [audiocraft](https://github.com/facebookresearch/audiocraft) | Library for audio processing and generation, including the EnCodec compressor and MusicGen model. | facebookresearch | 23.9k |
-| [buzz](https://github.com/chidiwilliams/buzz) | Desktop tool that transcribes and translates audio offline using OpenAI's Whisper model. | chidiwilliams | 23k |
+| [audiocraft](https://github.com/facebookresearch/audiocraft) | Library for audio processing and generation, including the EnCodec compressor and MusicGen model. | facebookresearch | 24k |
+| [buzz](https://github.com/chidiwilliams/buzz) | Desktop tool that transcribes and translates audio offline using OpenAI's Whisper model. | chidiwilliams | 23.1k |
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Open-source privacy-focused YouTube client for desktop with subscription management. | FreeTubeApp | 22.5k |
-| [brag](https://github.com/latent-spaces/brag) | Generates a short, shareable launch video for a project with a single command. | latent-spaces | 22.4k |
+| [brag](https://github.com/latent-spaces/brag) | Generates a short, shareable launch video for a project with a single command. | latent-spaces | 22.5k |
 | [livekit](https://github.com/livekit/livekit) | Go realtime stack with an SFU media server for connecting people and AI in voice and video. | livekit | 22.4k |
 | [mediamtx](https://github.com/bluenviron/mediamtx) | Live media server and proxy supporting WebRTC, RTSP, RTMP, HLS, SRT, and MPEG-TS streams. | bluenviron | 20.8k |
 | [vlc](https://github.com/videolan/vlc) | Cross-platform media player and framework that plays most audio and video formats. | videolan | 20.6k |
 | [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | Tool that animates portrait images and videos by transferring facial motion from a driving video. | KlingAIResearch | 19.6k |
 | [audacity](https://github.com/audacity/audacity) | Cross-platform open-source audio editor for recording, editing, and processing sound files. | audacity | 19.2k |
 | [nuclear](https://github.com/nukeop/nuclear) | Desktop streaming music player that finds free music to play, with MCP server support. | nukeop | 19k |
-| [filmcraft](https://github.com/storytold/filmcraft) | Open-source nonlinear video editor written from scratch in pure Rust. | storytold | 18.9k |
+| [filmcraft](https://github.com/storytold/filmcraft) | Open-source nonlinear video editor written from scratch in pure Rust. | storytold | 19k |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | Large-scale open video generative models for text-to-video and image-to-video generation. | Wan-Video | 18.9k |
-| [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg compiled to WebAssembly, enabling video and audio transcoding in the browser. | ffmpegwasm | 18k |
 | [asciinema](https://github.com/asciinema/asciinema) | Command-line tool for recording, streaming, and playing back terminal sessions as asciicasts. | asciinema | 18k |
+| [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg compiled to WebAssembly, enabling video and audio transcoding in the browser. | ffmpegwasm | 18k |
 | [hls.js](https://github.com/video-dev/hls.js) | JavaScript library for playing HLS video streams in browsers using Media Source Extensions. | video-dev | 17.1k |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Desktop application for downloading YouTube videos and playlists as MP4 or MP3 files. | Tyrrrz | 16.8k |
 | [beets](https://github.com/beetbox/beets) | Command-line music library manager that tags audio files using MusicBrainz metadata. | beetbox | 16k |
@@ -55,14 +56,14 @@
 | [metube](https://github.com/alexta69/metube) | Self-hosted web interface for downloading videos from YouTube and other sites using yt-dlp. | alexta69 | 15.3k |
 | [audiobookshelf](https://github.com/advplyr/audiobookshelf) | Self-hosted server for managing and streaming audiobooks and podcasts. | advplyr | 15.1k |
 | [Tone.js](https://github.com/Tonejs/Tone.js) | Web Audio framework for creating interactive music in the browser, with synthesis and scheduling. | Tonejs | 14.9k |
-| [FluidVoice](https://github.com/altic-dev/FluidVoice) | Local macOS dictation app with on-device speech-to-text and AI text enhancement. | altic-dev | 13.2k |
-| [LibreTube](https://github.com/libre-tube/LibreTube) | Alternative privacy-focused YouTube frontend for Android, written in Kotlin. | libre-tube | 13k |
+| [FluidVoice](https://github.com/altic-dev/FluidVoice) | Local macOS dictation app with on-device speech-to-text and AI text enhancement. | altic-dev | 13.3k |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | Alternative privacy-focused YouTube frontend for Android, written in Kotlin. | libre-tube | 13.1k |
 | [edge-tts](https://github.com/rany2/edge-tts) | Python module that uses Microsoft Edge's online text-to-speech service without requiring Edge. | rany2 | 12.6k |
-| [openwhispr](https://github.com/OpenWhispr/openwhispr) | Cross-platform voice-to-text dictation app using local Whisper or Parakeet models or cloud APIs. | OpenWhispr | 12.1k |
+| [openwhispr](https://github.com/OpenWhispr/openwhispr) | Cross-platform voice-to-text dictation app using local Whisper or Parakeet models or cloud APIs. | OpenWhispr | 12.2k |
 | [streamlink](https://github.com/streamlink/streamlink) | Command-line utility that pipes streams from various services into a video player. | streamlink | 12k |
 | [moonshine](https://github.com/moonshine-ai/moonshine) | Low-latency speech-to-text, intent recognition, and text-to-speech library for voice agents. | moonshine-ai | 11.6k |
-| [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time local speech-to-text server with streaming ASR, speaker diarization, and translation. | QuentinFuxa | 11.3k |
 | [ytdlnis](https://github.com/deniscerri/ytdlnis) | Android app for downloading audio and video from online sources using yt-dlp, with a Material Design interface. | deniscerri | 11.3k |
+| [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time local speech-to-text server with streaming ASR, speaker diarization, and translation. | QuentinFuxa | 11.3k |
 | [lmms](https://github.com/LMMS/lmms) | Cross-platform digital audio workstation for music production with MIDI and song editing. | LMMS | 10.7k |
 | [easyeffects](https://github.com/wwmm/easyeffects) | Audio effects suite for PipeWire applications with limiter, compressor, equalizer, and auto volume. | wwmm | 10.5k |
 | [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) | JavaScript library that renders interactive audio waveforms and provides a web audio player. | katspaugh | 10.5k |
@@ -73,18 +74,18 @@
 | [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) | Web conferencing system for virtual classrooms and online meetings, built on WebRTC. | bigbluebutton | 9.3k |
 | [shairport-sync](https://github.com/mikebrady/shairport-sync) | AirPlay audio player that receives and plays AirPlay 1 and AirPlay 2 audio streams. | mikebrady | 9k |
 | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Python API that retrieves transcripts and subtitles for YouTube videos without an API key. | jdepoix | 8.7k |
-| [hex](https://github.com/anomalyco/hex) 🆕 | Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device. | anomalyco | 8.3k |
+| [hex](https://github.com/anomalyco/hex) 🆕 | Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device. | anomalyco | 8.6k |
 | [shaka-player](https://github.com/shaka-project/shaka-player) | JavaScript library for playing adaptive DASH and HLS streams using Media Source Extensions and EME. | shaka-project | 8.3k |
 | [vibe](https://github.com/thewh1teagle/vibe) | Cross-platform desktop app for transcribing audio locally using AI models. | thewh1teagle | 8.2k |
+| [openscreen](https://github.com/getopenscreen/openscreen) | Open-source screen recorder for product demos with GPU acceleration on Windows, macOS, and Linux. | getopenscreen | 8k |
 | [ffsubsync](https://github.com/smacke/ffsubsync) | Tool that automatically synchronizes subtitle files with the audio track of a video. | smacke | 8k |
-| [openscreen](https://github.com/getopenscreen/openscreen) | Open-source screen recorder for product demos with GPU acceleration on Windows, macOS, and Linux. | getopenscreen | 7.9k |
 | [iptvnator](https://github.com/4gray/iptvnator) | Cross-platform IPTV player supporting M3U playlists, favorites, TV guide and catch-up. | 4gray | 7.8k |
 | [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) | Video component for React Native for playing video content. | TheWidlarzGroup | 7.8k |
-| [mediabunny](https://github.com/Vanilagy/mediabunny) | TypeScript library for reading, writing, and converting video and audio files in the browser. | Vanilagy | 7.5k |
+| [mediabunny](https://github.com/Vanilagy/mediabunny) | TypeScript library for reading, writing, and converting video and audio files in the browser. | Vanilagy | 7.6k |
 | [mediasoup](https://github.com/versatica/mediasoup) | WebRTC Selective Forwarding Unit for video conferencing, with Node.js bindings and a C++ core. | versatica | 7.4k |
 | [librespot](https://github.com/librespot-org/librespot) | Open-source Spotify client library in Rust that connects as a Spotify Connect device. | librespot-org | 7.4k |
 | [auto-editor](https://github.com/WyattBlue/auto-editor) | Command-line tool that automatically cuts silent or still sections out of video and audio files. | WyattBlue | 6.1k |
-| [restreamer](https://github.com/datarhei/restreamer) | Self-hosted streaming server that relays live streams to platforms like YouTube, Twitch, and Facebook via FFmpeg. | datarhei | 5.2k |
+| [restreamer](https://github.com/datarhei/restreamer) | Self-hosted streaming server that relays live streams to platforms like YouTube, Twitch, and Facebook via FFmpeg. | datarhei | 5.3k |
 | [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) | Lightweight video generation model for text-to-video and image-to-video tasks. | Tencent-Hunyuan | 4.6k |
 | [obs-websocket](https://github.com/obsproject/obs-websocket) | OBS Studio plugin that provides a WebSocket server for remote control of OBS Studio. | obsproject | 4.4k |
 | [AirConnect](https://github.com/philippe44/AirConnect) | Bridge that lets AirPlay clients stream audio to UPnP, Sonos and Chromecast devices. | philippe44 | 4.2k |

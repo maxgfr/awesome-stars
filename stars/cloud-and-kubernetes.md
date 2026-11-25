@@ -10,7 +10,7 @@
 | [serverless](https://github.com/serverless/serverless) | Framework for building auto-scaling serverless applications on AWS Lambda and other cloud services. | serverless | 46.9k |
 | [istio](https://github.com/istio/istio) | Service mesh for connecting, securing, controlling, and observing microservices. | istio | 38.5k |
 | [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.2k |
-| [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35k |
+| [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35.1k |
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
 | [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.5k |
@@ -38,8 +38,8 @@
 | [aws-cdk](https://github.com/aws/aws-cdk) | Framework for defining AWS cloud infrastructure in code using languages such as TypeScript. | aws | 13k |
 | [eureka](https://github.com/Netflix/eureka) | Service registry from Netflix for discovery, load balancing, and failover of mid-tier services. | Netflix | 12.8k |
 | [crossplane](https://github.com/crossplane/crossplane) | Cloud-native control plane for provisioning and managing infrastructure through Kubernetes APIs. | crossplane | 12.3k |
-| [functions-samples](https://github.com/firebase/functions-samples) | Sample apps demonstrating common use cases with Cloud Functions for Firebase. | firebase | 12.2k |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | Tool for customizing Kubernetes YAML configurations without templates, using overlays and patches. | kubernetes-sigs | 12.2k |
+| [functions-samples](https://github.com/firebase/functions-samples) | Sample apps demonstrating common use cases with Cloud Functions for Firebase. | firebase | 12.2k |
 | [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.1k |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | Lightweight, high-performance WebAssembly runtime for cloud native, edge, and decentralized applications. | WasmEdge | 10.9k |
 | [keda](https://github.com/kedacore/keda) | Kubernetes-based event-driven autoscaling component that scales any container on event sources. | kedacore | 10.7k |
@@ -62,7 +62,7 @@
 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | Controller that dynamically configures external DNS servers from Kubernetes resources. | kubernetes-sigs | 9.2k |
 | [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native pipeline resource for Kubernetes, used to build CI/CD workflows with Tekton. | tektoncd | 9.1k |
 | [autoscaler](https://github.com/kubernetes/autoscaler) | Components that automatically scale Kubernetes clusters and pods based on load. | kubernetes | 9k |
-| [fission](https://github.com/fission/fission) | Serverless framework for running functions on Kubernetes with fast, simple deployment. | fission | 8.9k |
+| [fission](https://github.com/fission/fission) | Serverless framework for running functions on Kubernetes with fast, simple deployment. | fission | 9k |
 | [flux2](https://github.com/fluxcd/flux2) | Kubernetes continuous delivery solution built on GitOps Toolkit components to sync clusters from Git. | fluxcd | 8.5k |
 | [anteon](https://github.com/getanteon/anteon) | eBPF-based Kubernetes monitoring and performance testing tool, formerly named Ddosify. | getanteon | 8.5k |
 | [metallb](https://github.com/metallb/metallb) | Load-balancer implementation for bare-metal Kubernetes clusters using BGP and ARP routing. | metallb | 8.4k |
@@ -72,7 +72,7 @@
 | [calico](https://github.com/projectcalico/calico) | Cloud native networking and network security solution for containers, VMs, and hosts. | projectcalico | 7.4k |
 | [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Desktop app for container management and local Kubernetes on Linux, macOS and Windows. | rancher-sandbox | 7.4k |
 | [kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes API and runtime for defining and managing virtual machines. | kubevirt | 7.2k |
-| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7k |
+| [krew](https://github.com/kubernetes-sigs/krew) | Plugin manager for installing and managing kubectl plugins. | kubernetes-sigs | 7.1k |
 | [external-secrets](https://github.com/external-secrets/external-secrets) | Kubernetes operator that syncs secrets from external services like AWS Secrets Manager into Kubernetes Secrets. | external-secrets | 7k |
 | [examples](https://github.com/kubernetes/examples) | Tutorials and example applications showing how to run workloads on Kubernetes. | kubernetes | 6.8k |
 | [actions-runner-controller](https://github.com/actions/actions-runner-controller) | Kubernetes operator that manages self-hosted GitHub Actions runners. | actions | 6.7k |
@@ -99,7 +99,7 @@
 | [kube](https://github.com/kube-rs/kube) | Rust client library and controller runtime for interacting with Kubernetes clusters. | kube-rs | 3.9k |
 | [kargo](https://github.com/akuity/kargo) 🆕 | Orchestrator for promoting application changes through stages in Argo CD GitOps delivery. | akuity | 3.8k |
 | [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) | Modular AWS SDK for JavaScript for use in Node.js and browsers. | aws | 3.7k |
-| [kiali](https://github.com/kiali/kiali) | Observability console for the Istio service mesh, for visualizing and managing traffic and configuration. | kiali | 3.6k |
+| [kiali](https://github.com/kiali/kiali) | Observability console for the Istio service mesh, for visualizing and managing traffic and configuration. | kiali | 3.7k |
 | [garden](https://github.com/garden-io/garden) | Automates Kubernetes development and testing environments, from local development through CI. | garden-io | 3.6k |
 | [kube-linter](https://github.com/stackrox/kube-linter) | Static analysis tool that checks Kubernetes YAML files and Helm charts against best practices. | stackrox | 3.5k |
 | [sample-controller](https://github.com/kubernetes/sample-controller) | Sample Kubernetes controller implementation, complementing the sample-apiserver project. | kubernetes | 3.5k |
@@ -108,7 +108,7 @@
 | [rke](https://github.com/rancher-archives/rke) 🗄️ | Rancher Kubernetes Engine, a simple Kubernetes distribution that runs entirely within containers. | rancher-archives | 3.3k |
 | [google-cloud-node](https://github.com/googleapis/google-cloud-node) | Monorepo of Google Cloud client libraries for Node.js. | googleapis | 3.2k |
 | [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | CLI tool that deletes all resources in cloud accounts to clean them up. | gruntwork-io | 3.2k |
-| [sablier](https://github.com/sablierapp/sablier) | Starts containers on demand and stops them when idle, for Docker, Kubernetes, ECS, and Nomad. | sablierapp | 3.1k |
+| [sablier](https://github.com/sablierapp/sablier) | Starts containers on demand and stops them when idle, for Docker, Kubernetes, ECS, and Nomad. | sablierapp | 3.2k |
 | [robusta](https://github.com/robusta-dev/robusta) | Kubernetes tool that groups Prometheus alerts, adds AI enrichment, and automates remediation. | robusta-dev | 3.1k |
 | [kube-score](https://github.com/zegl/kube-score) | Static analyzer that rates Kubernetes manifests and Helm charts for reliability and security. | zegl | 3.1k |
 | [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | Sets AWS credential environment variables for use by later steps in GitHub Actions workflows. | aws-actions | 3k |
@@ -138,22 +138,22 @@
 | [kapp](https://github.com/carvel-dev/kapp) | CLI deployment tool that manages sets of Kubernetes resources grouped by a shared label. | carvel-dev | 1.1k |
 | [scaleway-cli](https://github.com/scaleway/scaleway-cli) | Command-line interface for managing Scaleway cloud resources. | scaleway | 1k |
 | [onyxia](https://github.com/InseeFrLab/onyxia) | Data science environment for Kubernetes that provides datalab tools deployed via Helm. | InseeFrLab | 909 |
-| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 775 |
+| [vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | A Visual Studio Code extension for working with Kubernetes clusters. | vscode-kubernetes-tools | 776 |
 | [kube-image-keeper](https://github.com/enix/kube-image-keeper) | Kubernetes system for routing, mirroring, and caching container images and replicating them across registries. | enix | 757 |
 | [helm-charts](https://github.com/codecentric/helm-charts) | Curated collection of Helm charts for deploying applications such as Jenkins, Keycloak and MailHog on Kubernetes. | codecentric | 747 |
 | [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 669 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 594 |
-| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 571 |
+| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 572 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 488 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 490 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |
 | [jitsi-helm](https://github.com/jitsi-contrib/jitsi-helm) | Helm chart for deploying the Jitsi video conferencing platform to Kubernetes. | jitsi-contrib | 203 |
 | [kubernetes-models-ts](https://github.com/tommy351/kubernetes-models-ts) | TypeScript type definitions and model classes for Kubernetes API resources. | tommy351 | 165 |
 | [node-ovh](https://github.com/ovh/node-ovh) | Node.js wrapper for calling the OVH APIs. | ovh | 148 |
-| [helm-tui](https://github.com/pidanou/helm-tui) | Terminal user interface for Helm, written in Go with the Bubble Tea framework. | pidanou | 142 |
+| [helm-tui](https://github.com/pidanou/helm-tui) | Terminal user interface for Helm, written in Go with the Bubble Tea framework. | pidanou | 143 |
 | [helm-charts](https://github.com/enix/helm-charts) | Collection of Helm charts packaged by Enix for deploying applications on Kubernetes. | enix | 61 |
 | [examples](https://github.com/open-horizon/examples) | Sample code for building and deploying edge computing services with Open Horizon. | open-horizon | 40 |
 | [kontinuous](https://github.com/SocialGouv/kontinuous) | GitOps-based continuous delivery tool for deploying applications to Kubernetes. | SocialGouv | 11 |

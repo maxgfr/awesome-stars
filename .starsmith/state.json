@@ -1,9 +1,9 @@
 {
-  "contentHash": "c2d18cc40e49",
+  "contentHash": "e69d88000a6b",
   "digest": {
     "language": "en",
-    "text": "Agents dominate this batch, with **AI tooling for coding and data work** leading the way. mcp-server-mattermost and qgis-mcp bring assistants into chat and GIS, while TokenEconomizer and pxpipe target the cost of running them. Close behind is **local-first, privacy-focused software**, from quotadeck's desktop quota dashboard to Hysteria and yip's censorship-resistant networking.\n\nMobile gaming is another strong thread, with **Android emulation and PC gaming on handhelds** showing up in Winlator, Delta, and GameNative, alongside DroidDeck's SteamOS-style interface. Security research and ad-blocking round things out, with Claude-BugHunter and blocky.",
-    "upTo": "2026-11-23T16:59:24Z"
+    "text": "These stars lean heavily on **AI agents and their tooling**, from Peekaboo, which lets agents capture macOS screenshots, to qgis-mcp linking QGIS with assistants and mcp-gsc bringing Search Console data into Claude. Several projects aim to cut coding-agent costs, such as pxpipe and TokenEconomizer.\n\nA second thread is **privacy and censorship resistance**, seen in yip, hysteria, mullvadvpn-app and zen-desktop. Security research like ARTEX and Claude-BugHunter, plus **fast, low-level Rust and Go tooling**, round out the list.",
+    "upTo": "2026-11-24T19:02:00Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-23T16:59:24Z",
+  "newest": "2026-11-24T19:02:00Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -4522,8 +4522,8 @@
       "dh": "4ab3dc1649f7"
     },
     "MDEwOlJlcG9zaXRvcnk3NzE0NTA2Ng==": {
-      "category": "Testing and Automation",
-      "ch": "695c225d9412",
+      "category": "DevOps and Infrastructure",
+      "ch": "16d837fb3e4b",
       "description": "Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents.",
       "dh": "4cc18f011c5a"
     },
@@ -5934,6 +5934,12 @@
       "ch": "e93b53379c47",
       "description": "Helm charts for deploying IBM and third-party middleware on Kubernetes.",
       "dh": "649d28ea78d5"
+    },
+    "MDEwOlJlcG9zaXRvcnk5NDE5NTMwMQ==": {
+      "category": "Networking and Wireless",
+      "ch": "54dd7df59480",
+      "description": "Validating, recursive, and caching DNS resolver with DNSSEC and DNS privacy support.",
+      "dh": "760de68cb6a7"
     },
     "MDEwOlJlcG9zaXRvcnk5NDEwNDcyNQ==": {
       "category": "DevOps and Infrastructure",
@@ -10095,7 +10101,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==": {
       "category": "DevOps and Infrastructure",
-      "ch": "845c82eec0ce",
+      "ch": "9f2797003c31",
       "description": "Open source platform for visualizing metrics, logs, and traces from many data sources.",
       "dh": "e865af9ba544"
     },
@@ -10880,10 +10886,10 @@
       "dh": "0c6005e77436"
     },
     "MDEwOlJlcG9zaXRvcnkxNjQ1NjQ2MzA=": {
-      "category": "Security and Penetration Testing",
-      "ch": "a290c4ad714a",
-      "description": "Curated list of resources on web application firewalls, including bypass techniques and tools.",
-      "dh": "579f85dda2f2"
+      "category": "Awesome Lists and Learning Resources",
+      "ch": "139fb96dc5d1",
+      "description": "Curated list of resources on web application firewalls, including bypass techniques.",
+      "dh": "3517957ebc3f"
     },
     "MDEwOlJlcG9zaXRvcnkxNjQ2MTA1NTc=": {
       "category": "JavaScript and TypeScript Tooling",
@@ -11127,7 +11133,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNjgzNTQ5ODM=": {
       "category": "Desktop and Mobile Apps",
-      "ch": "c25a49ab6e83",
+      "ch": "295aa323e25f",
       "description": "React Native library for getting the device's GPS location on Android and iOS.",
       "dh": "fa0f0fc24d51"
     },
@@ -11487,9 +11493,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "354ed428f5fa",
-      "description": "Browser automation for e2e testing and scraping, with CDP Mode for bypassing bot detection.",
-      "dh": "74f7e682004c"
+      "ch": "9aa2f1f8aded",
+      "description": "Python framework for browser testing, scraping, and automation with CDP Mode bot-detection bypass.",
+      "dh": "ac7629668cdd"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -16655,7 +16661,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyODE1ODY4OTc=": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "ed4c2e03f2ec",
+      "ch": "42c5ef38f6ec",
       "description": "CLI tool that checks and updates outdated dependencies in a project to keep them current.",
       "dh": "9f03a10ba20f"
     },
@@ -17496,6 +17502,12 @@
       "ch": "0be4118960fa",
       "description": "Open source business intelligence and embedded analytics tool for querying and dashboarding data.",
       "dh": "c65bbcef2efb"
+    },
+    "MDEwOlJlcG9zaXRvcnkzMDIyNzc5MA==": {
+      "category": "Systems Programming in Go and Rust",
+      "ch": "64db89916588",
+      "description": "Rust library for random number generation.",
+      "dh": "1242579e3697"
     },
     "MDEwOlJlcG9zaXRvcnkzMDIzMjI=": {
       "category": "DevOps and Infrastructure",
@@ -24029,7 +24041,7 @@
     },
     "R_kgDOMa_Y9w": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "1c5b6e725400",
+      "ch": "c1778a6f115f",
       "description": "Detects the package manager used by a project, supporting npm, pnpm, Bun and Deno.",
       "dh": "566bc86f1c05"
     },
@@ -24335,7 +24347,7 @@
     },
     "R_kgDONK22AQ": {
       "category": "Frontend UI Libraries",
-      "ch": "949dbeae7691",
+      "ch": "f70f3283a471",
       "description": "Collection of React Native animation demos built with Reanimated, Gesture Handler, and Skia.",
       "dh": "ed9bb1c51c4f"
     },
@@ -24537,9 +24549,9 @@
     },
     "R_kgDONjF_4A": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "793a6784c0e4",
-      "description": "Multi-agent LLM framework for financial trading.",
-      "dh": "bf1b606a5ba0"
+      "ch": "5ad55c9f038a",
+      "description": "Multi-agent LLM framework for financial trading research.",
+      "dh": "cdefb8c2e324"
     },
     "R_kgDONkyLSA": {
       "category": "LLM Agents and AI Assistants",
@@ -24773,7 +24785,7 @@
     },
     "R_kgDOOELNJA": {
       "category": "JavaScript and TypeScript Tooling",
-      "ch": "5dad4619b7a0",
+      "ch": "c151d6e2d051",
       "description": "Unified toolchain and entry point for web development projects.",
       "dh": "a44184455545"
     },
@@ -25140,6 +25152,12 @@
       "ch": "f2cfdc5a14ce",
       "description": "Open-source asynchronous coding agent for automating software engineering tasks.",
       "dh": "4ff847785100"
+    },
+    "R_kgDOOuskXg": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "4ea3117ed559",
+      "description": "macOS CLI and MCP server for AI agents to capture screenshots and ask visual questions about them.",
+      "dh": "985961a02133"
     },
     "R_kgDOOvg66Q": {
       "category": "LLM Agents and AI Assistants",
@@ -26019,6 +26037,12 @@
       "description": "Vercel's official collection of skills for AI coding agents.",
       "dh": "47da1a75a8e4"
     },
+    "R_kgDOQngEZw": {
+      "category": "Developer Tools and Editors",
+      "ch": "90395793d0fa",
+      "description": "Terminal client for Google Workspace services including Gmail, Calendar, Drive, and Contacts.",
+      "dh": "15966fb79943"
+    },
     "R_kgDOQpc_vg": {
       "category": "Mac Utilities",
       "ch": "ddbcc0c4a19f",
@@ -26183,7 +26207,7 @@
     },
     "R_kgDOR50T8g": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "9c5d0b00624e",
+      "ch": "43547b5605d3",
       "description": "AI job search agent that scores listings against your CV and tailors resumes and cover letters.",
       "dh": "66f16f747aad"
     },
@@ -26561,9 +26585,9 @@
     },
     "R_kgDORcxyRg": {
       "category": "Developer Tools and Editors",
-      "ch": "454771e561db",
-      "description": "Command-line interface for Google Drive, Gmail, Calendar, Sheets and other Workspace APIs.",
-      "dh": "1c5d4d3652b9"
+      "ch": "f837809cf668",
+      "description": "Community command-line client for Google Workspace APIs, designed for AI agents and automation.",
+      "dh": "c8d229c2d6d3"
     },
     "R_kgDORe9Fcg": {
       "category": "Developer Tools and Editors",
@@ -26816,6 +26840,12 @@
       "ch": "39d436d749bd",
       "description": "Generates a short, shareable launch video for a project with a single command.",
       "dh": "d1967cc3f40f"
+    },
+    "R_kgDOSAP_Zw": {
+      "category": "Audio and Video Processing",
+      "ch": "c652adb0c9ab",
+      "description": "Tool for editing videos with coding agents.",
+      "dh": "1906fa173a44"
     },
     "R_kgDOSAvt2w": {
       "category": "Frontend UI Libraries",
@@ -27275,12 +27305,6 @@
       "description": "Rust port of the TypeScript 7 type checker.",
       "dh": "a7742c6faae0"
     },
-    "R_kgDOU6bksw": {
-      "category": "Other",
-      "ch": "9ad9b81b70f3",
-      "description": "Reimplementation of Minecraft 26.3 in Rust as a game engine for Linux.",
-      "dh": "c0ce4016e6b6"
-    },
     "R_kgDOU80rLw": {
       "category": "Desktop and Mobile Apps",
       "ch": "f54c06fa27f0",
@@ -27289,7 +27313,7 @@
     },
     "R_kgDOUAuvsA": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "2ad4da9ac364",
+      "ch": "8cef27e00bd8",
       "description": "Multiplayer design canvas where humans and AI agents design together, with built-in MCP support.",
       "dh": "69d90fde9c42"
     },
@@ -27383,9 +27407,9 @@
     },
     "R_kgDOVBmRqg": {
       "category": "Security and Penetration Testing",
-      "ch": "f7fd8de9c7e2",
-      "description": "Autonomous AI penetration testing system for security assessments, distributed as a Docker setup.",
-      "dh": "5ce8244b06c4"
+      "ch": "5f5d5ece5a8c",
+      "description": "Self-hosted AI system for autonomous penetration testing that reports evidence-backed findings.",
+      "dh": "87acfb743ba3"
     },
     "R_kgDOVDuGdA": {
       "category": "Other",
@@ -27448,10 +27472,10 @@
       "dh": "567d7ac604d3"
     },
     "R_kgDOVYQpxw": {
-      "category": "Frontend UI Libraries",
-      "ch": "616de5878e4a",
-      "description": "Library of accessible UI behaviors that AI agents can use to build user interfaces.",
-      "dh": "f8df7c4fb2cf"
+      "category": "LLM Agents and AI Assistants",
+      "ch": "914bdd3ca725",
+      "description": "Library of behaviors for agents to build and drive user interfaces using accessibility and ARIA.",
+      "dh": "9d9d76951290"
     },
     "R_kgDOVeM_1A": {
       "category": "Other",
@@ -27493,6 +27517,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "version": 1
 }

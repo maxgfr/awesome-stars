@@ -5,11 +5,11 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 76k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 76.1k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.5k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
 | [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 35.9k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 36.1k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
@@ -57,7 +57,7 @@
 | [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) | Swift package for adding user-customizable global keyboard shortcuts to macOS apps. | sindresorhus | 2.7k |
 | [timer-app](https://github.com/michaelvillar/timer-app) | Simple timer application for macOS with a desktop widget. | michaelvillar | 2.7k |
 | [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) | Python script that cleans up caches and unneeded files on macOS. | mac-cleanup | 2.4k |
-| [Insomnia](https://github.com/krishhgg/Insomnia) | macOS menu bar app that keeps a MacBook awake with the lid closed during timed agent sessions. | krishhgg | 2.1k |
+| [Insomnia](https://github.com/krishhgg/Insomnia) | macOS menu bar app that keeps a MacBook awake with the lid closed during timed agent sessions. | krishhgg | 2.2k |
 | [open-vibe-island](https://github.com/Octane0411/open-vibe-island) | Native macOS app for monitoring AI coding agent sessions and approving their actions. | Octane0411 | 2.1k |
 | [Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) | Menu bar app for macOS that enables or disables Intel Turbo Boost on the CPU. | rugarciap | 1.6k |
 | [unfairplay](https://github.com/DrWhax/unfairplay) 🆕 | Tool for decrypting iOS IPA files on macOS. | DrWhax | 1.3k |

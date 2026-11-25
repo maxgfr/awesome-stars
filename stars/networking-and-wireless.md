@@ -7,14 +7,14 @@
 | [frp](https://github.com/fatedier/frp) | Fast reverse proxy that exposes a local server behind a NAT or firewall to the internet. | fatedier | 111k |
 | [syncthing](https://github.com/syncthing/syncthing) | Open source continuous file synchronization tool that works peer to peer between devices. | syncthing | 90.8k |
 | [pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide DNS sinkhole that blocks Internet advertisements, with a web dashboard and DHCP server. | pi-hole | 62.2k |
-| [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.4k |
+| [copyparty](https://github.com/9001/copyparty) | Single-file portable file server with resumable uploads, deduplication, WebDAV, SFTP, FTP, and media indexing. | 9001 | 47.5k |
 | [okhttp](https://github.com/lysine-dev/okhttp) | HTTP client for the JVM, Android, and GraalVM. | lysine-dev | 47.1k |
 | [headscale](https://github.com/juanfont/headscale) | Self-hosted open-source implementation of the Tailscale control server. | juanfont | 46k |
 | [curl](https://github.com/curl/curl) | Command line tool and library for transferring data with URL syntax across many protocols. | curl | 43.7k |
 | [aria2](https://github.com/aria2/aria2) | Command-line download utility supporting HTTP, HTTPS, FTP, SFTP, BitTorrent and Metalink protocols. | aria2 | 43.6k |
 | [sniffnet](https://github.com/GyulyVGC/sniffnet) | Desktop application for monitoring network traffic with IP geolocation and security features. | GyulyVGC | 43.3k |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Free cross-platform BitTorrent client written in C++ with a Qt-based interface. | qbittorrent | 41.9k |
-| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.5k |
+| [tailscale](https://github.com/tailscale/tailscale) | Zero-config VPN built on WireGuard, using SSO and 2FA for secure device-to-device networking. | tailscale | 39.6k |
 | [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS server that blocks ads and trackers, supporting DoH, DoT, and DoQ. | AdguardTeam | 38.8k |
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | Android client for the Shadowsocks encrypted proxy protocol. | shadowsocks | 36.9k |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | Streaming BitTorrent client for the web and Node.js. | webtorrent | 31.5k |
@@ -48,7 +48,7 @@
 | [MQTT.js](https://github.com/mqttjs/MQTT.js) | MQTT client library for Node.js and browsers, used for publishing and subscribing to MQTT brokers. | mqttjs | 9.1k |
 | [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Network management and troubleshooting tool with DNS lookup, IP scanning, ICMP and LLDP support. | BornToBeRoot | 9k |
 | [trippy](https://github.com/fujiapple852/trippy) | Command-line network diagnostic tool for tracing routes and probing hosts using ICMP and DNS. | fujiapple852 | 8.2k |
-| [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | Suite of tools for auditing WiFi network security, covering monitoring, testing and key cracking. | aircrack-ng | 7.9k |
+| [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | Suite of tools for auditing WiFi network security, covering monitoring, testing and key cracking. | aircrack-ng | 8k |
 | [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) 🆕 | Desktop and mobile client app for Mullvad VPN, supporting WireGuard and OpenVPN connections. | mullvad | 7.8k |
 | [undici](https://github.com/nodejs/undici) | HTTP/1.1 client written from scratch for Node.js. | nodejs | 7.8k |
 | [arkime](https://github.com/arkime/arkime) | Open source system for large-scale full packet capture, indexing, and searching network traffic. | arkime | 7.6k |
@@ -63,6 +63,7 @@
 | [node-serialport](https://github.com/serialport/node-serialport) | Node.js library for accessing and programming serial ports on Linux, macOS and Windows. | serialport | 6k |
 | [tribler](https://github.com/Tribler/tribler) | Privacy-focused BitTorrent client with peer-to-peer content discovery and search. | Tribler | 5.4k |
 | [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Web interface for setting up a wireless router on Debian-based devices using hostapd and dnsmasq. | RaspAP | 5.2k |
+| [unbound](https://github.com/NLnetLabs/unbound) 🆕 | Validating, recursive, and caching DNS resolver with DNSSEC and DNS privacy support. | NLnetLabs | 5.1k |
 | [keepalived](https://github.com/acassen/keepalived) | Routing software providing high availability and load balancing through VRRP and health checks. | acassen | 4.7k |
 | [IMSI-catcher](https://github.com/Oros42/IMSI-catcher) 🆕 | Displays IMSI numbers of nearby cellphones, using gr-gsm and HackRF hardware. | Oros42 | 4.6k |
 | [zen-desktop](https://github.com/irbis-sh/zen-desktop) 🆕 | System-wide ad blocker and privacy guard for Windows, macOS, and Linux. | irbis-sh | 4.4k |
@@ -104,7 +105,7 @@
 | [wifitui](https://github.com/shazow/wifitui) | Terminal user interface for managing WiFi connections through NetworkManager. | shazow | 355 |
 | [TorBox](https://github.com/zotil/TorBox) | Anonymizing router based on Raspberry Pi that routes network traffic through Tor. | zotil | 330 |
 | [domainstack.io](https://github.com/jakejarvis/domainstack.io) | Domain name intelligence service covering DNS and domain data, with an API and MCP server. | jakejarvis | 296 |
-| [yip](https://github.com/femboyisp/yip) 🆕 | Low-latency Rust mesh VPN with Reed-Solomon FEC, post-quantum crypto, and anti-DPI obfuscation. | femboyisp | 239 |
+| [yip](https://github.com/femboyisp/yip) 🆕 | Low-latency Rust mesh VPN with Reed-Solomon FEC, post-quantum crypto, and anti-DPI obfuscation. | femboyisp | 247 |
 | [js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub) 🗄️ | TypeScript implementation of the Gossipsub publish-subscribe protocol for libp2p networks. | ChainSafe | 166 |
 | [torrent-webseed-creator](https://github.com/AnimMouse/torrent-webseed-creator) | Tool that creates webseeded torrents using GitHub Actions. | AnimMouse | 105 |
 | [wifi-scan](https://github.com/simon0302010/wifi-scan) | Rust crate for listing WiFi hotspots in range, forked from booyaa/wifiscanner. | simon0302010 | 43 |

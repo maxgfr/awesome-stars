@@ -3,8 +3,63 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-23T16:59:24Z</updated>
+  <updated>2026-11-24T19:02:00Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>openclaw/Peekaboo</title>
+    <link href="https://github.com/openclaw/Peekaboo"/>
+    <id>https://github.com/openclaw/Peekaboo</id>
+    <updated>2026-11-24T19:02:00Z</updated>
+    <author><name>openclaw</name></author>
+    <summary>macOS CLI and MCP server for AI agents to capture screenshots and ask visual questions about them. · Swift · ai, macos, mcp, screenshots, swift</summary>
+    <category term="ai"/>
+    <category term="macos"/>
+    <category term="mcp"/>
+    <category term="screenshots"/>
+    <category term="swift"/>
+  </entry>
+  <entry>
+    <title>openclaw/gogcli</title>
+    <link href="https://github.com/openclaw/gogcli"/>
+    <id>https://github.com/openclaw/gogcli</id>
+    <updated>2026-11-24T18:59:19Z</updated>
+    <author><name>openclaw</name></author>
+    <summary>Terminal client for Google Workspace services including Gmail, Calendar, Drive, and Contacts. · Go · gcal, gcontacts, gdrive, gmail, google</summary>
+    <category term="gcal"/>
+    <category term="gcontacts"/>
+    <category term="gdrive"/>
+    <category term="gmail"/>
+    <category term="google"/>
+  </entry>
+  <entry>
+    <title>browser-use/video-use</title>
+    <link href="https://github.com/browser-use/video-use"/>
+    <id>https://github.com/browser-use/video-use</id>
+    <updated>2026-11-24T18:47:13Z</updated>
+    <author><name>browser-use</name></author>
+    <summary>Tool for editing videos with coding agents. · Python</summary>
+  </entry>
+  <entry>
+    <title>NLnetLabs/unbound</title>
+    <link href="https://github.com/NLnetLabs/unbound"/>
+    <id>https://github.com/NLnetLabs/unbound</id>
+    <updated>2026-11-24T16:00:20Z</updated>
+    <author><name>NLnetLabs</name></author>
+    <summary>Validating, recursive, and caching DNS resolver with DNSSEC and DNS privacy support. · C · dns, dns-privacy, dnssec, recursor, resolver</summary>
+    <category term="dns"/>
+    <category term="dns-privacy"/>
+    <category term="dnssec"/>
+    <category term="recursor"/>
+    <category term="resolver"/>
+  </entry>
+  <entry>
+    <title>rust-random/rand</title>
+    <link href="https://github.com/rust-random/rand"/>
+    <id>https://github.com/rust-random/rand</id>
+    <updated>2026-11-24T09:49:28Z</updated>
+    <author><name>rust-random</name></author>
+    <summary>Rust library for random number generation. · Rust</summary>
+  </entry>
   <entry>
     <title>devthefuture-org/quotadeck</title>
     <link href="https://github.com/devthefuture-org/quotadeck"/>
@@ -84,7 +139,7 @@
     <id>https://github.com/BaaRai/ARTEX</id>
     <updated>2026-11-22T10:59:28Z</updated>
     <author><name>BaaRai</name></author>
-    <summary>Autonomous AI penetration testing system for security assessments, distributed as a Docker setup. · Go · ai, ai-agents, autonomous-agents, bug-bounty, docker</summary>
+    <summary>Self-hosted AI system for autonomous penetration testing that reports evidence-backed findings. · Go · ai, ai-agents, autonomous-agents, bug-bounty, docker</summary>
     <category term="ai"/>
     <category term="ai-agents"/>
     <category term="autonomous-agents"/>
@@ -256,7 +311,7 @@
     <id>https://github.com/vercel-labs/ui</id>
     <updated>2026-11-17T10:23:03Z</updated>
     <author><name>vercel-labs</name></author>
-    <summary>Library of accessible UI behaviors that AI agents can use to build user interfaces. · TypeScript · accessibility, agent, agents, ai, aria</summary>
+    <summary>Library of behaviors for agents to build and drive user interfaces using accessibility and ARIA. · TypeScript · accessibility, agent, agents, ai, aria</summary>
     <category term="accessibility"/>
     <category term="agent"/>
     <category term="agents"/>
@@ -515,60 +570,5 @@
     <updated>2026-11-06T22:08:46Z</updated>
     <author><name>unjs</name></author>
     <summary>Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. · TypeScript</summary>
-  </entry>
-  <entry>
-    <title>matomo-org/plugin-McpServer</title>
-    <link href="https://github.com/matomo-org/plugin-McpServer"/>
-    <id>https://github.com/matomo-org/plugin-McpServer</id>
-    <updated>2026-11-06T19:41:08Z</updated>
-    <author><name>matomo-org</name></author>
-    <summary>PHP</summary>
-  </entry>
-  <entry>
-    <title>Tencent/WeKnora</title>
-    <link href="https://github.com/Tencent/WeKnora"/>
-    <id>https://github.com/Tencent/WeKnora</id>
-    <updated>2026-11-06T08:02:47Z</updated>
-    <author><name>Tencent</name></author>
-    <summary>LLM platform that turns documents into queryable RAG, reasoning agents, and self-maintaining wikis. · Go · agent, agentic, ai, chatbot, dsh-plugin</summary>
-    <category term="agent"/>
-    <category term="agentic"/>
-    <category term="ai"/>
-    <category term="chatbot"/>
-    <category term="dsh-plugin"/>
-  </entry>
-  <entry>
-    <title>every-app/open-seo</title>
-    <link href="https://github.com/every-app/open-seo"/>
-    <id>https://github.com/every-app/open-seo</id>
-    <updated>2026-11-06T08:02:31Z</updated>
-    <author><name>every-app</name></author>
-    <summary>Open-source alternative to Semrush and Ahrefs for keyword research and backlink analysis. · TypeScript · backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo</summary>
-    <category term="backlink-analysis"/>
-    <category term="google-search-console-mcp"/>
-    <category term="keyword-research"/>
-    <category term="mcp"/>
-    <category term="seo"/>
-  </entry>
-  <entry>
-    <title>crxjs/chrome-extension-tools</title>
-    <link href="https://github.com/crxjs/chrome-extension-tools"/>
-    <id>https://github.com/crxjs/chrome-extension-tools</id>
-    <updated>2026-11-05T14:18:19Z</updated>
-    <author><name>crxjs</name></author>
-    <summary>Build tooling for browser extensions with native hot module replacement and zero-config setup. · TypeScript · chrome-extension, javascript, manifest-v2, manifest-v3, npm-package</summary>
-    <category term="chrome-extension"/>
-    <category term="javascript"/>
-    <category term="manifest-v2"/>
-    <category term="manifest-v3"/>
-    <category term="npm-package"/>
-  </entry>
-  <entry>
-    <title>brandonmcconnell/geld</title>
-    <link href="https://github.com/brandonmcconnell/geld"/>
-    <id>https://github.com/brandonmcconnell/geld</id>
-    <updated>2026-11-05T12:46:11Z</updated>
-    <author><name>brandonmcconnell</name></author>
-    <summary>Browser extension that hides test files when reviewing pull requests on GitHub. · TypeScript</summary>
   </entry>
 </feed>

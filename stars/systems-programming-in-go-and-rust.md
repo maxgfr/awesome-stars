@@ -38,9 +38,12 @@
 | [lopdf](https://github.com/J-F-Liu/lopdf) | Rust library for manipulating PDF documents. | J-F-Liu | 2.3k |
 | [choose](https://github.com/theryangeary/choose) | Human-friendly, fast alternative to cut for selecting fields from lines of text. | theryangeary | 2.3k |
 | [ureq](https://github.com/algesten/ureq) | Simple, safe HTTP client library for Rust. | algesten | 2.2k |
+| [rand](https://github.com/rust-random/rand) 🆕 | Rust library for random number generation. | rust-random | 2.1k |
 | [rust-toolchain](https://github.com/dtolnay/rust-toolchain) | GitHub Action for installing a Rust toolchain. | dtolnay | 1.6k |
 | [slotmap](https://github.com/orlp/slotmap) | Rust slot map data structure that provides stable keys for inserting and removing items. | orlp | 1.4k |
 | [self_update](https://github.com/jaemk/self_update) | Rust library that lets executables update themselves to newer releases. | jaemk | 972 |
 | [envsubst](https://github.com/a8m/envsubst) | Go library and command for substituting environment variables in text, following envsubst syntax. | a8m | 913 |
 | [rust-ctrlc](https://github.com/Detegr/rust-ctrlc) | Rust library that provides a simple handler for Ctrl-C signals. | Detegr | 673 |
 | [num_cpus](https://github.com/seanmonstar/num_cpus) | Rust crate that returns the number of CPUs available on the system. | seanmonstar | 625 |
+
+**Legend:** 🆕 starred in the last 30 days

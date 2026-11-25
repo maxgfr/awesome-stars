@@ -8,16 +8,16 @@
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.2k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.6k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.4k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 77.5k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 71.1k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.5k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 78k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 72.1k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.7k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.3k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.3k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.6k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.5k |
-| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.5k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.6k |
+| [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.6k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.4k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47.1k |
 | [logseq](https://github.com/logseq/logseq) | Privacy-first open-source app for knowledge management and collaboration using linked notes. | logseq | 45.7k |
@@ -39,7 +39,7 @@
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
 | [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.7k |
-| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.5k |
+| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.6k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.4k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
 | [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.6k |
@@ -130,7 +130,7 @@
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 747 |
 | [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 732 |
 | [docs](https://github.com/minio/docs) | Documentation for MinIO object storage, built with Sphinx. | minio | 611 |
-| [pubpub](https://github.com/knowledgefutures/pubpub) | Open-source platform for community publishing and collaborative academic writing. | knowledgefutures | 547 |
+| [pubpub](https://github.com/knowledgefutures/pubpub) | Open-source platform for community publishing and collaborative academic writing. | knowledgefutures | 548 |
 | [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | Collection of stemmers and stopword lists for using the Lunr search library in other languages. | MihaiValentin | 459 |
 | [repo2pdf](https://github.com/BankkRoll/repo2pdf) | Converts a GitHub repository into a PDF by cloning it and processing its files. | BankkRoll | 383 |
 | [putaindecode.io](https://github.com/putaindecode/putaindecode.io) | Community-driven participatory blog for French-speaking developers. | putaindecode | 267 |
