@@ -1,9 +1,9 @@
 {
-  "contentHash": "e69d88000a6b",
+  "contentHash": "c18ea6e7c723",
   "digest": {
     "language": "en",
-    "text": "These stars lean heavily on **AI agents and their tooling**, from Peekaboo, which lets agents capture macOS screenshots, to qgis-mcp linking QGIS with assistants and mcp-gsc bringing Search Console data into Claude. Several projects aim to cut coding-agent costs, such as pxpipe and TokenEconomizer.\n\nA second thread is **privacy and censorship resistance**, seen in yip, hysteria, mullvadvpn-app and zen-desktop. Security research like ARTEX and Claude-BugHunter, plus **fast, low-level Rust and Go tooling**, round out the list.",
-    "upTo": "2026-11-24T19:02:00Z"
+    "text": "AI agents dominate this batch. **Coding agents and MCP integrations** lead, from floorplan, which maps codebases for Claude or Codex, to qgis-mcp and mcp-gsc, which connect GIS and Search Console data to assistants.\n\nOther threads include **privacy and censorship resistance**, seen in hysteria, yip, and zen-desktop, plus **security research** through ARTEX and Claude-BugHunter. Emulation projects like Delta and Winlator round out the list.",
+    "upTo": "2026-11-25T16:16:51Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-24T19:02:00Z",
+  "newest": "2026-11-25T16:16:51Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -6589,9 +6589,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMDM3MTEwMw==": {
       "category": "Other",
-      "ch": "637836084142",
-      "description": "Translation files for Laravel applications in many languages, written by native speakers.",
-      "dh": "e4494c2f74a4"
+      "ch": "3ae6458e1fc6",
+      "description": "Read-only subtree split of the Laravel-Lang Lang component, providing translation files for Laravel.",
+      "dh": "5b9abf9c2189"
     },
     "MDEwOlJlcG9zaXRvcnkxMDM3ODQxNDI=": {
       "category": "Mac Utilities",
@@ -8823,9 +8823,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMzEyMTI2Mzg=": {
       "category": "Cloud and Kubernetes",
-      "ch": "63af164c8d69",
-      "description": "Application kernel for containers that provides an isolation layer between workloads and the host.",
-      "dh": "5459ee0d0b12"
+      "ch": "b5b98f69f90e",
+      "description": "Application kernel that provides a sandboxed, Linux-compatible kernel for containers.",
+      "dh": "f6c04063a189"
     },
     "MDEwOlJlcG9zaXRvcnkxMzEyNDgwMg==": {
       "category": "Databases and Data Tools",
@@ -10089,9 +10089,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTE5Nzc4MTg=": {
       "category": "Frontend UI Libraries",
-      "ch": "f94f6f991c63",
-      "description": "Predictable state management library implementing the BLoC design pattern for Dart and Flutter.",
-      "dh": "53d71e6ccf19"
+      "ch": "43a4437387d7",
+      "description": "Predictable state management library for Dart, including AngularDart and Dart web applications.",
+      "dh": "a958e8c26f6a"
     },
     "MDEwOlJlcG9zaXRvcnkxNTExMDMwMjA=": {
       "category": "Testing and Automation",
@@ -10101,7 +10101,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==": {
       "category": "DevOps and Infrastructure",
-      "ch": "9f2797003c31",
+      "ch": "845c82eec0ce",
       "description": "Open source platform for visualizing metrics, logs, and traces from many data sources.",
       "dh": "e865af9ba544"
     },
@@ -11493,9 +11493,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "9aa2f1f8aded",
-      "description": "Python framework for browser testing, scraping, and automation with CDP Mode bot-detection bypass.",
-      "dh": "ac7629668cdd"
+      "ch": "8c5ecb53ea05",
+      "description": "Browser automation framework for E2E testing, web scraping, and stealth, with a CDP Mode for bot-detection.",
+      "dh": "a73bb011b69e"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -11935,7 +11935,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxODI1MDI4NTA=": {
       "category": "Desktop and Mobile Apps",
-      "ch": "62324df2eaa3",
+      "ch": "a918b10a5d22",
       "description": "Cross-platform download manager for HTTP, BitTorrent, magnet, and ed2k, built with Go and Flutter.",
       "dh": "4cd7323af954"
     },
@@ -12949,7 +12949,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTk5MzA4MDg=": {
       "category": "Security and Penetration Testing",
-      "ch": "7881f451fe1a",
+      "ch": "9b18ad992ec5",
       "description": "Android app for online privacy and security using DNSCrypt, Tor and I2P.",
       "dh": "cc2899dc09b4"
     },
@@ -24053,7 +24053,7 @@
     },
     "R_kgDOMbcWiA": {
       "category": "Security and Penetration Testing",
-      "ch": "b0327130a38d",
+      "ch": "4335c3804360",
       "description": "Anti-detect Firefox-based browser for automation with customized browser fingerprints.",
       "dh": "1f846f4a1fde"
     },
@@ -24735,12 +24735,6 @@
       "description": "Kanban-style task manager for running and reviewing Claude Code, Codex, and other coding agents.",
       "dh": "c83c2af5326e"
     },
-    "R_kgDOO8rBmg": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "a3f7d246b3bf",
-      "description": "Code-first tutorials for building GenAI agents, from prototypes to enterprise deployment.",
-      "dh": "f81156f8510e"
-    },
     "R_kgDOOAecfQ": {
       "category": "Frontend UI Libraries",
       "ch": "ffc962b3fa3c",
@@ -25016,12 +25010,6 @@
       "ch": "91128a638fb7",
       "description": "MCP server giving AI assistants access to Google Docs, Sheets, Drive, Gmail, and Calendar.",
       "dh": "570c868b6303"
-    },
-    "R_kgDOOZqJuQ": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "e7893d5bfd2d",
-      "description": "CLI that installs MCP servers into any MCP client, including authentication setup.",
-      "dh": "886dafe82d24"
     },
     "R_kgDOO_3pzw": {
       "category": "LLM Agents and AI Assistants",
@@ -25510,6 +25498,12 @@
       "ch": "5012a9249ff3",
       "description": "MCP server that gives coding agents access to Chrome DevTools for browser debugging and inspection.",
       "dh": "b670fed14271"
+    },
+    "R_kgDOPt9EPA": {
+      "category": "Cloud and Kubernetes",
+      "ch": "e8d3c1f95ddb",
+      "description": "Official command line interface for managing OVHcloud services.",
+      "dh": "8a50916da086"
     },
     "R_kgDOPvMdMQ": {
       "category": "Networking and Wireless",
@@ -26878,10 +26872,10 @@
       "dh": "1819c037097f"
     },
     "R_kgDOSDCHbQ": {
-      "category": "LLM Agents and AI Assistants",
-      "ch": "ebe2e910d41b",
-      "description": "Agent skill that turns ideas, plans, or codebases into interactive diagrams.",
-      "dh": "b12b56559d7a"
+      "category": "Developer Tools and Editors",
+      "ch": "518b74eace54",
+      "description": "Agent Skill that turns ideas, plans, or codebases into interactive diagrams and one-page answers.",
+      "dh": "d87f0ea88e9f"
     },
     "R_kgDOSDMmzA": {
       "category": "LLM Agents and AI Assistants",
@@ -26971,9 +26965,9 @@
     },
     "R_kgDOSUzdDA": {
       "category": "Security and Penetration Testing",
-      "ch": "0477219f97ad",
-      "description": "Claude Code skill bundle with 84 skills and 15 slash commands for bug hunting and red-team work.",
-      "dh": "c33d5c4baf72"
+      "ch": "1851b6ba66a7",
+      "description": "Claude Code skill bundle for bug hunting and red-team work across 24 core vulnerability classes.",
+      "dh": "77355d763f82"
     },
     "R_kgDOSVBndA": {
       "category": "Other",
@@ -27477,6 +27471,12 @@
       "description": "Library of behaviors for agents to build and drive user interfaces using accessibility and ARIA.",
       "dh": "9d9d76951290"
     },
+    "R_kgDOVZKfmA": {
+      "category": "Developer Tools and Editors",
+      "ch": "37e86dc85d8e",
+      "description": "Interactive, plain-English map of a codebase's architecture, drawn by Claude or Codex.",
+      "dh": "4611e16abbf9"
+    },
     "R_kgDOVeM_1A": {
       "category": "Other",
       "ch": "ba66c23fc5fd",
@@ -27517,6 +27517,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "version": 1
 }

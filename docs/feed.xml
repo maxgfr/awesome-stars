@@ -3,8 +3,32 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-24T19:02:00Z</updated>
+  <updated>2026-11-25T16:16:51Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>haydenschmitty/floorplan</title>
+    <link href="https://github.com/haydenschmitty/floorplan"/>
+    <id>https://github.com/haydenschmitty/floorplan</id>
+    <updated>2026-11-25T16:16:51Z</updated>
+    <author><name>haydenschmitty</name></author>
+    <summary>Interactive, plain-English map of a codebase's architecture, drawn by Claude or Codex. · JavaScript · ai-coding, architecture-diagram, claude, claude-code, claude-code-plugin</summary>
+    <category term="ai-coding"/>
+    <category term="architecture-diagram"/>
+    <category term="claude"/>
+    <category term="claude-code"/>
+    <category term="claude-code-plugin"/>
+  </entry>
+  <entry>
+    <title>ovh/ovhcloud-cli</title>
+    <link href="https://github.com/ovh/ovhcloud-cli"/>
+    <id>https://github.com/ovh/ovhcloud-cli</id>
+    <updated>2026-11-25T09:57:50Z</updated>
+    <author><name>ovh</name></author>
+    <summary>Official command line interface for managing OVHcloud services. · Go · cli, cloud, ovhcloud</summary>
+    <category term="cli"/>
+    <category term="cloud"/>
+    <category term="ovhcloud"/>
+  </entry>
   <entry>
     <title>openclaw/Peekaboo</title>
     <link href="https://github.com/openclaw/Peekaboo"/>
@@ -217,7 +241,7 @@
     <id>https://github.com/elementalsouls/Claude-BugHunter</id>
     <updated>2026-11-18T19:33:20Z</updated>
     <author><name>elementalsouls</name></author>
-    <summary>Claude Code skill bundle with 84 skills and 15 slash commands for bug hunting and red-team work. · Python · ai-security, anthropic, application-security, bug-bounty, bugbounty</summary>
+    <summary>Claude Code skill bundle for bug hunting and red-team work across 24 core vulnerability classes. · Python · ai-security, anthropic, application-security, bug-bounty, bugbounty</summary>
     <category term="ai-security"/>
     <category term="anthropic"/>
     <category term="application-security"/>
@@ -549,26 +573,5 @@
     <updated>2026-11-08T12:44:39Z</updated>
     <author><name>anomalyco</name></author>
     <summary>Native user interface framework written in Rust. · Rust</summary>
-  </entry>
-  <entry>
-    <title>anomalyco/hex</title>
-    <link href="https://github.com/anomalyco/hex"/>
-    <id>https://github.com/anomalyco/hex</id>
-    <updated>2026-11-07T15:57:09Z</updated>
-    <author><name>anomalyco</name></author>
-    <summary>Local voice dictation app for macOS, Windows, and Linux that runs speech recognition on-device. · Rust · dictation, linux, local-first, macos, rust</summary>
-    <category term="dictation"/>
-    <category term="linux"/>
-    <category term="local-first"/>
-    <category term="macos"/>
-    <category term="rust"/>
-  </entry>
-  <entry>
-    <title>unjs/uqr</title>
-    <link href="https://github.com/unjs/uqr"/>
-    <id>https://github.com/unjs/uqr</id>
-    <updated>2026-11-06T22:08:46Z</updated>
-    <author><name>unjs</name></author>
-    <summary>Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. · TypeScript</summary>
   </entry>
 </feed>

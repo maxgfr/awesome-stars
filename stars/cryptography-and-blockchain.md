@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Staging tree of Bitcoin Core, the reference implementation of the Bitcoin peer-to-peer network. | bitcoin | 90.8k |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 57.2k |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open-source Python bot for automated cryptocurrency trading and backtesting. | freqtrade | 57.3k |
 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol, including the geth node client. | ethereum | 51.5k |
 | [acme.sh](https://github.com/acmesh-official/acme.sh) | Pure Unix shell script ACME client for automating SSL/TLS certificate issuance and renewal. | acmesh-official | 48k |
 | [ccxt](https://github.com/ccxt/ccxt) | Unified trading API library for connecting to over 100 cryptocurrency exchanges in multiple languages. | ccxt | 45k |
@@ -85,8 +85,8 @@
 | [rainbowkit](https://github.com/rainbow-me/rainbowkit) | React library for connecting crypto wallets to decentralized apps on Ethereum. | rainbow-me | 2.8k |
 | [solana-web3.js](https://github.com/solana-foundation/solana-web3.js) | JavaScript SDK for interacting with the Solana blockchain. | solana-foundation | 2.8k |
 | [ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) | Monorepo implementing the Ethereum L1 protocol stack and EVM in TypeScript. | ethereumjs | 2.8k |
-| [cryfs](https://github.com/cryfs/cryfs) | Cryptographic filesystem for cloud storage that encrypts files before they are stored remotely. | cryfs | 2.3k |
 | [hashes](https://github.com/RustCrypto/hashes) | Pure Rust implementations of cryptographic hash functions, including BLAKE2 and GOST. | RustCrypto | 2.3k |
+| [cryfs](https://github.com/cryfs/cryfs) | Cryptographic filesystem for cloud storage that encrypts files before they are stored remotely. | cryfs | 2.3k |
 | [bolts](https://github.com/lightning/bolts) | Specifications of the Lightning Network protocol, known as BOLTs, for interoperable implementations. | lightning | 2.3k |
 | [node-argon2](https://github.com/ranisalt/node-argon2) | Node.js bindings for the Argon2 password hashing algorithm. | ranisalt | 2.2k |
 | [venus](https://github.com/filecoin-project/venus) | Implementation of a Filecoin full node written in Go. | filecoin-project | 2.1k |
@@ -124,13 +124,13 @@
 | [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 763 |
 | [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
-| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 678 |
+| [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 676 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 671 |
 | [openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) | Plugins for Hardhat and Foundry that deploy and manage upgradeable smart contracts on Ethereum. | OpenZeppelin | 661 |
 | [metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library) | Solana smart contracts for digital assets and NFTs maintained by the Metaplex team. | metaplex-foundation | 645 |
 | [tenderly-cli](https://github.com/Tenderly/tenderly-cli) | CLI tool for smart contract error tracking, monitoring, and alerting during development. | Tenderly | 591 |
 | [contract-metadata](https://github.com/MetaMask/contract-metadata) | Mapping of Ethereum contract addresses to icons used by wallet interfaces. | MetaMask | 587 |
-| [pem](https://github.com/Dexus/pem) | Node.js library for creating private keys, certificates, and certificate signing requests. | Dexus | 575 |
+| [pem](https://github.com/Dexus/pem) | Node.js library for creating private keys, certificates, and certificate signing requests. | Dexus | 574 |
 | [matic.js](https://github.com/0xPolygon/matic.js) | JavaScript library for interacting with the Matic Network, a Polygon sidechain, from applications. | 0xPolygon | 567 |
 | [noble-ed25519](https://github.com/paulmillr/noble-ed25519) | Minimal, fast JavaScript implementation of Ed25519 digital signatures. | paulmillr | 525 |
 | [clob-client](https://github.com/Polymarket/clob-client) 🗄️ | TypeScript client for the Polymarket CLOB API. | Polymarket | 512 |

@@ -9,13 +9,13 @@
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
 | [cypress](https://github.com/cypress-io/cypress) | Testing framework for end-to-end and component tests of anything that runs in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
-| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.5k |
+| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.6k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
-| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.6k |
-| [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.5k |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.7k |
+| [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.6k |
 | [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.5k |
 | [mocha](https://github.com/mochajs/mocha) | Feature-rich JavaScript test framework for running tests in Node.js and browsers. | mochajs | 22.9k |
@@ -24,16 +24,16 @@
 | [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.4k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 18k |
-| [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.4k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 18.1k |
+| [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.5k |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.5k |
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
 | [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.8k |
 | [pytest](https://github.com/pytest-dev/pytest) | Testing framework for writing small to complex Python tests, including functional testing. | pytest-dev | 14.8k |
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
-| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.2k |
+| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.3k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 14k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for browser testing, scraping, and automation with CDP Mode bot-detection bypass. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation framework for E2E testing, web scraping, and stealth, with a CDP Mode for bot-detection. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.5k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |

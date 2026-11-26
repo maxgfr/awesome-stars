@@ -6,15 +6,15 @@
 |---|---|---|---:|
 | [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 198k |
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.2k |
+| [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.3k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.6k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.5k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 78k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 72.1k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.6k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 78.5k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 73.1k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.7k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.3k |
-| [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.3k |
+| [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.4k |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.6k |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.6k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.6k |
@@ -25,7 +25,7 @@
 | [outline](https://github.com/outline/outline) | Knowledge base for growing teams, with realtime collaboration and markdown support. | outline | 41.4k |
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.7k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39.1k |
-| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.6k |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.7k |
 | [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 33k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
@@ -66,18 +66,18 @@
 | [wallabag](https://github.com/wallabag/wallabag) | Self-hostable web application for saving, classifying, and reading web articles later. | wallabag | 13.1k |
 | [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | Zotero plugin that translates PDFs, EPUBs, webpages, metadata, and notes using over 20 services. | windingwind | 12.3k |
 | [milkdown](https://github.com/Milkdown/milkdown) | Plugin-driven WYSIWYG markdown editor framework built on ProseMirror. | Milkdown | 12.1k |
-| [blinko](https://github.com/blinkospace/blinko) | Self-hosted, privacy-focused AI note-taking tool with Markdown notebooks. | blinkospace | 11.2k |
+| [blinko](https://github.com/blinkospace/blinko) | Self-hosted, privacy-focused AI note-taking tool with Markdown notebooks. | blinkospace | 11.3k |
 | [content](https://github.com/mdn/content) | Official source content for MDN Web Docs, covering HTML, CSS, JavaScript, HTTP and Web APIs. | mdn | 11.2k |
 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Source files for Microsoft Azure product documentation, published on Microsoft Learn. | MicrosoftDocs | 11k |
 | [reference](https://github.com/Fechin/reference) | Collection of quick reference cheat sheets for developers covering tools such as bash and awk. | Fechin | 11k |
 | [pdfkit](https://github.com/foliojs/pdfkit) | JavaScript library for generating PDF documents in Node.js and the browser. | foliojs | 10.7k |
 | [spectacle](https://github.com/FormidableLabs/spectacle) | React library for building presentations with JSX, allowing live code demos within slides. | FormidableLabs | 10.2k |
 | [WeasyPrint](https://github.com/Kozea/WeasyPrint) | Python library that converts HTML and CSS into PDF documents. | Kozea | 9.8k |
-| [starlight](https://github.com/withastro/starlight) | Astro framework for building accessible, high-performance documentation websites. | withastro | 9.6k |
+| [starlight](https://github.com/withastro/starlight) | Astro framework for building accessible, high-performance documentation websites. | withastro | 9.7k |
 | [papermark](https://github.com/papermark/papermark) | Open source DocSend alternative offering secure data rooms with built-in analytics and custom domains. | papermark | 9.5k |
 | [presenterm](https://github.com/mfontanini/presenterm) | Terminal slideshow tool that presents markdown documents. | mfontanini | 9k |
-| [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generates changelogs and release notes from commit messages and project metadata. | conventional-changelog | 8.5k |
 | [markdoc](https://github.com/markdoc/markdoc) | Markdown-based authoring framework for building documentation with a customizable toolchain. | markdoc | 8.5k |
+| [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generates changelogs and release notes from commit messages and project metadata. | conventional-changelog | 8.5k |
 | [readthedocs.org](https://github.com/readthedocs/readthedocs.org) | Source code of the Read the Docs platform for building and hosting documentation, built with Python. | readthedocs | 8.4k |
 | [cryptpad](https://github.com/cryptpad/cryptpad) | Open-source collaborative office suite with end-to-end encryption for editing documents and other files. | cryptpad | 8.1k |
 | [hedgedoc](https://github.com/hedgedoc/hedgedoc) | Collaborative real-time markdown editor for writing and sharing documents with diagrams. | hedgedoc | 7.5k |
@@ -124,12 +124,12 @@
 | [markit](https://github.com/shift-labs-ai/markit) | Rust tool that converts documents of many formats into Markdown. | shift-labs-ai | 1.3k |
 | [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | Docusaurus v3 plugin that generates API reference documentation from OpenAPI specifications. | PaloAltoNetworks | 1.1k |
 | [fyi](https://github.com/expo/fyi) | Collection of short troubleshooting notes for using Expo tools and services, each linkable by filename. | expo | 1.1k |
-| [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 971 |
+| [expressive-code](https://github.com/expressive-code/expressive-code) | Text marking and annotation engine for presenting annotated source code on the web. | expressive-code | 972 |
 | [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) | Offline search plugin for Docusaurus v2 and v3 sites that works without an external service. | easyops-cn | 912 |
 | [typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) | TypeDoc plugin that generates TypeScript API documentation in Markdown format. | typedoc2md | 822 |
 | [redocusaurus](https://github.com/rohit-gohri/redocusaurus) | Docusaurus plugin that renders OpenAPI specifications as documentation using Redoc. | rohit-gohri | 747 |
-| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 732 |
-| [docs](https://github.com/minio/docs) | Documentation for MinIO object storage, built with Sphinx. | minio | 611 |
+| [docker-languagetool](https://github.com/Erikvl87/docker-languagetool) | Dockerfile for running a LanguageTool grammar-checking server in a container. | Erikvl87 | 733 |
+| [docs](https://github.com/minio/docs) | Documentation for MinIO object storage, built with Sphinx. | minio | 612 |
 | [pubpub](https://github.com/knowledgefutures/pubpub) | Open-source platform for community publishing and collaborative academic writing. | knowledgefutures | 548 |
 | [lunr-languages](https://github.com/MihaiValentin/lunr-languages) | Collection of stemmers and stopword lists for using the Lunr search library in other languages. | MihaiValentin | 459 |
 | [repo2pdf](https://github.com/BankkRoll/repo2pdf) | Converts a GitHub repository into a PDF by cloning it and processing its files. | BankkRoll | 383 |

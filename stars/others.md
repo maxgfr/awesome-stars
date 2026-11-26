@@ -6,77 +6,77 @@
 |---|---|---|---:|
 | [linux](https://github.com/torvalds/linux) | Source tree of the Linux kernel, an open-source operating system kernel. | torvalds | 257k |
 | [godot](https://github.com/godotengine/godot) | Open-source multi-platform engine for building 2D and 3D games. | godotengine | 121k |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Web application for editing, converting and processing PDF files, self-hosted via Docker. | Stirling-Tools | 97.4k |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Web application for editing, converting and processing PDF files, self-hosted via Docker. | Stirling-Tools | 97.5k |
 | [core](https://github.com/home-assistant/core) | Open source home automation platform focused on local control and privacy for IoT devices. | home-assistant | 92.5k |
 | [realworld](https://github.com/realworld-apps/realworld) | Fullstack demo application implementing the same Medium.com-style blog across many frontend and backend stacks. | realworld-apps | 84.4k |
-| [Ventoy](https://github.com/ventoy/Ventoy) | Tool for creating bootable USB drives by copying ISO, WIM and other image files to them. | ventoy | 81.1k |
-| [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | Browser-based 3D globe that displays live open-source flight tracking and geospatial data. | bilawalsidhu | 66.7k |
+| [Ventoy](https://github.com/ventoy/Ventoy) | Tool for creating bootable USB drives by copying ISO, WIM and other image files to them. | ventoy | 81.2k |
+| [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | Browser-based 3D globe that displays live open-source flight tracking and geospatial data. | bilawalsidhu | 66.8k |
 | [scrapy](https://github.com/scrapy/scrapy) | Fast high-level Python framework for web crawling and scraping. | scrapy | 65.6k |
-| [Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell script that removes preinstalled apps, disables telemetry and applies other Windows customizations. | Raphire | 63.6k |
-| [plane](https://github.com/makeplane/plane) | Self-hostable project management platform for issues, sprints, docs, and roadmaps as an alternative to Jira. | makeplane | 63.1k |
-| [jellyfin](https://github.com/jellyfin/jellyfin) | Free software media system server backend and API for organizing and streaming media libraries. | jellyfin | 59.7k |
+| [Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell script that removes preinstalled apps, disables telemetry and applies other Windows customizations. | Raphire | 63.7k |
+| [plane](https://github.com/makeplane/plane) | Self-hostable project management platform for issues, sprints, docs, and roadmaps as an alternative to Jira. | makeplane | 63.2k |
+| [jellyfin](https://github.com/jellyfin/jellyfin) | Free software media system server backend and API for organizing and streaming media libraries. | jellyfin | 59.8k |
 | [odoo](https://github.com/odoo/odoo) | Open source suite of business applications including ERP, CRM, and accounting modules. | odoo | 56.1k |
 | [Ghost](https://github.com/TryGhost/Ghost) | Open-source publishing platform for blogs, memberships, subscriptions and newsletters. | TryGhost | 55.9k |
 | [trackerslist](https://github.com/ngosang/trackerslist) | Regularly updated list of public BitTorrent tracker URLs. | ngosang | 55.8k |
 | [pdf.js](https://github.com/mozilla/pdf.js) | Portable PDF rendering engine written in JavaScript for displaying PDFs in browsers. | mozilla | 54.2k |
-| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | Curated list of companies that hire developers without whiteboard interviews. | poteto | 53.6k |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | Curated list of companies that hire developers without whiteboard interviews. | poteto | 53.7k |
 | [cal.diy](https://github.com/calcom/cal.diy) | Open-source scheduling tool for booking meetings, built with Next.js, Prisma and PostgreSQL. | calcom | 50.4k |
 | [discourse](https://github.com/discourse/discourse) | Open-source platform for community discussion forums, built with Ruby on Rails and Ember.js. | discourse | 48.1k |
-| [omarchy](https://github.com/omacom/omarchy) | Opinionated, modern Linux desktop setup with a polished default configuration. | omacom | 47.5k |
-| [RSSHub](https://github.com/DIYgod/RSSHub) | Open-source RSS feed generator that turns websites and services into RSS feeds. | DIYgod | 47.2k |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Open-source messaging platform for chat, voice, video, and governed AI, built for government. | RocketChat | 46.5k |
+| [omarchy](https://github.com/omacom/omarchy) | Opinionated, modern Linux desktop setup with a polished default configuration. | omacom | 47.6k |
+| [RSSHub](https://github.com/DIYgod/RSSHub) | Open-source RSS feed generator that turns websites and services into RSS feeds. | DIYgod | 47.4k |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Open-source messaging platform for chat, voice, video, and governed AI, built for government. | RocketChat | 46.6k |
 | [reactive-resume](https://github.com/reactive-resume/reactive-resume) | Open-source resume builder focused on privacy, with customizable templates and AI features. | reactive-resume | 46.1k |
 | [hyperswitch](https://github.com/juspay/hyperswitch) | Open source payments platform connecting to multiple payment, payout, fraud, and vault providers. | juspay | 45.9k |
 | [retrofit](https://github.com/lysine-dev/retrofit) | Type-safe HTTP client for Android and the JVM. | lysine-dev | 43.9k |
-| [craft-anything](https://github.com/storytold/craft-anything) 🆕 | Learning resource for understanding how software works and building your own. | storytold | 42.9k |
-| [postiz-app](https://github.com/gitroomhq/postiz-app) | Social media scheduling tool for planning and publishing posts across platforms, with AI agent features. | gitroomhq | 42.3k |
+| [craft-anything](https://github.com/storytold/craft-anything) 🆕 | Learning resource for understanding how software works and building your own. | storytold | 43.5k |
+| [postiz-app](https://github.com/gitroomhq/postiz-app) | Social media scheduling tool for planning and publishing posts across platforms, with AI agent features. | gitroomhq | 42.4k |
 | [erpnext](https://github.com/frappe/erpnext) | Open source ERP system for accounting, CRM, distribution, and asset management. | frappe | 41.6k |
 | [financial-services](https://github.com/anthropics/financial-services) |  | anthropics | 41.5k |
 | [posthog](https://github.com/PostHog/posthog) | Open-source platform for analytics, session replay, feature flags, experiments, and errors. | PostHog | 41.1k |
 | [phaser](https://github.com/phaserjs/phaser) | Free, fast 2D game framework for building HTML5 games for desktop and mobile browsers. | phaserjs | 40.8k |
-| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer support platform with live chat, email, and omnichannel inboxes. | chatwoot | 40.5k |
-| [searxng](https://github.com/searxng/searxng) | Self-hostable metasearch engine that aggregates search results without tracking users. | searxng | 39.8k |
+| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer support platform with live chat, email, and omnichannel inboxes. | chatwoot | 40.6k |
+| [searxng](https://github.com/searxng/searxng) | Self-hostable metasearch engine that aggregates search results without tracking users. | searxng | 39.9k |
 | [mattermost](https://github.com/mattermost/mattermost) | Open-source platform for secure team collaboration and messaging across software development. | mattermost | 39.7k |
-| [buzz](https://github.com/block/buzz) | Communication platform described as a hive mind. | block | 37.7k |
+| [buzz](https://github.com/block/buzz) | Communication platform described as a hive mind. | block | 37.8k |
 | [server](https://github.com/nextcloud/server) | Self-hosted file sync and collaboration platform for storing and sharing data on your own servers. | nextcloud | 37.6k |
 | [shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator written in C++ for Windows, Linux, macOS, and FreeBSD. | shadps4-emu | 34.4k |
 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Finance application for market analytics, investment research and economic data exploration. | Fincept-Corporation | 34.2k |
 | [numpy](https://github.com/numpy/numpy) | Fundamental Python package for numerical arrays and scientific computing. | numpy | 33.5k |
 | [jsPDF](https://github.com/parallax/jsPDF) | Client-side JavaScript library for generating PDF documents in the browser. | parallax | 31.3k |
 | [wttr.in](https://github.com/chubin/wttr.in) | Command-line weather service that displays forecasts as ASCII art in the terminal via curl. | chubin | 30.8k |
-| [actual](https://github.com/actualbudget/actual) | Local-first personal finance app for budgeting and tracking money. | actualbudget | 30.4k |
-| [pydantic](https://github.com/pydantic/pydantic) | Data validation library for Python using type hints, with JSON Schema generation. | pydantic | 29.6k |
-| [open-seo](https://github.com/every-app/open-seo) 🆕 | Open-source alternative to Semrush and Ahrefs for keyword research and backlink analysis. | every-app | 28.8k |
-| [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Chromium build with Google web service integration removed, for privacy and control over browser behavior. | ungoogled-software | 28.3k |
+| [actual](https://github.com/actualbudget/actual) | Local-first personal finance app for budgeting and tracking money. | actualbudget | 30.5k |
+| [pydantic](https://github.com/pydantic/pydantic) | Data validation library for Python using type hints, with JSON Schema generation. | pydantic | 29.7k |
+| [open-seo](https://github.com/every-app/open-seo) 🆕 | Open-source alternative to Semrush and Ahrefs for keyword research and backlink analysis. | every-app | 28.9k |
+| [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Chromium build with Google web service integration removed, for privacy and control over browser behavior. | ungoogled-software | 28.4k |
 | [nanoid](https://github.com/ai/nanoid) | Tiny, secure, URL-friendly unique string ID generator for JavaScript. | ai | 27.1k |
 | [zulip](https://github.com/zulip/zulip) | Open-source team chat server and web application for focused, productive team communication. | zulip | 26.3k |
-| [invidious](https://github.com/iv-org/invidious) | Open-source alternative front-end for YouTube that serves videos without tracking. | iv-org | 26.1k |
+| [invidious](https://github.com/iv-org/invidious) | Open-source alternative front-end for YouTube that serves videos without tracking. | iv-org | 26.2k |
 | [homebridge](https://github.com/homebridge/homebridge) | Server that exposes non-HomeKit devices to Apple HomeKit through a HAP bridge. | homebridge | 25.6k |
 | [chromium](https://github.com/chromium/chromium) | Read-only mirror of the Chromium browser source code. | chromium | 25.4k |
 | [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Self-hosted personal finance manager for tracking accounts, budgets, and cash flow. | firefly-iii | 25.3k |
-| [navidrome](https://github.com/navidrome/navidrome) | Self-hosted music server and streaming service for personal use, compatible with Subsonic clients. | navidrome | 24.9k |
+| [navidrome](https://github.com/navidrome/navidrome) | Self-hosted music server and streaming service for personal use, compatible with Subsonic clients. | navidrome | 25k |
 | [p5.js](https://github.com/processing/p5.js) | JavaScript library for creative coding and graphics in the browser, aimed at artists and learners. | processing | 24.4k |
 | [v86](https://github.com/copy/v86) | x86 PC emulator and x86-to-WebAssembly JIT compiler that runs in the browser. | copy | 23.7k |
 | [SpotX](https://github.com/SpotX-Official/SpotX) | PowerShell patcher that modifies the Windows desktop Spotify client to block advertisements. | SpotX-Official | 23.5k |
 | [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) | NodeJS client library that automates WhatsApp Web through a browser session. | wwebjs | 23k |
 | [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Collection of anime-style illustrations of girls holding programming books. | cat-milk | 22.7k |
-| [Atlas](https://github.com/Atlas-OS/Atlas) | Lightweight, open modification of Windows that aims to improve performance, privacy and usability. | Atlas-OS | 22.2k |
-| [matomo](https://github.com/matomo-org/matomo) | Self-hosted open-source web analytics platform focused on user privacy and data ownership. | matomo-org | 22k |
+| [Atlas](https://github.com/Atlas-OS/Atlas) | Lightweight, open modification of Windows that aims to improve performance, privacy and usability. | Atlas-OS | 22.3k |
+| [matomo](https://github.com/matomo-org/matomo) | Self-hosted open-source web analytics platform focused on user privacy and data ownership. | matomo-org | 22.1k |
 | [wekan](https://github.com/wekan/wekan) | Open-source kanban board application built with Meteor for task and project management. | wekan | 21.2k |
 | [monkeytype](https://github.com/monkeytypegame/monkeytype) | Customizable minimalist typing test website for measuring and improving typing speed. | monkeytypegame | 21.1k |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Work-in-progress custom firmware for the Nintendo Switch. | Atmosphere-NX | 20.4k |
-| [monaspace](https://github.com/githubnext/monaspace) | Superfamily of monospaced fonts designed for code. | githubnext | 19.8k |
+| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Work-in-progress custom firmware for the Nintendo Switch. | Atmosphere-NX | 20.5k |
+| [monaspace](https://github.com/githubnext/monaspace) | Superfamily of monospaced fonts designed for code. | githubnext | 19.9k |
 | [esp-idf](https://github.com/espressif/esp-idf) | Official IoT development framework for Espressif SoCs. | espressif | 19.6k |
-| [docuseal](https://github.com/docusealco/docuseal) | Open source electronic signature platform for creating, filling, and signing PDF documents. | docusealco | 19.1k |
+| [docuseal](https://github.com/docusealco/docuseal) | Open source electronic signature platform for creating, filling, and signing PDF documents. | docusealco | 19.2k |
 | [browsh](https://github.com/browsh-org/browsh) | Text-based web browser that renders pages to a terminal TTY or browser, for low-bandwidth use. | browsh-org | 19.1k |
 | [WLED](https://github.com/wled/WLED) | Firmware for controlling WS2812B and other digital RGB LEDs from an ESP32 or ESP8266 over WiFi. | wled | 19.1k |
 | [lila](https://github.com/lichess-org/lila) | Source code for lichess.org, a free, ad-free, open source chess server. | lichess-org | 19k |
-| [ruffle](https://github.com/ruffle-rs/ruffle) | Flash Player emulator written in Rust for running SWF content in web browsers and desktop. | ruffle-rs | 18.9k |
-| [wordcraft](https://github.com/storytold/wordcraft) | Open-source clean-room word processor written in pure Rust. | storytold | 18.5k |
+| [ruffle](https://github.com/ruffle-rs/ruffle) | Flash Player emulator written in Rust for running SWF content in web browsers and desktop. | ruffle-rs | 19k |
+| [wordcraft](https://github.com/storytold/wordcraft) | Open-source clean-room word processor written in pure Rust. | storytold | 18.6k |
 | [InstaPy](https://github.com/InstaPy/InstaPy) | Automation bot for performing Instagram interactions such as liking and following. | InstaPy | 18.4k |
 | [libphonenumber](https://github.com/google/libphonenumber) | Library for parsing, formatting, and validating international phone numbers in Java, C++, and JavaScript. | google | 18.4k |
-| [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and BitTorrent users that monitors and downloads TV series. | Sonarr | 17.8k |
-| [apprise](https://github.com/caronc/apprise) | Library for sending push notifications to many platforms through one unified interface. | caronc | 17.8k |
+| [apprise](https://github.com/caronc/apprise) | Library for sending push notifications to many platforms through one unified interface. | caronc | 17.9k |
+| [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and BitTorrent users that monitors and downloads TV series. | Sonarr | 17.9k |
 | [arduino-esp32](https://github.com/espressif/arduino-esp32) | Arduino core for the ESP32 family of SoCs. | espressif | 17.8k |
 | [openproject](https://github.com/opf/openproject) | Open source project management software for agile planning, issue tracking, and roadmaps. | opf | 17.7k |
 | [Stockfish](https://github.com/official-stockfish/Stockfish) | Free, open-source UCI chess engine written in C++. | official-stockfish | 17.5k |
@@ -84,23 +84,23 @@
 | [BillionMail](https://github.com/Billionmail/BillionMail) | Self-hosted open-source mail server with newsletter and email marketing tools and no monthly fees. | Billionmail | 16.5k |
 | [flarum](https://github.com/flarum/flarum) | Simple open-source forum software for building online communities, written in PHP. | flarum | 16.4k |
 | [Jackett](https://github.com/Jackett/Jackett) | API proxy that exposes torrent tracker indexers to applications such as Sonarr and Radarr. | Jackett | 16.4k |
-| [pcsx2](https://github.com/PCSX2/pcsx2) | Open-source emulator for running PlayStation 2 games on PC. | PCSX2 | 16.1k |
+| [pcsx2](https://github.com/PCSX2/pcsx2) | Open-source emulator for running PlayStation 2 games on PC. | PCSX2 | 16.2k |
 | [dolphin](https://github.com/dolphin-emu/dolphin) | Emulator for running GameCube and Wii games on PC. | dolphin-emu | 15.9k |
 | [monolith](https://github.com/Y2Z/monolith) | Command-line tool and library that saves a complete web page into a single HTML file. | Y2Z | 15.6k |
 | [gpu.js](https://github.com/gpujs/gpu.js) | JavaScript library for GPU-accelerated computation, compiling functions to GLSL. | gpujs | 15.5k |
-| [stremio-web](https://github.com/Stremio/stremio-web) | Web version of the Stremio media streaming application, written in JavaScript. | Stremio | 15.3k |
-| [NodeBB](https://github.com/NodeBB/NodeBB) | Forum software built on Node.js and MongoDB for online community discussions. | NodeBB | 15.3k |
+| [stremio-web](https://github.com/Stremio/stremio-web) | Web version of the Stremio media streaming application, written in JavaScript. | Stremio | 15.5k |
 | [scipy](https://github.com/scipy/scipy) | Python library of algorithms for scientific computing, such as optimization and integration. | scipy | 15.3k |
+| [NodeBB](https://github.com/NodeBB/NodeBB) | Forum software built on Node.js and MongoDB for online community discussions. | NodeBB | 15.3k |
 | [mathjs](https://github.com/josdejong/mathjs) | Math library for JavaScript and Node.js covering expression evaluation, matrices, complex numbers. | josdejong | 15.1k |
 | [ppsspp](https://github.com/hrydgard/ppsspp) | PSP emulator for Android, Windows, macOS, Linux, and iOS, written in C++. | hrydgard | 15k |
 | [QGIS](https://github.com/qgis/QGIS) | Free, open-source cross-platform geographic information system for Linux, Windows, and macOS. | qgis | 14.9k |
 | [Radarr](https://github.com/Radarr/Radarr) | Movie manager for Usenet and torrent users that organizes and automates movie downloads. | Radarr | 14.9k |
 | [gs-quant](https://github.com/goldmansachs/gs-quant) | Python toolkit for quantitative finance, including derivatives, risk, and trading strategy tools. | goldmansachs | 14.4k |
 | [instaloader](https://github.com/instaloader/instaloader) | Tool to download Instagram pictures or videos with captions and metadata. | instaloader | 14k |
-| [borg](https://github.com/borgbackup/borg) | Deduplicating backup tool with compression and authenticated encryption for storing archives. | borgbackup | 13.9k |
+| [borg](https://github.com/borgbackup/borg) | Deduplicating backup tool with compression and authenticated encryption for storing archives. | borgbackup | 14k |
 | [Github-Ranking](https://github.com/EvanLi/Github-Ranking) | Daily-updated rankings of GitHub repositories by stars and forks, with per-language top lists. | EvanLi | 13.2k |
 | [z3](https://github.com/Z3Prover/z3) | High-performance SMT solver and theorem prover for checking satisfiability and logical constraints. | Z3Prover | 13k |
-| [lz4](https://github.com/lz4/lz4) | Lossless compression algorithm focused on very fast compression and decompression speed. | lz4 | 12.8k |
+| [lz4](https://github.com/lz4/lz4) | Lossless compression algorithm focused on very fast compression and decompression speed. | lz4 | 12.9k |
 | [ta-lib-python](https://github.com/TA-Lib/ta-lib-python) | Python wrapper for the TA-Lib technical analysis library, providing indicators and pattern recognition. | TA-Lib | 12.4k |
 | [YOURLS](https://github.com/YOURLS/YOURLS) | Self-hosted, customizable URL shortener written in PHP. | YOURLS | 12.3k |
 | [esphome](https://github.com/esphome/esphome) | YAML-configured firmware for ESP32, ESP8266, BK72xx and RP2040 devices used in home automation. | esphome | 12.2k |
@@ -108,7 +108,7 @@
 | [shiori](https://github.com/go-shiori/shiori) | Simple command-line and web-based bookmark manager written in Go. | go-shiori | 11.9k |
 | [whoogle-search](https://github.com/benbusby/whoogle-search) 🗄️ | Self-hosted, ad-free, privacy-respecting metasearch engine. | benbusby | 11.6k |
 | [mautic](https://github.com/mautic/mautic) | Open source marketing automation platform for email campaigns and digital experiences. | mautic | 11.1k |
-| [skills](https://github.com/android/skills) | Agent skills for Android development. | android | 10.7k |
+| [skills](https://github.com/android/skills) | Agent skills for Android development. | android | 10.8k |
 | [invoiceninja](https://github.com/invoiceninja/invoiceninja) | Source-available app for invoices, quotes, projects and time tracking, built with Laravel. | invoiceninja | 10.6k |
 | [WebKit](https://github.com/WebKit/WebKit) | Browser engine used by Safari and other Apple applications on macOS, iOS, and Linux. | WebKit | 10.4k |
 | [akaunting](https://github.com/akaunting/akaunting) | Open-source online accounting software for billing, bookkeeping, budgeting and balance tracking. | akaunting | 10.3k |
@@ -140,7 +140,7 @@
 | [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) | Linux daemon and CLI that automatically optimizes CPU speed and power usage for battery life. | AdnanHodzic | 7.9k |
 | [gridcraft](https://github.com/storytold/gridcraft) | Open-source clean-room spreadsheet application written in pure Rust. | storytold | 7.8k |
 | [QuantLib](https://github.com/lballabio/QuantLib) | C++ library for quantitative finance, covering pricing, risk management and financial modeling. | lballabio | 7.8k |
-| [lang](https://github.com/Laravel-Lang/lang) | Translation files for Laravel applications in many languages, written by native speakers. | Laravel-Lang | 7.8k |
+| [lang](https://github.com/Laravel-Lang/lang) | Read-only subtree split of the Laravel-Lang Lang component, providing translation files for Laravel. | Laravel-Lang | 7.8k |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Indexer manager and proxy for integrating torrent trackers and Usenet indexers with *arr apps. | Prowlarr | 7.7k |
 | [moodle](https://github.com/moodle/moodle) | Open source learning platform for creating, delivering, and managing online courses. | moodle | 7.6k |
 | [mgba](https://github.com/mgba-emu/mgba) | Game Boy, Game Boy Color, and Game Boy Advance emulator written in C. | mgba-emu | 7.6k |
@@ -160,8 +160,8 @@
 | [dinero.js](https://github.com/dinerojs/dinero.js) | Library for creating, calculating, and formatting money values in JavaScript and TypeScript. | dinerojs | 6.8k |
 | [node-crawler](https://github.com/bda-research/node-crawler) | Node.js web crawler that extracts data from pages using server-side jQuery via Cheerio. | bda-research | 6.8k |
 | [TikTok-Api](https://github.com/davidteather/TikTok-Api) | Unofficial Python wrapper for the TikTok API, used to fetch and download TikTok data. | davidteather | 6.8k |
-| [typehero](https://github.com/typehero/typehero) | Community platform for TypeScript developers to connect, collaborate, and learn. | typehero | 6.6k |
 | [LibreCAD](https://github.com/LibreCAD/LibreCAD) | Cross-platform 2D CAD program that reads and writes DXF and DWG files. | LibreCAD | 6.6k |
+| [typehero](https://github.com/typehero/typehero) | Community platform for TypeScript developers to connect, collaborate, and learn. | typehero | 6.6k |
 | [venom](https://github.com/vynect/venom) | High-performance JavaScript framework for building WhatsApp bots with chat, media, and recognition features. | vynect | 6.6k |
 | [photoview](https://github.com/photoview/photoview) | Self-hosted photo gallery for personal servers with EXIF support and Docker deployment. | photoview | 6.6k |
 | [melonJS](https://github.com/melonjs/melonJS) | HTML5 game engine for building 2D and 3D games in JavaScript and TypeScript with WebGL rendering. | melonjs | 6.5k |
@@ -200,12 +200,12 @@
 | [exportify](https://github.com/watsonbox/exportify) | Tool for exporting and backing up Spotify playlists through the Spotify Web API. | watsonbox | 4.3k |
 | [m1n1](https://github.com/AsahiLinux/m1n1) | Bootloader and experimentation platform for Apple Silicon hardware. | AsahiLinux | 4.3k |
 | [SuperSlicer](https://github.com/supermerill/SuperSlicer) | G-code generator that slices 3D models for printers such as Prusa, Voron, and Creality. | supermerill | 4.3k |
-| [bigcapital](https://github.com/bigcapitalhq/bigcapital) | Open-source accounting software with double-entry bookkeeping, inventory, and financial reporting. | bigcapitalhq | 4.2k |
+| [bigcapital](https://github.com/bigcapitalhq/bigcapital) | Open-source accounting software with double-entry bookkeeping, inventory, and financial reporting. | bigcapitalhq | 4.3k |
 | [portfolio](https://github.com/portfolio-performance/portfolio) | Application for tracking and evaluating investment portfolio performance across stocks, crypto, and assets. | portfolio-performance | 4.2k |
 | [tolgee-platform](https://github.com/tolgee/tolgee-platform) | Web-based localization platform for managing translations, aimed at developers and translators. | tolgee | 4.2k |
 | [atopile](https://github.com/atopile/atopile) | Tool for designing circuit boards as code, with version control and collaboration for electronics. | atopile | 4.1k |
-| [stripe-php](https://github.com/stripe/stripe-php) | PHP client library for accessing the Stripe API. | stripe | 4k |
 | [crm](https://github.com/frappe/crm) | Open source CRM software built on the Frappe framework for managing sales and customer relations. | frappe | 4k |
+| [stripe-php](https://github.com/stripe/stripe-php) | PHP client library for accessing the Stripe API. | stripe | 4k |
 | [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) | Open-source web platform for creating and running online surveys and forms. | LimeSurvey | 3.8k |
 | [desmume](https://github.com/TASEmulators/desmume) | Nintendo DS emulator written in C++. | TASEmulators | 3.7k |
 | [ServiceWorker](https://github.com/w3c/ServiceWorker) | Specification for Service Workers, which are scripts that intercept and handle network requests in the background. | w3c | 3.6k |
@@ -232,8 +232,8 @@
 | [usertour](https://github.com/usertour/usertour) | Open-source user onboarding platform for building in-app product tours, checklists, and surveys. | usertour | 2.3k |
 | [dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) | Tools for unpacking, analyzing, and handling firmware images of DJI drones and quadcopters. | o-gs | 2.3k |
 | [opencollective](https://github.com/opencollective/opencollective) | Repository for tracking Open Collective issues, RFCs, and related planning documents. | opencollective | 2.3k |
-| [keila](https://github.com/pentacent/keila) | Open-source tool for sending newsletters. | pentacent | 2.3k |
 | [mail-archiver](https://github.com/s1t5/mail-archiver) | Web application that archives, searches, and exports email from multiple IMAP accounts. | s1t5 | 2.3k |
+| [keila](https://github.com/pentacent/keila) | Open-source tool for sending newsletters. | pentacent | 2.3k |
 | [wayback](https://github.com/wabarc/wayback) | IM-style tool that archives web pages to Internet Archive, archive.today, IPFS and other services. | wabarc | 2.3k |
 | [lumibot](https://github.com/Lumiwealth/lumibot) | Python framework for backtesting and live trading on 12 brokers across stocks, options, and crypto. | Lumiwealth | 2.3k |
 | [spreed](https://github.com/nextcloud/spreed) | Chat, video, and audio calling app for Nextcloud with support for screen sharing. | nextcloud | 2.2k |
@@ -258,7 +258,7 @@
 | [disposable](https://github.com/disposable/disposable) | List of disposable and temporary email address domains for use in email filtering. | disposable | 1.5k |
 | [deck](https://github.com/nextcloud/deck) | Kanban-style project and personal management app for Nextcloud, similar to Trello. | nextcloud | 1.4k |
 | [freedoom](https://github.com/freedoom/freedoom) | Entirely free software game based on the Doom engine. | freedoom | 1.4k |
-| [torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) |  | TheBeastLT | 1.3k |
+| [torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) |  | TheBeastLT | 1.4k |
 | [webrcade](https://github.com/webrcade/webrcade) | Feed-driven gaming platform. | webrcade | 1.3k |
 | [unpdf](https://github.com/unjs/unpdf) | PDF extraction and rendering library that runs across all JavaScript runtimes. | unjs | 1.3k |
 | [watchparty](https://github.com/howardchung/watchparty) | Web application for watching videos synchronously with friends in shared sessions. | howardchung | 1.3k |
@@ -271,18 +271,18 @@
 | [SteamTracking](https://github.com/SteamTracking/SteamTracking) | Tooling that tracks Steam client changes and reverse-engineers protobuf definitions. | SteamTracking | 1.1k |
 | [technical](https://github.com/freqtrade/technical) | Technical analysis indicators for dataframes used with the Freqtrade trading bot. | freqtrade | 1k |
 | [trading-signals](https://github.com/bennycode/trading-signals) | Technical analysis indicators for JavaScript and TypeScript trading applications. | bennycode | 1k |
-| [MediaFusion](https://github.com/mhdzumair/MediaFusion) | Open-source streaming platform providing Stremio add-ons for movies and series via debrid services. | mhdzumair | 979 |
+| [MediaFusion](https://github.com/mhdzumair/MediaFusion) | Open-source streaming platform providing Stremio add-ons for movies and series via debrid services. | mhdzumair | 981 |
 | [node-talib](https://github.com/oransel/node-talib) | Technical analysis library for Node.js with indicators implemented in C. | oransel | 979 |
 | [openboxes](https://github.com/openboxes/openboxes) | Warehouse management system for tracking inventory and stock movements in healthcare facilities. | openboxes | 938 |
 | [ibeam](https://github.com/Voyz/ibeam) | Tool that automates login and maintenance of the Interactive Brokers Client Portal Web API Gateway. | Voyz | 867 |
-| [alltheplaces](https://github.com/alltheplaces/alltheplaces) | Scrapy spiders that extract location data from public websites and output it as GeoJSON. | alltheplaces | 851 |
+| [alltheplaces](https://github.com/alltheplaces/alltheplaces) | Scrapy spiders that extract location data from public websites and output it as GeoJSON. | alltheplaces | 852 |
 | [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) | Unofficial Yahoo Finance API client with a CLI, MCP server, and agent skill. | gadicc | 817 |
 | [masto.js](https://github.com/neet/masto.js) | Universal Mastodon API client library for JavaScript. | neet | 782 |
 | [twurple](https://github.com/twurple/twurple) | TypeScript library for Twitch API access, chat bots, and PubSub and EventSub event subscriptions. | twurple | 753 |
-| [bygga](https://github.com/Nutlope/bygga) 🆕 | Generates animated, step-by-step 3D assembly guides for IKEA furniture from scanned paper manuals. | Nutlope | 748 |
-| [worldcup](https://github.com/openfootball/worldcup) | Open public domain football datasets in Football.TXT format for World Cup tournaments and qualifiers. | openfootball | 708 |
-| [signal](https://github.com/mautrix/signal) | Matrix bridge that puppets a Signal account, relaying messages between Matrix and Signal. | mautrix | 684 |
-| [playlistor](https://github.com/akornor/playlistor) | Converter between Apple Music and Spotify playlists, built with Django and Celery. | akornor | 677 |
+| [bygga](https://github.com/Nutlope/bygga) 🆕 | Generates animated, step-by-step 3D assembly guides for IKEA furniture from scanned paper manuals. | Nutlope | 749 |
+| [worldcup](https://github.com/openfootball/worldcup) | Open public domain football datasets in Football.TXT format for World Cup tournaments and qualifiers. | openfootball | 709 |
+| [signal](https://github.com/mautrix/signal) | Matrix bridge that puppets a Signal account, relaying messages between Matrix and Signal. | mautrix | 683 |
+| [playlistor](https://github.com/akornor/playlistor) | Converter between Apple Music and Spotify playlists, built with Django and Celery. | akornor | 676 |
 | [go](https://github.com/mautrix/go) | Golang framework for building Matrix clients, bots and appservices. | mautrix | 672 |
 | [fuzzball.js](https://github.com/nol13/fuzzball.js) | JavaScript port of fuzzywuzzy for fuzzy string matching and search using Levenshtein distance. | nol13 | 642 |
 | [friendlyeats-web](https://github.com/firebase/friendlyeats-web) |  | firebase | 597 |
@@ -293,10 +293,10 @@
 | [analytics](https://github.com/vercel/analytics) | Privacy-friendly library for collecting real-time web traffic insights. | vercel | 522 |
 | [worldcup.json](https://github.com/openfootball/worldcup.json) | Open public domain World Cup and club football data in JSON, with no API key required. | openfootball | 485 |
 | [discord-backup](https://github.com/Androz2091/discord-backup) | Framework for backing up and restoring Discord server structure and content using discord.js v13. | Androz2091 | 484 |
-| [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) | Standalone app that fakes the upload and download statistics reported to BitTorrent trackers without transferring data. | NikolayIT | 428 |
+| [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) | Standalone app that fakes the upload and download statistics reported to BitTorrent trackers without transferring data. | NikolayIT | 429 |
 | [spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) | Spicetify theme with light and dark modes that derives colors from album art. | JulienMaille | 375 |
 | [PCSC](https://github.com/LudovicRousseau/PCSC) | pcsc-lite, an implementation of the PC/SC API for communicating with smart cards. | LudovicRousseau | 363 |
-| [api.gouv.fr](https://github.com/betagouv/api.gouv.fr) 🗄️ | Lists the APIs available within the French government administration. | betagouv | 347 |
+| [api.gouv.fr](https://github.com/betagouv/api.gouv.fr) 🗄️ | Lists the APIs available within the French government administration. | betagouv | 348 |
 | [go-quote](https://github.com/markcheno/go-quote) | Go library and CLI for downloading historical price quotes from financial and crypto exchanges. | markcheno | 346 |
 | [stream-js](https://github.com/GetStream/stream-js) | Deprecated JavaScript client for Stream Feeds v2, superseded by Feeds v3 for new projects. | GetStream | 339 |
 | [mon-entreprise](https://github.com/betagouv/mon-entreprise) | Official French assistant for entrepreneurs that simulates business charges and related obligations. | betagouv | 337 |

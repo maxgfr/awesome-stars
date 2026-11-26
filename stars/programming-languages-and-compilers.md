@@ -8,7 +8,7 @@
 | [rust](https://github.com/rust-lang/rust) | Source code for the Rust programming language, including its compiler and standard library. | rust-lang | 122k |
 | [TypeScript](https://github.com/microsoft/TypeScript) | Typed superset of JavaScript that compiles to plain JavaScript, with a static type checker. | microsoft | 112k |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Collection of design patterns implemented in Java, with explanations and code snippets. | iluwatar | 94.9k |
-| [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.4k |
+| [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.5k |
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Google's language-neutral mechanism for serializing structured data, with compiler and runtime libraries. | protocolbuffers | 72.2k |
 | [swift](https://github.com/swiftlang/swift) | Source code for the Swift programming language, including its compiler and standard library. | swiftlang | 70.6k |
 | [php-src](https://github.com/php/php-src) | The source code of the PHP interpreter, which runs the PHP scripting language. | php | 41.9k |

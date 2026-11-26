@@ -4,7 +4,7 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41k |
+| [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41.1k |
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.8k |
 | [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.1k |
 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.8k |
@@ -16,9 +16,9 @@
 | [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.8k |
 | [bottom](https://github.com/ClementTsang/bottom) | Cross-platform terminal system monitor showing CPU, memory, network, disk, and process usage. | ClementTsang | 14.3k |
 | [rayon](https://github.com/rayon-rs/rayon) | Data parallelism library for Rust that runs computations across multiple threads. | rayon-rs | 13.5k |
-| [windows-rs](https://github.com/microsoft/windows-rs) | Rust bindings and tools for calling Windows APIs from Rust code. | microsoft | 12.9k |
+| [windows-rs](https://github.com/microsoft/windows-rs) | Rust bindings and tools for calling Windows APIs from Rust code. | microsoft | 13k |
 | [gitoxide](https://github.com/GitoxideLabs/gitoxide) | Pure Rust implementation of Git, focused on speed, safety, and a lean codebase. | GitoxideLabs | 12.2k |
-| [reqwest](https://github.com/seanmonstar/reqwest) | Easy-to-use asynchronous and blocking HTTP client library for Rust. | seanmonstar | 11.9k |
+| [reqwest](https://github.com/seanmonstar/reqwest) | Easy-to-use asynchronous and blocking HTTP client library for Rust. | seanmonstar | 12k |
 | [serde](https://github.com/serde-rs/serde) | Serialization framework for Rust with derive macros and support for no-std environments. | serde-rs | 11k |
 | [spotifyd](https://github.com/Spotifyd/spotifyd) | Headless Spotify Connect client that runs as a background daemon. | Spotifyd | 10.8k |
 | [raft](https://github.com/hashicorp/raft) | Go implementation of the Raft consensus protocol for replicated state machines. | hashicorp | 9.2k |

@@ -4,10 +4,10 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.6k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.3k |
+| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.7k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.4k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
-| [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.1k |
+| [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.2k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
 | [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Browser extension that saves a complete web page as a single HTML file, with annotations and auto-save. | gildas-lormeau | 23k |
 | [darkreader](https://github.com/darkreader/darkreader) | Browser extension that applies a dark theme to web pages in Chrome and Firefox. | darkreader | 22.6k |
@@ -24,7 +24,7 @@
 | [AdNauseam](https://github.com/dhowe/AdNauseam) | Browser extension that obscures advertising surveillance by automatically clicking ads in the background. | dhowe | 6.8k |
 | [ublacklist](https://github.com/iorate/ublacklist) | Browser extension that hides specified websites from Google search results. | iorate | 6.7k |
 | [uAssets](https://github.com/uBlockOrigin/uAssets) | Filter lists for uBlock Origin and uBlock Origin Lite content blocking. | uBlockOrigin | 6.2k |
-| [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) | Tool that redirects Microsoft Edge news, search, widget and weather links to the default browser. | rcmaehl | 5.9k |
+| [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) | Tool that redirects Microsoft Edge news, search, widget and weather links to the default browser. | rcmaehl | 6k |
 | [youtube](https://github.com/code-charity/youtube) | Browser extension that adds playback, discovery, and other tweaks to YouTube. | code-charity | 4.7k |
 | [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | Ad blocking browser extension for Chrome and Firefox, developed as open-source software. | AdguardTeam | 4.6k |
 | [videospeed](https://github.com/igrigorik/videospeed) | Browser extension for Chrome that adds speed control to HTML5 video players. | igrigorik | 4.5k |
@@ -59,12 +59,12 @@
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 668 |
 | [lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) | Browser extension wallet for connecting to Lightning nodes and signing Nostr events and transactions. | getAlby | 584 |
 | [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 512 |
-| [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) | Command-line and Node.js tool to upload Chrome extensions to the Chrome Web Store. | fregante | 411 |
+| [chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) | Command-line and Node.js tool to upload Chrome extensions to the Chrome Web Store. | fregante | 412 |
 | [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 273 |
 | [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) | Spicetify extension that hides podcast content from the Spotify interface. | theRealPadster | 257 |
 | [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 236 |
 | [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 232 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 120 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 121 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 
 **Legend:** 🗄️ archived · 🆕 starred in the last 30 days
