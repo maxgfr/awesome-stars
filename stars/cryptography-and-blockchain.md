@@ -46,8 +46,8 @@
 | [slither](https://github.com/crytic/slither) | Static analyzer for Solidity and Vyper smart contracts. | crytic | 6.4k |
 | [dehydrated](https://github.com/dehydrated-io/dehydrated) | ACME client written as a shell script for obtaining and renewing certificates, such as from Let's Encrypt. | dehydrated-io | 6.3k |
 | [libsignal](https://github.com/signalapp/libsignal) | Library implementing the Signal Protocol and other cryptographic primitives used by Signal. | signalapp | 6.2k |
-| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Source code for the Ethereum.org website, a resource for the Ethereum community. | ethereum | 6k |
 | [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) | JavaScript library for Bitcoin development in Node.js and browsers. | bitcoinjs | 6k |
+| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Source code for the Ethereum.org website, a resource for the Ethereum community. | ethereum | 6k |
 | [openpgpjs](https://github.com/openpgpjs/openpgpjs) | JavaScript implementation of the OpenPGP standard for encryption, signing and verification. | openpgpjs | 6k |
 | [tendermint](https://github.com/tendermint/tendermint) | Byzantine fault tolerant consensus engine and blockchain framework written in Go. | tendermint | 5.9k |
 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot with pluggable strategies, backtesting, and a live dashboard. | chrisleekr | 5.6k |
@@ -117,12 +117,12 @@
 | [password-hashes](https://github.com/RustCrypto/password-hashes) | Pure Rust implementations of password hashing functions and key derivation functions. | RustCrypto | 925 |
 | [eth-crypto](https://github.com/pubkey/eth-crypto) | JavaScript cryptographic functions for Ethereum, such as encryption and signing. | pubkey | 924 |
 | [cello](https://github.com/hyperledger-cello/cello) | Tool for deploying and managing enterprise blockchain networks on Hyperledger infrastructure. | hyperledger-cello | 921 |
-| [unlock](https://github.com/unlock-protocol/unlock) | Blockchain-based protocol for creating and managing memberships and subscriptions. | unlock-protocol | 886 |
+| [unlock](https://github.com/unlock-protocol/unlock) | Blockchain-based protocol for creating and managing memberships and subscriptions. | unlock-protocol | 885 |
 | [polar](https://github.com/jamaljsr/polar) | Desktop app for launching local Bitcoin Lightning networks with one click for development and testing. | jamaljsr | 861 |
 | [Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) | Collection of published security audit reports for smart contracts on many blockchains. | softstack | 799 |
 | [block-ciphers](https://github.com/RustCrypto/block-ciphers) | Pure Rust implementations of block cipher algorithms. | RustCrypto | 788 |
 | [traits](https://github.com/RustCrypto/traits) | Rust crate collection of common traits for cryptographic algorithms. | RustCrypto | 763 |
-| [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 711 |
+| [binance-api-node](https://github.com/ccxt/binance-api-node) | Tested Node.js wrapper with TypeScript typings for the Binance REST and WebSocket APIs. | ccxt | 710 |
 | [solidity-by-example.github.io](https://github.com/Cyfrin/solidity-by-example.github.io) | Interactive tutorial and examples for learning the Solidity smart contract programming language. | Cyfrin | 681 |
 | [rs-clob-client](https://github.com/Polymarket/rs-clob-client) 🗄️ | Rust client for the Polymarket CLOB API. | Polymarket | 676 |
 | [luds](https://github.com/lnurl/luds) | Specifications for LNURL, a protocol for Lightning Network interactions. | lnurl | 671 |

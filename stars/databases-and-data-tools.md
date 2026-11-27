@@ -13,9 +13,9 @@
 | [meilisearch](https://github.com/meilisearch/meilisearch) | Fast search engine API offering AI-powered hybrid search for websites and applications. | meilisearch | 60k |
 | [etcd](https://github.com/etcd-io/etcd) | Distributed, reliable key-value store for the critical data of distributed systems. | etcd-io | 52.7k |
 | [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client with ER diagrams and support for many databases. | dbeaver | 52.5k |
-| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | Column-oriented real-time analytics database management system for large-scale data processing. | ClickHouse | 51.1k |
-| [pandas](https://github.com/pandas-dev/pandas) | Python library for data analysis and manipulation with labeled data structures like DataFrames. | pandas-dev | 50.6k |
-| [metabase](https://github.com/metabase/metabase) | Open source business intelligence and embedded analytics tool for querying and dashboarding data. | metabase | 50.5k |
+| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | Column-oriented real-time analytics database management system for large-scale data processing. | ClickHouse | 51.2k |
+| [pandas](https://github.com/pandas-dev/pandas) | Python library for data analysis and manipulation with labeled data structures like DataFrames. | pandas-dev | 50.7k |
+| [metabase](https://github.com/metabase/metabase) | Open source business intelligence and embedded analytics tool for querying and dashboarding data. | metabase | 50.6k |
 | [orm](https://github.com/prisma/orm) | TypeScript ORM for querying databases with type-safe, human-readable queries instead of raw SQL. | prisma | 47.8k |
 | [airflow](https://github.com/apache/airflow) | Platform for programmatically authoring, scheduling, and monitoring data workflows as DAGs. | apache | 47.7k |
 | [milvus](https://github.com/milvus-io/milvus) | Cloud-native vector database for scalable approximate nearest neighbor search over embeddings. | milvus-io | 46.7k |
@@ -28,7 +28,7 @@
 | [umami](https://github.com/umami-software/umami) | Self-hostable, privacy-focused web analytics platform that tracks traffic without cookies. | umami-software | 40.4k |
 | [leveldb](https://github.com/google/leveldb) | Fast C++ key-value storage library providing an ordered mapping from string keys to values. | google | 39.6k |
 | [typeorm](https://github.com/typeorm/typeorm) | ORM for TypeScript and JavaScript on Node.js, supporting many SQL databases. | typeorm | 36.7k |
-| [rustfs](https://github.com/rustfs/rustfs) | S3-compatible, high-performance object storage that supports migration from MinIO and Ceph. | rustfs | 36.5k |
+| [rustfs](https://github.com/rustfs/rustfs) | S3-compatible, high-performance object storage that supports migration from MinIO and Ceph. | rustfs | 36.6k |
 | [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) | TypeScript ORM for MySQL and PostgreSQL databases, usable from Node.js and Bun. | drizzle-team | 36.4k |
 | [seaweedfs](https://github.com/seaweedfs/seaweedfs) | A distributed storage system for object storage, file systems, and billions of files. | seaweedfs | 36.3k |
 | [qdrant](https://github.com/qdrant/qdrant) | Vector database and similarity search engine for AI applications, with HNSW indexing and filtering. | qdrant | 35.7k |
@@ -54,7 +54,7 @@
 | [turso](https://github.com/tursodatabase/turso) | SQLite-compatible SQL database written in Rust, with experimental Postgres support and WebAssembly builds. | tursodatabase | 25.4k |
 | [dolt](https://github.com/dolthub/dolt) | SQL database with Git-style version control for data, supporting branching, merging and diffs. | dolthub | 25k |
 | [simdjson](https://github.com/simdjson/simdjson) | C++ library for parsing JSON at gigabytes per second using SIMD instructions. | simdjson | 24.6k |
-| [prefect](https://github.com/PrefectHQ/prefect) | Workflow orchestration framework in Python for building resilient data pipelines. | PrefectHQ | 24.2k |
+| [prefect](https://github.com/PrefectHQ/prefect) | Workflow orchestration framework in Python for building resilient data pipelines. | PrefectHQ | 24.3k |
 | [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | SQL client and database GUI for MySQL, Postgres, SQLite, SQL Server, and ClickHouse. | beekeeper-studio | 23.9k |
 | [timescaledb](https://github.com/timescale/timescaledb) | Time-series database packaged as a PostgreSQL extension for real-time analytics. | timescale | 23.9k |
 | [pgvector](https://github.com/pgvector/pgvector) | Postgres extension for vector similarity search and approximate nearest neighbor queries. | pgvector | 23.8k |
@@ -63,7 +63,7 @@
 | [neon](https://github.com/neondatabase/neon) | Serverless Postgres service that separates storage and compute to enable autoscaling and database branching. | neondatabase | 23.4k |
 | [chartdb](https://github.com/chartdb/chartdb) | Web editor for visualizing and designing database schemas as entity relationship diagrams. | chartdb | 23.2k |
 | [yjs](https://github.com/yjs/yjs) | Library of shared data types for building collaborative, offline-first software with CRDTs. | yjs | 23.1k |
-| [postgres](https://github.com/postgres/postgres) | Read-only mirror of the official PostgreSQL source repository, not accepting pull requests. | postgres | 22.9k |
+| [postgres](https://github.com/postgres/postgres) | Read-only mirror of the official PostgreSQL source repository, not accepting pull requests. | postgres | 23k |
 | [airbyte](https://github.com/airbytehq/airbyte) | Open source data integration platform for moving data from APIs, databases, and files to warehouses and lakes. | airbytehq | 22.4k |
 | [dgraph](https://github.com/dgraph-io/dgraph) | Distributed, high-performance graph database written in Go for real-time applications. | dgraph-io | 21.8k |
 | [vitess](https://github.com/vitessio/vitess) | Database clustering system that provides horizontal sharding for MySQL on Kubernetes. | vitessio | 21.4k |
@@ -175,8 +175,8 @@
 | [node-csv](https://github.com/adaltas/node-csv) | Full-featured CSV parser for Node.js with a simple API, tested on large datasets. | adaltas | 4.3k |
 | [pg-boss](https://github.com/timgit/pg-boss) | Job queue for Node.js that stores and processes jobs in PostgreSQL. | timgit | 4.2k |
 | [pgadmin4](https://github.com/pgadmin-org/pgadmin4) | Open source administration and development platform for PostgreSQL databases. | pgadmin-org | 4k |
-| [camelot](https://github.com/camelot-dev/camelot) | Python library for extracting tables from PDF documents into structured data. | camelot-dev | 3.9k |
 | [qsv](https://github.com/dathere/qsv) | Fast Rust toolkit for wrangling and analyzing CSV data, with AI-assisted features. | dathere | 3.9k |
+| [camelot](https://github.com/camelot-dev/camelot) | Python library for extracting tables from PDF documents into structured data. | camelot-dev | 3.9k |
 | [dbml](https://github.com/holistics/dbml) | Database Markup Language for defining and documenting database schemas. | holistics | 3.7k |
 | [arrow-rs](https://github.com/apache/arrow-rs) | Official Rust implementation of Apache Arrow, including Parquet support. | apache | 3.7k |
 | [smart_open](https://github.com/piskvorky/smart_open) | Python utility for transparently streaming large files from S3, HDFS, HTTP, and compressed formats. | piskvorky | 3.5k |
@@ -187,8 +187,8 @@
 | [barman](https://github.com/EnterpriseDB/barman) | Backup and recovery manager for PostgreSQL servers, supporting disaster recovery. | EnterpriseDB | 3.3k |
 | [idb-keyval](https://github.com/jakearchibald/idb-keyval) | Small promise-based key-value store built on IndexedDB. | jakearchibald | 3.3k |
 | [openmaptiles](https://github.com/openmaptiles/openmaptiles) | PostgreSQL implementation of the OpenMapTiles vector tile schema for generating map tiles. | openmaptiles | 3.2k |
-| [keyv](https://github.com/jaredwray/keyv) | Key-value storage library with a unified API over backends such as etcd, Memcache and MongoDB. | jaredwray | 3.2k |
 | [photon](https://github.com/komoot/photon) | Open source OpenStreetMap geocoder built on Elasticsearch for search and autocomplete. | komoot | 3.2k |
+| [keyv](https://github.com/jaredwray/keyv) | Key-value storage library with a unified API over backends such as etcd, Memcache and MongoDB. | jaredwray | 3.2k |
 | [lxml](https://github.com/lxml/lxml) | Python binding for libxml2 and libxslt, providing fast XML and HTML parsing. | lxml | 3.1k |
 | [zenstack](https://github.com/zenstackhq/zenstack) | TypeScript data layer with a type-safe ORM, built-in access control, and automatic query services. | zenstackhq | 3k |
 | [pikepdf](https://github.com/pikepdf/pikepdf) | Python library for reading and writing PDF files, built on the QPDF library. | pikepdf | 2.8k |
@@ -203,8 +203,8 @@
 | [typegoose](https://github.com/typegoose/typegoose) | TypeScript library for defining Mongoose models using classes and decorators. | typegoose | 2.3k |
 | [hucre](https://github.com/productdevbook/hucre) | Zero-dependency TypeScript library for reading and writing XLSX, CSV, and ODS spreadsheets. | productdevbook | 2.3k |
 | [postgis](https://github.com/postgis/postgis) | PostGIS spatial database extension that adds geographic objects and functions to PostgreSQL. | postgis | 2.3k |
-| [pdf2json](https://github.com/modesty/pdf2json) | Zero-dependency Java tool that converts binary PDF files to JSON and text. | modesty | 2.2k |
 | [msgvault](https://github.com/kenn-io/msgvault) | Local archive of email and chat for offline search and analytics, built on SQLite and DuckDB. | kenn-io | 2.2k |
+| [pdf2json](https://github.com/modesty/pdf2json) | Zero-dependency Java tool that converts binary PDF files to JSON and text. | modesty | 2.2k |
 | [node-rdkafka](https://github.com/Blizzard/node-rdkafka) | Node.js bindings for librdkafka, enabling Kafka producers and consumers from Node.js. | Blizzard | 2.2k |
 | [azimutt](https://github.com/azimuttapp/azimutt) | Tool to explore, document, and optimize database schemas through interactive diagrams. | azimuttapp | 2.2k |
 | [node-csvtojson](https://github.com/Keyang/node-csvtojson) | Fast CSV parser for Node.js, browsers, and the command line that converts CSV to JSON. | Keyang | 2k |

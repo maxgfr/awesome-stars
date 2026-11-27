@@ -5,7 +5,7 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [go](https://github.com/golang/go) | Source code for the Go programming language, including its compiler, tools, and standard library. | golang | 140k |
-| [rust](https://github.com/rust-lang/rust) | Source code for the Rust programming language, including its compiler and standard library. | rust-lang | 122k |
+| [rust](https://github.com/rust-lang/rust) | Source code for the Rust programming language, including its compiler and standard library. | rust-lang | 123k |
 | [TypeScript](https://github.com/microsoft/TypeScript) | Typed superset of JavaScript that compiles to plain JavaScript, with a static type checker. | microsoft | 112k |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Collection of design patterns implemented in Java, with explanations and code snippets. | iluwatar | 94.9k |
 | [cpython](https://github.com/python/cpython) | Reference implementation of the Python programming language and its standard library. | python | 78.5k |
@@ -45,11 +45,11 @@
 | [dhall-lang](https://github.com/dhall-lang/dhall-lang) | Specification and documentation for Dhall, a language for maintainable configuration files. | dhall-lang | 4.5k |
 | [verus](https://github.com/verus-lang/verus) | Verification system for Rust that lets developers prove correctness of low-level systems code. | verus-lang | 3.9k |
 | [isolated-vm](https://github.com/laverdet/isolated-vm) | Node.js library for running secure, isolated JavaScript environments with V8 isolates. | laverdet | 2.9k |
-| [numbat](https://github.com/sharkdp/numbat) | Statically typed language for scientific computation with first-class physical dimensions and units. | sharkdp | 2.8k |
+| [numbat](https://github.com/sharkdp/numbat) | Statically typed language for scientific computation with first-class physical dimensions and units. | sharkdp | 2.9k |
 | [catala](https://github.com/CatalaLang/catala) | Programming language for writing law specifications in a literate style, with legislative texts. | CatalaLang | 2.5k |
 | [creusot](https://github.com/creusot-rs/creusot) | Deductive verifier for Rust that lets developers write contracts and prove code correct. | creusot-rs | 2k |
-| [wasmer-sdk](https://github.com/wasmerio/wasmer-sdk) | SDK for running WebAssembly-based sandboxes from Node.js and browsers as an npm package. | wasmerio | 1.3k |
 | [aeneas](https://github.com/AeneasVerif/aeneas) | Verification toolchain that translates Rust programs into proof assistant models for formal verification. | AeneasVerif | 1.3k |
+| [wasmer-sdk](https://github.com/wasmerio/wasmer-sdk) | SDK for running WebAssembly-based sandboxes from Node.js and browsers as an npm package. | wasmerio | 1.3k |
 | [r-source](https://github.com/wch/r-source) | Read-only mirror of the R source code, updated hourly from the official R project SVN. | wch | 1.3k |
 | [lr](https://github.com/lezer-parser/lr) 🗄️ | Incremental parsing system for building parsers that update efficiently as documents change. | lezer-parser | 686 |
 | [publicodes](https://github.com/publicodes/publicodes) | Language for writing algorithms of public interest, used for simulation and modelling. | publicodes | 212 |

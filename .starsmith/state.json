@@ -1,9 +1,9 @@
 {
-  "contentHash": "c18ea6e7c723",
+  "contentHash": "416d037344f8",
   "digest": {
     "language": "en",
-    "text": "AI agents dominate this batch. **Coding agents and MCP integrations** lead, from floorplan, which maps codebases for Claude or Codex, to qgis-mcp and mcp-gsc, which connect GIS and Search Console data to assistants.\n\nOther threads include **privacy and censorship resistance**, seen in hysteria, yip, and zen-desktop, plus **security research** through ARTEX and Claude-BugHunter. Emulation projects like Delta and Winlator round out the list.",
-    "upTo": "2026-11-25T16:16:51Z"
+    "text": "Agent tooling dominates these stars. **AI coding agent tooling** leads, with floorplan and Peekaboo giving Claude and Codex new abilities, and mcp-gsc connecting agents to SEO data.\n\n**Privacy and censorship resistance** follow: hysteria and yip target blocked networks, while zen-desktop and blocky filter ads and DNS. **Mobile emulation** via winlator and Delta, plus ARTEX pentesting, rounds out the mix.",
+    "upTo": "2026-11-26T11:05:27Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-25T16:16:51Z",
+  "newest": "2026-11-26T11:05:27Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -3393,9 +3393,9 @@
     },
     "MDEwOlJlcG9zaXRvcnk2NjQ3NDcyOQ==": {
       "category": "Security and Penetration Testing",
-      "ch": "5fb1c61a159c",
-      "description": "Open-source CLI and server for automating security and compliance checks across cloud environments.",
-      "dh": "a5dfae053588"
+      "ch": "41c4526fa793",
+      "description": "Open-source platform that automates cloud security and compliance checks across AWS, Azure, GCP.",
+      "dh": "4e1cee563c1d"
     },
     "MDEwOlJlcG9zaXRvcnk2NjU3MzI0MQ==": {
       "category": "Cryptography and Blockchain",
@@ -6712,8 +6712,8 @@
       "dh": "825e53bd0529"
     },
     "MDEwOlJlcG9zaXRvcnkxMDU2NzE5Nw==": {
-      "category": "DevOps and Infrastructure",
-      "ch": "3ccb9bb8cf60",
+      "category": "Cloud and Kubernetes",
+      "ch": "f0b140600fd5",
       "description": "Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku.",
       "dh": "86a9ce16263f"
     },
@@ -6815,7 +6815,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxMDYyNzk2Mzc=": {
       "category": "Frontend UI Libraries",
-      "ch": "9a839ccea783",
+      "ch": "888aadaf871e",
       "description": "JavaScript library for flexible drag-and-drop file uploads with image processing plugins.",
       "dh": "82dbd64fbdaa"
     },
@@ -10101,7 +10101,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==": {
       "category": "DevOps and Infrastructure",
-      "ch": "845c82eec0ce",
+      "ch": "9f2797003c31",
       "description": "Open source platform for visualizing metrics, logs, and traces from many data sources.",
       "dh": "e865af9ba544"
     },
@@ -11493,9 +11493,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "8c5ecb53ea05",
-      "description": "Browser automation framework for E2E testing, web scraping, and stealth, with a CDP Mode for bot-detection.",
-      "dh": "a73bb011b69e"
+      "ch": "6eed982fe223",
+      "description": "Python framework for end-to-end testing, web scraping and CAPTCHA bypass in Chrome via CDP.",
+      "dh": "39d57507633e"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -11934,10 +11934,10 @@
       "dh": "d095c5939a93"
     },
     "MDEwOlJlcG9zaXRvcnkxODI1MDI4NTA=": {
-      "category": "Desktop and Mobile Apps",
-      "ch": "a918b10a5d22",
-      "description": "Cross-platform download manager for HTTP, BitTorrent, magnet, and ed2k, built with Go and Flutter.",
-      "dh": "4cd7323af954"
+      "category": "Other",
+      "ch": "480e7b5bdd8a",
+      "description": "Cross-platform download manager for HTTP, BitTorrent, magnet, HLS, FTP and ed2k downloads.",
+      "dh": "81fbf5959a83"
     },
     "MDEwOlJlcG9zaXRvcnkxODI1ODUyOTU=": {
       "category": "Networking and Wireless",
@@ -12949,7 +12949,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkxOTk5MzA4MDg=": {
       "category": "Security and Penetration Testing",
-      "ch": "9b18ad992ec5",
+      "ch": "7881f451fe1a",
       "description": "Android app for online privacy and security using DNSCrypt, Tor and I2P.",
       "dh": "cc2899dc09b4"
     },
@@ -14599,7 +14599,7 @@
     },
     "MDEwOlJlcG9zaXRvcnkyMzAyNTA5MDM=": {
       "category": "Databases and Data Tools",
-      "ch": "e3a169d1ad85",
+      "ch": "960359e182a3",
       "description": "JSON-like CRDT that lets multiple users edit concurrently and merges changes automatically.",
       "dh": "f395a1cc7322"
     },
@@ -22399,7 +22399,7 @@
     },
     "R_kgDOJLVrdQ": {
       "category": "AI and Machine Learning",
-      "ch": "ff8304a2d972",
+      "ch": "d5b2ce1849e3",
       "description": "Self-hosted engine for running LLM, vision, voice, image, and video models locally with an API.",
       "dh": "6d5e5ab9beba"
     },
@@ -24681,9 +24681,9 @@
     },
     "R_kgDOO0DrJw": {
       "category": "Image and Graphics Processing",
-      "ch": "dad0e7c37496",
-      "description": "Layout engine rendering JSX, HTML and CSS to images, SVG, PDFs or paint trees without a browser.",
-      "dh": "569f45fd4efd"
+      "ch": "0e0c22c48c29",
+      "description": "Renders JSX, HTML and CSS to images, SVG, PDF or paint trees without a headless browser.",
+      "dh": "a00d816c88d9"
     },
     "R_kgDOO2M_dQ": {
       "category": "AI and Machine Learning",
@@ -25597,9 +25597,9 @@
     },
     "R_kgDOQ5MB9g": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "b7332b913954",
-      "description": "Platform for running humans and AI agents as one team, open source and self-hostable.",
-      "dh": "b13e9148257c"
+      "ch": "672fa92dd591",
+      "description": "Shared task board where people and AI coding agents work together as teammates; self-hostable.",
+      "dh": "4e73e000fe49"
     },
     "R_kgDOQ5Wxyg": {
       "category": "LLM Agents and AI Assistants",
@@ -27125,6 +27125,12 @@
       "description": "CLI that writes and maintains agent-oriented documentation for a codebase.",
       "dh": "7775eaf0d273"
     },
+    "R_kgDOTDo3lw": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "b2a83cb40175",
+      "description": "Game-dev skills and a router for AI coding agents, covering Godot, Unity, Unreal, Roblox and more.",
+      "dh": "e4feeff3df82"
+    },
     "R_kgDOTIEd5Q": {
       "category": "Networking and Wireless",
       "ch": "64748f129d26",
@@ -27238,6 +27244,12 @@
       "ch": "01819846a288",
       "description": "Native music streaming client for Apple Music, Deezer, and Navidrome, built with GPUI.",
       "dh": "a48a834483b6"
+    },
+    "R_kgDOTzlrNA": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "121861ac144c",
+      "description": "Self-hosted gateway that runs Codex, Claude Code, Hermes and other agent harnesses via one API.",
+      "dh": "f043b58aa09d"
     },
     "R_kgDOTzsV5w": {
       "category": "LLM Agents and AI Assistants",
@@ -27401,9 +27413,9 @@
     },
     "R_kgDOVBmRqg": {
       "category": "Security and Penetration Testing",
-      "ch": "5f5d5ece5a8c",
-      "description": "Self-hosted AI system for autonomous penetration testing that reports evidence-backed findings.",
-      "dh": "87acfb743ba3"
+      "ch": "79f85feb3cd3",
+      "description": "Self-hosted AI system that runs autonomous penetration tests and reports evidence-backed findings.",
+      "dh": "3d379d8131bb"
     },
     "R_kgDOVDuGdA": {
       "category": "Other",
@@ -27517,6 +27529,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "version": 1
 }

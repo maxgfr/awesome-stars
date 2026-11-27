@@ -11,7 +11,7 @@
 | [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
 | [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
-| [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.4k |
+| [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.5k |
 | [wasmtime](https://github.com/bytecodealliance/wasmtime) | Lightweight, fast, and secure WebAssembly runtime that follows standards. | bytecodealliance | 18.9k |
 | [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.8k |
 | [bottom](https://github.com/ClementTsang/bottom) | Cross-platform terminal system monitor showing CPU, memory, network, disk, and process usage. | ClementTsang | 14.3k |
@@ -26,7 +26,7 @@
 | [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) | Sample Windows driver projects for Visual Studio and the WDK, covering Universal and desktop-only drivers. | microsoft | 7.9k |
 | [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) | Tool that builds, tests, and publishes Rust-generated WebAssembly packages to npm. | wasm-bindgen | 7.3k |
 | [ristretto](https://github.com/dgraph-io/ristretto) | High-performance, memory-bound cache library for Go. | dgraph-io | 7k |
-| [anyhow](https://github.com/dtolnay/anyhow) | Rust crate providing a flexible concrete error type built on std::error::Error. | dtolnay | 6.7k |
+| [anyhow](https://github.com/dtolnay/anyhow) | Rust crate providing a flexible concrete error type built on std::error::Error. | dtolnay | 6.8k |
 | [procs](https://github.com/dalance/procs) | Modern replacement for ps that lists and inspects running processes with more detail. | dalance | 6.3k |
 | [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) | Comparison of web frameworks and libraries written in Rust. | flosse | 5.8k |
 | [json](https://github.com/serde-rs/json) | Strongly typed JSON library for Rust, built on the serde serialization framework. | serde-rs | 5.7k |

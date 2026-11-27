@@ -3,8 +3,34 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-25T16:16:51Z</updated>
+  <updated>2026-11-26T11:05:27Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>gamedev-skills/awesome-gamedev-agent-skills</title>
+    <link href="https://github.com/gamedev-skills/awesome-gamedev-agent-skills"/>
+    <id>https://github.com/gamedev-skills/awesome-gamedev-agent-skills</id>
+    <updated>2026-11-26T11:05:27Z</updated>
+    <author><name>gamedev-skills</name></author>
+    <summary>Game-dev skills and a router for AI coding agents, covering Godot, Unity, Unreal, Roblox and more. · Python · agent-skills, ai-agents, awesome-list, bevy, claude-code</summary>
+    <category term="agent-skills"/>
+    <category term="ai-agents"/>
+    <category term="awesome-list"/>
+    <category term="bevy"/>
+    <category term="claude-code"/>
+  </entry>
+  <entry>
+    <title>HarnessRouter/harnessrouter</title>
+    <link href="https://github.com/HarnessRouter/harnessrouter"/>
+    <id>https://github.com/HarnessRouter/harnessrouter</id>
+    <updated>2026-11-26T11:04:24Z</updated>
+    <author><name>HarnessRouter</name></author>
+    <summary>Self-hosted gateway that runs Codex, Claude Code, Hermes and other agent harnesses via one API. · Python · agent-api, agent-framework, agent-harness, ai-agents, ai-infrastructure</summary>
+    <category term="agent-api"/>
+    <category term="agent-framework"/>
+    <category term="agent-harness"/>
+    <category term="ai-agents"/>
+    <category term="ai-infrastructure"/>
+  </entry>
   <entry>
     <title>haydenschmitty/floorplan</title>
     <link href="https://github.com/haydenschmitty/floorplan"/>
@@ -163,12 +189,12 @@
     <id>https://github.com/BaaRai/ARTEX</id>
     <updated>2026-11-22T10:59:28Z</updated>
     <author><name>BaaRai</name></author>
-    <summary>Self-hosted AI system for autonomous penetration testing that reports evidence-backed findings. · Go · ai, ai-agents, autonomous-agents, bug-bounty, docker</summary>
+    <summary>Self-hosted AI system that runs autonomous penetration tests and reports evidence-backed findings. · Go · ai, ai-agents, artex, autonomous-agents, bug-bounty</summary>
     <category term="ai"/>
     <category term="ai-agents"/>
+    <category term="artex"/>
     <category term="autonomous-agents"/>
     <category term="bug-bounty"/>
-    <category term="docker"/>
   </entry>
   <entry>
     <title>triton-lang/triton</title>
@@ -556,22 +582,5 @@
     <category term="physics"/>
     <category term="physics-engine"/>
     <category term="rigid-bodies"/>
-  </entry>
-  <entry>
-    <title>jhlywa/chess.js</title>
-    <link href="https://github.com/jhlywa/chess.js"/>
-    <id>https://github.com/jhlywa/chess.js</id>
-    <updated>2026-11-08T20:24:48Z</updated>
-    <author><name>jhlywa</name></author>
-    <summary>TypeScript library for chess move generation, validation, and check, checkmate, and draw detection. · TypeScript · chess</summary>
-    <category term="chess"/>
-  </entry>
-  <entry>
-    <title>anomalyco/rune</title>
-    <link href="https://github.com/anomalyco/rune"/>
-    <id>https://github.com/anomalyco/rune</id>
-    <updated>2026-11-08T12:44:39Z</updated>
-    <author><name>anomalyco</name></author>
-    <summary>Native user interface framework written in Rust. · Rust</summary>
   </entry>
 </feed>

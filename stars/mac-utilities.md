@@ -4,24 +4,24 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 119k |
-| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 76.2k |
+| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Curated collection of high-quality macOS software organized by category for easy discovery. | jaywcjlove | 120k |
+| [Mole](https://github.com/tw93/Mole) | Open-source Mac and PC cleaner CLI that frees disk space and analyzes storage use. | tw93 | 76.3k |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | Curated list of open source applications for macOS. | serhii-londar | 51.6k |
 | [brew](https://github.com/Homebrew/brew) | Command-line package manager for installing and managing software on macOS and Linux. | Homebrew | 50.4k |
-| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.6k |
-| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 36.4k |
-| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.8k |
-| [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.3k |
+| [stats](https://github.com/exelban/stats) | macOS system monitor showing CPU, memory, disk, network, battery and fan stats in the menu bar. | exelban | 43.7k |
+| [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free macOS menu bar toolkit for app switching, uninstalling apps, and keeping the Mac awake. | vorssaint | 36.6k |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS utility for adjusting external display brightness and volume with keyboard keys and native OSDs. | MonitorControl | 34.9k |
+| [Rectangle](https://github.com/rxhanson/Rectangle) | Window manager for macOS that moves and resizes windows using keyboard shortcuts and snap areas. | rxhanson | 30.4k |
 | [Ice](https://github.com/jordanbaird/Ice) | Menu bar manager for macOS that hides and organizes menu bar items. | jordanbaird | 30.1k |
 | [yabai](https://github.com/asmvik/yabai) | Tiling window manager for macOS that arranges windows using binary space partitioning. | asmvik | 29.9k |
 | [cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for running AI coding agents. | manaflow-ai | 29k |
 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | i3-like tiling window manager for macOS. | nikitabobko | 24k |
-| [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.3k |
+| [CodexBar](https://github.com/steipete/CodexBar) | Tool that displays OpenAI Codex and Claude Code usage statistics without requiring login. | steipete | 23.4k |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS that stores and retrieves clipboard history. | p0deje | 22.5k |
 | [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | Default casks providing upstream binary packages for installation via the Homebrew package manager. | Homebrew | 22.3k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | macOS audio utility that pauses music automatically, sets per-app volumes, and records system audio. | kyleneideck | 19.4k |
 | [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | Curated list of Quick Look plugins that add useful previews for developer file formats on macOS. | sindresorhus | 18.8k |
-| [vphone-cli](https://github.com/Lakr233/vphone-cli) | Command-line tool for running a virtual iPhone on an Apple Silicon Mac. | Lakr233 | 16.9k |
+| [vphone-cli](https://github.com/Lakr233/vphone-cli) | Command-line tool for running a virtual iPhone on an Apple Silicon Mac. | Lakr233 | 17k |
 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | Windows-style alt-tab window switcher for macOS that shows window previews. | lwouis | 16.6k |
 | [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS, inspired by xmonad. | ianyh | 16.3k |
 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | Default Homebrew tap containing open-source formulae built from source for macOS and Linux package management. | Homebrew | 15.7k |
@@ -34,7 +34,7 @@
 | [Sparkle](https://github.com/sparkle-project/Sparkle) | Software update framework for macOS applications. | sparkle-project | 10k |
 | [tinycast](https://github.com/abue-ammar/tinycast) | Lightweight native macOS launcher for apps and productivity tasks, with a clipboard manager. | abue-ammar | 9.8k |
 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | macOS menu bar app that sets battery charge limits to prolong battery lifespan and monitors battery status. | AppHouseKitchen | 9.3k |
-| [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.2k |
+| [whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that explains in plain English what each USB-C cable connected to a Mac can do. | darrylmorley | 9.3k |
 | [Keka](https://github.com/aonez/Keka) | File archiver for macOS and iOS that creates and extracts 7z, zip, and other archive formats. | aonez | 7.7k |
 | [Applite](https://github.com/milanvarady/Applite) | Native macOS app store for software not on the App Store, backed by Homebrew Cask. | milanvarady | 7.2k |
 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | macOS menu bar utility that prevents the Mac from going to sleep. | newmarcel | 7.1k |
@@ -48,7 +48,7 @@
 | [WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) | macOS app that creates Windows bootable USB drives and bypasses TPM and Secure Boot requirements. | TechUnRestricted | 5k |
 | [Latest](https://github.com/mangerlahn/Latest) | macOS utility that tracks app updates and notifies you about new releases of installed apps. | mangerlahn | 4.9k |
 | [openusage](https://github.com/robinebers/openusage) | Free open-source macOS app that tracks usage of AI subscriptions like Claude, Codex, and Copilot. | robinebers | 4.6k |
-| [macshot](https://github.com/sw33tLie/macshot) | Native macOS tool for screenshots and recordings with annotation, PII redaction, OCR and GIFs. | sw33tLie | 4.3k |
+| [macshot](https://github.com/sw33tLie/macshot) | Native macOS tool for screenshots and recordings with annotation, PII redaction, OCR and GIFs. | sw33tLie | 4.4k |
 | [quill](https://github.com/humanitas-labs/quill) | Minimalist macOS app for recording and transcribing audio. | humanitas-labs | 4k |
 | [Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) | Utility for macOS that sets scroll direction separately for each input device. | pilotmoon | 3.7k |
 | [Snapzy](https://github.com/duongductrong/Snapzy) | Native macOS app for screenshots and screen recording, an open-source alternative to CleanShot X. | duongductrong | 3.6k |

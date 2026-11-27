@@ -17,23 +17,23 @@
 | [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.7k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.6k |
 | [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.5k |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.6k |
 | [mocha](https://github.com/mochajs/mocha) | Feature-rich JavaScript test framework for running tests in Node.js and browsers. | mochajs | 22.9k |
 | [appium](https://github.com/appium/appium) | Cross-platform automation framework for all app types, built on the W3C WebDriver protocol. | appium | 22.3k |
 | [react-testing-library](https://github.com/testing-library/react-testing-library) | Utilities for testing React DOM components in a way that resembles user interaction. | testing-library | 19.7k |
 | [hurl](https://github.com/Orange-OpenSource/hurl) | Command-line tool for running and testing HTTP requests defined in plain text files. | Orange-OpenSource | 19.4k |
 | [goreplay](https://github.com/probelabs/goreplay) | Tool that captures and replays live HTTP traffic into test environments for continuous testing. | probelabs | 19.3k |
 | [msw](https://github.com/mswjs/msw) | API mocking library for JavaScript that intercepts requests at the network level. | mswjs | 18.4k |
-| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 18.1k |
+| [artemis](https://github.com/google/artemis) | Turns plain-language instructions into Android automation with logs and AI assistant support. | google | 18.2k |
 | [vitest](https://github.com/vitest-dev/vitest) | Next generation testing framework for JavaScript projects, powered by Vite. | vitest-dev | 17.5k |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | End-to-end UI automation framework for testing mobile and web applications. | mobile-dev-inc | 16.5k |
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
 | [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.8k |
 | [pytest](https://github.com/pytest-dev/pytest) | Testing framework for writing small to complex Python tests, including functional testing. | pytest-dev | 14.8k |
+| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.4k |
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
-| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.3k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 14k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Browser automation framework for E2E testing, web scraping, and stealth, with a CDP Mode for bot-detection. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for end-to-end testing, web scraping and CAPTCHA bypass in Chrome via CDP. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.5k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
@@ -92,7 +92,7 @@
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 695 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 649 |
-| [cypress-axe](https://github.com/component-driven/cypress-axe) | Cypress plugin for testing web page accessibility with axe-core. | component-driven | 641 |
+| [cypress-axe](https://github.com/component-driven/cypress-axe) | Cypress plugin for testing web page accessibility with axe-core. | component-driven | 640 |
 | [tinyspy](https://github.com/tinylibs/tinyspy) | Minimal spy library for testing, a fork of nanospy with additional features. | tinylibs | 634 |
 | [expect-type](https://github.com/mmkal/expect-type) | Compile-time tests for TypeScript types that catch changes making types overly permissive. | mmkal | 569 |
 | [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 303 |

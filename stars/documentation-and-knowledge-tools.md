@@ -4,19 +4,19 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 198k |
+| [markitdown](https://github.com/microsoft/markitdown) | Python tool that converts files and Office documents to Markdown. | microsoft | 199k |
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.3k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.6k |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.6k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 78.5k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 73.1k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 79k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 73.9k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.7k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.3k |
 | [joplin](https://github.com/laurent22/joplin) | Note-taking application with encryption and synchronization across desktop and mobile devices. | laurent22 | 57.4k |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.6k |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.6k |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation slide tool for developers that uses Markdown and Vue components. | slidevjs | 49.7k |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Community-supported document management system for scanning, indexing and archiving documents. | paperless-ngx | 48.7k |
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code with tutorials and copy-paste templates. | luongnv89 | 47.6k |
 | [siyuan](https://github.com/siyuan-note/siyuan) | Self-hosted, privacy-first open-source knowledge workspace where humans and AI agents collaborate. | siyuan-note | 47.4k |
 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter for transforming documents between many formats. | jgm | 47.1k |
@@ -26,7 +26,7 @@
 | [devdocs](https://github.com/freeCodeCamp/devdocs) | Web-based browser for searching offline API documentation across many languages and frameworks. | freeCodeCamp | 39.7k |
 | [Trilium](https://github.com/TriliumNext/Trilium) | Desktop application for building a personal knowledge base of notes with a knowledge graph. | TriliumNext | 39.1k |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | Translates PDF papers while preserving layout, using Google, DeepL, Ollama, or OpenAI services. | PDFMathTranslate | 38.7k |
-| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 33k |
+| [anki](https://github.com/ankitects/anki) | Spaced repetition flashcard program for memorizing information. | ankitects | 33.1k |
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
 | [wiki](https://github.com/requarks/wiki) | Open-source wiki application for documentation, supporting Markdown and Git-based storage. | requarks | 29.4k |
@@ -39,7 +39,7 @@
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
 | [anydoc](https://github.com/firecrawl/anydoc) | Converts Word, PowerPoint, Excel, RTF, EPUB, CSV, and PDF documents to Markdown. | firecrawl | 23.7k |
-| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.6k |
+| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugin and theme lists and release metadata for the Obsidian note-taking app. | obsidianmd | 23.7k |
 | [docmost](https://github.com/docmost/docmost) | Open source collaborative wiki and documentation software that serves as an alternative to Confluence and Notion. | docmost | 22.4k |
 | [mdBook](https://github.com/rust-lang/mdBook) | Tool that builds books from Markdown files, implemented in Rust and similar to GitBook. | rust-lang | 22.3k |
 | [docs](https://github.com/github/docs) | Source repository for the documentation published on docs.github.com. | github | 21.6k |
@@ -54,7 +54,7 @@
 | [foam](https://github.com/foambubble/foam) | Personal knowledge management and note-taking system for VS Code using Markdown and graph views. | foambubble | 17.5k |
 | [docs](https://github.com/suitenumerique/docs) | Open-source web-based collaborative editor for real-time editing of structured documents, built with Django and React. | suitenumerique | 17k |
 | [omnivore](https://github.com/omnivore-app/omnivore) | Open source read-it-later app for saving, organizing, and reading web articles and bookmarks. | omnivore-app | 16.4k |
-| [zotero](https://github.com/zotero/zotero) | Free tool for collecting, organizing, annotating, citing, and sharing research sources. | zotero | 16k |
+| [zotero](https://github.com/zotero/zotero) | Free tool for collecting, organizing, annotating, citing, and sharing research sources. | zotero | 16.1k |
 | [answer](https://github.com/apache/answer) | Q&amp;A platform software for teams, usable as a community forum, help center, or knowledge base. | apache | 15.7k |
 | [ecma262](https://github.com/tc39/ecma262) | Specification text and process documents for the ECMAScript language standard, ECMA-262. | tc39 | 15.7k |
 | [jsdoc](https://github.com/jsdoc/jsdoc) | API documentation generator for JavaScript that builds docs from JSDoc comments. | jsdoc | 15.5k |
@@ -64,7 +64,7 @@
 | [fumadocs](https://github.com/fuma-nama/fumadocs) | React framework for building documentation sites with MDX content. | fuma-nama | 13.7k |
 | [gotenberg](https://github.com/gotenberg/gotenberg) | API for converting documents such as DOCX into PDF files, run as a Docker service. | gotenberg | 13.7k |
 | [wallabag](https://github.com/wallabag/wallabag) | Self-hostable web application for saving, classifying, and reading web articles later. | wallabag | 13.1k |
-| [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | Zotero plugin that translates PDFs, EPUBs, webpages, metadata, and notes using over 20 services. | windingwind | 12.3k |
+| [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | Zotero plugin that translates PDFs, EPUBs, webpages, metadata, and notes using over 20 services. | windingwind | 12.4k |
 | [milkdown](https://github.com/Milkdown/milkdown) | Plugin-driven WYSIWYG markdown editor framework built on ProseMirror. | Milkdown | 12.1k |
 | [blinko](https://github.com/blinkospace/blinko) | Self-hosted, privacy-focused AI note-taking tool with Markdown notebooks. | blinkospace | 11.3k |
 | [content](https://github.com/mdn/content) | Official source content for MDN Web Docs, covering HTML, CSS, JavaScript, HTTP and Web APIs. | mdn | 11.2k |
@@ -99,8 +99,8 @@
 | [open-knowledge](https://github.com/inkeep/open-knowledge) | AI-native markdown IDE and LLM wiki for building personal and company knowledge bases. | inkeep | 4.9k |
 | [readme.so](https://github.com/octokatherine/readme.so) | Online drag-and-drop editor for building README files in Markdown. | octokatherine | 4.6k |
 | [docsearch](https://github.com/algolia/docsearch) | Service and open-source tooling that adds Algolia search to documentation websites. | algolia | 4.4k |
-| [markdown](https://github.com/Python-Markdown/markdown) | Python implementation of John Gruber's Markdown with support for extensions. | Python-Markdown | 4.3k |
 | [pagescms](https://github.com/hunvreus/pagescms) | Git-based content management system for editing site content and media in a GitHub repository. | hunvreus | 4.3k |
+| [markdown](https://github.com/Python-Markdown/markdown) | Python implementation of John Gruber's Markdown with support for extensions. | Python-Markdown | 4.3k |
 | [choosealicense.com](https://github.com/github/choosealicense.com) | Website that provides guidance on choosing an open source license for a project. | github | 4.2k |
 | [compodoc](https://github.com/compodoc/compodoc) | Documentation tool that analyzes and documents Angular, NestJS and Stencil applications. | compodoc | 4.1k |
 | [surf](https://github.com/deta/surf) | Open-source AI notebook for organizing files and webpages and generating notes from them. | deta | 3.7k |

@@ -5,8 +5,8 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.7k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.4k |
-| [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.5k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.5k |
+| [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.6k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.2k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
 | [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Browser extension that saves a complete web page as a single HTML file, with annotations and auto-save. | gildas-lormeau | 23k |
@@ -63,8 +63,8 @@
 | [Spicetify-stuff](https://github.com/daksh2k/Spicetify-stuff) | Collection of Spicetify extensions for customizing the Spotify desktop client. | daksh2k | 273 |
 | [spicetify-hide-podcasts](https://github.com/theRealPadster/spicetify-hide-podcasts) | Spicetify extension that hides podcast content from the Spotify interface. | theRealPadster | 257 |
 | [stream-bypass](https://github.com/bytedream/stream-bypass) | Browser extension that redirects streaming provider pages directly to the source video file. | bytedream | 236 |
-| [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 232 |
-| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 121 |
+| [clear-browsing-data](https://github.com/dessant/clear-browsing-data) | Browser extension for clearing browsing data in Chrome, Edge, and Firefox. | dessant | 233 |
+| [geld](https://github.com/brandonmcconnell/geld) 🆕 | Browser extension that hides test files when reviewing pull requests on GitHub. | brandonmcconnell | 120 |
 | [HTTP-Header-Spy](https://github.com/Tuurlijk/HTTP-Header-Spy) | Browser extension that displays request and response headers and cookies right after page load. | Tuurlijk | 20 |
 
 **Legend:** 🗄️ archived · 🆕 starred in the last 30 days

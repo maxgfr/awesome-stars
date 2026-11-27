@@ -13,6 +13,7 @@
 | [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35.1k |
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
+| [dokku](https://github.com/dokku/dokku) | Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku. | dokku | 32.2k |
 | [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.5k |
 | [harbor](https://github.com/goharbor/harbor) | CNCF container registry for managing images and OCI artifacts with access control and scanning. | goharbor | 29.8k |
 | [envoy](https://github.com/envoyproxy/envoy) | High-performance C++ edge, middle, and service proxy designed for cloud-native applications. | envoyproxy | 29.3k |
@@ -31,7 +32,7 @@
 | [kops](https://github.com/kubernetes/kops) | Tool for creating, upgrading, and managing production-grade Kubernetes clusters. | kubernetes | 16.7k |
 | [vercel](https://github.com/vercel/vercel) | CLI and platform for deploying and previewing web projects, mainly frontend and JAMstack apps. | vercel | 16.7k |
 | [skaffold](https://github.com/GoogleContainerTools/skaffold) | Command-line tool for continuous development and repeatable building and deployment of Kubernetes applications. | GoogleContainerTools | 15.9k |
-| [kind](https://github.com/kubernetes-sigs/kind) | Tool for running local Kubernetes clusters using Docker containers as nodes, mainly for testing. | kubernetes-sigs | 15.6k |
+| [kind](https://github.com/kubernetes-sigs/kind) | Tool for running local Kubernetes clusters using Docker containers as nodes, mainly for testing. | kubernetes-sigs | 15.7k |
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) | Collection of Azure Resource Manager and Bicep templates for deploying common Azure resources. | Azure | 14.9k |
 | [cert-manager](https://github.com/cert-manager/cert-manager) | Controller that automatically issues and renews TLS certificates in Kubernetes clusters. | cert-manager | 14.2k |
 | [rook](https://github.com/rook/rook) | Storage orchestration for Kubernetes, managing Ceph and other storage systems. | rook | 13.7k |
@@ -40,7 +41,7 @@
 | [crossplane](https://github.com/crossplane/crossplane) | Cloud-native control plane for provisioning and managing infrastructure through Kubernetes APIs. | crossplane | 12.3k |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | Tool for customizing Kubernetes YAML configurations without templates, using overlays and patches. | kubernetes-sigs | 12.2k |
 | [functions-samples](https://github.com/firebase/functions-samples) | Sample apps demonstrating common use cases with Cloud Functions for Firebase. | firebase | 12.2k |
-| [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.1k |
+| [kubeshark](https://github.com/kubeshark/kubeshark) | eBPF-based network observability for Kubernetes that indexes L4/L7 traffic and decrypts TLS. | kubeshark | 12.2k |
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | Lightweight, high-performance WebAssembly runtime for cloud native, edge, and decentralized applications. | WasmEdge | 10.9k |
 | [keda](https://github.com/kedacore/keda) | Kubernetes-based event-driven autoscaling component that scales any container on event sources. | kedacore | 10.7k |
 | [kompose](https://github.com/kubernetes/kompose) | Tool that converts Docker Compose files into Kubernetes resource definitions. | kubernetes | 10.7k |
@@ -116,8 +117,8 @@
 | [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Kubernetes operator for deploying and managing Elasticsearch and Kibana clusters. | elastic | 2.9k |
 | [aws-cf-templates](https://github.com/widdix/aws-cf-templates) | Free AWS CloudFormation templates for common AWS infrastructure setups. | widdix | 2.8k |
 | [keel](https://github.com/keel-hq/keel) | Kubernetes operator that automatically updates Helm releases, DaemonSets, StatefulSets, and Deployments. | keel-hq | 2.7k |
-| [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
 | [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Android SDK for Firebase services, including the Realtime Database and other Firebase products. | firebase | 2.6k |
+| [examples](https://github.com/pulumi/examples) | Example projects for deploying cloud infrastructure, containers, and serverless apps with Pulumi. | pulumi | 2.6k |
 | [rke2](https://github.com/rancher/rke2) |  | rancher | 2.4k |
 | [kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) | Jenkins plugin that runs build agents as dynamically provisioned pods in Kubernetes or Docker. | jenkinsci | 2.3k |
 | [Azurite](https://github.com/Azure/Azurite) | Lightweight local emulator of Azure Storage, simulating most commands with minimal dependencies. | Azure | 2.3k |
@@ -125,7 +126,7 @@
 | [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Model Context Protocol server for Kubernetes and OpenShift clusters. | containers | 2.3k |
 | [javascript](https://github.com/kubernetes-client/javascript) | JavaScript and TypeScript client library for the Kubernetes API. | kubernetes-client | 2.3k |
 | [ocis](https://github.com/owncloud/ocis) | Go server for ownCloud Infinite Scale, a file sync and sharing platform. | owncloud | 2.2k |
-| [AKS](https://github.com/Azure/AKS) | Issue tracker and resources for Azure Kubernetes Service, Microsoft's managed Kubernetes offering. | Azure | 2.1k |
+| [AKS](https://github.com/Azure/AKS) | Issue tracker and resources for Azure Kubernetes Service, Microsoft's managed Kubernetes offering. | Azure | 2.2k |
 | [cli](https://github.com/cloudfoundry/cli) | Official command line client for interacting with Cloud Foundry platforms. | cloudfoundry | 1.9k |
 | [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) | Installs and configures the gcloud CLI in GitHub Actions workflows. | google-github-actions | 1.9k |
 | [flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3) | Read-only subsplit of a Flysystem adapter for the AWS SDK v3, providing filesystem access to S3 storage in PHP. | thephpleague | 1.7k |
@@ -147,10 +148,10 @@
 | [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 572 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 490 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 492 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |
-| [ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) 🆕 | Official command line interface for managing OVHcloud services. | ovh | 238 |
+| [ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) 🆕 | Official command line interface for managing OVHcloud services. | ovh | 239 |
 | [jitsi-helm](https://github.com/jitsi-contrib/jitsi-helm) | Helm chart for deploying the Jitsi video conferencing platform to Kubernetes. | jitsi-contrib | 203 |
 | [kubernetes-models-ts](https://github.com/tommy351/kubernetes-models-ts) | TypeScript type definitions and model classes for Kubernetes API resources. | tommy351 | 165 |
 | [node-ovh](https://github.com/ovh/node-ovh) | Node.js wrapper for calling the OVH APIs. | ovh | 148 |

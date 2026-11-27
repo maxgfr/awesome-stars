@@ -5,16 +5,16 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.9k |
-| [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.6k |
+| [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.7k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78.2k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.8k |
 | [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.6k |
 | [prometheus](https://github.com/prometheus/prometheus) | Monitoring system and time series database that collects metrics and evaluates alerting rules. | prometheus | 67.9k |
-| [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.5k |
+| [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.6k |
 | [traefik](https://github.com/traefik/traefik) | A cloud native application proxy and load balancer that integrates with container platforms. | traefik | 65.7k |
 | [windows](https://github.com/dockur/windows) | Docker container that runs Windows in a virtual machine. | dockur | 54.3k |
 | [container](https://github.com/apple/container) | Command-line tool for running Linux containers in lightweight virtual machines on Apple silicon Macs. | apple | 52.1k |
-| [terraform](https://github.com/hashicorp/terraform) | Infrastructure-as-code tool for building and changing infrastructure from declarative config files. | hashicorp | 50.3k |
+| [terraform](https://github.com/hashicorp/terraform) | Infrastructure-as-code tool for building and changing infrastructure from declarative config files. | hashicorp | 50.4k |
 | [sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring platform. | getsentry | 45.9k |
 | [pm2](https://github.com/Unitech/pm2) | Process manager for Node.js, Bun, and TypeScript applications, with load balancing and monitoring. | Unitech | 43.3k |
 | [diagrams](https://github.com/mingrammer/diagrams) | Python library for drawing cloud system architecture diagrams as code using Graphviz. | mingrammer | 42.8k |
@@ -29,13 +29,12 @@
 | [glances](https://github.com/nicolargo/glances) | Cross-platform system monitoring tool for Linux, BSD, macOS, and Windows with a REST API. | nicolargo | 34k |
 | [podman](https://github.com/podman-container-tools/podman) | Daemonless tool for developing, managing, and running OCI containers and pods on Linux. | podman-container-tools | 33.4k |
 | [signoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform for collecting logs, metrics and traces. | SigNoz | 32.7k |
-| [dokku](https://github.com/dokku/dokku) | Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku. | dokku | 32.2k |
-| [colima](https://github.com/abiosoft/colima) | Tool for running container runtimes such as Docker and containerd on macOS and Linux. | abiosoft | 31.8k |
+| [colima](https://github.com/abiosoft/colima) | Tool for running container runtimes such as Docker and containerd on macOS and Linux. | abiosoft | 31.9k |
 | [opentofu](https://github.com/opentofu/opentofu) | Open-source tool for declaratively managing cloud infrastructure as code. | opentofu | 31k |
 | [kestra](https://github.com/kestra-io/kestra) | Open source control plane for YAML-defined workflows across data, infrastructure, and AI agents. | kestra-io | 30.4k |
 | [consul](https://github.com/hashicorp/consul) | Service mesh and service discovery tool for connecting and configuring distributed applications. | hashicorp | 30.1k |
 | [loki](https://github.com/grafana/loki) | Log aggregation system inspired by Prometheus, designed to index logs by labels. | grafana | 29.3k |
-| [beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, Docker stats, and alerts. | henrygd | 27.6k |
+| [beszel](https://github.com/henrygd/beszel) | Lightweight server monitoring with historical data, Docker stats, and alerts. | henrygd | 27.7k |
 | [shields](https://github.com/badges/shields) | Generator of concise SVG and raster badges for displaying status and metadata. | badges | 27.4k |
 | [vagrant](https://github.com/hashicorp/vagrant) | Tool for building and managing reproducible development environments on virtual machines. | hashicorp | 27.2k |
 | [nixpkgs](https://github.com/NixOS/nixpkgs) | Collection of Nix packages and the NixOS Linux distribution configuration. | NixOS | 27k |
@@ -61,7 +60,7 @@
 | [ceph](https://github.com/ceph/ceph) | Distributed platform providing object, block and file storage, with erasure coding and FUSE access. | ceph | 17.3k |
 | [upptime](https://github.com/upptime/upptime) | Uptime monitor and status page built on GitHub Actions and GitHub Pages. | upptime | 17.2k |
 | [nomad](https://github.com/hashicorp/nomad) | Workload orchestrator for scheduling containerized, batch, and non-containerized applications. | hashicorp | 17.1k |
-| [dagger](https://github.com/dagger/dagger) | Automation engine for building, testing and shipping code, running locally, in CI or in the cloud. | dagger | 16.6k |
+| [dagger](https://github.com/dagger/dagger) | Automation engine for building, testing and shipping code, running locally, in CI or in the cloud. | dagger | 16.7k |
 | [docker-android](https://github.com/budtmo/docker-android) | Docker-based Android emulator environment with noVNC access, video recording, and an MCP server for AI agents. | budtmo | 16.2k |
 | [goreleaser](https://github.com/goreleaser/goreleaser) | Tool that automates building, packaging, and publishing software releases from Go projects. | goreleaser | 16.2k |
 | [Termix](https://github.com/Termix-SSH/Termix) | Self-hosted, plugin-based server management platform with SSH, RDP, and remote desktop access. | Termix-SSH | 16.1k |
@@ -117,7 +116,7 @@
 | [chef](https://github.com/chef/chef) | Automation platform for configuring, deploying, and managing infrastructure as code at any scale. | chef | 8.3k |
 | [tart](https://github.com/openai/tart) | Tool for running macOS and Linux virtual machines on Apple Silicon for CI and automation. | openai | 8k |
 | [boilerplates](https://github.com/ChristianLempa/boilerplates) | Collection of reusable templates for configurable homelab and self-hosted infrastructure workloads. | ChristianLempa | 8k |
-| [oneuptime](https://github.com/OneUptime/oneuptime) | Open-source platform for monitoring, observability, incident management and on-call. | OneUptime | 7.8k |
+| [oneuptime](https://github.com/OneUptime/oneuptime) | Open-source platform for monitoring, observability, incident management and on-call. | OneUptime | 7.9k |
 | [release-please](https://github.com/googleapis/release-please) | Tool that generates release pull requests and changelogs from conventional commits. | googleapis | 7.8k |
 | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | Vendor-agnostic service for receiving, processing, and exporting telemetry data such as metrics and traces. | open-telemetry | 7.8k |
 | [acme-companion](https://github.com/nginx-proxy/acme-companion) | Automated ACME SSL certificate generation companion for nginx-proxy in Docker. | nginx-proxy | 7.7k |
@@ -140,8 +139,8 @@
 | [build-push-action](https://github.com/docker/build-push-action) | GitHub Action that builds and pushes Docker images using Buildx. | docker | 5.4k |
 | [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for deploying static site files to GitHub Pages, compatible with common site generators. | peaceiris | 5.4k |
 | [dockerize](https://github.com/jwilder/dockerize) | Utility that simplifies running applications in Docker containers, such as waiting for services. | jwilder | 5.2k |
-| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Community-maintained receivers, exporters, and processors that extend the OpenTelemetry Collector. | open-telemetry | 5.1k |
+| [github-script](https://github.com/actions/github-script) | GitHub Action that runs JavaScript scripts against the GitHub API within workflows. | actions | 5.1k |
 | [setup-node](https://github.com/actions/setup-node) | GitHub Action that installs a specified version of Node.js in a workflow. | actions | 5k |
 | [varlock](https://github.com/dmno-dev/varlock) | Schema-driven .env file tool that lets AI agents use configuration while keeping secrets protected. | dmno-dev | 5k |
 | [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | Toolkit for building and running containers that use NVIDIA GPUs. | NVIDIA | 4.7k |
@@ -165,7 +164,7 @@
 | [docker-nginx](https://github.com/nginx/docker-nginx) | Official Dockerfiles for building NGINX container images. | nginx | 3.5k |
 | [client_js](https://github.com/prometheus/client_js) | Prometheus client library for Node.js for defining and exposing application metrics. | prometheus | 3.5k |
 | [paths-filter](https://github.com/dorny/paths-filter) | GitHub Action that runs jobs conditionally based on files changed in a pull request or commits. | dorny | 3.4k |
-| [wrkflw](https://github.com/bahdotsh/wrkflw) | Validates and runs GitHub Actions workflows locally. | bahdotsh | 3.3k |
+| [wrkflw](https://github.com/bahdotsh/wrkflw) | Validates and runs GitHub Actions workflows locally. | bahdotsh | 3.4k |
 | [gh-pages](https://github.com/tschaub/gh-pages) | Utility that publishes files to a gh-pages branch on GitHub. | tschaub | 3.3k |
 | [setup-php](https://github.com/shivammathur/setup-php) | GitHub Action that sets up PHP with extensions, php.ini settings, coverage drivers and tools. | shivammathur | 3.3k |
 | [gomplate](https://github.com/hairyhenderson/gomplate) | Command-line tool for rendering templates using data from local and remote datasources. | hairyhenderson | 3.2k |
@@ -216,18 +215,18 @@
 | [actions-up](https://github.com/azat-io/actions-up) | Interactive CLI that updates GitHub Actions to their latest versions and pins them to commit SHAs. | azat-io | 672 |
 | [npm-install](https://github.com/bahmutov/npm-install) | GitHub Action that installs npm dependencies with caching and requires no configuration. | bahmutov | 672 |
 | [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) | Fork of standard-version that automates semver versioning, changelog generation, and git tagging. | absolute-version | 662 |
-| [sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) | GitHub Action that creates a pull request comment, or updates the existing one if present. | marocchino | 661 |
+| [sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) | GitHub Action that creates a pull request comment, or updates the existing one if present. | marocchino | 662 |
 | [docker-debug](https://github.com/zeromake/docker-debug) | Tool that attaches a new container to an already running container for debugging. | zeromake | 638 |
-| [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 607 |
+| [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 609 |
 | [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action that installs QEMU static binaries to enable multi-platform builds in workflows. | docker | 602 |
 | [asdf-direnv](https://github.com/asdf-community/asdf-direnv) | asdf plugin that installs and manages direnv versions for per-directory environment variables. | asdf-community | 572 |
-| [install-action](https://github.com/taiki-e/install-action) | GitHub Action that installs development tools, mainly from GitHub Releases. | taiki-e | 560 |
+| [install-action](https://github.com/taiki-e/install-action) | GitHub Action that installs development tools, mainly from GitHub Releases. | taiki-e | 561 |
 | [action-release](https://github.com/getsentry/action-release) | GitHub Action for creating Sentry releases from workflows, including tagging production deployments. | getsentry | 496 |
 | [docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) | Dockerfiles for running NGINX as a non-root user, based on Alpine and Debian images. | nginx | 485 |
 | [action-discord](https://github.com/Ilshidur/action-discord) | GitHub Action that sends messages to a Discord channel through a webhook. | Ilshidur | 463 |
-| [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 453 |
+| [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 452 |
 | [commit-analyzer](https://github.com/semantic-release/commit-analyzer) | semantic-release plugin that determines the next release type from conventional commits. | semantic-release | 447 |
-| [mise-action](https://github.com/jdx/mise-action) 🆕 |  | jdx | 409 |
+| [mise-action](https://github.com/jdx/mise-action) |  | jdx | 410 |
 | [wait-on-check-action](https://github.com/lewagon/wait-on-check-action) | GitHub Action that waits until a job in another workflow completes successfully. | lewagon | 401 |
 | [ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) | GitHub Action that imports a GPG key into the runner for signing commits. | crazy-max | 382 |
 | [release-notes-generator](https://github.com/semantic-release/release-notes-generator) | semantic-release plugin that generates release notes from conventional commits. | semantic-release | 368 |
@@ -262,5 +261,3 @@
 | [auth-action.js](https://github.com/octokit/auth-action.js) | GitHub Action that authenticates to the GitHub API using a token, built on Octokit. | octokit | 48 |
 | [actions-clever-cloud](https://github.com/47ng/actions-clever-cloud) | GitHub Action for deploying applications to Clever Cloud. | 47ng | 45 |
 | [actions](https://github.com/stephansama/actions) | A collection of open source GitHub Actions published by stephansama. | stephansama | 4 |
-
-**Legend:** 🆕 starred in the last 30 days
