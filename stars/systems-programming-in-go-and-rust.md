@@ -6,11 +6,11 @@
 |---|---|---|---:|
 | [croc](https://github.com/schollz/croc) | Command-line tool for securely sending files and folders between computers with peer-to-peer transfer. | schollz | 41.1k |
 | [tokio](https://github.com/tokio-rs/tokio) | Asynchronous runtime for Rust, providing I/O, networking, scheduling, and timers. | tokio-rs | 33.8k |
-| [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.1k |
-| [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.8k |
-| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.3k |
+| [iced](https://github.com/iced-rs/iced) | Cross-platform, renderer-agnostic GUI library for Rust, inspired by Elm. | iced-rs | 32.2k |
+| [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust-native algorithmic trading engine with a deterministic event-driven architecture for production use. | nautechsystems | 31.9k |
+| [zstd](https://github.com/meta/zstd) | Fast real-time lossless compression algorithm and reference library. | meta | 28.4k |
 | [Rust](https://github.com/TheAlgorithms/Rust) | Collection of algorithms and data structures implemented in Rust for learning purposes. | TheAlgorithms | 26.2k |
-| [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.4k |
+| [coreutils](https://github.com/uutils/coreutils) | Cross-platform rewrite of GNU coreutils utilities in Rust. | uutils | 24.5k |
 | [ratatui](https://github.com/ratatui/ratatui) | Rust library for building terminal user interfaces (TUIs). | ratatui | 23.5k |
 | [wasmtime](https://github.com/bytecodealliance/wasmtime) | Lightweight, fast, and secure WebAssembly runtime that follows standards. | bytecodealliance | 18.9k |
 | [cargo](https://github.com/rust-lang/cargo) | Package manager for the Rust language that handles dependencies, builds, and tests Rust crates. | rust-lang | 15.8k |
@@ -22,7 +22,7 @@
 | [serde](https://github.com/serde-rs/serde) | Serialization framework for Rust with derive macros and support for no-std environments. | serde-rs | 11k |
 | [spotifyd](https://github.com/Spotifyd/spotifyd) | Headless Spotify Connect client that runs as a background daemon. | Spotifyd | 10.8k |
 | [raft](https://github.com/hashicorp/raft) | Go implementation of the Raft consensus protocol for replicated state machines. | hashicorp | 9.2k |
-| [ebpf](https://github.com/cilium/ebpf) | Pure Go library for loading, modifying, and attaching eBPF programs to Linux kernel hooks. | cilium | 8k |
+| [ebpf](https://github.com/cilium/ebpf) | Pure Go library for loading, modifying, and attaching eBPF programs to Linux kernel hooks. | cilium | 8.1k |
 | [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) | Sample Windows driver projects for Visual Studio and the WDK, covering Universal and desktop-only drivers. | microsoft | 7.9k |
 | [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) | Tool that builds, tests, and publishes Rust-generated WebAssembly packages to npm. | wasm-bindgen | 7.3k |
 | [ristretto](https://github.com/dgraph-io/ristretto) | High-performance, memory-bound cache library for Go. | dgraph-io | 7k |

@@ -1,9 +1,9 @@
 {
-  "contentHash": "416d037344f8",
+  "contentHash": "fac244cf2959",
   "digest": {
     "language": "en",
-    "text": "Agent tooling dominates these stars. **AI coding agent tooling** leads, with floorplan and Peekaboo giving Claude and Codex new abilities, and mcp-gsc connecting agents to SEO data.\n\n**Privacy and censorship resistance** follow: hysteria and yip target blocked networks, while zen-desktop and blocky filter ads and DNS. **Mobile emulation** via winlator and Delta, plus ARTEX pentesting, rounds out the mix.",
-    "upTo": "2026-11-26T11:05:27Z"
+    "text": "This week's stars are dominated by **AI agents that make things**. Video leads, with lemo-opuscar and onetake letting coding agents direct films and hypit cloning viral clips end to end. Game development and codebase mapping follow through skill bundles like awesome-gamedev-agent-skills.\n\nA second thread is **privacy-first, self-hosted tooling**. Yip, hysteria and zen-desktop target censorship and surveillance, while local-first apps like openbot and hex keep data on your own machine.",
+    "upTo": "2026-11-27T09:20:12Z"
   },
   "files": [
     "README.md",
@@ -35,7 +35,7 @@
     "stars/systems-programming-in-go-and-rust.md",
     "stars/testing-and-automation.md"
   ],
-  "newest": "2026-11-26T11:05:27Z",
+  "newest": "2026-11-27T09:20:12Z",
   "repos": {
     "MDEwOlJlcG9zaXRvcnk0MDA1MzYwMg==": {
       "category": "JavaScript and TypeScript Tooling",
@@ -2433,9 +2433,9 @@
     },
     "MDEwOlJlcG9zaXRvcnk1NjkwNDE=": {
       "category": "Networking and Wireless",
-      "ch": "76de2a8f0dd9",
-      "description": "Command line tool and library for transferring data with URL syntax across many protocols.",
-      "dh": "f191985b666f"
+      "ch": "bbc222ad6d79",
+      "description": "Tool and library for transferring data with URL syntax over protocols like HTTP and FTP.",
+      "dh": "0b6c65beebe0"
     },
     "MDEwOlJlcG9zaXRvcnk1NzE3NzA=": {
       "category": "Documentation and Knowledge Tools",
@@ -6712,8 +6712,8 @@
       "dh": "825e53bd0529"
     },
     "MDEwOlJlcG9zaXRvcnkxMDU2NzE5Nw==": {
-      "category": "Cloud and Kubernetes",
-      "ch": "f0b140600fd5",
+      "category": "DevOps and Infrastructure",
+      "ch": "3ccb9bb8cf60",
       "description": "Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku.",
       "dh": "86a9ce16263f"
     },
@@ -11276,10 +11276,10 @@
       "dh": "a90b4b0f5c55"
     },
     "MDEwOlJlcG9zaXRvcnkxNzAwOTY4NA==": {
-      "category": "Other",
-      "ch": "6cc68b5e0ef7",
-      "description": "Git mirror of the Deluge BitTorrent client, with a daemon and thin client interfaces.",
-      "dh": "606d4d11f8b5"
+      "category": "Networking and Wireless",
+      "ch": "c455e623287d",
+      "description": "BitTorrent client with a daemon, an ExtJS web interface, thin clients and a GTK interface.",
+      "dh": "cac4d7d60de5"
     },
     "MDEwOlJlcG9zaXRvcnkxNzAxOTY4": {
       "category": "Cryptography and Blockchain",
@@ -11493,9 +11493,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDYxNA==": {
       "category": "Testing and Automation",
-      "ch": "6eed982fe223",
-      "description": "Python framework for end-to-end testing, web scraping and CAPTCHA bypass in Chrome via CDP.",
-      "dh": "39d57507633e"
+      "ch": "495726641353",
+      "description": "Python framework for end-to-end testing and web scraping, with a pytest plugin and a CDP Mode.",
+      "dh": "6a14d4fcae94"
     },
     "MDEwOlJlcG9zaXRvcnkxNzQyMDkxMw==": {
       "category": "Systems Programming in Go and Rust",
@@ -20197,9 +20197,9 @@
     },
     "MDEwOlJlcG9zaXRvcnkzOTcyMDQyNjI=": {
       "category": "Security and Penetration Testing",
-      "ch": "138cc2eb18da",
-      "description": "Generates test PDFs for penetration testing PDF viewers and converters for SSRF, XSS and NTLM theft.",
-      "dh": "727771e3d645"
+      "ch": "ef8d12919835",
+      "description": "Generates malicious PDF test files for security testing of viewers, converters and web apps.",
+      "dh": "66d7ab0e653f"
     },
     "MDEwOlJlcG9zaXRvcnkzOTg3MDE2ODg=": {
       "category": "Security and Penetration Testing",
@@ -20587,7 +20587,7 @@
     },
     "R_kgDOGXo1AA": {
       "category": "Frontend UI Libraries",
-      "ch": "55e9794593a6",
+      "ch": "76f8d4a626c7",
       "description": "Free Tailwind CSS v4 component library for building accessible web interfaces.",
       "dh": "b476c9c1b47d"
     },
@@ -22375,7 +22375,7 @@
     },
     "R_kgDOJKOCnw": {
       "category": "Desktop and Mobile Apps",
-      "ch": "adfe4f9b6f93",
+      "ch": "47dcfed78c18",
       "description": "Personal software platform built with SvelteKit, Tailwind CSS and Tauri for desktop and web.",
       "dh": "898c3449af32"
     },
@@ -24347,9 +24347,9 @@
     },
     "R_kgDONK22AQ": {
       "category": "Frontend UI Libraries",
-      "ch": "f70f3283a471",
-      "description": "Collection of React Native animation demos built with Reanimated, Gesture Handler, and Skia.",
-      "dh": "ed9bb1c51c4f"
+      "ch": "f52286f7904f",
+      "description": "Collection of 100+ GPU-run animations built with Exact, Rust and WebGPU.",
+      "dh": "28f058c82130"
     },
     "R_kgDONK2vCg": {
       "category": "LLM Agents and AI Assistants",
@@ -25415,12 +25415,6 @@
       "description": "MCP server exposing Interactive Brokers trading and account data to AI assistants.",
       "dh": "a168fd818cbb"
     },
-    "R_kgDOPepk6Q": {
-      "category": "Frontend UI Libraries",
-      "ch": "420a876de532",
-      "description": "Component library and custom registry built on shadcn/ui for building AI-native applications.",
-      "dh": "26e69f99401b"
-    },
     "R_kgDOPgHzxw": {
       "category": "Image and Graphics Processing",
       "ch": "4b1a47cf7ed0",
@@ -25603,7 +25597,7 @@
     },
     "R_kgDOQ5Wxyg": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "482cd0c78a10",
+      "ch": "09f0492e4003",
       "description": "Multi-platform SDK for integrating the GitHub Copilot agent into applications and services.",
       "dh": "4d38cb5c7667"
     },
@@ -25985,7 +25979,7 @@
     },
     "R_kgDOQfkh9A": {
       "category": "LLM Agents and AI Assistants",
-      "ch": "decb6ba147ac",
+      "ch": "70b861a71a96",
       "description": "Collection of AI agent skills for working with Expo projects and Expo Application Services.",
       "dh": "9255c01b6f7e"
     },
@@ -26030,6 +26024,12 @@
       "ch": "39ceedf67a9a",
       "description": "Vercel's official collection of skills for AI coding agents.",
       "dh": "47da1a75a8e4"
+    },
+    "R_kgDOQlwGwQ": {
+      "category": "Audio and Video Processing",
+      "ch": "9b2298206bec",
+      "description": "Toolkit for making videos with Claude Code: scripts, voiceover, music, clips and rendering.",
+      "dh": "0b7f008cc834"
     },
     "R_kgDOQngEZw": {
       "category": "Developer Tools and Editors",
@@ -26975,12 +26975,6 @@
       "description": "Command-line client for Too Good To Go that automates the full checkout process.",
       "dh": "d7fb05330077"
     },
-    "R_kgDOScBIVg": {
-      "category": "Testing and Automation",
-      "ch": "95bdd82c02ff",
-      "description": "Playwright API for headless Firefox scraping that uses stealth to evade anti-bot detection.",
-      "dh": "81c4564173b0"
-    },
     "R_kgDOScehDA": {
       "category": "Security and Penetration Testing",
       "ch": "82dc7994665c",
@@ -27233,6 +27227,12 @@
       "description": "Minimalist macOS app for recording and transcribing audio.",
       "dh": "1f48d54c21df"
     },
+    "R_kgDOTne_vw": {
+      "category": "Audio and Video Processing",
+      "ch": "5660cc08313f",
+      "description": "AI agent workflow that clones viral videos by swapping faces, words and B-roll into variants.",
+      "dh": "1f269edd400e"
+    },
     "R_kgDOTsxOiw": {
       "category": "Documentation and Knowledge Tools",
       "ch": "5201671bd1ba",
@@ -27393,6 +27393,18 @@
       "description": "Adds the SteamOS experience to Android devices.",
       "dh": "030d1b691d32"
     },
+    "R_kgDOUsRGWA": {
+      "category": "Audio and Video Processing",
+      "ch": "9548ec063a3b",
+      "description": "Agent skill for launch films in one continuous shot, with continuity checked by an oracle.",
+      "dh": "e09b3d33e3e6"
+    },
+    "R_kgDOUsqjIA": {
+      "category": "LLM Agents and AI Assistants",
+      "ch": "6206e074eb74",
+      "description": "Code-made film style prompts for Claude Code, each with a demo film built entirely in code.",
+      "dh": "309f746268b5"
+    },
     "R_kgDOUtDQyg": {
       "category": "Desktop and Mobile Apps",
       "ch": "0aa22269b5fa",
@@ -27529,6 +27541,6 @@
     ],
     "source": "ai"
   },
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "version": 1
 }

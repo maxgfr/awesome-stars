@@ -7,18 +7,18 @@
 | [node](https://github.com/nodejs/node) | JavaScript runtime built on V8 for running server-side and command-line JavaScript applications. | nodejs | 124k |
 | [fastapi](https://github.com/fastapi/fastapi) | Python web framework for building high-performance APIs with automatic JSON Schema validation. | fastapi | 105k |
 | [gin](https://github.com/gin-gonic/gin) | High-performance HTTP web framework for Go, with a Martini-like API and router middleware. | gin-gonic | 89.6k |
-| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.5k |
+| [laravel](https://github.com/laravel/laravel) | PHP web application framework with expressive syntax for building modern web applications. | laravel | 85.4k |
 | [caddy](https://github.com/caddyserver/caddy) | Extensible HTTP/1, HTTP/2 and HTTP/3 web server written in Go with automatic HTTPS. | caddyserver | 79.6k |
-| [nest](https://github.com/nestjs/nest) | TypeScript framework for building scalable server-side applications on Node.js. | nestjs | 77.2k |
-| [json-server](https://github.com/typicode/json-server) | Tool that creates a fake REST API from a JSON file, for use in frontend development and mocking. | typicode | 75.8k |
-| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.3k |
+| [nest](https://github.com/nestjs/nest) | TypeScript framework for building scalable server-side applications on Node.js. | nestjs | 77.1k |
+| [json-server](https://github.com/typicode/json-server) | Tool that creates a fake REST API from a JSON file, for use in frontend development and mocking. | typicode | 75.7k |
+| [flask](https://github.com/pallets/flask) | Lightweight Python web framework built on Werkzeug and Jinja for building web applications. | pallets | 75.2k |
 | [strapi](https://github.com/strapi/strapi) | Open-source headless CMS built with JavaScript and TypeScript for creating customizable content APIs. | strapi | 73.6k |
-| [express](https://github.com/expressjs/express) | Minimal, unopinionated web framework for Node.js for building servers and APIs. | expressjs | 69.8k |
+| [express](https://github.com/expressjs/express) | Minimal, unopinionated web framework for Node.js for building servers and APIs. | expressjs | 69.7k |
 | [socket.io](https://github.com/socketio/socket.io) | Library for bidirectional, low-latency real-time communication between clients and servers across platforms. | socketio | 63.3k |
 | [pocketbase](https://github.com/pocketbase/pocketbase) 🗄️ | Open-source realtime backend delivered as a single file, providing a database, authentication, and APIs. | pocketbase | 61.6k |
-| [appwrite](https://github.com/appwrite/appwrite) | Self-hostable backend platform providing auth, databases, storage, functions, messaging, and realtime APIs. | appwrite | 58.7k |
+| [appwrite](https://github.com/appwrite/appwrite) | Self-hostable backend platform providing auth, databases, storage, functions, messaging, and realtime APIs. | appwrite | 58.6k |
 | [requests](https://github.com/psf/requests) | Python HTTP library for sending requests with a simple, human-friendly API. | psf | 54.8k |
-| [mastodon](https://github.com/mastodon/mastodon) | Self-hosted, federated microblogging server that interoperates with the fediverse via ActivityPub. | mastodon | 50.7k |
+| [mastodon](https://github.com/mastodon/mastodon) | Self-hosted, federated microblogging server that interoperates with the fediverse via ActivityPub. | mastodon | 50.6k |
 | [payload](https://github.com/payloadcms/payload) | Open-source Next.js framework with a TypeScript backend and admin panel, usable as a headless CMS. | payloadcms | 46k |
 | [grpc](https://github.com/grpc/grpc) | C++ implementation of gRPC, a high-performance remote procedure call framework with multi-language bindings. | grpc | 45.5k |
 | [kong](https://github.com/Kong/kong) | An API and AI gateway for managing, securing, and routing API and AI traffic. | Kong | 44.4k |
@@ -27,12 +27,12 @@
 | [fiber](https://github.com/gofiber/fiber) | Web framework for Go with an Express-like API, built on fasthttp for high performance. | gofiber | 40.3k |
 | [directus](https://github.com/directus/directus) | Open-source backend that turns a database into a headless CMS with instant REST and GraphQL APIs. | directus | 38.7k |
 | [fastify](https://github.com/fastify/fastify) | Fast, low-overhead web framework for Node.js for building HTTP APIs and servers. | fastify | 37.5k |
-| [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.4k |
+| [medusa](https://github.com/medusajs/medusa) | Commerce platform for developers and AI agents, built as a flexible framework. | medusajs | 37.5k |
 | [ntfy](https://github.com/binwiederhier/ntfy) | Service for sending push notifications to phones or desktops via simple HTTP PUT or POST requests. | binwiederhier | 35.8k |
 | [koa](https://github.com/koajs/koa) | Expressive middleware framework for Node.js built on ES2017 async functions. | koajs | 35.7k |
 | [hackathon-starter](https://github.com/sahat/hackathon-starter) | Boilerplate for Node.js web applications, aimed at hackathons, with OAuth2 and other starter features. | sahat | 35.3k |
 | [framework](https://github.com/laravel/framework) | PHP web framework with an expressive, elegant syntax for building web applications. | laravel | 35.2k |
-| [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 33.5k |
+| [nginx](https://github.com/nginx/nginx) | Official NGINX Open Source repository, a web server, reverse proxy, and load balancer. | nginx | 33.7k |
 | [remix](https://github.com/remix-run/remix) | Full-stack web framework built on standard web APIs. | remix-run | 33.5k |
 | [hono](https://github.com/honojs/hono) | Web framework built on Web Standards for running on Cloudflare Workers, Deno, Bun, and AWS Lambda. | honojs | 33.1k |
 | [symfony](https://github.com/symfony/symfony) | Full-stack PHP framework and set of reusable components for building web applications and APIs. | symfony | 31.5k |
@@ -63,7 +63,7 @@
 | [postal](https://github.com/postalserver/postal) | Open source mail delivery platform for sending and receiving email, with SMTP support. | postalserver | 17k |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client and server framework for asyncio in Python. | aio-libs | 16.6k |
 | [hyper](https://github.com/hyperium/hyper) | Fast and correct HTTP library for Rust, supporting both client and server implementations. | hyperium | 16.5k |
-| [stalwart](https://github.com/stalwartlabs/stalwart) | Self-hosted mail and collaboration server supporting IMAP, JMAP, SMTP, POP3, CalDAV, CardDAV and WebDAV. | stalwartlabs | 16.4k |
+| [stalwart](https://github.com/stalwartlabs/stalwart) | Self-hosted mail and collaboration server supporting IMAP, JMAP, SMTP, POP3, CalDAV, CardDAV and WebDAV. | stalwartlabs | 16.5k |
 | [bull](https://github.com/OptimalBits/bull) | Queue package for NodeJS that handles distributed jobs and messages with priorities. | OptimalBits | 16.3k |
 | [server](https://github.com/gotify/server) | Server for sending and receiving real-time messages over WebSocket, with a web UI. | gotify | 16.2k |
 | [httpx](https://github.com/encode/httpx) | Next-generation HTTP client for Python with sync and async APIs, supporting asyncio and Trio. | encode | 15.9k |
@@ -103,7 +103,7 @@
 | [workerd](https://github.com/cloudflare/workerd) | JavaScript and Wasm runtime that powers Cloudflare Workers. | cloudflare | 9.3k |
 | [node-schedule](https://github.com/node-schedule/node-schedule) | Flexible job scheduler for Node.js supporting cron-style and date-based scheduling. | node-schedule | 9.2k |
 | [llrt](https://github.com/awslabs/llrt) | Experimental lightweight JavaScript runtime aimed at low-latency serverless applications. | awslabs | 8.9k |
-| [core](https://github.com/owncloud/core) | Core server of ownCloud, providing file sharing, sync, and WebDAV services in PHP. | owncloud | 8.8k |
+| [core](https://github.com/owncloud/core) | Core server of ownCloud, providing file sharing, sync, and WebDAV services in PHP. | owncloud | 8.9k |
 | [gorush](https://github.com/appleboy/gorush) | Push notification server written in Go for sending messages to Android and iOS devices. | appleboy | 8.8k |
 | [aimeos-laravel](https://github.com/aimeos/aimeos-laravel) | Laravel e-commerce package for building online shops and multi-vendor marketplaces. | aimeos | 8.7k |
 | [vendure](https://github.com/vendurehq/vendure) | Headless open-source commerce platform built with TypeScript, NestJS, React, and GraphQL. | vendurehq | 8.6k |
@@ -191,10 +191,10 @@
 | [nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n) | Internationalization (i18n) module for NestJS applications. | toonvanstrijp | 721 |
 | [pino-http](https://github.com/pinojs/pino-http) | High-speed HTTP request logger for Node.js built on the Pino logging library. | pinojs | 708 |
 | [nestjs-prometheus](https://github.com/willsoto/nestjs-prometheus) | NestJS module that exposes Prometheus metrics from NestJS applications. | willsoto | 682 |
-| [limits](https://github.com/alisaifee/limits) | Python rate limiting library with multiple strategies and storage backends such as Redis and Memcached. | alisaifee | 656 |
+| [limits](https://github.com/alisaifee/limits) | Python rate limiting library with multiple strategies and storage backends such as Redis and Memcached. | alisaifee | 657 |
 | [method-override](https://github.com/expressjs/method-override) | Express middleware that overrides HTTP verbs, such as using PUT or DELETE from clients that cannot send them. | expressjs | 627 |
 | [inversify-express-utils](https://github.com/inversify/inversify-express-utils) | Utilities for building Express applications with InversifyJS dependency injection. | inversify | 603 |
-| [bunqueue](https://github.com/egeominotti/bunqueue) | Job queue for Bun with SQLite by default, PostgreSQL scaling, dead letter queues, cron, and MCP support. | egeominotti | 597 |
+| [bunqueue](https://github.com/egeominotti/bunqueue) | Job queue for Bun with SQLite by default, PostgreSQL scaling, dead letter queues, cron, and MCP support. | egeominotti | 599 |
 | [config](https://github.com/nestjs/config) | Configuration module for NestJS applications that loads and validates environment settings. | nestjs | 595 |
 | [next-runtime](https://github.com/smeijer/next-runtime) | Helpers for handling POST requests, file uploads and API requests in Next.js getServerSideProps. | smeijer | 582 |
 | [laracart](https://github.com/lukepolo/laracart) | Laravel shopping cart package with support for coupons, discounts, and taxation. | lukepolo | 581 |
@@ -211,7 +211,7 @@
 | [relayer](https://github.com/fiatjaf/relayer) | Framework for building Nostr relay servers in Go. | fiatjaf | 342 |
 | [supertokens-node](https://github.com/supertokens/supertokens-node) | Node.js SDK for connecting an application to the SuperTokens core. | supertokens | 331 |
 | [next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) | HTTP proxy middleware for Next.js API routes. | stegano | 269 |
-| [python](https://github.com/mautrix/python) | Python 3 asyncio framework for building Matrix clients and appservices. | mautrix | 251 |
+| [python](https://github.com/mautrix/python) | Python 3 asyncio framework for building Matrix clients and appservices. | mautrix | 252 |
 | [fastro](https://github.com/fastrodev/fastro) | Web framework for Deno for building backend and fullstack applications. | fastrodev | 241 |
 | [nestjs-roles](https://github.com/iamolegga/nestjs-roles) | Type-safe roles guard and decorator for NestJS to implement role-based access control. | iamolegga | 221 |
 | [tracker-proxy](https://github.com/matomo-org/tracker-proxy) | HTTP proxy for Matomo's tracker API that hides the Matomo server URL from visitors. | matomo-org | 157 |

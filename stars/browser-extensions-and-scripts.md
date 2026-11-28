@@ -4,8 +4,8 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.7k |
-| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.5k |
+| [uBlock](https://github.com/gorhill/uBlock) | Browser extension that blocks ads and trackers in Chromium and Firefox, with low resource use. | gorhill | 69.8k |
+| [obscura](https://github.com/h4ckf0r0day/obscura) | Headless browser built for AI agents and web scraping, with anti-detection features. | h4ckf0r0day | 37.8k |
 | [refined-github](https://github.com/refined-github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful extra features. | refined-github | 32.6k |
 | [vimium](https://github.com/philc/vimium) | Browser extension providing Vim-style keyboard navigation and control for web pages. | philc | 27.2k |
 | [nextai-translator](https://github.com/nextai-translator/nextai-translator) | Browser extension and desktop app for selection-based translation using the ChatGPT API. | nextai-translator | 25.1k |
@@ -16,7 +16,7 @@
 | [screenity](https://github.com/alyssaxuu/screenity) | Free, privacy-friendly browser extension for screen recording with annotation tools. | alyssaxuu | 19k |
 | [SponsorBlock](https://github.com/ajayyy/SponsorBlock) | Browser extension that skips sponsored segments in YouTube videos. | ajayyy | 14.2k |
 | [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome and Firefox extension that restores YouTube dislike counts on videos. | Anarios | 13.9k |
-| [plasmo](https://github.com/PlasmoHQ/plasmo) | Framework for building browser extensions with bundling and a modern development workflow. | PlasmoHQ | 13.2k |
+| [plasmo](https://github.com/PlasmoHQ/plasmo) | Framework for building browser extensions with bundling and a modern development workflow. | PlasmoHQ | 13.3k |
 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | Dark GitHub style with custom syntax themes for code, editors, and notebooks. | StylishThemes | 10k |
 | [buster](https://github.com/dessant/buster) | Browser extension that solves reCAPTCHA challenges using speech recognition. | dessant | 9.4k |
 | [floccus](https://github.com/floccusaddon/floccus) | Browser extension for syncing bookmarks privately across browsers and devices. | floccusaddon | 8.7k |
@@ -54,8 +54,8 @@
 | [BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) | Browser extension from SteamDB that adds price history and other data to Steam websites. | SteamDatabase | 1.3k |
 | [noscript](https://github.com/hackademix/noscript) | Browser extension blocking JavaScript by default to protect against XSS and Spectre-style attacks. | hackademix | 1.2k |
 | [adblocker](https://github.com/ghostery/adblocker) | Efficient embeddable adblocker library for filtering content using EasyList-style rules. | ghostery | 1k |
-| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 763 |
-| [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 677 |
+| [random-user-agent](https://github.com/tarampampam/random-user-agent) | Browser extension that replaces the User-Agent header with a randomly selected one. | tarampampam | 764 |
+| [spicetify-apps](https://github.com/harbassan/spicetify-apps) | Collection of custom Spicetify apps that extend the Spotify desktop client. | harbassan | 678 |
 | [Neat-URL](https://github.com/Smile4ever/Neat-URL) | Tool that cleans URLs by removing tracking parameters such as Google Analytics utm parameters. | Smile4ever | 668 |
 | [lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) | Browser extension wallet for connecting to Lightning nodes and signing Nostr events and transactions. | getAlby | 584 |
 | [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) | Command-line tool for uploading Chrome extensions to the Chrome Web Store. | fregante | 512 |

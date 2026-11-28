@@ -9,12 +9,12 @@
 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for controlling Chrome and Firefox, mainly for browser automation and headless testing. | puppeteer | 95.9k |
 | [cypress](https://github.com/cypress-io/cypress) | Testing framework for end-to-end and component tests of anything that runs in a browser. | cypress-io | 51k |
 | [jest](https://github.com/jestjs/jest) | JavaScript testing framework focused on simplicity, with built-in mocking and assertions. | jestjs | 45.5k |
-| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.6k |
+| [browser](https://github.com/lightpanda-io/browser) | Headless browser written in Zig, built for AI agents and automation via CDP and Playwright. | lightpanda-io | 42.7k |
 | [selenium](https://github.com/SeleniumHQ/selenium) | Browser automation framework and ecosystem for testing web applications across languages and browsers. | SeleniumHQ | 34.6k |
 | [k6](https://github.com/grafana/k6) | Load testing tool that runs test scripts written in JavaScript on a Go-based engine. | grafana | 32.4k |
 | [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated tool that audits web pages for performance, accessibility, SEO, and best practices. | GoogleChrome | 31.2k |
 | [locust](https://github.com/locustio/locust) | Tool for writing scalable load tests in plain Python code. | locustio | 28.3k |
-| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.7k |
+| [promptfoo](https://github.com/promptfoo/promptfoo) | Tool for testing prompts, agents and RAG systems, with red teaming and model comparison. | promptfoo | 27.8k |
 | [crawlee](https://github.com/apify/crawlee) | Node.js library for building reliable web crawlers and browser automation. | apify | 26.6k |
 | [vegeta](https://github.com/tsenart/vegeta) | HTTP load testing tool and library written in Go for benchmarking web services. | tsenart | 25.3k |
 | [skyvern](https://github.com/Skyvern-AI/skyvern) | AI-powered automation of browser-based workflows, controlled through an API. | Skyvern-AI | 23.6k |
@@ -30,14 +30,14 @@
 | [jasmine](https://github.com/jasmine/jasmine) | Behavior-driven testing framework for JavaScript that runs in browsers and Node.js. | jasmine | 15.8k |
 | [midscene](https://github.com/web-infra-dev/midscene) | Tool for natural-language end-to-end testing and AI-driven browser and UI automation. | web-infra-dev | 15.8k |
 | [pytest](https://github.com/pytest-dev/pytest) | Testing framework for writing small to complex Python tests, including functional testing. | pytest-dev | 14.8k |
-| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.4k |
+| [e2e](https://github.com/e2e-inc/e2e) | Framework for end-to-end testing of web and mobile apps, with support for AI-driven testing. | e2e-inc | 14.5k |
 | [supertest](https://github.com/forwardemail/supertest) | Super-agent based library for testing Node.js HTTP servers with a fluent assertion API. | forwardemail | 14.4k |
 | [browserless](https://github.com/browserless/browserless) | Service for running headless browsers in Docker, self-hosted or on a cloud platform. | browserless | 14k |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for end-to-end testing, web scraping and CAPTCHA bypass in Chrome via CDP. | seleniumbase | 13.3k |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python framework for end-to-end testing and web scraping, with a pytest plugin and a CDP Mode. | seleniumbase | 13.3k |
 | [nock](https://github.com/nock/nock) | HTTP mocking and expectation library for Node.js to simulate HTTP responses in tests. | nock | 13.1k |
 | [camofox-browser](https://github.com/jo-inc/camofox-browser) | Stealth headless browser for AI agents that evades Cloudflare and bot detection. | jo-inc | 12.5k |
 | [Detox](https://github.com/wix/Detox) | Gray-box end-to-end testing and automation framework for iOS and Android mobile apps. | wix | 12.1k |
-| [mailpit](https://github.com/axllent/mailpit) | Email and SMTP testing tool that provides a web interface and API for developers. | axllent | 11k |
+| [mailpit](https://github.com/axllent/mailpit) | Email and SMTP testing tool that provides a web interface and API for developers. | axllent | 11.1k |
 | [super-linter](https://github.com/super-linter/super-linter) | Combines multiple linters into one GitHub Action or standalone tool for code quality checks. | super-linter | 10.7k |
 | [webdriverio](https://github.com/webdriverio/webdriverio) | Browser and mobile automation test framework for Node.js. | webdriverio | 9.9k |
 | [sinon](https://github.com/sinonjs/sinon) | Standalone test spies, stubs, and mocks for JavaScript. | sinonjs | 9.7k |
@@ -66,7 +66,6 @@
 | [dom-testing-library](https://github.com/testing-library/dom-testing-library) | Utilities for querying and testing DOM elements in a way that encourages good testing practices. | testing-library | 3.3k |
 | [vscode-jest](https://github.com/jest-community/vscode-jest) | VS Code extension that provides an integrated workflow for running and debugging Jest tests. | jest-community | 2.9k |
 | [loadtest](https://github.com/alexfernandez/loadtest) | Node.js tool that runs load tests against a given URL, usable from the command line or its API. | alexfernandez | 2.6k |
-| [playwright](https://github.com/oss-invisible/playwright) | Playwright API for headless Firefox scraping that uses stealth to evade anti-bot detection. | oss-invisible | 2.6k |
 | [jest-preview](https://github.com/nvh95/jest-preview) | Debugging tool that shows the rendered output of Jest tests in the browser. | nvh95 | 2.4k |
 | [tinybench](https://github.com/tinylibs/tinybench) | Small TypeScript library for benchmarking JavaScript code performance. | tinylibs | 2.4k |
 | [jest-extended](https://github.com/jest-community/jest-extended) | Additional matchers for Jest to extend its assertion library. | jest-community | 2.3k |
@@ -88,7 +87,7 @@
 | [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) | Type-safe mocking extensions for Jest, with support for calledWith and TypeScript. | marchaos | 908 |
 | [cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) | Cypress plugin that fires native system events, such as real keyboard and mouse input, in tests. | dmtrKovalenko | 840 |
 | [node-mocks-http](https://github.com/eugef/node-mocks-http) | Mock HTTP request and response objects for testing Express, Next.js and Koa route handlers. | eugef | 770 |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 740 |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) |  | dequelabs | 741 |
 | [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress) | ESLint plugin providing linting rules for projects that use Cypress end-to-end tests. | cypress-io | 728 |
 | [interceptors](https://github.com/mswjs/interceptors) | Low-level library for intercepting network requests in Node.js. | mswjs | 695 |
 | [pa11y-ci](https://github.com/pa11y/pa11y-ci) | CI-focused accessibility test runner built on Pa11y that checks pages from a sitemap or URL list. | pa11y | 649 |
@@ -97,9 +96,7 @@
 | [expect-type](https://github.com/mmkal/expect-type) | Compile-time tests for TypeScript types that catch changes making types overly permissive. | mmkal | 569 |
 | [vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) | VS Code extension that runs and debugs tests from Jest, Vitest, Playwright, and other frameworks with CodeLens. | firsttris | 303 |
 | [vitest-coverage-report-action](https://github.com/davelosert/vitest-coverage-report-action) | GitHub Action that reports Vitest test coverage results on pull requests. | davelosert | 279 |
-| [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) 🆕 | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 171 |
+| [act-rules.github.io](https://github.com/act-rules/act-rules.github.io) | Accessibility conformance testing rules for HTML, used to check WCAG compliance. | act-rules | 171 |
 | [semantic-prs](https://github.com/Ezard/semantic-prs) | GitHub app that checks that pull requests follow the Conventional Commits specification. | Ezard | 148 |
 | [mcp-accessibility-scanner](https://github.com/JustasMonkev/mcp-accessibility-scanner) | MCP server that runs accessibility audits on web pages using axe-core. | JustasMonkev | 59 |
 | [ultra11y](https://github.com/SocialGouv/ultra11y) | Accessibility audit tool for RGAA 4.1.2 producing dated reports, a 106-criterion grid and backlog. | SocialGouv | 5 |
-
-**Legend:** 🆕 starred in the last 30 days

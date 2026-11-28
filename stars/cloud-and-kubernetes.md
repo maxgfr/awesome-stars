@@ -9,11 +9,10 @@
 | [rclone](https://github.com/rclone/rclone) | Command-line tool for syncing and managing files across many cloud storage providers, like rsync. | rclone | 61.3k |
 | [serverless](https://github.com/serverless/serverless) | Framework for building auto-scaling serverless applications on AWS Lambda and other cloud services. | serverless | 46.9k |
 | [istio](https://github.com/istio/istio) | Service mesh for connecting, securing, controlling, and observing microservices. | istio | 38.5k |
-| [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.2k |
+| [firecracker](https://github.com/firecracker-microvm/firecracker) | Virtual machine monitor that runs secure, lightweight microVMs for serverless and container workloads. | firecracker-microvm | 38.3k |
 | [k9s](https://github.com/derailed/k9s) | Terminal UI for viewing and managing Kubernetes clusters and resources. | derailed | 35.1k |
 | [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes distribution for running clusters in resource-constrained environments. | k3s-io | 34.5k |
 | [minikube](https://github.com/kubernetes/minikube) | Tool for running a single-node Kubernetes cluster locally for development and testing. | kubernetes | 32.3k |
-| [dokku](https://github.com/dokku/dokku) | Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku. | dokku | 32.2k |
 | [helm](https://github.com/helm/helm) | Package manager for Kubernetes that uses charts to define, install, and upgrade applications. | helm | 30.5k |
 | [harbor](https://github.com/goharbor/harbor) | CNCF container registry for managing images and OCI artifacts with access control and scanning. | goharbor | 29.8k |
 | [envoy](https://github.com/envoyproxy/envoy) | High-performance C++ edge, middle, and service proxy designed for cloud-native applications. | envoyproxy | 29.3k |
@@ -64,7 +63,7 @@
 | [pipeline](https://github.com/tektoncd/pipeline) | Cloud-native pipeline resource for Kubernetes, used to build CI/CD workflows with Tekton. | tektoncd | 9.1k |
 | [autoscaler](https://github.com/kubernetes/autoscaler) | Components that automatically scale Kubernetes clusters and pods based on load. | kubernetes | 9k |
 | [fission](https://github.com/fission/fission) | Serverless framework for running functions on Kubernetes with fast, simple deployment. | fission | 9k |
-| [flux2](https://github.com/fluxcd/flux2) | Kubernetes continuous delivery solution built on GitOps Toolkit components to sync clusters from Git. | fluxcd | 8.5k |
+| [flux2](https://github.com/fluxcd/flux2) | Kubernetes continuous delivery solution built on GitOps Toolkit components to sync clusters from Git. | fluxcd | 8.6k |
 | [anteon](https://github.com/getanteon/anteon) | eBPF-based Kubernetes monitoring and performance testing tool, formerly named Ddosify. | getanteon | 8.5k |
 | [metallb](https://github.com/metallb/metallb) | Load-balancer implementation for bare-metal Kubernetes clusters using BGP and ARP routing. | metallb | 8.4k |
 | [kyverno](https://github.com/kyverno/kyverno) | Policy engine for Kubernetes that enforces compliance and governance through policy as code. | kyverno | 8.4k |
@@ -145,10 +144,10 @@
 | [k8s](https://github.com/nats-io/k8s) | Helm charts and tooling for deploying NATS on Kubernetes. | nats-io | 669 |
 | [storage](https://github.com/vercel/storage) | Blob storage and Edge Config libraries for Vercel serverless and edge applications. | vercel | 599 |
 | [k0sctl](https://github.com/k0sproject/k0sctl) | Command-line tool for bootstrapping and managing k0s Kubernetes clusters. | k0sproject | 594 |
-| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 572 |
+| [login](https://github.com/Azure/login) | GitHub Action for signing in to Azure from workflows, supporting OpenID Connect authentication. | Azure | 573 |
 | [lightship](https://github.com/gajus/lightship) | Readiness, liveness, and startup checks with graceful shutdown for Node.js services in Kubernetes. | gajus | 533 |
 | [actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) 🗄️ | Sample GitHub Actions workflows for deploying applications to Azure. | Azure | 511 |
-| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 492 |
+| [drive](https://github.com/suitenumerique/drive) | Collaborative file sharing and document management platform built with Django and React. | suitenumerique | 493 |
 | [webapps-deploy](https://github.com/Azure/webapps-deploy) | GitHub Action for deploying applications to Azure Web Apps from GitHub workflows. | Azure | 340 |
 | [charts](https://github.com/IBM/charts) | Helm charts for deploying IBM and third-party middleware on Kubernetes. | IBM | 310 |
 | [ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) 🆕 | Official command line interface for managing OVHcloud services. | ovh | 239 |

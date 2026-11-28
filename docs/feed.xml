@@ -3,8 +3,60 @@
   <title>maxgfr's latest GitHub stars</title>
   <link href="https://maxgfr.github.io/awesome-stars/"/>
   <id>https://maxgfr.github.io/awesome-stars/</id>
-  <updated>2026-11-26T11:05:27Z</updated>
+  <updated>2026-11-27T09:20:12Z</updated>
   <generator uri="https://github.com/maxgfr/starsmith">starsmith</generator>
+  <entry>
+    <title>lemomo-ai/lemo-opuscar</title>
+    <link href="https://github.com/lemomo-ai/lemo-opuscar"/>
+    <id>https://github.com/lemomo-ai/lemo-opuscar</id>
+    <updated>2026-11-27T09:20:12Z</updated>
+    <author><name>lemomo-ai</name></author>
+    <summary>Code-made film style prompts for Claude Code, each with a demo film built entirely in code. · JavaScript · agent-skills, ai-agents, ai-short-film, ai-video, animation</summary>
+    <category term="agent-skills"/>
+    <category term="ai-agents"/>
+    <category term="ai-short-film"/>
+    <category term="ai-video"/>
+    <category term="animation"/>
+  </entry>
+  <entry>
+    <title>feitangyuan/onetake</title>
+    <link href="https://github.com/feitangyuan/onetake"/>
+    <id>https://github.com/feitangyuan/onetake</id>
+    <updated>2026-11-27T08:45:48Z</updated>
+    <author><name>feitangyuan</name></author>
+    <summary>Agent skill for launch films in one continuous shot, with continuity checked by an oracle. · Python · agent-skill, animation, canvas, claude-skill, launch-video</summary>
+    <category term="agent-skill"/>
+    <category term="animation"/>
+    <category term="canvas"/>
+    <category term="claude-skill"/>
+    <category term="launch-video"/>
+  </entry>
+  <entry>
+    <title>digitalsamba/claude-code-video-toolkit</title>
+    <link href="https://github.com/digitalsamba/claude-code-video-toolkit"/>
+    <id>https://github.com/digitalsamba/claude-code-video-toolkit</id>
+    <updated>2026-11-27T08:45:34Z</updated>
+    <author><name>digitalsamba</name></author>
+    <summary>Toolkit for making videos with Claude Code: scripts, voiceover, music, clips and rendering. · Python · agent-skills, ai-video, ai-video-generator, blender, claude</summary>
+    <category term="agent-skills"/>
+    <category term="ai-video"/>
+    <category term="ai-video-generator"/>
+    <category term="blender"/>
+    <category term="claude"/>
+  </entry>
+  <entry>
+    <title>hypit-ai/hypit</title>
+    <link href="https://github.com/hypit-ai/hypit"/>
+    <id>https://github.com/hypit-ai/hypit</id>
+    <updated>2026-11-27T08:27:43Z</updated>
+    <author><name>hypit-ai</name></author>
+    <summary>AI agent workflow that clones viral videos by swapping faces, words and B-roll into variants. · TypeScript · agentic-ai, ai, ai-agents, ai-video, compiler</summary>
+    <category term="agentic-ai"/>
+    <category term="ai"/>
+    <category term="ai-agents"/>
+    <category term="ai-video"/>
+    <category term="compiler"/>
+  </entry>
   <entry>
     <title>gamedev-skills/awesome-gamedev-agent-skills</title>
     <link href="https://github.com/gamedev-skills/awesome-gamedev-agent-skills"/>
@@ -535,52 +587,5 @@
     <category term="codex"/>
     <category term="computer-use"/>
     <category term="docker"/>
-  </entry>
-  <entry>
-    <title>DrWhax/unfairplay</title>
-    <link href="https://github.com/DrWhax/unfairplay"/>
-    <id>https://github.com/DrWhax/unfairplay</id>
-    <updated>2026-11-09T22:14:05Z</updated>
-    <author><name>DrWhax</name></author>
-    <summary>Tool for decrypting iOS IPA files on macOS. · Go</summary>
-  </entry>
-  <entry>
-    <title>mflux-community/mflux</title>
-    <link href="https://github.com/mflux-community/mflux"/>
-    <id>https://github.com/mflux-community/mflux</id>
-    <updated>2026-11-09T14:11:12Z</updated>
-    <author><name>mflux-community</name></author>
-    <summary>Apple MLX implementations of image and video generation models such as FLUX, for Apple silicon. · Python · ai, apple-silicon, diffusers, fibo, flux</summary>
-    <category term="ai"/>
-    <category term="apple-silicon"/>
-    <category term="diffusers"/>
-    <category term="fibo"/>
-    <category term="flux"/>
-  </entry>
-  <entry>
-    <title>ciromattia/kcc</title>
-    <link href="https://github.com/ciromattia/kcc"/>
-    <id>https://github.com/ciromattia/kcc</id>
-    <updated>2026-11-09T11:08:54Z</updated>
-    <author><name>ciromattia</name></author>
-    <summary>Converter that turns comic and manga archives into ebook formats for Kindle and other e-readers. · Python · azw3, cbz, comics, eink, epub</summary>
-    <category term="azw3"/>
-    <category term="cbz"/>
-    <category term="comics"/>
-    <category term="eink"/>
-    <category term="epub"/>
-  </entry>
-  <entry>
-    <title>liabru/matter-js</title>
-    <link href="https://github.com/liabru/matter-js"/>
-    <id>https://github.com/liabru/matter-js</id>
-    <updated>2026-11-08T20:25:04Z</updated>
-    <author><name>liabru</name></author>
-    <summary>2D rigid body physics engine for the web, for use in JavaScript and canvas applications. · JavaScript · canvas, javascript, physics, physics-engine, rigid-bodies</summary>
-    <category term="canvas"/>
-    <category term="javascript"/>
-    <category term="physics"/>
-    <category term="physics-engine"/>
-    <category term="rigid-bodies"/>
   </entry>
 </feed>

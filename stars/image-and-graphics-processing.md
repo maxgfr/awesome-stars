@@ -5,10 +5,10 @@
 | Name | Description | Author | Stars |
 |---|---|---|---:|
 | [immich](https://github.com/immich-app/immich) | Self-hosted photo and video management solution with mobile apps and automatic backup. | immich-app | 120k |
-| [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 119k |
+| [three.js](https://github.com/mrdoob/three.js) | JavaScript library for creating and rendering 3D graphics in web browsers. | mrdoob | 120k |
 | [opencv](https://github.com/opencv/opencv) | Open source computer vision library with algorithms for image processing and deep learning. | opencv | 91.7k |
 | [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font for programming with ligatures for common code operators. | tonsky | 82.2k |
-| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 81.7k |
+| [photocraft](https://github.com/storytold/photocraft) | Open-source photo editor written from scratch in pure Rust. | storytold | 81.9k |
 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Collection of programming fonts patched with icons from popular icon sets, for terminals and editors. | ryanoasis | 65.3k |
 | [penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform for product teams, built with ClojureScript. | penpot | 62.8k |
 | [upscayl](https://github.com/upscayl/upscayl) | Free, open-source AI tool for upscaling images on Linux, macOS and Windows. | upscayl | 53.3k |
@@ -19,14 +19,14 @@
 | [glide](https://github.com/bumptech/glide) | Android image loading and caching library focused on smooth scrolling performance. | bumptech | 35k |
 | [zxing](https://github.com/zxing/zxing) | Java library for scanning and decoding barcodes such as QR codes and Data Matrix on desktop and Android. | zxing | 34.2k |
 | [sharp](https://github.com/lovell/sharp) | Fast Node.js module for resizing and converting JPEG, PNG, WebP, AVIF and TIFF images using libvips. | lovell | 32.9k |
-| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 28.9k |
+| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy-first app that removes AI watermarks from content you own. | guillaumemeyer | 29k |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Node-based 2D graphics editor for graphic design, digital art, and real-time motion graphics. | GraphiteEditor | 28.1k |
 | [Babylon.js](https://github.com/BabylonJS/Babylon.js) | JavaScript framework and engine for building 3D games and rendering in web browsers. | BabylonJS | 26.5k |
 | [rembg](https://github.com/danielgatis/rembg) | Python tool that removes the background from images using deep learning models. | danielgatis | 25.7k |
 | [Iosevka](https://github.com/be5invis/Iosevka) | Open source monospaced typeface for coding, generated from code with configurable options. | be5invis | 23.4k |
 | [svgo](https://github.com/svg/svgo) | Node.js library and CLI that optimizes SVG files by minifying and cleaning markup. | svg | 22.8k |
 | [blender](https://github.com/blender/blender) | Official mirror of Blender, a 3D creation suite for modeling, animation and rendering. | blender | 22.6k |
-| [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 17.9k |
+| [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Open-source suite for creating, editing, converting, and displaying images from the command line. | ImageMagick | 18k |
 | [engine](https://github.com/playcanvas/engine) | Open-source web graphics engine built on WebGPU and WebGL2, with Gaussian splatting support. | playcanvas | 17.4k |
 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | GUI tool for upscaling images, videos and GIFs and interpolating video frames with AI models. | AaronFeng753 | 17.3k |
 | [lightcraft](https://github.com/storytold/lightcraft) | Open-source non-destructive photo editor for raw images, written from scratch in pure Rust. | storytold | 16.5k |
@@ -71,13 +71,13 @@
 | [jpegoptim](https://github.com/tjko/jpegoptim) | Command-line utility for optimizing and compressing JPEG files. | tjko | 1.8k |
 | [barcode](https://github.com/milon/barcode) | PHP package for generating barcodes, with Laravel integration. | milon | 1.5k |
 | [withoutbg-python](https://github.com/withoutbg/withoutbg-python) | Python SDK for local and cloud background removal from images. | withoutbg | 1.3k |
-| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 887 |
+| [hayro](https://github.com/LaurenzV/hayro) | Set of Rust crates for parsing, interpreting, and rendering PDF files. | LaurenzV | 890 |
 | [uqr](https://github.com/unjs/uqr) 🆕 | Universal QR code generator for any JavaScript runtime, with ANSI, Unicode, and SVG output. | unjs | 797 |
 | [dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) | Library that generates PNG and JPEG images from DOM nodes using HTML5 canvas. | IDisposable | 683 |
 | [logo-soup](https://github.com/sanity-labs/logo-soup) | Tool that normalizes and harmonizes logo visuals for consistent display. | sanity-labs | 434 |
 | [unpic](https://github.com/ascorbic/unpic) | Universal translator for image CDN URLs, converting transformation options between providers. | ascorbic | 431 |
 | [librsvg](https://github.com/GNOME/librsvg) | Read-only mirror of a Rust library for rendering SVG documents, maintained by GNOME. | GNOME | 411 |
-| [svg2roughjs](https://github.com/fskpf/svg2roughjs) | Converts SVG images into sketchy, hand-drawn-style graphics using RoughJS. | fskpf | 222 |
+| [svg2roughjs](https://github.com/fskpf/svg2roughjs) | Converts SVG images into sketchy, hand-drawn-style graphics using RoughJS. | fskpf | 223 |
 | [optimizt](https://github.com/343dev/optimizt) | Command-line tool that optimizes images, compressing formats such as AVIF, GIF, and WebP. | 343dev | 187 |
 | [poppler_mirror](https://github.com/tsdgeos/poppler_mirror) | Mirror of the Poppler PDF rendering library with unofficial CI configuration files. | tsdgeos | 62 |
 | [javascript](https://github.com/image-charts/javascript) | Official JavaScript and Node.js client for generating chart images through the Image-Charts API. | image-charts | 46 |

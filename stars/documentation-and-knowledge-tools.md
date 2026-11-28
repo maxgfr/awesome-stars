@@ -8,9 +8,9 @@
 | [javascript](https://github.com/airbnb/javascript) | Community style guide defining coding conventions for JavaScript, ES2015 and later. | airbnb | 148k |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Tool that generates diagrams such as flowcharts and sequence diagrams from Markdown-like text. | mermaid-js | 91.3k |
 | [hugo](https://github.com/gohugoio/hugo) | Static site generator written in Go for building fast websites, blogs, and documentation. | gohugoio | 90.6k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.6k |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 79k |
-| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 73.9k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open source AI workspace for projects, wikis, and docs, as an alternative to Notion. | AppFlowy-IO | 79.7k |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Open-source, privacy-first knowledge base combining planning, sorting, and note creation, built with Electron and CRDTs. | toeverything | 79.5k |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram skill for AI coding agents, producing self-contained HTML and SVG diagrams. | cathrynlavery | 74.5k |
 | [docusaurus](https://github.com/meta/docusaurus) | Tool for building and maintaining open source documentation websites with React. | meta | 66.8k |
 | [memos](https://github.com/usememos/memos) | Self-hosted note-taking app for keeping a personal timeline of thoughts and shared notes. | usememos | 64.7k |
 | [tldr](https://github.com/tldr-pages/tldr) | Community-maintained cheatsheets with simplified, practical examples for common command-line tools. | tldr-pages | 64.3k |
@@ -30,11 +30,11 @@
 | [docsify](https://github.com/docsifyjs/docsify) | Documentation site generator that renders Markdown files into websites on the fly without a build step. | docsifyjs | 31.6k |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | Repository hosting the OpenAPI Specification for describing HTTP APIs in a machine-readable format. | OAI | 31.3k |
 | [wiki](https://github.com/requarks/wiki) | Open-source wiki application for documentation, supporting Markdown and Git-based storage. | requarks | 29.4k |
-| [gitbook](https://github.com/GitbookIO/gitbook) | Open source frontend for rendering GitBook documentation sites from Markdown content. | GitbookIO | 29.1k |
 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | Self-hosted web archiver that saves URLs, bookmarks, and browser history as HTML, PDFs, and media. | ArchiveBox | 29.1k |
+| [gitbook](https://github.com/GitbookIO/gitbook) | Open source frontend for rendering GitBook documentation sites from Markdown content. | GitbookIO | 29.1k |
 | [swagger-ui](https://github.com/swagger-api/swagger-ui) | Renders interactive API documentation from OpenAPI specifications in the browser. | swagger-api | 29.1k |
 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | LaTeX template for writing a CV or resume for job applications. | posquit0 | 29k |
-| [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Theme and framework for MkDocs documentation sites, with Material Design styling and plugins. | squidfunk | 27.6k |
+| [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Theme and framework for MkDocs documentation sites, with Material Design styling and plugins. | squidfunk | 27.7k |
 | [dashy](https://github.com/lissy93/dashy) | Self-hosted personal dashboard with status checks, widgets, themes, icon packs, and a UI editor. | lissy93 | 27.1k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Self-hosted open source project management tool with kanban boards, an alternative to Trello, Notion and Asana. | mattermost-community | 26.6k |
 | [redoc](https://github.com/Redocly/redoc) | Generates API reference documentation from OpenAPI and Swagger specifications. | Redocly | 26k |
@@ -49,7 +49,7 @@
 | [etherpad](https://github.com/ether/etherpad) | Open-source real-time collaborative document editor that runs in the browser. | ether | 18.6k |
 | [vitepress](https://github.com/vuejs/vitepress) | Static site generator built on Vite and Vue, designed for Markdown-based documentation. | vuejs | 18.5k |
 | [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | Generates wiki-style documentation with AI for GitHub, GitLab, and Bitbucket repositories. | AsyncFuncAI | 18.5k |
-| [openwiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent-oriented documentation for a codebase. | langchain-ai | 18.1k |
+| [openwiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent-oriented documentation for a codebase. | langchain-ai | 18.2k |
 | [zola](https://github.com/getzola/zola) | Fast static site generator distributed as a single binary, with built-in markdown and content management. | getzola | 17.6k |
 | [foam](https://github.com/foambubble/foam) | Personal knowledge management and note-taking system for VS Code using Markdown and graph views. | foambubble | 17.5k |
 | [docs](https://github.com/suitenumerique/docs) | Open-source web-based collaborative editor for real-time editing of structured documents, built with Django and React. | suitenumerique | 17k |

@@ -4,14 +4,14 @@
 
 | Name | Description | Author | Stars |
 |---|---|---|---:|
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 94.9k |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring tool with a responsive dashboard, commonly run in Docker. | louislam | 95k |
 | [netdata](https://github.com/netdata/netdata) | Observability platform for metrics, logs, traces and infrastructure, with anomaly detection. | netdata | 81.7k |
 | [grafana](https://github.com/grafana/grafana) | Open source platform for visualizing metrics, logs, and traces from many data sources. | grafana | 78.2k |
 | [act](https://github.com/nektos/act) | Command-line tool for running GitHub Actions workflows locally using Docker. | nektos | 72.8k |
 | [ansible](https://github.com/ansible/ansible) | IT automation platform for deploying, configuring, and maintaining applications, systems, and networks. | ansible | 71.6k |
 | [prometheus](https://github.com/prometheus/prometheus) | Monitoring system and time series database that collects metrics and evaluates alerting rules. | prometheus | 67.9k |
-| [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.6k |
-| [traefik](https://github.com/traefik/traefik) | A cloud native application proxy and load balancer that integrates with container platforms. | traefik | 65.7k |
+| [coolify](https://github.com/coollabsio/coolify) | Self-hostable open-source platform for deploying static sites, databases, and applications on your own servers. | coollabsio | 66.8k |
+| [traefik](https://github.com/traefik/traefik) | A cloud native application proxy and load balancer that integrates with container platforms. | traefik | 65.8k |
 | [windows](https://github.com/dockur/windows) | Docker container that runs Windows in a virtual machine. | dockur | 54.3k |
 | [container](https://github.com/apple/container) | Command-line tool for running Linux containers in lightweight virtual machines on Apple silicon Macs. | apple | 52.1k |
 | [terraform](https://github.com/hashicorp/terraform) | Infrastructure-as-code tool for building and changing infrastructure from declarative config files. | hashicorp | 50.4k |
@@ -19,8 +19,8 @@
 | [pm2](https://github.com/Unitech/pm2) | Process manager for Node.js, Bun, and TypeScript applications, with load balancing and monitoring. | Unitech | 43.3k |
 | [diagrams](https://github.com/mingrammer/diagrams) | Python library for drawing cloud system architecture diagrams as code using Graphviz. | mingrammer | 42.8k |
 | [fastlane](https://github.com/fastlane/fastlane) | Tool that automates building, testing, and releasing iOS and Android apps. | fastlane | 42.5k |
-| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39.1k |
 | [harness](https://github.com/harness/harness) | Platform for source control, CI/CD pipelines, hosted dev environments, and artifact registries. | harness | 39k |
+| [compose](https://github.com/docker/compose) | Tool for defining and running multi-container Docker applications from a YAML file. | docker | 39k |
 | [portainer](https://github.com/portainer/portainer) | Management UI for deploying and operating Docker and Kubernetes environments. | portainer | 38.9k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Self-hostable deployment platform and open source alternative to Vercel, Netlify, and Heroku. | Dokploy | 38.7k |
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | Open-source personal cloud system with a simple web interface for managing home server apps. | IceWhaleTech | 37.7k |
@@ -28,7 +28,8 @@
 | [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container with a web interface for managing Nginx proxy hosts and SSL certificates. | NginxProxyManager | 34.9k |
 | [glances](https://github.com/nicolargo/glances) | Cross-platform system monitoring tool for Linux, BSD, macOS, and Windows with a REST API. | nicolargo | 34k |
 | [podman](https://github.com/podman-container-tools/podman) | Daemonless tool for developing, managing, and running OCI containers and pods on Linux. | podman-container-tools | 33.4k |
-| [signoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform for collecting logs, metrics and traces. | SigNoz | 32.7k |
+| [signoz](https://github.com/SigNoz/signoz) | Open-source OpenTelemetry-native observability platform for collecting logs, metrics and traces. | SigNoz | 32.8k |
+| [dokku](https://github.com/dokku/dokku) | Docker-powered PaaS for building and managing the lifecycle of applications, similar to Heroku. | dokku | 32.2k |
 | [colima](https://github.com/abiosoft/colima) | Tool for running container runtimes such as Docker and containerd on macOS and Linux. | abiosoft | 31.9k |
 | [opentofu](https://github.com/opentofu/opentofu) | Open-source tool for declaratively managing cloud infrastructure as code. | opentofu | 31k |
 | [kestra](https://github.com/kestra-io/kestra) | Open source control plane for YAML-defined workflows across data, infrastructure, and AI agents. | kestra-io | 30.4k |
@@ -101,8 +102,8 @@
 | [all-in-one](https://github.com/nextcloud/all-in-one) | Official Docker-based installation method for Nextcloud with built-in backup and restore. | nextcloud | 10.9k |
 | [cdnjs](https://github.com/cdnjs/cdnjs) | Free open source CDN that serves popular public web libraries and assets to developers. | cdnjs | 10.7k |
 | [distribution](https://github.com/distribution/distribution) | Implementation of the OCI Distribution specification, a toolkit for storing and delivering container content. | distribution | 10.7k |
-| [bpftrace](https://github.com/bpftrace/bpftrace) | High-level tracing language for Linux that uses eBPF to write tracing programs. | bpftrace | 10.4k |
 | [buildkit](https://github.com/moby/buildkit) | Concurrent, cache-efficient container image builder toolkit that works without Dockerfiles. | moby | 10.4k |
+| [bpftrace](https://github.com/bpftrace/bpftrace) | High-level tracing language for Linux that uses eBPF to write tracing programs. | bpftrace | 10.4k |
 | [self-hosted](https://github.com/getsentry/self-hosted) | Self-hosted, packaged Sentry error-tracking deployment for low-volume use and proofs of concept. | getsentry | 9.7k |
 | [highlight](https://github.com/highlight/highlight) | Open source full-stack monitoring platform with error monitoring, session replay, logging, and tracing. | highlight | 9.4k |
 | [microsandbox](https://github.com/superradcompany/microsandbox) | Local-first microVM runtime and library for running isolated, programmable sandboxes quickly. | superradcompany | 9.2k |
@@ -114,7 +115,7 @@
 | [sysdig](https://github.com/draios/sysdig) | Linux system inspection and troubleshooting tool with container-aware tracing and monitoring. | draios | 8.3k |
 | [woodpecker](https://github.com/woodpecker-ci/woodpecker) | Simple yet extensible CI/CD engine for running pipelines in Docker and Kubernetes. | woodpecker-ci | 8.3k |
 | [chef](https://github.com/chef/chef) | Automation platform for configuring, deploying, and managing infrastructure as code at any scale. | chef | 8.3k |
-| [tart](https://github.com/openai/tart) | Tool for running macOS and Linux virtual machines on Apple Silicon for CI and automation. | openai | 8k |
+| [tart](https://github.com/openai/tart) | Tool for running macOS and Linux virtual machines on Apple Silicon for CI and automation. | openai | 8.1k |
 | [boilerplates](https://github.com/ChristianLempa/boilerplates) | Collection of reusable templates for configurable homelab and self-hosted infrastructure workloads. | ChristianLempa | 8k |
 | [oneuptime](https://github.com/OneUptime/oneuptime) | Open-source platform for monitoring, observability, incident management and on-call. | OneUptime | 7.9k |
 | [release-please](https://github.com/googleapis/release-please) | Tool that generates release pull requests and changelogs from conventional commits. | googleapis | 7.8k |
@@ -217,8 +218,8 @@
 | [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) | Fork of standard-version that automates semver versioning, changelog generation, and git tagging. | absolute-version | 662 |
 | [sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) | GitHub Action that creates a pull request comment, or updates the existing one if present. | marocchino | 662 |
 | [docker-debug](https://github.com/zeromake/docker-debug) | Tool that attaches a new container to an already running container for debugging. | zeromake | 638 |
-| [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 609 |
-| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action that installs QEMU static binaries to enable multi-platform builds in workflows. | docker | 602 |
+| [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) | MCP server implementation that lets AI tools interact with Argo CD. | argoproj-labs | 610 |
+| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action that installs QEMU static binaries to enable multi-platform builds in workflows. | docker | 603 |
 | [asdf-direnv](https://github.com/asdf-community/asdf-direnv) | asdf plugin that installs and manages direnv versions for per-directory environment variables. | asdf-community | 572 |
 | [install-action](https://github.com/taiki-e/install-action) | GitHub Action that installs development tools, mainly from GitHub Releases. | taiki-e | 561 |
 | [action-release](https://github.com/getsentry/action-release) | GitHub Action for creating Sentry releases from workflows, including tagging production deployments. | getsentry | 496 |
@@ -226,7 +227,7 @@
 | [action-discord](https://github.com/Ilshidur/action-discord) | GitHub Action that sends messages to a Discord channel through a webhook. | Ilshidur | 463 |
 | [request-action](https://github.com/octokit/request-action) | GitHub Action for sending arbitrary requests to the GitHub REST API. | octokit | 452 |
 | [commit-analyzer](https://github.com/semantic-release/commit-analyzer) | semantic-release plugin that determines the next release type from conventional commits. | semantic-release | 447 |
-| [mise-action](https://github.com/jdx/mise-action) |  | jdx | 410 |
+| [mise-action](https://github.com/jdx/mise-action) |  | jdx | 411 |
 | [wait-on-check-action](https://github.com/lewagon/wait-on-check-action) | GitHub Action that waits until a job in another workflow completes successfully. | lewagon | 401 |
 | [ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) | GitHub Action that imports a GPG key into the runner for signing commits. | crazy-max | 382 |
 | [release-notes-generator](https://github.com/semantic-release/release-notes-generator) | semantic-release plugin that generates release notes from conventional commits. | semantic-release | 368 |
@@ -246,7 +247,7 @@
 | [gh-find-current-pr](https://github.com/jwalton/gh-find-current-pr) | GitHub Action that finds the pull request associated with the current commit SHA. | jwalton | 192 |
 | [buildah-build](https://github.com/redhat-actions/buildah-build) | GitHub Action that builds container images using Buildah. | redhat-actions | 192 |
 | [notify-slack-action](https://github.com/ravsamhq/notify-slack-action) | GitHub Action that sends Slack notifications for workflow failures, warnings, or successes. | ravsamhq | 185 |
-| [winston-logstash](https://github.com/jaakkos/winston-logstash) | Winston transport that sends log entries over TCP to a Logstash server. | jaakkos | 129 |
+| [winston-logstash](https://github.com/jaakkos/winston-logstash) | Winston transport that sends log entries over TCP to a Logstash server. | jaakkos | 128 |
 | [push-to-registry](https://github.com/redhat-actions/push-to-registry) | GitHub Action that pushes container images to a container image registry. | redhat-actions | 123 |
 | [copybara-action](https://github.com/Olivr/copybara-action) | GitHub Action that transforms and copies code between repositories using Copybara. | Olivr | 120 |
 | [dotenv-action](https://github.com/falti/dotenv-action) | GitHub Action that loads common parameters from a .env file into workflows. | falti | 111 |
